@@ -14,6 +14,7 @@ A Bed Of Scorpions By Judith Flanders
 A Bend In The River By Sir Vidiadhar Surajprasad Naipaul
 A Bend In The Road By Nicholas Sparks (Have)
 A Bolt From The Blue And Other Essays By Mary McCarthy
+Abraham Lincoln By Thomas Keneally
 A Brief History Of Montmaray By Michelle Cooper
 A Brief History Of Steven Killings By Marlon James
 Absalom, Absalom! By William Faulkner	
@@ -72,6 +73,8 @@ A Lesson Before Dying By Ernest James Gaines
 Alcatraz Versus The Evil Librarians (Alcatraz, #1) By Brandon Sanderson (Have)
 Alias Grace By Margaret Atwood
 Alice's Adventures In Wonderland (Alice's Adventures In Wonderland, #1) By Lewis Carroll (Read)
+Alien By Alan Dean Foster
+Aliens By Alan Dean Foster
 A Little Life By Hanya Yanagihara
 All Days Are Night By Peter Stamm
 All My Puny Sorrows By Miriam Toews
@@ -97,6 +100,7 @@ American Assassin By Vince Flynn
 American Fiction: Volume 13 By Bruce Pratt & Michael White (Have)
 American Gods By Neil Gaiman
 American Phycho By Bret Easton Ellis
+American Scoundel: The Life Of The Notorious Civil War General Dan Sickles By Thomas Keneally
 American Speeches: Political Oratory From Patrick Henry To Barack Obama By Ted Widmer (Have)
 American War: A Novel By Omar El Akkad
 America's First Daughter By Laura Kamoie & Stephanie Dray
@@ -174,6 +178,7 @@ A Tree Grows In Brooklyn By Betty Smith
 At The Dark End Of The Street: Black Women, Rape, And Resistance -- A New History Of The Rights Movement From Rosa Parks To The Rise Of Black Power By Danielle L. McGuire
 Audition By Ryu Murakami
 Austerlitz By Winfried Georg Sebald
+Australians By Thomas Keneally
 Autonomous By Annalee Newitz
 Autumn By Ali Smith
 Available Dark (Cass Neary, #2) By Elizabeth Hand
@@ -477,20 +482,21 @@ Gilead (Gilead, #1) By Marilynne Robinson
 Girl In The Dark By Anna Lyndsey
 Girls At War And Other Stories By Chinua Achebe
 God Bless You, Dr. Kevorkian By Kurt Vonnegut (Read)
-Golf Dreams: Writings On Golf By John Updike (Have)
-Gone In The Wind By Margaret Mitchell (Read)
-Go Set A Watchman By Harper Lee (Read)
-Go Tell It On The Mountain By James Baldwin (Read)
-Go, Went, Gone By Jenny Erpenbeck
 God Help The Child By Toni Morrison
 Going After Cacciato By Tim O'Brien
+GoldenEye (John Gardner's Bond, #15) By John Gardner
+Golf Dreams: Writings On Golf By John Updike (Have)
+Gone In The Wind By Margaret Mitchell (Read)
 Gone Girl By Gillian Flynn
 Gone With The Wind By Margatey Mitchell
 Goodbye, Vitamin By Rachel Khong
 Goodnight, Beautiful Women By Anna Noyes
 Gorgias By Plato
 Gork, The Teenage Dragon By Gabe Hudson
+Go Set A Watchman By Harper Lee (Read)
 Gossip From The Forest By Thomas Keneally
+Go Tell It On The Mountain By James Baldwin (Read)
+Go, Went, Gone By Jenny Erpenbeck
 Gravity's Rainbow By Thomas Pynchon
 Gray Baby By Scott Loring Sanders (Read)
 Green Flash By Rania Mamoun
@@ -547,6 +553,7 @@ History Of The Thirteen By Honoré de Balzac (Have)
 Hitchhiker Guide's To The Galaxy By Douglas Adams (Read)
 Hocus Pocus By Kurt Vonnegut
 Hombre By Elmore Leonard
+Homebush Boy: A Memoir By Thomas Keneally
 Home By Marilynne Robinson
 Homebase By Shawn Wong
 Homegoing By Yaa Gyasi
@@ -737,6 +744,7 @@ Me And You By Niccolò Ammaniti
 Me Before You And After You Boxed Set By Jojo Moyes
 Melville In Love: The Secret Life Of Herman Melville And The Muse Of Moby - Dick By Michael Shelden
 Memento Mori By Dame Muriel Spark
+Memoirs From A Young Republic By Thomas Keneally
 Memoirs Of A Geisha By Arthur Golden
 Memoirs Of A Polar Bear By Yoko Tawada
 Men Without Women By Haruki Murakami (Read)
@@ -797,6 +805,7 @@ Nation By Terry Pratchett (Read)
 Native Son By Richard Wright (Read)
 Nausea By Jean - Paul Sartre
 Nectar In A Sieve By Kamala Markandaya (Have)
+Ned Kelly And The City Of Bees By Thomas Keneally
 Need To Know: A Novel By Karen Cleveland
 Negotiating With The Dead: A Writer On Writing By Margaret Atwood (Have)
 Neon In Daylight: A Novel By Hermione Hoby
@@ -822,6 +831,7 @@ Not My Father's Son By Alan Cumming
 Not To Disturb By Dame Muriel Spark
 Not Without Laughter By Langston Hughes
 Novels 1976 - 1985: Slapstick / Jailbird / Deadeye Dick / Galápagos By Kurt Vonnegut
+Now And In Time To Be: Ireland And The Irish By Thomas Keneally
 Nunca Me Abandones By Kazuo Ishiguro
 Nutshell By Ian McEwan
 Obama's Wars By Bob Woodward
@@ -852,6 +862,8 @@ Other Men's Daughters By Richard Gustave Stern
 Otherworld Secrets (Otherworld Stories, #4) By Kelley Armstrong
 Our Endless Numbered Days By Claire Fuller
 Our Mutual Friend By Charles Dickens
+Our Republic By Thomas Keneally
+Outback By Thomas Keneally
 Out Of The Blackout By Robert Barnard
 Overlord 1: The Undead King By Kugane Maruyama (Have)
 Pachinko By Min Jin Lee
@@ -934,6 +946,7 @@ Robopocalypse (Robopocalypse, #1) By Daniel H. Wilson (Read)
 Rock With Wings (Leaphorn & Chee, #20) By Anne Hillerman
 Roll Of Thunder, Hear Me Cry (Logans, #4) By Mildred DeLois Taylor(Have) (Read)
 Room By Emma Donoghue
+Roos In Shoes By Thomas Keneally
 Roots: The Saga Of An American Family By Alex Haley (Have)
 Roughing It By Mark Twain (Have)
 Rouse Up O Young Men Of The New Age! By Kenzaburo Oe
@@ -960,6 +973,7 @@ Schindler's List By Thomas Keneally
 Scorpia (Alex Rider, #5) By Anthony Horowitz (Have)
 Scrappy Little Nobody By Anna Kendrick
 Sea Of Poppies (Ibis Trilogy, #1) By Amitav Ghosh
+Searching For Schindler: A Memoir By Thomas Keneally
 Season In Purgatory By Thomas Keneally
 Secondhand Time: The Last Of The Soviets By Svetlana Alexievich
 Sense And Sensibility By Jane Austen (Have)
@@ -1056,7 +1070,8 @@ That Awful Mess On The Via Merulana By Carlo Emilio Gadda
 The 158 - Pound Marraige By John Irving (Have)
 The 42nd Parallel (U.S.A, #1) By John Dos Passos
 The Abbess Of Crewe By Dame Muriel Spark
-The Absolutely True Diary Of A Part - Time Indian
+The Absolutely True Diary Of A Part - Time Indian By Sherman Alexie
+The Abyss By Orson Scott Card
 The Acts Of King Arther And His Noble Knights By John Steinbeck (Have)
 The Adventures Of Augie March By Saul Bellow
 The Adventures Of Baron Münchausen By Rudolf Erich Raspe
@@ -1149,6 +1164,7 @@ The Colour Of Democracy: Racism In Canadian Society By Frances Henry
 The Comedy Of Errors By William Shakespeare
 The Comforters By Dame Muriel Spark
 The Commanders By Bob Woodward
+The Commonwealth Of Thieves: The Improbable Birth Of Australia By Thomas Keneally
 The Communist Manifesto By Karl Marx (Have)
 The Complete Fairy Tales Of The Brothers Grimm By Jack Zipes (Have)
 The Complete Sherlock Holmes By Arthur Conan Doyle
@@ -1254,6 +1270,7 @@ The Golden Apples By Eudora Welty (Have)
 The Golden Notebook By Doris Lessing
 The Goldfinch By Donna Tartt
 The Good Earth (House Of Earth, #1) By Pearl Sydenstricker Buck
+The Goonies By James Kahn
 The Gospel According To Jesus Christ By José Saramago
 The Grapes Of Wrath By John Steinbeck (Read)
 The Greal Alone: A Novel By Kristin Hannah
@@ -1261,6 +1278,7 @@ The Greatest Story Ever Told--So Far: Why Are We Here? By Lawrence Maxwell Kraus
 The Great Eurozone Disaster: From Crisis To Global New Deal By Keikki Patomaki (Have)
 The Great Gatsby By Francis Scott Key Fitzgerald (Read)
 The Green Mile By Stephen King (Have)
+The Green Shame: And The Triumph Of The Irish In The English - Speaking World By Thomas Keneally
 The Growing Pains Of Adrian Mole (Adrian Mole, #2) By Sue Townsend(Have)
 The Guineveres By Sarah Domet
 The Gun By Cecil Louis Troughton Smith Forester
@@ -1331,6 +1349,7 @@ The Last Kashmiri Rose By (Joe Sandilands, #1) By Barbara Cleverly (Have)
 The Last Lecture By Jeffrey Zaslow (Read)
 The Last Of The Mohicans (The Leatherstocking Tales, #2) By James Fenimore Cooper
 The Last Of The President's Men By Bob Woodward
+The Last Starfighter By Alan Dean Foster
 The Last Train To Zona Verde: My Ultimate African Safari By Paul Theroux
 The Legend Of Sleepy Hollow And Other Stories By Washington Irving
 The Leopard By Giuseppe Tomasi Di Lampedusa
@@ -1350,6 +1369,7 @@ The Lonely Hearts Hotel: A Novel By Heather O'Neill
 The Long Goodbye (Philip Marlowe,#6) By Raymond Chandler
 The Looming Tower: Al Qaeda And The Road To 9 / 11 By Lawrence Wright
 The Lorax By Theodor Seuss Geisel
+The Lost Boys By Craig Shaw Gardner
 The Lost Child By Ann Troup
 The Lost Daughter By Elena Ferrante
 The Love Of The Last Tycoon By Francis Scott Key Fitzgerald (Have)
@@ -1436,6 +1456,7 @@ The Picture Of Dorian Gray By Oscar wilde
 The Pigman (The Pigman, #1) By Paul Zindel (Read)
 The Pillars Of The Earth (Kingsbridge, #1) By Ken Follett (Have)
 The Place At Whitton By Thomas Keneally
+The Place Where Souls Are Born: A Journey To The Southwest By Thomas Keneally
 The Playmaker By Thomas Keneally
 The Plea (Eddie Flynn, #2) By Steve Cavanagh
 The Poisonwood Bible By Barbara Kinsolver (Have)
@@ -1556,6 +1577,7 @@ The Tale Of Peter Rabbit (Rabbit Ears) By Beatrux Potter
 The Templars And The Assassins: The Militia Of Heaven By James Wasserman
 The Tenant Of Wildfell Hall By Anne Brontë
 The Tennis Players By Lars Gustafsson
+The Terminator (Terminator Movie Novelisation, #1) By Randall Frakes
 The Testing By Joelle Charbonneau (Read)
 The Thief By Fuminori Nakamura (Read)
 The Things I Would Tell You: British Muslim Women Write By Sabrina Mahfouz
@@ -1643,6 +1665,7 @@ Those Barren Leaves By Aldous Huxley (Have)
 Those Who Forget The Past: The Question Of Anti - Semitism By Ron Rosenbaum
 Those Who Leave And Those Who Stay (The Neapolitan Novels, #3) By Elena Ferrante
 Three Cheers For The Paraclete By Thomas Keneally
+Three Famines: Starvation And Politics By Thomas Keneally
 Thrice The Brinded Cat Hath Mew'd (Flavia De Luce, #8) By Alan Bradley
 Through The Arc Of The Rain Forest By Karen Tei Yamashita (Have)
 Through The Looking - Glass And What Alice Found There (Alice's Adventures In Wonderland, #2) By Lewis Carroll (Read)
