@@ -28,7 +28,8 @@ public class PrintCollection {
       List<String> list = new ArrayList<String>();
       while (input2.hasNextLine()) {
          String notDone = input2.nextLine();
-         if (!notDone.contains("(Read)") & notDone.contains("(Have)")) {
+         // if (!notDone.contains("(Read)") & notDone.contains("(Have)")) {
+         if (!notDone.contains("(Read)")) {
             list.add(notDone);   
          } else {
             list.remove(notDone);
