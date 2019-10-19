@@ -109,6 +109,7 @@ All These Worlds (Bobiverse, #3) By Dennis E. Taylor
 All's Well That Ends Well By William Shakespeare (Have)
 Almost Transparent Blue By Ryu Murakami
 A Long December By Richard Chizmar
+Along The Bosphorus By Orhan Pamuk
 A Man And Two Women By Doris Lessing
 A Man Called Ove By Fredrik Backman
 Amazonia: Five Years At The Epicenter Of The Dot.Com Juggernaut By James Marcus
@@ -326,6 +327,7 @@ Carmen And Other Stories By Prosper Mérimée (Have)
 Carnegie's Maid By Marie Benedict
 Carnival At Candlelight (Magic Tree House, #33) By Mary Pope Osborne
 Carousel Court: A Novel By Joe McGinniss Jr.
+Carrie By Stephen King
 Carried Away: A Selection of Stories By Alice Munro
 Carrying Albert Home: The Somewhat True Story Of A Man, His Wife, And Her Alligator By Homer Hickam
 Castaways By Brian Keene
@@ -335,6 +337,7 @@ Catching Fire (The Hunger Games, #2) By Suzanne Collins (Read)
 Cat's Cradle By Kurt Vonnegut (Read)
 Celui Qui N'Avait jamais Vu La Mer By Jean - Marie Gustave Le Clézio
 Celine: A Novel By Peter Heller
+Cevdet Bey And His Sons By Orhan Pamuk
 Chamiel By Edward Pearson (Have)
 Change Of Heart: A Novel By Jodi Picoult
 Chant And Be Happy: THe Power Of Mantra Meditation By Abhaya Caranaravinda Bhaktivedanta Svami Prabhupada (Have)
@@ -379,6 +382,7 @@ Come Rain Or Come Shine: Faber Stories By Kazou Ishiguro
 Commonwealth By Ann Patchett
 Complete Fairy Tales Of Oscar Wilde By Oscar Wilde (Have) (Read)
 Complete Shorter Fiction By Oscar Wilde
+Complete Works By Harold Pinter
 Confederates By Thomas Keneally
 Confessions By Augustine Of Hippo
 Continental Drift By Russell Banks (Have)
@@ -801,11 +805,14 @@ I, Robot: To Protect (I, Robot: Reichert, #1) By Mickey Zucker Reichert (Have)
 Ironweed By William Kennedy
 I See By My Outfit By Peter Soyer Beagle
 Islam Without Extremes: A Muslim Case For Liberty By Mustafa Akyol
+Istanbul: City Of A Hundered Names By Orhan Pamuk
+Istanbul: Memories And The City By Orphan Pamuk
 Island Of Point Nemo By Jean - Marie Blas De Roblès
 Island Of Wings By Karin Altenberg
 Islands In The Stream By Ernest Hemingway
 Istanbul: The Collected Traveler: An Inspired Companion Guide By Barrie Kerper
 Is That An Unlucky Leprechaun In Your Lunch? By Todd Strasser (Have)
+It By Stephen King
 Italian Stories (Have)
 It Came From Beneath The Sink! (Goosebumps, #30) By Robert Lawrence Stine
 I Witness Iron Thunder: The Battle Between The Monitor And The Merrimac: A Civil War Novel By Avi (Have)
@@ -1011,6 +1018,7 @@ Miller's Valley By Anna Quindlen
 Minnena Ser Mig By Tomas Tranströmer
 Minx (The Splendid Trilogy, #3) By Juila Quinn (Have)
 Mirai By Mamoru Hosoda (Have)
+Misery By Stephen King
 Missing Person By Patrick Modiano
 Miss Lonelyhearts / The Day Of The Locust By Nathanael West
 Miss Marjoribanks (Chronicles Of Carlingford, #5) By Margaret Oliphant Wilson Oliphant
@@ -1057,6 +1065,7 @@ My Brilliant Career By Miles Franklin
 My Brilliant Friend (The Neapolitan Novels, #1) By Elena Ferrnate
 My Childhood By Maxim Gorky (Have)
 Mydriase By Jean - Marie Gustave Le Clézio
+My Father's Suitcase: The Nobel Lecture By Orhan Pamuk
 My Friends Call Me Monster (Goosebumps HorrorLand, #7) By Robert Lawrence Stine
 My Garden (Book) By Jamaica Kincaid
 My Hairiest Adventure (Goosebumps, #26) By Robert Lawrence Stine
@@ -1065,6 +1074,7 @@ My Jim By Nancy Rawles
 My Man Jeeves (Jeeves, #1) By Sir Pelham Grenville Wodehouse
 My Mistress's Sparrow Is Dead: Great Love Stories, From Chekhov To Munro By Jeffrey Eugenides
 My Name Is Lucy Barton By Elizabeth Strout
+My Name Is Red By Orphan Pamuk
 My Sister's Keeper By Jodi Picoult
 My Twentieth Century Evening And Other Small Breakthroughs: The Nobel Lecture By Kazou Ishiguro
 My Year In The No - Man's - Bay By Peter Handke
@@ -1153,6 +1163,7 @@ Operation Mincemeat: How A Dead Man And A Bizarre Plan Fooled The Nazis And Assu
 O Pioneers! (Great Plains Trilogy, #1) By Willa Cather
 Orlando By Virginia Woolf
 Orphan Train By Christina Baker Kline
+Other Colors: Essays And A Story By Orhan Pamuk
 Other statnie Historie By Olga Tokarczuk 
 Otherworld Secrets (Otherworld Stories, #4) By Kelley Armstrong
 Ourania By Jean - Marie Gustave Le Clézio
@@ -1185,12 +1196,14 @@ Perelandra (Space Trilogy, #2) By Clive Staples Lewis
 Persuasion By Jane Austen
 Petals Of Blood By Ngugi wa Thiong'o
 Peter Pan In Kensington Gardens / Peter And Wendy By Sir James Matthew Barrie
+Pet Sematary By Stephen King
 Phantom Of The Auditorium (Goosebumps, #24) By Robert Lawrence Stine
 Piano Lessons Can Be Murder (Goosebumps, #13) By Robert Lawrence Stine
 Pictures Of You By Caroline Leavitt
 Piercing By Ryu Murakami (Read)
 Pig Earth By John Berger
 Pinball, 1973 By Haruki Murakami (Read)
+Pinter Plays By Harold Pinter
 Pirate King (Mary Russell, #11) By Laurie R. King
 Pirates Past Noon (Magic Tree House, #4) By Mary Pope Osborne
 Plainwater: Essays And Poetry By Anne Carson (Have)
@@ -1273,6 +1286,7 @@ Rock With Wings (Leaphorn & Chee, #20) By Anne Hillerman
 Roll Of Thunder, Hear Me Cry (Logans, #4) By Mildred DeLois Taylor(Have) (Read)
 Romans By Patrick Modiano
 Room By Emma Donoghue
+Room And The Dumb Waiter By Harold Pinter
 Roos In Shoes By Thomas Keneally
 Roots: The Saga Of An American Family By Alex Haley (Have)
 Roughing It By Mark Twain (Have)
@@ -1286,6 +1300,7 @@ Sacré Bleu: A Comedy D'Art By Christopher Moore
 Sacred Hunger (Sacred Hunger, #1) By Barry Unsworth
 Sacrificing Families: Navigating Laws, Labor, And Love Across Borders By Leisy J. Abrego (Have)
 Safe Haven By Nicholas Sparks
+'Salem's Lot By Stephen King
 Salki By Wojciech Nowicki
 Salt To The Sea By Ruta Sepetys
 Same Kind Of Different As Me By Ron Hall
@@ -1335,6 +1350,7 @@ Siddhartha By Hermann Hesse (Read)
 Siddharthhort Letter, Long Farewell By Peter Handke
 Signs And Wonders By Alix Ohlin
 Silence By Shusaku Endo (Have)
+Silence House By Orphan Pamuk
 Simone: A Novel By Eduardo Lalo
 Simon Vs. The Homo Sapiens Agenda (Creekwood, #1) By Becky Albertalli
 Sing, Unburied, Sing By Jesmyn Ward
@@ -1353,6 +1369,7 @@ Slow Man By John Maxwell Coetzee
 Slumdog Miow Homecoming By Peter Handke
 Slllionaire By Simon Beaufoy (Have)
 Small As A Elephant By Jennifer Richard Jacobson (Read)
+Snow By Orhan Pamuk
 Snow Country By Yasunari Kawabata
 Snow Flower And The Secret Fan By Lisa See
 Soccer On Sunday (Magic Tree House, #52) By Mary Pope Osbourne
@@ -1491,7 +1508,9 @@ The Bell Jar By Sylvia Plath
 The Best American Short Stories 2010 By Richard Russo (Have)
 The Best Of Connie Willis: Award - Winning Stories By Connie Willis
 The Bible By Unknown (Have)
+The Birthday Party, And The Room By Harold Pinter
 The Black Arrow By Robert Louis Stevenson
+The Black Book By Orphan Pamuk
 The Black Madonna By Doris Lessing
 The Black Sheep By Honoré de Balzac (Have)
 The Blob That Ate Everyone (Goosebumps, #55) By Robert Lawrence Stine
@@ -1581,6 +1600,7 @@ The Curse Of Camp Cold Lake (Goosebumps, #56) By Robert Lawrence Stine
 The Curse Of The Mummy's Tomb (Goosebumps, #5) By Robert Lawrence Stine
 The Cut - Rate Kingdom By Thomas Keneally
 The Dark Horse (The Dark Horse, #1) By Josh Lanyon (Have)
+The Dark Tower: The Gunslinger By Stephen King
 The Day Of The Triffrids By John Wyndham
 The Days Of Abandonment By Elena Ferrente
 The Decameron By Giovanni Boccaccio
@@ -1618,6 +1638,7 @@ The Drowned Life By Jeffrey Ford (Have)
 The Druggist Of Auschwitz: A Documentary Novel By Dieter Schlesak
 The Dry: A Novel By Jane Harper
 The Duel And Selected Stories By Alexander Kuprin (Have)
+The Dwarfs By Harold Pinter
 The Edge Of Justice By Clinton McKinzie
 The Edge Of Sadness By Edwin O'Connor
 The Elephant's Journey By José Saramago
@@ -1763,7 +1784,10 @@ The Immortalists: A Novel By Chloe Benjamin
 The Importance Of Being Earnest And Other Plays By Oscar Wilde (Have)
 The Information: A History, A Theory, A Flood By James Gleick
 The Innerworld Of The Outerworld Of The Innerworld By Peter Handke
+The Innocence Of Memories By Orhan Pamuk
+The Innocence Of Objects By Orhan Pamuk
 The Innocents Abroad: Or The New Pilgrim's Progress By Mark Twain (Have)
+The Institute By Stephen King
 The Interrogation By Jean - Marie Gustave Le Clézio
 The Intuitionist By Colson Whitehead
 The Invasion (Animorphs, #1) By Katherine Applegate
@@ -1822,6 +1846,7 @@ The Little Sister (Philip Marlower, #5) By Raymond Chandler
 The Living Infinite By Chantel Acevedo
 The Lonely Hearts Hotel: A Novel By Heather O'Neill
 The Long Goodbye (Philip Marlowe,#6) By Raymond Chandler
+The Long Walk By Stephen King
 The Looming Tower: Al Qaeda And The Road To 9 / 11 By Lawrence Wright
 The Lorax By Theodor Seuss Geisel
 The Lost Boys By Craig Shaw Gardner
@@ -1874,7 +1899,9 @@ The Most Dangerous Place On Earth By Lindsey Lee Johnson
 The Mothers By Brit Bennett
 The Mountain By Drusilla Modjeska
 The Mountain Between Us By Charles Martin
+The Museum Of Innocence By Orphan Pamuk
 The Mutation (Animorphs, #36) By Katherine Applegate
+The Naive And Sentimental Novelist By Orhan Pamuk
 The Nakano Thrift Shop By Hiromi Kawakami
 The Naked And The Dead By Norman Mailer
 The Naked Eye (Kendra Michaels, #3) By Iris Johansen
@@ -1884,6 +1911,7 @@ The Nest By Cynthia D'Aprix Sweeney (Have)
 The Net (Have)
 The Neverending Story By Michael Ende (Read)
 The New Hunger (Warm Bodies, #1.5) By Isaac Marion (Have)
+The New Life By Orphan Pamuk
 The Nigger Of The 'Narcissus' / Typhoon / And Other Stories By Joseph Conrad (Have)
 The Nightingale By Kristin Hannah
 The Night Manager By John le Carré
@@ -1912,6 +1940,7 @@ The Oxford Book Of English Detective Stories By Patricia Craig
 The Painted Bird By Jerzy Kosinski
 The Paradise By Emile Zola
 The Paris Wife By Paula McLain
+The Paris Review Interviews: Vol. 1 By Orhan Pamuk
 The Passport By Herta Müller
 The Pearl By John Steinbeck (Read)
 The People's Train By Thomas Keneally
@@ -1951,6 +1980,7 @@ The Progress Of Love By Alice Munro
 The Prophecy (Animorphs, #34) By Katherine Applegate
 The Proposal (Animorphs, #35) By Katherine Applegate
 The Prospector By Jean - Marie Gustave Le Clézio
+The Proust Screenplay By Harold Pinter
 The Prussian Officer And Other Stories By David Herbert Richards Lawrence (Have)
 The Public Image By Dame Muriel Spark
 The Punch Escrow By Tal M. Klein
@@ -2025,6 +2055,8 @@ The Setting Sun By Osamu Dazai
 The Seven Husbands Of Evelyn Hugo By Taylor Jenkins Reid
 The Several Lives Of Joseph Conrad By J.H. Stape
 The Sheltering Sky By Paul Bowles
+The Shining By Stephen King
+The Short Plays Of Harold Pinter
 The Short Reign Of Pippin IV: A Fabrication By John Steinbeck
 The Sickness (Animorphs, #29) By Katherine Applegate
 The Silent Cry By Kenzaburo Oe
@@ -2148,6 +2180,7 @@ The Weakness (Animorphs, #37) By Katherine Applegate
 The Werewolf Oight Of The World By Peter Handke
 The Wef Fever Swamp (Goosebumps, #14) By Robert Lawrence Stine
 The White Bicycle (Wild Orchard, #3) By Beverley Brenna
+The White Castle By Orphan Pamuk
 The White Tiger By Aravind Adiga
 The Widow And Her Hero By Thomas Keneally
 The Widows Of Malabar Hill (Perveen Mistry, #1) By Sujata Massey
@@ -2272,6 +2305,7 @@ Vacation Under The Volcano (Magic Tree House, #13) By Mary Pope Osborne
 Vampire Breath (Goosebumps, #49) By Robert Lawrence Stine
 Vandals By Alice Munro
 Vanity Fair By William Makepeace Thackeray
+Various Voices By Harold Pinter
 Vater Telefoniert Mit Den Fliegen By Herta Müller
 Veil: The Secret Wars Of The CIA, 1981 - 1987 By Bob Woodward
 Vermeer's Hat: The Seventeenth Century And The Dawn Of The Global World By Timothy Brook
@@ -2330,8 +2364,9 @@ What Belongs To You By Garth Greenwell
 What Happened By Hillary Rodham Clinton
 What Is Not YHell, What Heaven, Cont'd By Olga Tokarczuk
 What Is Remembered (Storycuts) By Alice Munro
-What ours Is Not Yours: Stories By Helen Oyeyemi (Read)
 What Is The What By Dave Eggers
+What Our Minds Do When We Read Novels By Orhan Pamuk 
+What Ours Is Not Yours: Stories By Helen Oyeyemi (Read)
 What We Saw By Aaron Hartzler (Read)
 What Wives Wish Their Husbands Knew About Women By James Clayton "Jim" Dobson, Jr. (Have)
 When The Ghost Dog Howls (Goosebumps HorrorLand, #13) By Robert Lawrence Stine
