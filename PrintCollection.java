@@ -17,10 +17,13 @@ public class PrintCollection {
       int read = 0;
       while (input.hasNextLine()) {
          String complete = input.nextLine();
+         List<String> listComplete = new ArrayList<String>();
          if (complete.contains("(Read)")) {
+            listComplete.add(complete);
             read++;
          }
       }
+      System.out.println(listComplete);
       System.out.println("Things Read = " + read);
    }
    
