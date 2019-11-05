@@ -6,18 +6,18 @@ public class PrintCollection {
    public static void main(String[] args) throws FileNotFoundException  {
       Scanner console = new Scanner(System.in);
       System.out.print("What is the file name?: ");
-      String anime = console.nextLine();
-      Scanner input = new Scanner(new File(anime));
+      String name = console.nextLine();
+      Scanner input = new Scanner(new File(name));
       count(input);
-      Scanner input2 = new Scanner(new File(anime));
+      Scanner input2 = new Scanner(new File(name));
       random(input2);
    }
    
    public static void count(Scanner input) {
       int read = 0;
+      List<String> listComplete = new ArrayList<String>();
       while (input.hasNextLine()) {
          String complete = input.nextLine();
-         List<String> listComplete = new ArrayList<String>();
          if (complete.contains("(Read)")) {
             listComplete.add(complete);
             read++;

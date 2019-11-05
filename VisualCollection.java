@@ -6,10 +6,10 @@ public class VisualCollection {
    public static void main(String[] args) throws FileNotFoundException  {
       Scanner console = new Scanner(System.in);
       System.out.print("What is the file name?: ");
-      String anime = console.nextLine();
-      Scanner input = new Scanner(new File(anime));
+      String name = console.nextLine();
+      Scanner input = new Scanner(new File(name));
       count(input);
-      Scanner input2 = new Scanner(new File(anime));
+      Scanner input2 = new Scanner(new File(name));
       random(input2);
    }
    
