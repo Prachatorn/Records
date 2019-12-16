@@ -460,7 +460,7 @@ Christmas Lights By Travis Thrasher
 Christodora By Tim Murphy
 Christ Versus Arizona By Camilo José Cela
 Chronicle Of A Blood Merchant By Yu Hua
-Chronicle Of A Death Foretold By Gabriel Garcia Marquez (Read)
+Chronicle Of A Death Foretold By Gabriel García Márquez (Read)
 Chronicle Of A Last Summer: A Novel Of Egypt By Yasmine El Rashidi
 Citoyens By Tomas Tranströmer
 City Gate, Open Up By Bei Dao
@@ -599,7 +599,7 @@ Devdas By Sarat Chandra Chattopadhyay (Have)
 Devil In Vienna By Doris Orgel
 Diario De Irak (ES) By Mario Vargas Llosa
 Diario De Una Buena Vecina By Doris Lessing
-Diary Of A Wimpy Kid By Jeff Kinney (Have) (Read)
+Diary Of A Wimpy Kid (Diary Of A Wimpy Kid, #1) By Jeff Kinney (Have) (Read)
 Die Ausgesperrten. Roman. (DE) By Elfriede Jelinek
 Die Blassen Herren Mit Den Mokkatassen (DE) By Herta Müller
 Die Englisch Flagge (DE) By Imre Kertész
@@ -627,6 +627,7 @@ Doctor Who And An Unearthly Child By Terrance Dicks (Have)
 Doctor Zhivago Boris Pasternak
 Dogs In The Dead Of Night (Magic Tree House, #46) By Mary Pope Osbourne
 Dog Years By Günter Grass
+Dolores Claiborne By Stephen King
 Dom Dzienny, Dom Nocny (PL-PL) By Olga Tokarczuk
 Do Not Say We Have Nothing By Madeleine Thien
 Dolphins At Daybreak (Magic Tree House, #9) By Mary Pope Osborne
@@ -698,7 +699,7 @@ Enfances (FR) By Jean - Marie Gustave Le Clézio
 Enigma Variations: A Novel By André Aciman
 Enough By Wisława Szymborska
 Entre Sartre Y Camus (ES) By Mario Vargas Llosa
-Equal Rites By Terry Pratchett (Read)
+Equal Rites (Discworld, #3) By Terry Pratchett (Read)
 Epic: Stories Of Survival From THe World's Highest Peaks (Have)
 Eragon (The Inheritance Cycle, #1) By Chistropher Paolini (Read)
 Ernesto By Umberto Saba
@@ -896,8 +897,10 @@ Haï (FR) By Jean - Marie Gustave Le Clézio
 Half A Life By Sir Vidiadhar Surajprasad Naipaul
 Hallazgos Para No Lectores (ES) By Günter Grass
 Halting Steps: Collected And New Poems By Claribel Alegría
+Handling The Undead By John Ajvide Lindqvist
 Hannibal (Hannibal Lecter, #3) By Thomas Harris (Have)
 Harald, Claudia, And Their Son Duncan By Nadine Gordimer
+Harbour By John Ajvide Lindqvist
 Hard - Boiled Wonderland And The End Of The World By Haruki Murakami (Read)
 Harry Dernier By Derek Walcott
 Harry Potter And The Chamber of Secrets (Harry Potter, #2) By Joanne Rowling (Read)
@@ -988,7 +991,9 @@ Hurry Up, Houdini! (Magic Tree House, #50) By Mary Pope Osbourne
 Hurt (Solitary Tales, #4) By Travis Thrasher 
 Husbands Wives & Concubines By Emlyn Eisenach
 Hypothermia (Inspector Erlendur, #8) By Arnaldur Indriðason
+I Always Find You By John Ajvide Lindqvist
 I Am A Cat By Soseki Natsume
+I Am Behind You By John Ajvide Lindqvist
 I Am, I Am, I Am: Seventeen Brushes With Death By Maggie O'Farrell
 I Am Legend By Richard Matheson
 I Am Malala: - The Girl Who Stood Up For Education And Was Shot By The Taliban By Malala Yousafzai (Have)
@@ -1081,6 +1086,7 @@ It By Stephen King
 Italian Stories (Have)
 It Came From Beneath The Sink! (Goosebumps, #30) By Robert Lawrence Stine
 Itinerary: An Intellectual Journey By Octavio Paz
+Itsy Bitsy: A Short Story By John Ajvide Lindqvist
 I Witness Iron Thunder: The Battle Between The Monitor And The Merrimac: A Civil War Novel By Avi (Have)
 Jack And Jill By Louisa May Alcott (Have)
 Jacko: The Great Intruder By Thomas Keneally
@@ -1202,6 +1208,8 @@ Let The Great World Spin By Colum McCann
 Let Me Tell You: New Stories, Essays, And Other Writings By Shirley Jackson
 Let's Get Invisible! (Goosebumps, #6) By Robert Lawrence Stine
 Let's Pretend This Neveer Happened: A Mostly True Memoir By Jenny Lawson
+Let The Old Dreams Die By John Ajvide Lindqvist
+Let The Right One In By John Ajvide Lindqvist
 Letourneau's Used Auto Parts By Carolyn Chute
 Letters From Russia By Astolpe De Custine
 Leviathan Thomas Hobbes (Have)
@@ -1240,6 +1248,7 @@ Little Dorrit By Charles Dickens
 Little Fires Everywhere By Celeste Ng
 Little House On The Prairie (Little House, #2) By Laura Ingalls Wilder
 Little Shop Of Hamsters (Goosebumps HorrorLand, #14) By Robert Lawrence Stine
+Little Star By John Ajvide Lindqvist
 Little Women (Little Women, #1) By Louisa May Alcott
 Lives Like Loaded Guns: Emily Dickinson And Her Family's Feuds By Lyndall Gordon
 Lives Of Girls And Women By Alice Munro
@@ -1777,6 +1786,7 @@ Secondhand Time: The Last Of The Soviets By Svetlana Alexievich
 Seduction And Betrayal By Elizabeth Hardwick
 Seeing By José Saramago
 Seeing Things By Seamus Heaney
+Seized The Night: New Tales Of Vampiric Terror By Brian Keene, Charlaine Harris, David Wellington, Gary A. Braunbeck, Joe McKinney, John Ajvide Lindqvist, John Langan, Kelley Armstrong, Laird Barron, Leigh Perry, Lucy A. Snyder, Lynda Barry, Michael Koryta, Rio Youers, Robert Shearman, Scott Smith, Seanan McGuire, Sherrilyn Kenyon & Tim Lebbon
 Selected Poems By Derek Walcott
 Selected Poems By Octavio Paz
 Selected Poems, 1954 - 1986 By Tomas Tranströmer
@@ -2323,7 +2333,7 @@ The Hidden (Animorphs, #39) By Katherine Applegate
 The High Mountains Of Portugal By Yann Martel
 The History Of Rasselas, Prince Of Abissinia By Samuel Johnson
 The History Of The Siege Of Lisbon By José Saramago
-The Hitchhiker's Guide To The Galaxy By Douglas Adams (Read)
+The Hitchhiker's Guide To The Galaxy (Hitchhiker's Guide to the Galaxy, #1) By Douglas Adams (Read)
 The Hive By Camilo José Cela
 The Hobbit By John Ronald Reuel Tolkien (Read)
 The Honeymoon: Shahrel Assel By Nagiub Mahfouz
@@ -2374,6 +2384,7 @@ The Island By Victoria Hislop (Have)
 The Island Of Dr. Moreau By Herbert George Wells
 The Japanese Lover: A Novel By Isabel Allende (Have)
 The Jekyll Revelation By Robert Masello
+The Jewish Century By Yuri Slezhine (Have)
 The Job OF The Wasp: A  bY Colin Winnette
 The Joke By Milan Kundera
 The Joker Of Seville & O Babylon! By Derek Walcott
@@ -2560,6 +2571,7 @@ The Paris Wife By Paula McLain
 The Paris Review Interviews: Vol. 1 By Orhan Pamuk
 The Passport By Herta Müller
 The Past And The Punishments By Yu Hua
+The Pastures Of Heaven By John Steinbeck
 The Pathseeker By Imre Kertész
 The Pearl By John Steinbeck (Read)
 The People's Train By Thomas Keneally
