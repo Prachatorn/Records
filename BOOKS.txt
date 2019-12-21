@@ -109,8 +109,9 @@ Airborn By Octavio Paz
 Airmail: The Letters Of Robert Bly And Tomas Transtromer By Tomas Tranströmer
 A Land Without Jasmine By Wajdi Al - Ahdal
 Alas, Babylon By Pat Frank
-A Lesson Before Dying By Ernest James Gaines
 Alcatraz Versus The Evil Librarians (Alcatraz, #1) By Brandon Sanderson (Have)
+A Lesson Before Dying By Ernest James Gaines
+Alexandra By Scott O'Dell
 Alfred And Emily By Doris Lessing
 Alias Grace By Margaret Atwood
 Alice's Adventures In Wonderland (Alice's Adventures In Wonderland, #1) By Lewis Carroll (Read)
@@ -338,6 +339,7 @@ Black Beauty By Anna Sewell (Have)
 Black Elk Speaks By John G. Neihardt (Have)
 Black Liberation And The American Dream: The Struggle For Racial And Ecomonic Justice By Paul Le Blanc
 Black No More By George Schuyler
+Black Star, Bright Dawn By Scott O'Dell
 Bleak House By Charles Dickens
 Bleeding Edge By Thomas Pynchon
 Bless Me, Ultima By Rudolfo Anaya
@@ -411,7 +413,8 @@ Cannery Row By John Steinbeck (Read)
 Can Onions Cure Ear - Ache?: Medical Advice From 1769 By William Buchan (Have)
 Capital: The Eruption Of Delhi By Rana Dasgupta
 Captain Pantoja And The Special Service By Mario Vargas Llosa
-Cards Of Identity By Nigel Dennis (Have)
+Cards Of Identity By Nigel Dennis (Have)4
+Carlota By Scott O'Dell
 Carmen And Other Stories By Prosper Mérimée (Have)
 Carnegie's Maid By Marie Benedict
 Carnival At Candlelight (Magic Tree House, #33) By Mary Pope Osborne
@@ -450,6 +453,7 @@ Children Of The Mire By Octavio Paz
 Children Of Time (Children of Time, #1) By Adrian Tchaikovsky
 Childhood, Boyhood, Youth By Count Leo Nikolayevich Tolstoy (Have)
 Childhood's End By Arthur Charles Clarke
+Child Of Fire By Scott O'Dell
 China In Ten Words By Yu Hua
 China Men By Maxine Hong Kingston (Have)
 Choke: What the Secrets Of The Brain Reveal About Getting It Right When You Have To By Sian Beilock
@@ -550,6 +554,7 @@ Dark Rooms By Olga Tokarczuk
 Das Gewicht Der Welt (DE-AT) By Peter Handke
 Das Lebewohl By Elfriede Jelinek
 Das Werk By Elfriede Jelinek
+Daughter Of Don Saturnino By Scott O'Dell
 David Copperfield By Charles Dickens
 Day Of The Dragon King (Magic Tree House, #14) By Mary Pope Osborne
 Deadeye Dick By Kurt Vonnegut (Read)
@@ -942,6 +947,7 @@ Her Sister's Shoes (Sweeney Sisters, #1) By Ashley Farley
 High Tide In Hawaii (Magic Tree House, #28) By Mary Pope Osborne
 High Tide In Tucson: Essays From Now Or Never By Barbara Kingsolver
 High Time For Heroes (Magic Tree House, #51) By Mary Pope Osbourne
+Hill Of The Hawk By Scott O'Dell
 Hindoo Holiday: An Indian Journal By Joe Randolph "J. R." Ackerley
 Hint Fiction: An Anthrology Of Stories In 25 Words Or Fewer By Robert Swartwood
 Hiroshima Notes By Kenzaburō Ōe
@@ -1077,6 +1083,7 @@ Islam Without Extremes: A Muslim Case For Liberty By Mustafa Akyol
 Istanbul: City Of A Hundered Names By Orhan Pamuk
 Istanbul: Memories And The City By Orphan Pamuk
 Island Of Point Nemo By Jean - Marie Blas De Roblès
+Island Of The Blue Dolphins By Scott O'Dell
 Island Of Wings By Karin Altenberg
 Islands In The Stream By Ernest Hemingway
 Isolation By Travis Thrasher
@@ -1104,6 +1111,7 @@ Johnny Got His Gun By Dalton Trumbo
 John Singer Sargent By Carter Ratcliff
 Jonathan Strange And Mr. Norrell By Susanna Clarke
 Journey From The Land Of No: A Girlhood Caught In Revolutionary Iran By Roya Hakakian
+Journey To Jericho By Scott O'Dell
 Journey To Portugal: In Pursuit Of Portugal's History And Culture By José Saramago
 Joseph Andrews By Henry Fielding
 Joseph Brodsky: Conversations By Joseph Brodsky
@@ -1124,6 +1132,7 @@ Kalle Blomquist Meisterdetektiv By Astrid Lindgren
 Karnak Café By Naguib Mahfouz
 Katalin Street By Magda Szabó
 Kathie Y El Hipopotamo (ES) By Mario Vargas Llosa
+Kathleen, Please Come Home By Scott O'Dell
 Keep The Aspidistra Flying By George Orwell
 Kevin By Paul Kupperberg (Read)
 Khan Al - Khalili: A Modern Arabic Novel By Nagiub Mahfouz
@@ -1437,6 +1446,7 @@ My Jim By Nancy Rawles
 My Man Jeeves (Jeeves, #1) By Sir Pelham Grenville Wodehouse
 My Mistress's Sparrow Is Dead: Great Love Stories, From Chekhov To Munro By Jeffrey Eugenides
 My Name Is Lucy Barton By Elizabeth Strout
+My Name Is Not Angelica By Scott O'Dell
 My Name Is Red By Orphan Pamuk
 My Sister's Keeper By Jodi Picoult
 My Son's Story By Nadine Gordimer
@@ -1703,12 +1713,13 @@ Rechnitz And The Merchant's Contracts By Elfriede Jelinek
 Red Clocks: A Novel By Leni Zumas
 Redeployment By Phil Klay
 Red Mafiya: How The Russian Mob Has Invaded America By Robert I. Friedman
-Red Prophet (Tales of Alvin Maker #2) By Orson Scott Card (Have)
+Red Prophet (Tales of Alvin Maker, #2) By Orson Scott Card (Have)
 Red Sorghum By Mo Yan
-Red Sparrow (Red Sparrow Trilogy #1) By Jason Matthews
+Red Sparrow (Red Sparrow Trilogy, #1) By Jason Matthews
 Rein Gold By Elfriede Jelinek
 Remember: The Journey To School Integration By Toni Morrison
 Remembrance And Pantomime By Derek Walcott
+Representative Photoplays Analyzed By Scott O'Dell
 Return Of The Mummy (Goosebumps, #23) By Robert Lawrence Stine
 Return To Ghost Camp (Goosebumps 2000, #19) By Robert Lawrence Stine
 Return To Horrorland (Goosebumps 2000, #13) By RObert Lawrence Stine
@@ -1763,6 +1774,7 @@ Sanctuary By Nora Roberts
 Sanctuary By William Faulkner
 Sandalwood Death By Mo Yan
 Sanningsbarriären (SV) By Tomas Tranströmer
+Sarah Bishop By Scott O'Dell
 Sarong Party Girls By Cheryl Lu - Lien Tan
 Saturday By Ian McEwan
 Savage Seasons (Hap And Leonard, #1) By Joe Richard Lansdale (Have)
@@ -1826,6 +1838,7 @@ Silence By Shusaku Endo (Have)
 Silence House By Orphan Pamuk
 Simone: A Novel By Eduardo Lalo
 Simon Vs. The Homo Sapiens Agenda (Creekwood, #1) By Becky Albertalli
+Sing Down The Moon By Scott O'Dell
 Sing, Unburied, Sing By Jesmyn Ward
 Sip By Brian Allen Carr
 Sister Carrie By Theodore Dreiser
@@ -1910,6 +1923,7 @@ Stolen (Magic Thief, #1) By Sarah Prineas (Have)
 Strange Piorm Still By Peter Handke
 Stranger Shores By John Maxwell Coetzee
 Stranger Shores: Essays, 1986 - 1999 By John Maxwell Coetzee
+Streams To The River, River To The Sea By Scott O'Dell
 Stlgrims By Gabriel García Márquez
 Stoners By John Williams (Have)
 Stories From Our Neighbourhood By Nagiub Mahfouz
@@ -1961,6 +1975,7 @@ That's A Rap By Matthew David Morris & Travis Thrasher
 That Awful Mess On The Via Merulana By Carlo Emilio Gadda
 That's Why We Are Alive By Wisława Szymborska
 The 158 - Pound Marraige By John Irving (Have)
+The 290 By Scott O'Dell
 The 42nd Parallel (U.S.A, #1) By John Dos Passos
 The Abbess Of Crewe By Dame Muriel Spark
 The Abominable Snowman Of Pasadena (Goosebumps, #38) By Robert Lawrence Stine
@@ -1986,6 +2001,7 @@ The Alienist (Dr. Laszlo Kreizler, #1) By Caleb Carr
 The All - Girl Filling Station's Last Reunion By Fannie Flagg
 The Alteration By Stephanie Scott
 The American By Henry James
+The Amethyst Ring By Scott O'Dell
 The Anatomy Of Melancholy By Robert Burton
 The Andalite Chronicles (Animorphs, #12.5) By Katherine Applegate
 The Andalite's Gift (Animorphs, #7.5) By Katherine Applegate
@@ -2037,6 +2053,7 @@ The Black Arrow By Robert Louis Stevenson
 The Black Auxiliary: The Untold Sotry Of 18 African Americans Who Defied Jim Crow And Adolf Hitler To Compete In The 1936 Berlin Olympics By Blair Underwood, Deborah Riley Draper & Travis Thrasher
 The Black Book By Orphan Pamuk
 The Black Madonna By Doris Lessing
+The Black Pearl By Scott O'Dell
 The Black Sheep By Honoré de Balzac (Have)
 The Blasted Lands: Seven Forges By James Arthur Moore
 The Blob That Ate Everyone (Goosebumps, #55) By Robert Lawrence Stine
@@ -2081,11 +2098,13 @@ The Bus Stop By Gao Xingjian
 The Call Of The Toad By Günter Grass
 The Call Of The Wild By Jack London (Read)
 The Canterbury Tales By Geoffrey Chaucer
+The Captive By Scott O'Dell
 The Capture (Animorphs, #6) By Katherine Applegate
 The Care And Management Of Lies: A Novel Of The Great War By Jacqueline Winspear
 The Case For Impeachment By Allan Jay Lichtman
 The Case For Literature By Gao Xingjian
 The Castaway, And Other Poems By Derek Walcott
+The Castle In The Sea By Scott O'Dell
 The Castle Of Kings By Oliver Pötzsch
 The Casual Vacancy By Joanne Rowling
 The Catcher Of The Rye By Jerome David Salinger (Read)
@@ -2135,6 +2154,7 @@ The Country Of Ice Cream Star By Sandra Newman
 The Crime By Nagiub Mahfouz
 The Crimson Cord: Rahab's Story (Daughters Of The Promisd Land, #1) By Jill Eileen Smith
 The Crucible By Aruther Miller (Have) (Read)
+The Cruise Of The Arctic Star By Scott O'Dell
 The Crying Of Lot 49 By Thomas Pynchon (Read)
 The Cryptid Hunters (Marty And Grace, #1) By Roland Smith (Have)
 The Cubs By Mario Vargas Llosa
@@ -2147,6 +2167,7 @@ The Curse Of The Mummy's Tomb (Goosebumps, #5) By Robert Lawrence Stine
 The Cut - Rate Kingdom By Thomas Keneally
 The Dancing Kettle And Other Japanese FOlk Tales By Yoshiko Uchida (Read)
 The Dancing Mind By Toni Morrison
+The Dark Canoe By Scott O'Dell
 The Dark Horse (The Dark Horse, #1) By Josh Lanyon (Have)
 The Dark Tower: The Gunslinger By Stephen King
 The Day He Himself Shall Wipe My Tears Away By Kenzaburō Ōe
@@ -2219,8 +2240,9 @@ The Familiar (Animorphs, #41) By Katherine Applegate
 The Family Of Pascual Duarte By Camilo José Cela
 The Farewell Waltz By Milan Kundera
 The Fault In Our Stars By John Green (Read)
-The Feast Of The Goat By Mario Vargas Llosa
 The Fear By Thomas Keneally
+The Feast Of The Goat By Mario Vargas Llosa
+The Feathered Serpent By Scott O'Dell
 The Federalist Papers By Alexander Hamilton (Have)
 The Fellowship Of The Ring (The Lord Of The Rings, #1) By John Ronald Reuel Tolkien
 The Festival Of Insignificance By Milan Kundera
@@ -2323,6 +2345,7 @@ The Haunted Mask (Goosebumps, #11) By Robert Lawrence Stine
 The Haunted Mask II (Goosebumps, #36) By Robert Lawrence Stine
 The Haunted School (Goosebumps, #59) By Robert Lawrence Stine
 The Haunting Of Ashburn House By Darcy Coates
+The Hawk That Dare Not HUnt By Day By Scott O'Dell
 The Haw Lantern By Seamus Heaney
 The Headless Ghost (Goosebumps, #37) By Robert Lawrence Stine
 The Heart Goes Last By Margaret Atwood
@@ -2402,6 +2425,7 @@ The Kingdom Keepers By Ridley Pearson (Read)
 The King Is Always Above The People: Stories By Daniel Alarcón
 The King Must Die (Theseus, #1) By Mary Renault (Have)
 The King Of Sting By Coyote Peterson (Have)
+The King's Fifth By Scott O'Dell
 The Kitchen God's Wife By Amy Tan (Have)
 The Kitchen House By Kathleen Grissom
 The Kite Runner By Khaled Hosseini (Have)
@@ -2677,6 +2701,7 @@ The Rise Of The Unmeltable Ethnics By Michael Novak
 The River Ki By Sawako Ariyoshi (Have)
 The River Where Blood Born By Sandra Jackson - Opoku (Have)
 The Road Past Altamont By Gabrielle Roy (Have)
+The Road To Damietta By Scott O'Dell
 The Robe By Lloyd Cassel Douglas
 The Rogue Prince (Lords Of The Var, #4) By Michelle M. Pillow
 The Rosie Project (Don Tillman, #1) By Graeme Simsion
@@ -2703,6 +2728,7 @@ The Secret Wife By Gill Paul
 The Sellout By Paul Beatty
 The Sentimental Agents In The Volyen Empire By Doris Lessing
 The Separation (Animorphs, #32) By Katherine Applegate
+The Serpent Never Sleeps By Scott O'Dell
 The Setting Sun By Osamu Dazai
 The Seven Husbands Of Evelyn Hugo By Taylor Jenkins Reid
 The Seventh Day By Yu Hua (Have)
@@ -2735,6 +2761,7 @@ The Sound And The Fury By William Shakespeare
 The Sound Of Waves By Yukio Mishima (Read)
 The Source Of Self - Regard: Selected Essays, Speeches, And Meditations By Toni Morrison
 The Space Merchants (The Space Merchants, #1)
+The Spanish Smile By Scott O'Dell
 The Spirit Level By Seamus Heaney
 The Sport Of The Gods By Paul Laurence Dunbar (Have) (Read)
 The Spy: A Novel Of Mata Hari By Paulo Coelho
@@ -2803,6 +2830,7 @@ The Transmigration Of Timothy Archer (VALIS Trilogy, #3) By Philip Kindred Dick
 The Traps Of Faith By Octavio Paz
 The Traveller's Baggage By José Saramago
 The Travels Of Jaimie McPheeters By Robert Lewis Taylor
+The Treasure Of Topo - El - Bampo By Scott O'Dell
 The Trial By Franz Kafka
 The Tricks Of The Trade By Dario Fo
 The Trouble With Goats And Sheep: A Novel By Joanna Cannon
@@ -2931,6 +2959,7 @@ Thrice The Brinded Cat Hath Mew'd (Flavia De Luce, #8) By Alan Bradley
 Through The Arc Of The Rain Forest By Karen Tei Yamashita (Have)
 Through The Looking - Glass And What Alice Found There (Alice's Adventures In Wonderland, #2) By Lewis Carroll (Read)
 Through The Tunnel By Doris Lessing
+Thunder Rolling In The Mountains By Scott O'Dell
 Thus Bad Begins By Javier Marías
 Tiepolo's Hound By Derek Walcott
 Ties By Domenico Starnone
@@ -2985,6 +3014,7 @@ Truth In History By Oscar Handlin
 Tuesdays With Morrie By Mitch Albom (Have) (Read)
 Turtles All The Way Down By John Green
 Twenty And Ten By Claire Huchet Bishop (Have)
+Twenty Scottish Tales & Legends By Cyril Swinson (Read)
 Twenty Sonnets To Mary, Queen Of Scots By Joseph Brodsky
 Twice Born: A Novel (Movie Tie - In) By Margaret Mazzantini
 Twin Flower: A Story Of Bali By G.E.P. Collins (Have)
@@ -3026,6 +3056,7 @@ Vanity Fair By William Makepeace Thackeray
 Various Voices By Harold Pinter
 Vater Telefoniert Mit Den Fliegen By Herta Müller
 Veil: The Secret Wars Of The CIA, 1981 - 1987 By Bob Woodward
+Venus Among The Fishes By Scott O'Dell
 Vermeer's Hat: The Seventeenth Century And The Dawn Of The Global World By Timothy Brook
 Verses On The Winter Campaign 1980 By Joseph Brodsky
 Versiones Y Diversiones (ES) By Octavio Paz
@@ -3180,6 +3211,7 @@ You're More Powerful Than You Think: A Citizen's Guide To Making Change Happen B
 Your Heart Is A Muscle The Size Of A Fist By Sunil Yapa
 Youth: Scenes From Provincial II By John Maxwell Coetzee
 Zen And The Art Of Motorcycle Maintenance: An Inquiry Into Values By Robert Maynard Pirsig
+Zia By Scott O'Dell
 Zinky Boys: Soviet Voices From The Afghanistan War By Svetlana Alexievich
 Zoo Station (John Russell, #1) By David Downing
 Zora, A Cruel Tale By Philippe Arseneault
