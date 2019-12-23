@@ -47,107 +47,138 @@ Citizens United v. Federal Election Commission (2010)
 City Of Boerne v. Flores (1997)
 City Of Cleburne v. Cleburne Living Center, Incorporated (1985)
 City Of Escondido v. Emmons (2019)
-Clinton v. New York
-Coates v. Cincinnati
-Cochise Consultancy Incorporated v. United States, Ex Rel. Hunt
-Coker v. Georgia
-Cooper v. Harris
-Craig v. Buren
-Cruzan v. Missouri Department Of Health
-Culbertson v. Berryhill
-Daniel Books, Jr. v. Pressler & Pressler, Limited Liability Partnership
-Dartmouth College v. Woodward
-Dawson v. Steager
-Dennis v. United States
-Department Of Commerce v. New York
-District Of Columbia v. Heller
-Dothard v. Rawlinson
-Downes v. Bidwell
-Dred Scott v. Sanford
-Duncan v. Louisiana
-Edwards v. Auillard
-Eisenstadt v. Baird
-Eldred v. Ashcroft
-Elk Grove Unified School District v. Newdow
-Employment Division, Department Of Human Resources Of Oregon v. Smith
-Emulex Corp. v. Varjabedian
-Engel v. Vitale
-Epperson v. Arkansas
-Escobedo v. Illinois
-Everson v. Board Of Education
-Farmer v. Brennan
+Clinton v. City Of New York (1998)
+Clinton v. Goldsmith (1999)
+Clinton v. Jones (1997)
+Clinton v. Nagy (1974)
+Coates v. City Of Cincinnati (1971)
+Cochise Consultancy Incorporated v. United States, Ex Rel. Hunt (2019)
+Coker v. Georgia (1977)
+Cooper v. Harris (2017)
+Craig v. Boren (1976)
+Cruzan By Cruzan v. Director, Missouri Department Of Health (1990)
+Culbertson v. Berryhill (2019)
+Daniel Bock, Jr., Plantiff - Appellee v. Pressler & Pressler, Limited Liability Partnership (2015)
+Dartmouth College v. Woodward (1819)
+Dawson v. Steager (2019)
+Dennis v. United States (1951)
+Department Of Commerce v. New York (2019)
+District Of Columbia v. Heller (2008)
+Dothard v. Rawlinson (1977)
+Downes v. Bidwell (1901)
+Dred Scott v. Sanford (1857)
+Duncan v. Louisiana (1968)
+Edwards v. Auillard (1987)
+Eisenstadt v. Baird (1972)
+Eldred v. Ashcroft (2003)
+Elk Grove Unified School District v. Newdow (2004)
+Employment Division, Department Of Human Resources Of Oregon v. Smith (1990)
+Emulex Corp. v. Varjabedian (2019)
+Engel v. Vitale (1962)
+Epperson v. Arkansas (1968)
+Escobedo v. Illinois (1964)
+Everson v. Board Of Education (1947)
+Farmer v. Brennan (1994)
 Federal Communications Commission v. Fox Television, Incorporated (2009)
 Federal Communications Commission v. Fox Television, Incorporated (2012)
 Federal Communications Commission v. Pacifica Foundation (1973)
-Feist Publications, Incorporated v. Rural Telephone Service Corporation
-First National Bank Of Boston v. Bellotti
-Fletcher v. Peck
-Flowers v. Mississippi
-Folsom v. Marsh
-Ford v. Wainwright
-Frontiero v. Richardson
-Furman v. Georgia
-Gibbons v. Ogden
-Gideon v. Wainwright
-Gitlow v. New York
-Gonzales v. Carhart
-Good News Club v. Milford Central School
-Grand Upright Music vs. Warner Bros. Records
-Gregg v. Georgia
-Griggs v. Duke Power Corporation
-Griswold v. Connecticut
-Grutter v. Bollinger
-Guinn v. United States
-Hamdan v. Rumfeld
-Hamdi v. Rumsfeld
-Harper v. Virginia Board Of Education
-Harris v. McRae
-Hazelwood School District v. Kuhlmeier
-Heart Of Atlanta Motel Incorporation v. United States
-Herring v. United States
-Hunt v. Cormarie
-Hustler Magazine v. Falwell
-In Re Gault
-Island Trees School District v. Pico
-James Boswell v. Costco Wholesale Corporation
-Jenkins v. Georgia
-Jones v. Mayor
-Josepg Burstyn, Incorporated v. Wilson
-Katz v. United States
-Kennedy v. Louisiana
-Kizmiller v. Dover Area School District
-Korematsu v. United States
-Lawrence v. Texas
-Lee v. Weisman
-Lemon v. Kurtzman
-Locjner v. New York
-Locke v. Davey
-Loving v. Virginia
-Mapp v. Ohio
-Marbury v. Madison
-Marsh v. Chambers
-Matal v. Tam
-McCleskey v. Kemp
-McCollum v. Board Of Education
-McCreary County v. American Civil Liberties Union
-McCulloch v. Maryland
-McDonald v. Chicago
-Meachum v. Knolls Atomic Power Laboratory
-Melaurin v. Oklahoma State Regents
-Metro - Goldwyn - Mayer Studios, Incorporated v. Grokster, Limited
-Meyer v. Nebraska
-Miami Herald Publishing Company v. Tornillo
-Miller v. California
-Minersville School District v. Gobitis
-Miranda v. Arizona
-NAACP v. Alabama
-National Federation Of Independent Business v. Sebelius
-Near v. Minnesota
-New Jersey v. T. L. O
-New York Times Corporation v. Sullivan
-New York Times Corporation v. United States
-NFL Players Concussion Injury Litigation
-Nix v. Hedden
+Feist Publications, Incorporated v. Rural Telephone Service Corporation (1991)
+First National Bank Of Boston v. Bellotti (1978)
+Fletcher v. Peck (1810)
+Flowers v. Mississippi (2019)
+Folsom v. Marsh (1841)
+Ford v. Wainwright (1986)
+Frontiero v. Richardson (1973)
+Furman v. Georgia (1972)
+Gibbons v. Ogden (1824)
+Gideon v. Wainwright (1963)
+Gitlow v. New York (1925)
+Gonzales v. Carhart (2007)
+Gonzales v. Raich (2005)
+Good News Club v. Milford Central School (2001)
+Grand Upright Music, Limited v. Warner Bros. Records, Incorporated (1991)
+Gregg v. Georgia (1976)
+Griggs v. Duke Power Corporation (1971)
+Griswold v. Connecticut (1965)
+Grutter v. Bollinger (2003)
+Guinn v. United States (1915)
+Hamdan v. Rumfeld (2006)
+Hamdi v. Rumsfeld (2004)
+Harper v. Herman (1993)
+Harper v. Lewis (2019)
+Harper v. Paradise (1974)
+Harper v. Virginia Board Of Education (1966)
+Harris v. Balk (1905)
+Harris v. Forklift Systems, Incorporated (1993)
+Harris v. Jones (1977)
+Harris v. McRae (1980)
+Harris v. New York (1970)
+Harris v. Quinn (2014)
+Harris v. United States (1947)
+Harris v. United States (1968)
+Harris v. Watson (1791)
+Hazelwood School District v. Kuhlmeier (1988)
+Heart Of Atlanta Motel Incorporation v. United States (1964)
+Herring v. United States (2009)
+Hunt v. Cormarie (1999)
+Hunt v. United States (1928)
+Hunt v. Washington State Apple Advertising Commission (1977)
+Hustler Magazine v. Falwell (1988)
+In Re Gault (1967)
+Island Trees School District v. Pico (1982)
+James Boswell v. Costco Wholesale Corporation (2016)
+Jenkins v. City Of Bogalusa School Board (1969)
+Jenkins v. Commissioner (1983)
+Jenkins v. Georgia (1974)
+Jenkins v. National College Athlete Assocation (2018)
+Jenkins v. United States (1965)
+Jones v. Alfred H. Meyer Company (1968)
+Jones v. Barnes (1983)
+Jones v. City Of Seattle, Washington (2012)
+Jones v. United States (1960)
+Joseph Burstyn, Incorporated v. Wilson (1952)
+Katz v. United States (1967)
+Kennedy v. Louisiana (2008)
+Kizmiller v. Dover Area School District (2005)
+Korematsu v. United States (1944)
+Lawrence v. Texas (2003)
+Lee v. Weisman (1992)
+Lemon v. Kurtzman (1971)
+Lochner v. New York (1905)
+Locke v. Davey (2004)
+Loving v. Virginia (1967)
+Mapp v. Ohio (1961)
+Marbury v. Madison (1803)
+Marsh v. Alabama (1946)
+Marsh v. Chambers (1983)
+Marsh v. Coleman Company, Incorporated (1990)
+Marsh v. Coles (2015)
+Marsh v. County Of San Diego (2012)
+Marsh v. J. Alexander's Limited Liability Company (2018)
+Marsh v. Lott (1908)
+Marsh v. Valyou (2007)
+Matal v. Tam (2017)
+McCleskey v. Kemp (1987)
+McCollum v. Board Of Education (1948)
+McCreary County v. American Civil Liberties Union (2005)
+McCulloch v. Maryland (1819)
+McDonald v. City Of Chicago (2010)
+Meachum v. Knolls Atomic Power Laboratory (2008)
+Melaurin v. Oklahoma State Regents (1950)
+Metro - Goldwyn - Mayer Studios, Incorporated v. Grokster, Limited (2005)
+Meyer v. Nebraska (1923)
+Miami Herald Publishing Company v. Tornillo (1974)
+Miller v. California (1973)
+Minersville School District v. Gobitis (1940)
+Miranda v. Arizona (1966)
+National Association For The Advancement of Colored People v. Alabama (1958)
+National Federation Of Independent Business v. Sebelius (2012)
+National Football League Players Concussion Injury Litigation (2016)
+Near v. Minnesota (1931)
+New Jersey v. T. L. O (1985)
+New York Times Corporation v. Sullivan (1964)
+New York Times Corporation v. United States (1971)
+Nix v. Hedden (1893)
 Obergefell v. Hodges
 Oracle America, Incorporated v. Google, Incorporated
 Packingham v. North Carolina
@@ -166,6 +197,7 @@ Regents Of The University Of California v. Bakke
 Reno v. ACLU
 Reynolds v. Sims
 Reynolds v. United States
+R.G. & G.R. Harris Funeral Homes Incorporated v. Equal Employment Opportunity Commission (2019)
 Ring v. Arizona
 Roe v. Wade
 Rogers v. Koons
