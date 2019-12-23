@@ -1,12 +1,14 @@
 Abington School District v. Schempp (1963)
 Adarand Constructors v. Pena (1995)
 Air And Liquid Systems Corp. v. Devries (2018)
+A. L. A. Schecter Poultry Corp v. United States (1935)
 Alexander v. Holmes County Board Of Education (1969)
 Allen v. Cooper (2019)
 Altitude Express v. Zarda (2019)
 American Broadcasting Companies v. Aereo, Incorporated (2014)
 Apple Computer, Incorporated v. Microsoft Corporation (1994)
 Apple v. Pepper (2019)
+Apprendi v. New Jersey (2000)
 Argersinger v. Hamlin (1972)
 Ashcroft v. American Civil Liberties Union (2002)
 Astrue v. Capato (2012)
@@ -19,6 +21,8 @@ Baker v. Carr (1962)
 Banister v. Davis (2019)
 Barron v. Balitmore (1833)
 Biestek v. Berryhill (2019)
+Blakely v. Washington (2004)
+Bleistein v. Donaldson Lithographing Company (1903)
 BNSF Railway Co. v. Loos (2019)
 Bob Jones University v. United States (1983)
 Bond v. United States (2014)
@@ -33,12 +37,14 @@ Brown v. Entertainment Merchants Association (2011)
 Buchwald v. Paramount (1990)
 Bucklew v. Precythe (2019)
 Buckley v. Valeo (1976)
+Burrow - Giles Lithographic Company v. Sarony (1884)
 Burwell v. Hobby Lobby Stores, Incorporated (2014)
 Bush v. Gore (2000)
 Callins v. Collins (1994)
 Calvary Bible Presbyterian Church Of Seattle v. Board Of Regents Of University Of Washington (1967)
 Campbell v. Acuff - Rose Music, Incorporated (1994)
 Cantwell v. Connecticut (1940)
+Cariou v. Prince (2013)
 Carpenter v. Murphy (2018)
 Carpenter v. United States (2018)
 Chaplinsky v. New Hampshire (1942)
@@ -58,6 +64,7 @@ Cooper v. Harris (2017)
 Craig v. Boren (1976)
 Cruzan By Cruzan v. Director, Missouri Department Of Health (1990)
 Culbertson v. Berryhill (2019)
+Cunningham v. California (2007)
 Daniel Bock, Jr., Plantiff - Appellee v. Pressler & Pressler, Limited Liability Partnership (2015)
 Dartmouth College v. Woodward (1819)
 Dawson v. Steager (2019)
@@ -75,6 +82,7 @@ Elk Grove Unified School District v. Newdow (2004)
 Employment Division, Department Of Human Resources Of Oregon v. Smith (1990)
 Emulex Corp. v. Varjabedian (2019)
 Engel v. Vitale (1962)
+Enmund v. Florida (1982)
 Epperson v. Arkansas (1968)
 Escobedo v. Illinois (1964)
 Everson v. Board Of Education (1947)
@@ -108,6 +116,7 @@ Harper v. Herman (1993)
 Harper v. Lewis (2019)
 Harper v. Paradise (1974)
 Harper v. Virginia Board Of Education (1966)
+Harper & Row, Publishers, Incorporated v. Nation Enterprises (1985)
 Harris v. Balk (1905)
 Harris v. Forklift Systems, Incorporated (1993)
 Harris v. Jones (1977)
@@ -123,6 +132,7 @@ Herring v. United States (2009)
 Hunt v. Cormarie (1999)
 Hunt v. United States (1928)
 Hunt v. Washington State Apple Advertising Commission (1977)
+Hurst v. Florida (2016)
 Hustler Magazine v. Falwell (1988)
 In Re Gault (1967)
 Island Trees School District v. Pico (1982)
@@ -137,8 +147,11 @@ Jones v. Barnes (1983)
 Jones v. City Of Seattle, Washington (2012)
 Jones v. United States (1960)
 Joseph Burstyn, Incorporated v. Wilson (1952)
+Kansas v. Marsh (2006)
 Katz v. United States (1967)
+Kelly v. Arriba Soft Corporated (2003)
 Kennedy v. Louisiana (2008)
+Kienitz v. Sconnie Nation, Limited Liability Company (2014)
 Kizmiller v. Dover Area School District (2005)
 Korematsu v. United States (1944)
 Lawrence v. Texas (2003)
@@ -179,82 +192,96 @@ New Jersey v. T. L. O (1985)
 New York Times Corporation v. Sullivan (1964)
 New York Times Corporation v. United States (1971)
 Nix v. Hedden (1893)
-Obergefell v. Hodges
-Oracle America, Incorporated v. Google, Incorporated
-Packingham v. North Carolina
-Palko v. Connecticut
-Parker v. Gladden
-Paven v. Smith
-Planned Parenthood Of Southeastern Pennsylvania v. Casey
-Plessy v. Ferguson
-Powell v. Alabama
-Rasul v. Bush
-Recording Industry Association Of America vs. Napster
-Red Lion Broadcasting Company v. Federal Communications Commission
-Reed v. Reed
-Reeves v. Sanderson
-Regents Of The University Of California v. Bakke
-Reno v. ACLU
-Reynolds v. Sims
-Reynolds v. United States
+Obergefell v. Hodges (2015)
+Oracle America, Incorporated v. Google, Incorporated (2019)
+Packingham v. North Carolina (2017)
+Palko v. Connecticut (1937)
+Parker v. Arthur Murray, Incorporated (1973)
+Parker v. Brown (1943)
+Parker v. District Of Columbia (2007)
+Parker v. Flook (1978)
+Parker v. Gladden (1966)
+Parker v. Hurley (2008)
+Parker v. Levy (1974)
+Parker v. Parker (1988)
+Parker v. Twentieth Century - Fox Film Corporation (1970)
+Parker v. United States (1828)
+Parker v. United States (1963)
+Paven v. Smith (2017)
+People v. Goetz (1986)
+Planned Parenthood Of Southeastern Pennsylvania v. Casey (1992)
+Plessy v. Ferguson (1896)
+Powell v. Alabama (1932)
+Rasul v. Bush (2004)
+Recording Industry Association Of America vs. Napster, Incorporated (2001)
+Red Lion Broadcasting Company v. Federal Communications Commission (1969)
+Reed v. Reed (1971)
+Reeves v. Sanderson Plumbing Products, Incorporated (2000)
+Regents Of The University Of California v. Bakke (1978)
+Reno v. American Civil Liberties Union (1997)
+Reynolds v. Sims (1964)
+Reynolds v. United States (1879)
 R.G. & G.R. Harris Funeral Homes Incorporated v. Equal Employment Opportunity Commission (2019)
-Ring v. Arizona
-Roe v. Wade
-Rogers v. Koons
-Romer v. Evans
-Rompilla v. Beard
-Roper v. Simmons
-Rosenberger v. Rector And Visitors Of The University Of Virginia
-Roth v. United States
-Rowan v. United States Post Office Department
-San Antonio Independent School District v. Rodriguez
-Santa Clara County v. Southern Pacific Railroad
-Santa Clara Pueblo v. Marintez
-Santa Fe Independent School District v. Doe
-Schecter Poultry Corp v. United States
-Schenck v. United States
-School District Of Abington Township, Pennsylvania v. Schempp
-Sebelius vs. Hobby Lobby Stores, Incorporated
-Shapiro v. Thompson
-Shaw v. Reno
-Shelby County v. Holder
-Shelley v. Kraemer
-Sherbert v. Verner
-Smith v. Allwright
-Standard Oil Corporation Of New Jersey v. United States
-State Of New York v. Bernhard Goetz
-Strauder v. West Virginia
+Ring v. Arizona (2002)
+Roe v. Wade (1973)
+Rogers v. Koons (1992)
+Romer v. Evans (1996)
+Rompilla v. Beard (2005)
+Roper v. Simmons (2005)
+Rosenberger v. Rector And Visitors Of The University Of Virginia (1995)
+Roth v. United States (1957)
+Rowan v. United States Post Office Department (1970)
+San Antonio Independent School District v. Rodriguez (1973)
+Santa Clara County v. Southern Pacific Railroad Company (1886)
+Santa Clara Pueblo v. Marintez (1978)
+Santa Fe Independent School District v. Doe (2000)
+Schenck v. United States (1919)
+School District Of Abington Township, Pennsylvania v. Schempp (1963)
+Sebelius v. Hobby Lobby Stores, Incorporated (2014)
+Shapiro v. Thompson (1969)
+Shaw v. Reno (1993)
+Shelby County v. Holder (2013)
+Shelley v. Kraemer (1948)
+Sherbert v. Verner (1963)
+Smith v. Allwright (1944)
+Sony Corporation Of America v. University City Studios, Incorporated (1984)
+Standard Oil Corporation Of New Jersey v. United States (1911)
+State Of New York v. Bernhard Goetz (1986)
+Strauder v. West Virginia (1980)
+Suntrust Bank v. Houghton Mifflin Company (2001)
 Supreme Court Confirmation Hearings
-Swann v. Charlotte - Mecklenbery County Schools
-Sweatt v. Painter
-Terry v. Ohio
-Texas v. Johnson
-Thombury v. Gingles
-Tinker v. Des Moines Independent Community School District
-Torcaso v. Watkins
-Trinity Lutheran v. Comer
-Trump v. International Refugee Assistance Project
-United States v. Causby
-United States v. Lopez
-United States v. Ninety - Five Barrels, More Or Less, Alleged Apple Cider Vinegar
-United States v. Nixon
-United States v. William Scott & Associates
-United States v. Windsor
-Van Orden v. Perry
-Wainwright v. Witt
-Wallace v. Jaffree
-Webster v. Reproductive Health Services
-Weeks v. United States
-Welch v. Swasey
-Wesberry v. Sanders
-West Virginia Board of Education v. Barnette
-Westside Community Board Of Education v. Mergens
-Wickard v. Filburn
-Wisconsin v. Yodor
-Worcester v. Georgia
-Yates v. United States
-Zelman v. Simmons - Harris
-Ziglar v. Abbasi
-Zobel v. Willaims
-Zorach v. Clauson
-Zurcher v. Stanford Daily
+Swann v. Charlotte - Mecklenbery Board Of Education (1971)
+Sweatt v. Painter (1950)
+Terry v. Ohio (1968)
+Texas v. Johnson (1989)
+Thomburg v. Gingles (1986)
+Thompson v. Oklahoma (1988)
+Tinker v. Des Moines Independent Community School District (1969)
+Torcaso v. Watkins (1961)
+Trinity Lutheran Church Of Columbia, Incorporated v. Comer (2017)
+Trump v. International Refugee Assistance Project (2017)
+United States v. Causby (1946)
+United States v. Lopez (1995)
+United States v. Ninety - Five Barrels, More Or Less, Alleged Apple Cider Vinegar (1924)
+United States v. Nixon (1974)
+United States v. Williams (2008)
+United States v. William Scott & Associates (2014)
+United States v. Windsor (2013)
+Van Orden v. Perry (2005)
+Wainwright v. Witt (1985)
+Wallace v. Jaffree (1985)
+Webster v. Reproductive Health Services (1989)
+Weeks v. United States (1914)
+Welch v. Swasey (1909)
+Wesberry v. Sanders (1964)
+West Virginia Board of Education v. Barnette (1943)
+Westside Community Board Of Education v. Mergens (1990)
+Wickard v. Filburn (1942)
+Wisconsin v. Yodor (1972)
+Worcester v. Georgia (1832)
+Yates v. United States (1957)
+Zelman v. Simmons - Harris (2002)
+Ziglar v. Abbasi (2017)
+Zobel v. Willaims (1982)
+Zorach v. Clauson (1952)
+Zurcher v. Stanford Daily (1978)
