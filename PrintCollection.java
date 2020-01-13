@@ -16,21 +16,21 @@ public class PrintCollection {
    public static void count(Scanner input) {
       int read = 0;
       int have = 0;
-      List<String> completeList = new ArrayList<String>();
-      List<String> haveList = new ArrayList<String>();
+      // List<String> completeList = new ArrayList<String>();
+      // List<String> haveList = new ArrayList<String>();
       while (input.hasNextLine()) {
          String complete = input.nextLine();
          if (complete.contains("(Read)")) {
-            completeList.add(complete);
+            //completeList.add(complete);
             read++;
          }
          if (complete.contains("(Have)")) {
             have++;
-            haveList.add(complete);
+            //haveList.add(complete);
          }  
       }
-      System.out.println(completeList);
-      System.out.println(haveList);
+      // System.out.println(completeList);
+      // System.out.println(haveList);
       System.out.println("Things Read = " + read);
       System.out.println("Things Have = " + have);
    }
