@@ -52,7 +52,7 @@ public class PrintCollection {
          int num = rand.nextInt(list.size());
          choose = list.get(num);
       }
+      System.out.println("Things Unread = " + list.size());
       System.out.println(choose);
-      System.out.println(list.size());
    }
 }
