@@ -69,6 +69,7 @@ Ada Or Ardor: A Family Chronicle By Vladimir Nabokov
 A Day Of Pleasyre: Stories Of A Boy Growing Up In Warsaw By Isaac Bashevis Singer
 A Deadly Cliche (A Books By The Bay Mystery, #2) By Ellery Adams
 Ademe Deve Henawa (HI) By Salman Rushdie
+Adieu La Vie, Adieu L'Amour By Juan Marsé
 Admission By Travis Thrasher
 A Doll's House And Other Plays By Henrik Ibsen
 A Doubter's Almanac By Ethan Canin
@@ -249,6 +250,7 @@ Anne Of Windy Poplars (The Anne Of Green Gables Novels, #4) (Have) By Lucy Maud 
 An Old Woman And Her Cat By Doris Lessing
 Another Life By Derek Walcott
 Another Pamela / Virtue Still Rewarded By Upton Sinclair (Have)
+Another Secret: Luuletusi By Doris Kareva
 Anselm Kiefer: Transition From Cool To Warm By Karl Ove Knausgård
 Anthem By Ayn Rand (Have)
 Anthology Of Mexican Poetry By Octavio Paz
@@ -502,6 +504,7 @@ Bone: A Novel By Fae Myenne Ng (Have)
 Boomtown By James Arthur Moore
 Border Districts: A Fiction By Gerald Murnane
 Botchan By Natsume Soseki
+Boulevard Du Guinardó (ES) By Juan Marsé
 Bounty By Derek Walcott
 Boxwood By Camilo José Cela
 Boyhood Island: My Struggle Book 3 By Karl Ove Knausgård
@@ -756,6 +759,7 @@ Das Werk By Elfriede Jelinek
 Daughter Of Don Saturnino By Scott O'Dell
 David Copperfield By Charles Dickens
 Day Of The Dragon King (Magic Tree House, #14) By Mary Pope Osborne
+Days Of Grace: Selected Poems By Doris Kareva
 Dead As They Come By Ian McEwan
 Dead Babies By Martin Amis (Have)
 Deadeye Dick By Kurt Vonnegut (Read)
@@ -921,6 +925,7 @@ Ein Sportstück (DE) By Elfriede Jelinek
 Einstein: His Life And Universe By Walter Isaacson
 Einstein's Monsters By Martin Amis
 Ein Weites Feid (DE) By Günter Grass
+El Amante Bilingue (ES) By Juan Marsé
 El Arco Y La Lira (ES) By Octavio Paz
 El Curandero Mistico (ES) By Sir Vidiadhar Surajprasad Naipaul
 Electric Light By Seamus Heaney
@@ -963,6 +968,7 @@ Enduring Love By Ian McEwan
 End Zone By Don DeLillo
 Enemies, A Love Story By Isaac Bashevis Singer
 Enfances (FR) By Jean - Marie Gustave Le Clézio
+Enfermés Avec Un Seul Jouet By Juan Marsé
 England, England By Julian Barnes
 Enigma Variations: A Novel By André Aciman
 Enough By Wisława Szymborska
@@ -1176,6 +1182,7 @@ Go Eat Worms! (Goosebumps, #21) By Robert Lawrence Stine
 Going After Cacciato By Tim O'Brien
 Going To The Dogs By Julian Barnes
 GoldenEye (John Gardner's Bond, #15) By John Gardner
+Golden Girl By Juan Marsé
 Golf Dreams: Writings On Golf By John Updike (Have)
 Gone In The Wind By Margaret Mitchell (Read)
 Gone Girl By Gillian Flynn
@@ -1288,9 +1295,11 @@ High Time For Heroes (Magic Tree House, #51) By Mary Pope Osbourne
 Hill Of The Hawk By Scott O'Dell
 Himalaya Poems By Ko Un
 Hindoo Holiday: An Indian Journal By Joe Randolph "J. R." Ackerley
+Hingring By Doris Kareva
 Hint Fiction: An Anthrology Of Stories In 25 Words Or Fewer By Robert Swartwood
 Hiroshima Notes By Kenzaburō Ōe
 His Bloody Project: Documents Relating To The Case Of Roderick MacRae By Graeme Macrae Burnet
+Historia De Detectives: Detective Story By Juan Marsé
 Histoire D'Un Baiser By Albert Cim
 History Lessons (The Flash, Volume 5) By Brian Buccellato & Patrick Zircher (Read)
 History Of The Thirteen By Honoré de Balzac (Have)
@@ -1570,6 +1579,7 @@ Lady With Lapdog And Other Stories By Anton Chekhov
 La Fête Chantée Et Autres Essais De Thème Amérindien (FR) By Jean - Marie Gustave Le Clézio
 La Fièvre (FR) By Jean - Marie Gustave Le Clézio
 La Flecha Del Tiempo (FR) By Martin Amis
+La Fuga Del Rio Lobo (FR) By Juan Marsé
 La Fuite (FR) By Gao Xingjian
 La Grande Vie (FR) By Jean - Marie Gustave Le Clézio
 La Gueera De Los Gimnasios (FR) By César Aira
@@ -1584,6 +1594,7 @@ Land Of Many Colors By Maryse Condé
 Land Of Sin By José Saramago
 Landscape With Landscape By Gerald Murnane
 La Niche De La Honte By Ismail Kadare
+La Oscura Historia De La Prima Montse (ES) By Juan Marsé
 La Place De L'étoile (FR) By Patrick Modiano
 La Prière Et L'épée (FR) By Adunis
 La Princesa Primavera / The Spring Princess By César Aira
@@ -1617,6 +1628,7 @@ Lectures On Don Quixote By Vladimir Nabokov
 Lectures On Literature By Vladimir Nabokov
 Lectures On Russian Literature By Vladimir Nabokov
 Le Déluge (FR) By Jean - Marie Gustave Le Clézio
+Le Fantôme Du Cinéma Roxy (FR) By Juan Marsé
 Legend (Legend, #1) By Marie Lu (Read)
 Legend Of The Lost Legend (Goosebumps, #47) By Robert Lawrence Stine
 Legends Of The Fall By Jim Harrison
@@ -1633,6 +1645,7 @@ LeGéants (FR) By Jean - Marie Gustave Le Clézio
 Lesley Castle By Jane Austen
 Les Miserables By Victor Hugo (Read)
 Les Misérables. Piano / Vocal Selections By Alain Boublil
+Les Nuits De Shanghai (FR) By Juan Marsé
 Less By Andrew Sean Greer
 Les Sages De Chelm (FR) By Isaac Bashevis Singer
 Less Than One: Selected Essays By Joseph Brodsky
@@ -2140,6 +2153,7 @@ Out Of The Blackout By Robert Barnard
 Out Of The Dark By Patrick Modiano
 Out Of The Devil's Mouth By Travis Thrasher
 Overlord 1: The Undead King By Kugane Maruyama (Have)
+Oxygen - Important Global Resource Or Problem To Be Solved By Doris Kareva
 Pabellón De Reposo (ES) By Camilo José Cela
 Pachinko By Min Jin Lee
 Pafko At The Wall By Don DeLillo
@@ -2295,6 +2309,7 @@ Quo Vadis By Henryk Sienkiewicz
 Qyteti Pa Reklama (AB) By Ismail Kadare
 Rabbit, Run (Rabbit Angstrom, #1) By John Updike
 Rabid Growth By James Arthur Moore
+Rabos De Lagartija (ES) / Lizard Tails By Juan Marsé
 Race And Nationality In American Life By Oscar Handlin
 Race - Ing Justice, En - Gendering Power: Essays On Anita Hill, Clarence Thomas, And The Construction Of Social Reality By Toni Morrison
 Race: Vintage Minis By Toni Morrison
@@ -2465,6 +2480,7 @@ Shakespeare's Spy (Shakespeare Steeler, #3) By Gary L. Blackwood (Have)
 Shalimar The Clown By Salman Rushdie
 Shame By Salman Rushdie
 Shane By Jack Schaefer (Read)
+Shanghai Nights By Juan Marsé
 Shantytown By César Aira
 Shelter In Place By Nora Roberts
 She's Come Undone By Wally Lamb
@@ -2492,6 +2508,7 @@ Sing, Unburied, Sing By Jesmyn Ward
 Sip By Brian Allen Carr
 Sister Carrie By Theodore Dreiser
 Sisters By Raina Telgemeier
+Si Te Dicen Que Cai (ES) By Juan Marsé
 Six Feet Of The Country By Nadine Gordimer
 Six Plus One Remorses For The Sky By Odysseas Elytis
 Six Shorts 2017: The Finalists For The 2017 Sunday Times EFG Short Story Award By Bret Anthony Johnston, Celeste Ng, Kathleen Alcott, Richard Lambert, Sally Rooney & Victor Lodato
@@ -2659,6 +2676,7 @@ Tagged By Eric Walters (Read)
 Tales From The Heart: True Stories From My Childhood By Maryse Condé
 Tales From The Trails: Mexico By James Arthur Moore
 Talking It Over By Julian Barnes
+Tallinn On Your Own: An Old Town In Tales And Legends By Doris Kareva
 Tamar By Mal Peet
 Tar Baby By Toni Morrison (Have) (Read)
 Targeted (Callahan & McLane, #4) By Kendra Elliot
@@ -2668,7 +2686,9 @@ Teardrop (7 Hours, #3) By Travis Thrasher
 Telling Times: Writing And Living, 1950 - 2008
 Temptation (Solitary Tales, #3) By Travis Thrasher
 Ten By Gretchen McNeil (Read)
+Teniente Bravo (ES) By Juan Marsé
 Ten Thousand Lives By Ko Un
+Teresa L'Après - Midi By Juan Marsé
 Terra Amata (FR) By Jean - Marie Gustave Le Clézio
 Territorial Rights By Dame Muriel Spark
 Tess Of The D'urbervilles By Thomas Hardy
@@ -2827,6 +2847,7 @@ The Buried Giant By Kazuo Ishiguro
 The Burious Incident Of The Dog In The Night - Time By Mark Haddon
 The Burning Girl By Clarie Messud
 The Bus Stop By Gao Xingjian
+The Calligraphy Of Dreams By Juan Marsé
 The Call Of The Toad By Günter Grass
 The Call Of The Wild By Jack London (Read)
 The Canterbury Tales By Geoffrey Chaucer
@@ -3004,6 +3025,7 @@ The Extra By Abraham B. Yehoshua
 The Extreme (Animorphs, #24) By Katherine Applegate
 The Eye By Vladimir Nabokov (Read)
 The Eye In The Pyramid (Illuminatus, #1) By Robert Shea
+The Fallen By Juan Marsé
 The Fall Of The House Of Usher And Other Tales By Edgar Allan Poe (Have)
 The Fall Of The Stone City By Ismail Kadare
 The Falls By Joyce Carol Oates
@@ -3119,6 +3141,7 @@ The Green Mile By Stephen King (Have)
 The Green Shame: And The Triumph Of The Irish In The English - Speaking World By Thomas Keneally
 The Ground Beneath Her Feet By Salman Rushdie
 The Growing Pains Of Adrian Mole (Adrian Mole, #2) By Sue Townsend(Have)
+The Guinardó Beat By Juan Marsé
 The Guineveres By Sarah Domet
 The Gulf, And Other Poems By Derek Walcott
 The Gun By Cecil Louis Troughton Smith Forester
@@ -3652,6 +3675,7 @@ The Slave By Isaac Bashevis Singer
 The Slaves' Pen By Najwa Binshatwan
 The Slopes Of Lebanon By Amos Oz
 The Small Rain By Thomas Pynchon
+The Snares Of Memory By Juan Marsé
 The Snow Child By Eowyn Ivey
 The Snowden Files: The Inside Story Of The World's Most Wanted Man By Luke Harding
 The Social Contract By Jean - Jacques Rousseau
