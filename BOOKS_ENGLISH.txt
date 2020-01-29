@@ -66,6 +66,7 @@ Act Of The Damned By Antonio Lobo Antunes
 A Dance To The Music Of Time: 1st Movement (A Dance To The Music Of Time, #1-3) By Anthony Powell
 A Dance With Dragons (A Song of Ice and Fire, #5) By George Raymond Richard Martin
 Ada Or Ardor: A Family Chronicle By Vladimir Nabokov
+A Daughter Of Isis By Nawal El Saadawi
 A Day Of Pleasyre: Stories Of A Boy Growing Up In Warsaw By Isaac Bashevis Singer
 A Deadly Cliche (A Books By The Bay Mystery, #2) By Ellery Adams
 Ademe Deve Henawa (HI) By Salman Rushdie
@@ -783,6 +784,7 @@ Death In Midsummer And Other Stories By Yukio Mishima
 Death In The Andes By Mario Vargas Llosa
 Death Is Not An Option By Suzanne Rivecca
 Death Of A Naturalist By Seamus Heaney
+Death Of A Ex - Minister By Nawal El Saadawi
 Death On Earth: Adventures In Evolution And Mortality By Jules Howard
 Death: Vintage Minis By Julian Barnes
 Death With Interruptions By Jose Saramago
@@ -831,7 +833,8 @@ Devil On The Cross By Ngugi Wa Thiong'o
 Dialog Me Alain Bosquet (AB) By Ismail Kadare
 Dialogues In Paradise By Can Xue
 Diario De Irak (ES) By Mario Vargas Llosa
-Diario De Una Buena Vecina By Doris Lessing
+Diario De Una Buena Vecina (ES) By Doris Lessing
+Diary Of A Child Called Souad By Nawal El Saadawi
 Diary Of A Wimpy Kid (Diary Of A Wimpy Kid, #1) By Jeff Kinney (Have) (Read)
 Diccionario De Autores Latinoamericanos (ES) By Cesar Aira
 Die Ausgesperrten. Roman. (DE) By Elfriede Jelinek
@@ -1014,6 +1017,7 @@ Eu Hei - De Amar Uma Pedra (ES) By Antonio Lobo Antunes
 Eusrace Chisholm And The Works By James Purdy
 Eustace And Hilda: A Trilogy By Leslie Poles Hartley
 Euthyphro By Plato
+Evening Brings Everything Back By Jaan Kaplinski
 Eve Of The Emperor Penguin (Magic Tree House, #40) By Mary Pope Osbourne
 Evermore By Julian Barnes
 Every Breath You Take By Travis Thrasher
@@ -1186,6 +1190,7 @@ Gnostiske Essay By Jon Fosse
 Go Big Or Go Home: The Journey Toward The Dream By Scotty McCreery & Travis Thrasher
 God Bless You, Dr. Kevorkian By Kurt Vonnegut (Read)
 Goddesses & Wise Women: The Literature Of Feminist Spirituality, 1980 - 1992: An Annotated Bibliography By Anne Carson
+God Dies By The Nile By Nawal El Saadawi
 God Help The Child By Toni Morrison
 God's Dice By Martin Amis
 God's Not Dead 2 By Travis Thrasher (Read)
@@ -1253,6 +1258,7 @@ Half A Life By Sir Vidiadhar Surajprasad Naipaul
 Hallazgos Para No Lectores (ES) By Gunter Grass
 Halting Steps: Collected And New Poems By Claribel Alegria
 Handling The Undead By John Ajvide Lindqvist
+Hanan Qalil (AR) By Nawal El Saadawi
 Hannibal (Hannibal Lecter, #3) By Thomas Harris (Have)
 Harald, Claudia, And Their Son Duncan By Nadine Gordimer
 Haran De Mi Un Criminal (ES) By Javier Marias
@@ -1378,6 +1384,7 @@ I Am Legend By Richard Matheson
 I Am Malala: - The Girl Who Stood Up For Education And Was Shot By The Taliban By Malala Yousafzai (Have)
 I Am No One You Know: Stories By Joyce Carol Oates
 I Am The Messanger By Markus Zusak (Read)
+I Am The Spring In Tartu: And Other Poems Written In English By Jaan Kaplinski
 I Am The Wind By Jon Fosse
 I Am Your Evil Twin (Goosebumps 2000, #6) By Robert Lawrence Stine
 Ice By Anna Kavan
@@ -1552,6 +1559,8 @@ Kafka On The Shore By Haruki Murakami
 Kafka's Other Trial: The Letters To Felice By Elias Canetti
 Kalila And Dimna #1 - The Panchatantra Retold (Kalila And Dimna, #1) By Ramsay Wood
 Kalle Blomquist Meisterdetektiv By Astrid Lindgren
+Kanat Hiya Al - Ad'af (AR) By Nawal El Saadawi
+Kaoraamat (ET) By Jaan Kaplinski
 Karnak Cafe By Naguib Mahfouz
 Katalin Street By Magda Szabo
 Kathie Y El Hipopotamo (ES) By Mario Vargas Llosa
@@ -1580,6 +1589,7 @@ Kokoro By Soseki Natsume
 Koniec I Poczatek (PL) By Wislawa Szymborska
 Kon - Tiki By Thor Heyerdahl (Have)
 Kopfgeburten Oder Die Deutschen Sterben Aus (DE) By Gunter Grass
+Kust Tuli Oo (ET) By Jaan Kaplinski
 Kyoko By Ryu Murakami
 L. A. Alka I Perla (PL) By Olga Tokarczuk
 La Belle Sauvage (The Book Of Dust, #1) By Philip Pullman
@@ -1601,8 +1611,10 @@ La Fuite (FR) By Gao Xingjian
 La Grande Vie (FR) By Jean - Marie Gustave Le Clezio
 La Gueera De Los Gimnasios (FR) By Cesar Aira
 La Guerre (FR) By Jean - Marie Gustave Le Clezio
+La Hija De Isis (ES) By Nawal El Saadawi
 La Hija De Rappaccini (ES) By Octavio Paz
 La Huida Del Inca (ES) By Mario Vargas Llosa
+Lahzat Sidq (AR) By Nawal El Saadawi
 Lake People By Abi Maxwell
 La Llama Doble (ES) By Octavio Paz
 L. A. Math: Romance, Crime, And Mathematics In The City Of Angels By James D. Stein Jr.
@@ -1719,6 +1731,7 @@ L'Infinito Viaggiare (FR) By Claudio Magris
 Lions At Lunchtime (Magic Tree House, #11) By Mary Pope Osborne
 Liquidation By Imre Kertesz
 Listen To Me By Hannah Pittard
+Literary Crossroads: An International Exploration Of Women, Gender, And Otherhood By Juliana Daniels, Mary Jane Andron, Nawal El Saadawi & Solomon Omatsola Azumurana
 Literary Occasions By Sir Vidiadhar Surajprasad Naipaul
 Literatura Y Fantasma - Edicoin Ampliada (ES) By Javier Marias
 Literature (Have)
@@ -1770,6 +1783,7 @@ Love, Again By Doris Lessing
 Love And Exile By Isaac Bashevis Singer
 Love And Lies: An Essay On Truthfulness, Deceit, And The Growth And Care Of Erotic Love By Clancy Martin
 Love, Etc. By Julian Barnes
+Love In The Kingdom Of Oil By Nawal El Saadawi
 Love In The New Millennium By Can Xue
 Love In The Rain By Nagiub Mahfouz
 Love In The Time Of Cholera By Gabriel Garcia Marquez (Have)
@@ -1818,7 +1832,9 @@ Mansfield Park By Jane Austen
 Manual Of Painting And Calligraphy By Jose Saramago
 Mao II By Don DeLillo
 Map: Collected And Last Poems By Wislawa Szymborska
+Mar'ah Wa - Al - Sira' Al - Nafsi (AR) By Nawal El Saadawi
 Mara And Dann: An Adventure By Doris Lessing
+Ma'rakah Jadiadah Fi Qadiyat Al - Mar'ah (AR) By Nawal El Saadawi
 Marcel Duchamp, Appearance Stripped Bare By Octavio Paz
 March By Geraldine Brooks
 Marching Toward Hell: America And Islam After Iraq By Michael Scheuer
@@ -1860,8 +1876,10 @@ Memoir By Toni Morrison
 Memoire Du Vent (FR) By Adunis
 Memoirs By Lorenzo Da Ponte
 Memoirs From A Young Republic By Thomas Keneally
+Memoirs From The Women's Prison By Nawal El Saadawi
 Memoirs Of A Geisha By Arthur Golden
 Memoirs Of A Polar Bear By Yoko Tawada
+Memoirs Of A Woman Doctor By Nawal El Saadawi
 Memoire D'Elephant (FR) By Antonio Lobo Antunes
 Memories Of My Melancholy Whores By Gabriel Garcia Marquez
 Memories Of My Youth By Jose Saramago
@@ -2002,6 +2020,7 @@ Mysteries Of Winterthurn By Joyce Carol Oates
 My Struggle: Book One By Karl Ove Knausgard
 My Struggle: Book Two: A Man In Love By Karl Ove Knausgard
 My Struggle, Sixth Book By Karl Ove Knausgard
+My Travels Around The World By Nawal El Saadawi
 My Twentieth Century Evening And Other Small Breakthroughs: The Nobel Lecture By Kazou Ishiguro
 My Year In The No - Man's - Bay By Peter Handke
 Mzalendo Kimathi By Ngugi Wa Thiong'o
@@ -2040,6 +2059,7 @@ Nieobjeta Ziemia (POL) By Czeslaw Milosz
 Night (The Night Trilogy, #1) By Elie Wiesel (Read)
 Night And Day By Virginia Woolf (Have)
 Night And Hope By Arnost Lustig (Have)
+Night Birds, Night Thoughts By Jaan Kaplinski
 Nightflyers By George Raymond Richard Martin
 Night Of The Animals By Bill Broun
 Night Of The Living Dummy (Goosebumps, #7) By Robert Lawrence Stine
@@ -2273,6 +2293,7 @@ Poetry: September 2012
 Point Omega By Don DeLillo
 Poisson D'or (FR) By Jean - Marie Gustave Le Clezio
 Polar Bears Past Bedtime (Magic Tree House, #12) By Mary Pope Osborne
+Politika Ja Antipolitika (ET) By Jaan Kaplinski
 Political Fictions By Joan Didion
 Pond By Claire - Louise Bennett
 Poppy Or The Snake? By Toni Morrison
@@ -2427,6 +2448,7 @@ Salki By Wojciech Nowicki
 Salt To The Sea By Ruta Sepetys
 Salvador By Joan Didion
 Salvajes Y Sentimentales (ES) By Javier Marias
+Sama Meri Kaikissa Meissa (FI) By Jaan Kaplinski
 Same Kind Of Different As Me By Ron Hall
 Samuel Johnson Is Indignant: Stories By Lydia Davis
 San Camilo 1936 By Camilo Jose Cela
@@ -2461,6 +2483,7 @@ Scrappy Little Nobody By Anna Kendrick
 Scream School (Goosebumps 2000, #15) By Robert Lawrence Stine
 Sea Grapes By Derek Walcott
 Sea Of Poppies (Ibis Trilogy, #1) By Amitav Ghosh
+Searching By Nawal El Saadawi
 Searching For Schindler: A Memoir By Thomas Keneally
 Season In Purgatory By Thomas Keneally
 Season Of The Sandstorms (Magic Tree House, #34) By Mary Pope Osborne
@@ -2471,12 +2494,14 @@ Secure The Base: Making Africa Visible In The Globe By Ngugi Wa Thiong'o
 Seduction And Betrayal By Elizabeth Hardwick
 Seeing By Jose Saramago
 Seeing Things By Seamus Heaney
+See Ja Teine (ET) By Jaan Kaplinski
 Segu By Maryse Conde
 Segundo Libro De Cronicas (ES) By Antonio Lobo Antunes
 Seiobo There Below By Laszlo Krasznahorka
 Seized The Night: New Tales Of Vampiric Terror By Brian Keene, Charlaine Harris, David Wellington, Gary A. Braunbeck, Joe McKinney, John Ajvide Lindqvist, John Langan, Kelley Armstrong, Laird Barron, Leigh Perry, Lucy A. Snyder, Lynda Barry, Michael Koryta, Rio Youers, Robert Shearman, Scott Smith, Seanan McGuire, Sherrilyn Kenyon & Tim Lebbon
 Selected Poems By Czeslaw Milosz
 Selected Poems By Derek Walcott
+Selected Poems By Jaan Kaplinski
 Selected Poems By Octavio Paz
 Selected Poems, 1954 - 1986 By Tomas Transtromer
 Selected Poems, 1965 - 1975 By Seamus Heaney
@@ -2509,6 +2534,7 @@ Shame By Salman Rushdie
 Shane By Jack Schaefer (Read)
 Shanghai Nights By Juan Marse
 Shantytown By Cesar Aira
+She Has No Place In Paradise By Nawal El Saadawi
 Shelter In Place By Nora Roberts
 She's Come Undone By Wally Lamb
 Sherlock Holmes: The Complete Novels And Stories, Volume 1 By Arthur Conan Doyle
@@ -2700,6 +2726,7 @@ Swing Time By Zadie Smith
 Switch Bitch By Roald Dahl
 Symposium By Dame Muriel Spark
 Syria Speaks: Art And Culture From The Frontline By Zaher Omareen
+Ta'allamtu Al - Hubb (AR) By Nawal El Saadawi
 Tagged By Eric Walters (Read)
 Tales From The Heart: True Stories From My Childhood By Maryse Conde
 Tales From The Trails: Mexico By James Arthur Moore
@@ -2911,6 +2938,7 @@ The Chocolate War By Robert Cormier (Read)
 The Choice By Bob Woodward
 The Chosen By Chaim Potok (Have)
 The Chronicles Of Narnia (Chronicles Of Narnia, #1-7) By Clive Staples Lewis
+The Circling Song By Nawal El Saadawi
 The Cleft By Doris Lessing
 The Cloven Viscount By Italo Calvino
 The Cockroach By Ian McEwan
@@ -3014,6 +3042,7 @@ The Double By Jose Saramago
 The Double Flame: Love And Eroticism By Octavio Paz
 The Double Tongue By William Golding
 The Dragon Keeper (Rain Wild Chronicles, #1) By Robin Hobb
+The Dramatic Literature Of Nawal El Saadawi: God Resigns And Isis By Nawal El Saadawi
 The Dream Maker By Monica Hannan
 The Dream Of The Celt By Mario Vargas Llosa
 The Dream Sleepers And Other Stories By Patricia Grace (Have) (Read)
@@ -3045,6 +3074,7 @@ The Enigma Of Arrival By Sir Vidiadhar Surajprasad Naipaul
 The Escape (Animorphs, #15) By Katherine Applegate
 The Essential Chomsky By Noam Chomsky
 The Essential Gesture By Nadine Gordimer
+The Essential Nawal El Saadawi: A Reader By Nawal El Saadawi
 The Evenings: A Winter's Tale By Gerard Reve
 The Everything Box (Another Coop Heist, #1) By Richard Kadrey
 The Expedition Of Humphry Clinker By Tobias Smollett (Have)
@@ -3057,6 +3087,7 @@ The Eye By Vladimir Nabokov (Read)
 The Eye In The Pyramid (Illuminatus, #1) By Robert Shea
 The Fallen By Juan Marse
 The Fall Of The House Of Usher And Other Tales By Edgar Allan Poe (Have)
+The Fall Of The Imam By Nawal El Saadawi
 The Fall Of The Stone City By Ismail Kadare
 The Falls By Joyce Carol Oates
 The False Dawn By Nagiub Mahfouz
@@ -3201,6 +3232,7 @@ The Heaven Of Animals By David James Poissant
 The Hedge Knight By George Raymond Richard Martin
 The Help By Kathryn Stockett (Have)
 The Hidden (Animorphs, #39) By Katherine Applegate
+The Hidden Face Of Eve By Sawal El Saadawi
 The High Mountains Of Portugal By Yann Martel
 The Hill Of Evil Counsel By Amos Oz
 The History Of Rasselas, Prince Of Abissinia By Samuel Johnson
@@ -3250,6 +3282,7 @@ The Inheritors By William Golding
 The Innerworld Of The Outerworld Of The Innerworld By Peter Handke
 The Innocence Of Memories By Orhan Pamuk
 The Innocence Of Objects By Orhan Pamuk
+The Innocence Of The Devil By Nawal El Saadawi
 The Innocent By Ian McEwan
 The Innocents Abroad: Or The New Pilgrim's Progress By Mark Twain (Have)
 The Inquisitors' Manual By António Lobo Antunes
@@ -3444,6 +3477,7 @@ The Naked Eye (Kendra Michaels, #3) By Iris Johansen
 The Name Of The Rose By Umberto Eco (Have)
 The Names By Don DeLillo
 The Natural Order Of Things By Antonio Lobo Antunes
+The Nawal El Saadawi Reader By Nawal El Saadawi
 The Neighborhood By Mario Vargas Llosa
 The Nest By Cynthia D'Aprix Sweeney (Have)
 The Net (Have)
@@ -3467,6 +3501,7 @@ The Notebook By Jose Saramago
 The Notebook By Nicholas Sparks (Have) (Read)
 The Notebooks Of Don Rigoberto By Mario Vargas Llosa
 The Notes By Jose Saramago
+The Novel By Nawal El Saadawi
 The Novel In Africa By John Maxwell Coetzee
 The Numbered: A Play By Elias Canetti
 Then We Came To The End By Joshua Ferris (Have) (Read)
@@ -3650,7 +3685,9 @@ The Russian Bride: A Thriller By Ed Kovacs
 The Sacrifice By Joyce Carol Oates
 The Sacrifice (Animorphs, #52) By Katherine Applegate
 The Saga Of Tanya The Evil 1: Deus Lo Vuit By Carlo Zen 
+The Same River By Jaan Kaplinski
 The Same Sea By Amos Oz
+The Same Sea In Us All By Jaan Kaplinski
 The Satanic Verses By Salman Rushdie
 The Satyricon By Petronius
 The Scandal Of The Century By Gabriel Garcia Marquez
@@ -3857,6 +3894,7 @@ The Voyage Of The Armada: The Spanish Story By David Howarth (Have)
 The Walker Place: A Short Story By James Arthur Moore
 The Waltz Invention By Vladimir Nabokov
 The Wanderer (Female Difficulties) By Fanny Burney
+The Wandering Border By Jean Kaplinski
 The Wandering Man In The Grande Ronde Valley By Riley O'Zerbe
 The Wangs Vs. The World By Jade Chang
 The War Against Cliche: Essays And Reviews, 1971 - 2000 BY Martin Amis
@@ -3873,8 +3911,9 @@ The Way Of Life Should Be: A Novel By Christina Baker Kline (Have)
 The Way To Paradise By Mario Vargas Llosa
 The Weakness (Animorphs, #37) By Katherine Applegate
 The Wedding By Elias Canetti
-The Werewolf In The Living Room (Goosebumps 2000, #17) By Robert Lawrence Stine
 The Weight Of The World By Peter Handke
+The Well Of Life By Nawal El Saadawi
+The Werewolf In The Living Room (Goosebumps 2000, #17) By Robert Lawrence Stine
 The Werewolf Of Fever Swamp (Goosebumps, #14) By Robert Lawrence Stine
 The White Album By Joan Didion
 The White Bicycle (Wild Orchard, #3) By Beverley Brenna
@@ -3970,6 +4009,7 @@ Three Winters BStreets By Yoko Tawada
 Three y Czeslaw Milosz
 Thrice The Brinded Cat Hath Mew'd (Flavia De Luce, #8) By Alan Bradley
 Through The Arc Of The Rain Forest By Karen Tei Yamashita (Have)
+Through The Forest By Jaan Kaplinski
 Through The Looking - Glass And What Alice Found There (Alice's Adventures In Wonderland, #2) By Lewis Carroll (Read)
 Through The Tunnel By Doris Lessing
 Through The Window: Seventeen Essays And A Short Story By Julian Barnes
@@ -4072,6 +4112,7 @@ Two - Headed Poems By Margaret Atwood
 Two Screenplays By John Maxwell Coetzee
 Two Stories By Martin Amis
 Two Tales By Shmuel Yosef Agnon (Have) (Read)
+Two Women In One By Nawal El Saadawi
 Two Years, Eight Months And Twenty - Eight Nights By Salman Rushdie
 Tyrant Destroyed And Other Stories By Vladimir Nabokov
 Ultraluminous: A Novel By Katherine Faw
@@ -4093,6 +4134,7 @@ Underworld By Don DeLillo
 Undiscovered Country By Tom Stoppard
 Une Aventure De Choura (FR) By Patrick Modiano
 Une Fiancee Pour Choura (FR) By Patrick Modiano
+Unforced Flourishing: Understanding Jaan Kaplinski By Thomas Salumets
 Unholy Loves By Joyce Carol Oates
 UN Invitado De Honor (FR) By Nadine Gordimer
 Universal Harvester By John Darnielle
@@ -4166,6 +4208,7 @@ Voices By Claudio Magris
 Voices At Play By Dame Muriel Spark
 Voices From The Other World: Ancient Egyptian Tales By Nagiub Mahfouz
 Voices: Three Plays : To Have Been, Stadelmann, Voices By Claudio Magris
+Voimaluste Voimalikkus (ET) By Jaan Kaplinski
 Von Der Himmlischen Und Der Irdischen Liebe (DE) By Peter Nadas
 Voyage a Rodrigues (FR) By Jean - Marie Gustave Le Clezio
 Voyage Around My Room By Xavier De Maistre
@@ -4180,6 +4223,7 @@ Wakefulness By Jon Fosse
 Walden & Civil Disobedience By Henry David Thoreau
 Walker And The Ghost Dance: Plays By Derek Walcott
 Walking In The Shade: Volume Two Of My Autobiography, 1949 - 1962 By Doris Lessing
+Walking Through Fire By Nawal El Saadawi
 Walls Of A Mind: An Aiette Nouvelle Mystery (Aliette Nouvelle, #5) By John Brooke
 Wanda Hickey's Night Of Golden Memories: ANd Other Disasters By Jean Shepherd (Have)
 Wandering Star By Jean - Marie Gustave Le Clezio
@@ -4316,6 +4360,7 @@ Wives And Daughters By Elizabeth Gaskell
 Wizard Of The Crow: A Novel By Ngugi wa Thiong'o
 Wolf Hunt By Jeff Strand
 Wolken, Heim By Elfriede Jelinek
+Woman And Sex By Nawal El Saadawi
 Woman Of The Inner Sea By Thomas Keneally
 Women As Lovers By Elfriede Jelinek
 Women In Love (Brangwen Family, #2) By David Herbert Richards Lawrence (Have)
@@ -4355,6 +4400,7 @@ Your Face Tomorrow Volume 2: Dance And Dream By Javier Marias
 Your Face Tomorrow Volume 3: Poison, Shadow And Farewell By Javier Marias
 Your Heart Is A Muscle The Size Of A Fist By Sunil Yapa
 Youth: Scenes From Provincial II By John Maxwell Coetzee
+Zeina By Nawal El Saadawi
 Zen And The Art Of Motorcycle Maintenance: An Inquiry Into Values By Robert Maynard Pirsig
 Zen. Jurnal 2004 - 2010 (RU) By Mircea Cartarescu
 Zero K By Don DeLillo
