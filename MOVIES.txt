@@ -83,6 +83,7 @@ Amar (2017) By Estban Crespo
 Amber Alert (2016) By Philippe Gagnon
 Amelia (2009) By Mira Nair
 Amelia's Closet (2016) By Halima Lucas
+Amelie (2001) By Jean - Pierre Jeunet
 American Assassin (2017) By Michael Cuesta (Watched)
 American Fable (2016) By Anna Hamilton
 American Loser (2007) By Tid Harrison Williams
@@ -191,6 +192,7 @@ Blockers (2018) By Kay Cannon (Watched)
 Blood Work (2002) By Clint Eastwood
 Blow (2001) By Ted Demme (Watched)
 Bob Roberts (1992) By Tim Robbins (Watched)
+Body Heat (1981) By Lawrence Kasdan
 Body Of Lies (2008) By Ridley Scott
 Born On The Fourth Of July (1989) By Oliver Stone
 Boruto: Naruto The Movie (JP) (2015) By Hiroyuki Yamashita (Watched)
@@ -227,11 +229,13 @@ Cars 3 (2017) By Brian Fee
 Casanova (2005) By Lasse Hallstr?m
 Cast A Deadly Spell (1991) By Martin Campbell
 Catch That Kid (2004) By Bart Freundlich
-Cats & Dogs: The Revenge Of Kitty Galore
-Changing Lanes
+Catfish (2010) By Ariel Schulman & Henry Joost
+Cats & Dogs: The Revenge Of Kitty Galore (2010) By Brad Peyton
+Changing Lanes (2002) By Roger Michell
 Chaos (2005) By Tony Giglio (Watched)
 Chappie (2015) By Neill Blomkamp (Watched)
 Charade (1963) By Stanley Donen
+Chariots Of Fire (1981) By Hugh Hudson
 Charlie's Angels (2019) By Elizabeth Banks (Watched)
 Charlie's Angels: Full Throttle (2003) By Joseph McGinty Nichol
 Chasing Papi (2003) By Linda Mendoza
@@ -405,6 +409,7 @@ Fire Down Below (1997) By F?lix Enr?quez Alcal?
 Firewall (2006) By Richard Loncraine
 First Daughter (2004) By Forest Whitaker
 First Kill (2017) By Steven C. Miller
+First Man (2018) By Damien Chazelle
 Fist Fight (2017) By Richie Keen
 Fletch (1985) By Michael Ritchie
 Fletch Lives (1989) By Michael Ritchie
@@ -439,6 +444,7 @@ Ghost Rider: Spirit Of Vengeance (2011) By Brian Taylor & Mark Neveldine
 Ghosts Of Girlfriends Past (2009) By Mark Waters
 Gia (1998) By Michael Cristofer
 Gifted (2017) By Marc Webb
+Gilberto Santa Rosa, 40...Y Contando (2017) By HBO
 Girl With A Pearl Earring (2003) By Peter Webber
 Glory Road (2006) By James Gartner
 God's Not Dead (2014) By Harold Cronk (Watched)
@@ -732,6 +738,7 @@ My Sister's Keeper (2009) By Nick Cassavetes (Watched)
 Mystery, Alaska (1999) By Jay Roach
 My Zinc Bed (2008) By Anthony Page
 Nada S.A. (Nothing Co.) (2014) By Albert Pinto & Caye Casas
+Nancy McPhee Returns (2010) By Susanna White
 Napoleon Dynamite (2005) By Jared Hess
 National Lampoon's Animal House (1978) By John Landis
 National Lampoon's Van Wilder 2: The Rise Of Taj (2006) By Mort Nathan
@@ -920,6 +927,7 @@ Sol De Medianoche (Midnight Sun) (2017) By Douglas Sanchez
 Something's Gotta Give (2003) By Nancy Meyers
 Something The Lord Made (2004) By Joseph Sargent (Watched)
 Sometimes In April (2005) By Raoul Peck
+Son In Law (1993) By Steve Rash
 Sorority Boys (2002) By Wallace Wolodarsky
 Soy Nero (I Am Nero) (2006) By Rafi Pitts
 Spaceballs (1987) By Mel Brooks (Watched)
@@ -1092,6 +1100,7 @@ The House (2017) By Andrew Jay Cohen
 The Hours (2002) By Stephen Daldry
 The Human Stain (2003) By Robert Benton
 The Hunted (2003) By William Friedkin
+The Hurt Locker (2008) By Kathryn Bigelow (Watched)
 The Imitation Game (2014) By Morten Tyledum (Watched)
 The Immortal Life Of Henrietta Lacks (2017) By George Costello Wolfe (Watched)
 The Incredible Hulk (2008) By Louis Leterrier (Watched)
@@ -1134,6 +1143,7 @@ The Mask (1994) By Chuck Russell
 The Medallion (2003) By Gordon Chan
 The Meyerowitz Stories (New And Selected) (2017) By Noah Baumbach
 The Midnight Meat Train (2008) By Ryûhei Kitamura
+The Miseducation Of Cameron Post (2018) By Desiree Akhavan 
 The Mountain Between Us (2017) By Hany Abu - Assad
 The Mummy (2017) By Alex Kurtzman (Watched)
 The Music In Me: A Family Special (2007) By Amy Schatz, Mark Benjamin & Mark Mannucci
@@ -1143,6 +1153,7 @@ The Ninth Gate (1999) By Roman Polanski
 The Normal Heart (2014) By Ryan Murphy
 The Notorious Bettie Page (2005) By Mary Harron
 The Nutty Professor (1996) By Tom Shadyac
+The Old Man & The Gun (2018) By David Lowry (Watched)
 The Outcasts (2017) By Peter Hutchings
 The Package (2018) By Jake Szymanski (Watched)
 The Pentagon Wars (1998) By Richard Benjamin
@@ -1292,6 +1303,7 @@ White Fang (1991) By Randal Kleiser
 White Mile (1994) By Robert Butler
 Who Framed Roger Rabbit? (1988) By Robert Zemeckis (Watched)
 Why Him? (2016) By John Hamburg
+Widows (2018) By Steve McQueen
 Wilson (2017) By Craig Johnson
 Winter's Tale (2014) By Akiva Goldsman
 Wish I Was Here (2014) By Zach Braff
@@ -1314,6 +1326,7 @@ X - Men: Apocalypse (2016) By Bryan Singer
 X - Men Origins: Wolverine (2009) By Gavin Hood
 Y Mañana Navidad (Merry Christmas) (2015) By Héctor Rull
 Yesterday (2019) By Danny Boyle
+Yogi Bear (2010) By Eric Brevig
 Yo No Soy Guerrillero (I'm Not A Rebel) (2017) By Sergio Sánchez Suárez
 Yo Soy Un Politico (I Am A Politician) (2016) By Javier Colón Ríos
 You Don't Know Jack (2010) By Barry Levinson
