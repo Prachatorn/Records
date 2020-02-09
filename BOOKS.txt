@@ -420,7 +420,9 @@ Barley Patch By Gerald Murnane
 Baroane! By Mircea Cărtărescu
 Baron Wenckheim's Homecoming By László Krasznahorka
 Barrel Of A Pen By Ngũgĩ Wa Thiong'o
+Bartleby & Co By Enrique Vila - Matas
 Bartleby The Scrivener By Herman Melville
+Batman Arkham: Ra’s Al Ghul: The Best Of The Demon And The Bat! By DC (Read)
 Be Afraid -- Be Very Afraid! (Goosebumps 2000, #20) By Robert Lawrence Stine
 Beartown: A Novel (Beartown, #1) By Fredrik Backman
 Beast By Brie Spangler
@@ -733,6 +735,7 @@ Cormac McCarthy: A Descriptive Bibliography By Cormac McCarthy
 Corner Boy: A Novel By Herbert Simmons
 Corrigan By Caroline Blackwood
 Cosmopolis By Don DeLillo
+Cossee Essay By David Grossman
 Countries Of The Mind: The Fiction Of J. M. Coetzee By David Guttman, Dick Penner & John Maxwell Coetzee
 Coup De Semonce (FR) By William Golding
 Course Of Empire: Paintings By Joan Didion
@@ -948,7 +951,8 @@ Dr. Maniac Vs. Robby Schwartz (Goosebumps HorrorLand, #5) By Robert Lawrence Sti
 Drückender Tango (DE) By Herta Müller
 Druga Przestrzen (POL) By Czesław Miłosz
 Drums And Colours By Derek Walcott
-Dry Storeroom No. 1: The Secret Life Of The Natural History Museum
+Dry Storeroom No. 1: The Secret Life Of The Natural History Museum By Richard Fortey
+Dublinesque By Enrique Vila - Matas
 Dublu Album By Mircea Cărtărescu
 Duel By David Grossman
 Duffy By Julian Barnes
@@ -1388,7 +1392,8 @@ Hingring By Doris Kareva
 Hint Fiction: An Anthrology Of Stories In 25 Words Or Fewer By Robert Swartwood
 Hiroshima Notes By Kenzaburō Ōe
 His Bloody Project: Documents Relating To The Case Of Roderick MacRae By Graeme Macrae Burnet
-Historia De Detectives: Detective Story By Juan Marsé
+Historia Abreviada De La Literatura Portátil
+ (ES) By Enrique Vila - MatasHistoria De Detectives: Detective Story By Juan Marsé
 Histoire D'Un Baiser By Albert Cim
 History Lessons (The Flash, Volume 5) By Brian Buccellato & Patrick Zircher (Read)
 History Of The Thirteen By Honoré de Balzac (Have)
@@ -1587,6 +1592,9 @@ Is That An Unlucky Leprechaun In Your Lunch? By Todd Strasser (Have)
 It By Stephen King
 Itaca E Oltre (IT) By Claudio Magris
 Italian Stories (Have)
+Itamar Mikhtav (AR) By David Grossman
+Itamar Pogesh Arnav (AR) By David Grossman
+Itamar Ve - Kova Ha - Ksamim Ha Shachor (AR) By David Grossman
 It Came From Beneath The Sink! (Goosebumps, #30) By Robert Lawrence Stine
 Itinerary: An Intellectual Journey By Octavio Paz
 I, Tituba: Black Witch Of Salem By Maryse Condé
@@ -1897,6 +1905,7 @@ Lunia: Triumph, Tragedy, And The End Of The Edwardian Age By Greg King
 Lust By Elfriede Jelinek
 Lying Under The Apple Tree By Alice Munro
 Lyrical And Critical Essays By Albert Camus
+Mac And His Problem By Enrique Vila - Matas
 MacArthur At War: World War II In The Pacific By Walter R. Borneman (Have)
 Machines Like Me By Ian McEwan
 Macho! By Edmund Villasenor (Have)
@@ -2044,7 +2053,8 @@ Monster Blood II (Goosebumps, #18) By Robert Lawrence Stine
 Monster Blood III (Goosebumps, #29) By Robert Lawrence Stine
 Monster Blood IV (Goosebumps, #62) By Robert Lawrence Stine
 Monster Blood For Breakfast! (Goosebumps HorrorLand, #3) By Robert Lawrence Stine
-Montrose: The Captain General By Nigel Tranter (Have)
+Montrano By Enrique Vila - Mata
+Montose: The Captain General By Nigel Tranter (Have)
 Moonbath By Yanick Lahens
 Moon - Child: A Play By Derek Walcott
 Moonglow By Michael Chabon
@@ -2150,6 +2160,7 @@ Negotiating With The Dead: A Writer On Writing By Margaret Atwood (Have)
 Nëntori I Një Kryeqyteti (AB) By Ismail Kadare
 Neon In Daylight: A Novel By Hermione Hoby
 Nervous Conditions (Nervous Conditions, #1) By Tsitsi Dangarembga
+Never Any End To Paris By Enrique Vila - Matas
 Never Let Go By John Baker, Mac Owen, Mary Owen & Travis Thrasher
 Never Let Me Go By Kazou Ishiguro
 Neverwhere (London Below, #1) By Neil Gaiman
@@ -2188,6 +2199,7 @@ Njumba Nenes Pistol By Ngũgĩ Wa Thiong'o
 Nobody Knows (KEY News, #5) By Mary Jane Clark
 Nobody's Fool By Richard Russo
 Nobody's Home By Dubravka Ugrešić
+No Cape Needed: The Simplest, Smartest, Fastest Steps To Improve How You Communicate By Leaps And Bounds By David Grossman
 No Country For Old Men: A Novel By Cormac McCarthy (Have)
 Nocturnes: Five Stories Of Music And Nightfall By Kazup Ishiguro (Read)
 No End Of Fun By Wisława Szymborska
@@ -3217,7 +3229,7 @@ The Edible Woman By Margaret Atwood
 The Elegies Of Oxopetra By Odysseas Elytis
 The Elephant's Journey By José Saramago
 The Ellimist Chronicles (Animorphs, #47.5) By Katherine Applegate
-The Embroidered Shoes: Stories By Can Xue
+The Embroidered Shoes: Stories By Can Xue (Read)
 The Emperor Of Any Place By Tim Wynne - Jones
 The Enchanter By Vladimir Nabokov
 The Enchantress Of Florence By Salman Rushdie
@@ -3429,6 +3441,7 @@ The Hunting Of The Snark By Lewis Carroll
 The Ice Dragon By George Raymond Richard Martin
 The Illegal By Lawrence Hill
 The Illiad By Homer
+The Illogic Of Kassel By Enrique Vila - Matas
 The Illusion (Animorphs, #33) By Katherine Applegate
 The Imitation Game By Ian McEwan
 The Immortalists: A Novel By Chloe Benjamin
@@ -3868,6 +3881,7 @@ The Scream Of The Haunted Mask (Goosebumps HorrorLand, #4) By Robert Lawrence St
 The Sea Cloak By Nayrouz Qarmout
 The Seamstress And The Wind By César Aira
 The Sea Of Gold And Other Tales From Japan By Yoshiko Uchida (Read)
+The Second Book Of Moses, Called Exodus By David Grossman
 The Second Plane By Martin Amis
 The Second Son (Berlin Trilogy, #3) By Jonathan Rabb
 The Second Thief By Travis Thrasher
@@ -4339,6 +4353,7 @@ Up A Road Slowly By Irene Hunt
 Up In The Old Hotel By Joseph Mitchell
 Up In The Tree By Margaret Atwood
 Uprooted By Naomi Novik
+Uri's Special Language By David Grossman
 USA: The 42nd Parallel / 1919 / The Big Money By John Dos Passos
 Ute Av Verden (NO) By Karl Ove Knausgård
 Utopia By Thomas More (Have)
@@ -4578,6 +4593,7 @@ Wonderful, Wonderful Times By Elfriede Jelinek
 Wonderland By Joyce Carol Oates
 Wonder (The Book Of Marvella, #2) By Travis Thrasher
 Wonder Woman: Warbringer (DC Icons, #1) By Leigh Bardugo
+Words Into Flesh By David Grossman
 Words Without Borders By Zaher Omareen
 Work Like Any Other By Virginia Reeves
 World Order By Henry Kissinger
@@ -4605,6 +4621,7 @@ You Are A Badass: How To Stop Doubting Your Greatness And Start Living An Awesom
 You Begin By Margaret Atwood
 You Be The Jury: Courtroom Collection By Marvin Miller (Have)
 You Can't Scare Me! (Goosebumps, #15) By Robert Lawrence Stine
+You Can't Not Communicate: More Proven Communication Solutions That Power The Fortune 100 By David Grossman
 Young Lonigan (Stud Lonigan, #1) By James Thomas Farrell
 Young Once By Patrick Modiano
 You're More Powerful Than You Think: A Citizen's Guide To Making Change Happen By Eric Liu
