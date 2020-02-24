@@ -17,6 +17,7 @@
 40 By Travis Thrasher
 4 3 2 1: A Novel By Paul Auster
 69 By Ryu Murakami
+77 Shadow Street By Dean Koontz
 7 Hours Omnibus By Mike Dellosso, Rene Gutteridge, Tom Parlick & Travis Thrasher
 A Bad Case Of Stripes By David Shannon
 A Banquet Of Consequences By Elizabeth George
@@ -314,6 +315,7 @@ A Separate Peace By John Knowles (Read)
 A Separate Peace: A Play In One Act By Tom Stoppard
 Asesinaato Del Perdedor, El (ES) By Camilo Jose Cela
 A Severed Head By Iris Murdoch
+Ashley Bell By Dean Koontz
 A Shocker On Shock Street (Goosebumps, #35) By Robert Lawrence Stine
 A Short History Of Hairdressing (Storycuts) By Julian Barnes
 As I Lay Dying By William Faulkner (Read)
@@ -557,6 +559,7 @@ Brodsky: A Personal Memoir By Joseph Brodsky & Liudmila Shtern
 Broken By Travis Thrasher
 Broken April By By Ismail Kadare
 Bronka: An Annotated Russian Reader By Lyudmila Ulitskaya
+Brother Odd By Dean Koontz
 Brothers By Yu Hua
 Bruiser By Neal Shusterman (Read)
 Bud, Not Buddy By Christopher Paul Curtis (Have)
@@ -569,6 +572,7 @@ Burn This Book By Toni Morrison
 Burn This Book: PEN Writers Speak Out On The Power Of The Word By Toni Morrison
 Bush At War By Bob Woodward
 Buying A Fishing Rod For My Grandfather By Gao Xingjian
+By The Light Of The Moon By Dean Koontz
 By The Line By Thomas Keneally
 By The North Gate By Joyce Carol Oates
 Cain By Jose Saramago
@@ -679,6 +683,7 @@ Cloud Atlas By David Mitchell
 Coeur Brule Et Autres Romances (FR) By Jean - Marie Gustave Le Clezio
 Coin Locker Babies By Ryu Murakami
 Cold Comfort Farm By Stella Gibbons
+Cold Fire By Dean Koontz
 Collected Fictions By Jorge Luis Borges
 Collected Novellas By Gabriel Garcia Marquez
 Collected Poems By Czeslaw Milosz
@@ -794,6 +799,7 @@ Dark Day In The Deep Sea (Magic Tree House, #39) By Mary Pope Osbourne
 Darkness At Noon By Arthur Koestler
 Darkness: Fiction By Dacia Maraini
 Darkness Visible By William Golding
+Dark Rivers Of The Heart By Dean Koontz
 Dark Rooms By Olga Tokarczuk
 Dark Visions By George Raymond Dan Simmons, Richard Martin & Stephen King
 Das Gewicht Der Welt (DE) By Peter Handke
@@ -830,6 +836,7 @@ Death Without Weeping: The Violence Of Everyday Life In Brazil By Nancy Scheper 
 Decolonising The Mind By Ngugi Wa Thiong'o
 Decreation: Poetry, Essays, Opera By Anne Carson
 Deeper By James Arthur Moore
+Deeply Odd By Dean Koontz
 Deep Trouble (Goosebumps, #19) By Robert Lawrence Stine
 Deep Trouble II (Goosebumps, #58) By Robert Lawrence Stine
 De La Mort Sans Exagerer (FR) By Wislawa Szymborska
@@ -838,6 +845,7 @@ Deliverance By James Dickey
 Del Mino Al Bidasoa (ES) By Camilo Jose Cela
 Delusions Of Grandma By Carrie Fisher
 Demasiada Nieve Alrededor (ES) By Javier Marias
+Demon Seed By Dean Koontz
 Demian By Hermann Hesse
 Democracy By Joan Didion
 Denton's Death By Martin Amis
@@ -937,6 +945,7 @@ Do You Believe? By Travis Thrasher
 Dracula By Bram Stoker (Have)
 Dracula The Undead By Freda Warrington
 Dragon Of The Red Dawn (Magic Tree House, #37) By Mary Pope Osborne
+Dragon Tears By Dean Koontz
 Dreamcatcher By Stephen King (Have)
 Dream London By Tony Ballantyne (Have)
 Dream Of Ding Village By Yan Lianke
@@ -1183,6 +1192,7 @@ Fortune Smiles By Adam Johnson
 For Whom The Bell Tolls By Ernest Hemingway
 Fosse: Plays Six By Jon Fosse
 Foundation (Foundation, #1) By Isaac Asimov
+Foundation And Empire (Foundation, #2) By Isaac Asimov
 Fountain And Tomb By Nagiub Mahfouz
 Four Play By Maya Banks
 Four Plays For Radio By Tom Stoppard
@@ -1211,6 +1221,7 @@ Fright Camp (Goosebumps 2000, #8) By Robert Lawrence Stine
 Frog By Mo Yan
 From A Crooked Rib By Nuruddin Farah
 From Here To Eternity By James Jones
+From The Corner Of His Eye By Dean Koontz
 From The Diary Of A Snail By Gunter Grass
 From The Fatherland, With Love By Ryu Murakami
 Frontier By Can Xue
@@ -1381,6 +1392,7 @@ Heroes Of The Frontier By Dave Eggers
 Herself Surprised (First Trilogy, Vol.1) By Joyce Cary
 Her Sister's Shoes (Sweeney Sisters, #1) By Ashley Farley
 Hiding In Plain Sight By Nuruddin Farah
+Hideaway By Dean Koontz
 Hier, Demain (FR) By Nuruddin Farah
 High Lonesome: New & Selected Stories, 1966 - 2006 By Joyce Carol Oates
 High Tide In Hawaii (Magic Tree House, #28) By Mary Pope Osborne
@@ -1464,6 +1476,7 @@ I Am The Spring In Tartu: And Other Poems Written In English By Jaan Kaplinski
 I Am The Wind By Jon Fosse
 I Am Your Evil Twin (Goosebumps 2000, #6) By Robert Lawrence Stine
 Ice By Anna Kavan
+Icebound By Dean Koontz
 Ich, Ein Anderer (DE) By Imre Kertesz
 Ich Schwebe Uber Krakau. Erinnerungsbilder (PO) By Adam Zagajewski
 I, Claudius (Claudius, #1) By Robert Graves
@@ -1556,6 +1569,7 @@ Into The Drowning Deep (Rolling In The Deep, #1) By Mira Grant
 Introducing Don DeLillo By Don DeLillo
 Introduction 7: Stories By New Writers By Kazou Ishiguro
 Intruder In The Dust By William Faulkner (Have)
+Invasion By Dean Koontz
 Invasion Of The Body Snatchers By Jack Finney
 Invasion Of The Space Invaders By Martin Amis
 Invasion Of The Body Squeezers Part 1 (Goosebumps 2000, #4) By Robert Lawrence Stine
@@ -1570,6 +1584,7 @@ Invitation To A Beheading By Vladimir Nabokov
 I Predict A Riot By Catherine Bruton (Read)
 I Refuse: A Novel By Per Petterson
 Irish Journal By Heinrich Boll (Have)
+I, Robot By Isaac Asimov
 I, Robot: To Protect (I, Robot: Reichert, #1) By Mickey Zucker Reichert (Have)
 Ironweed By William Kennedy
 Irr! Gront (NO) By Dag Solstad
@@ -1815,6 +1830,7 @@ Life 3.0: Being Human In The Age Of Artificial Intelligence By Max Tegmark
 Life And Death Are Wearing Me Out By Mo Yan
 Life As We Know It By Susan Beth Pfeffer (Read)
 Life Before Man By Margarte Atwood
+Life Expectancy By Dean Koontz
 Life Is Elsewhere By Milan Kundera
 Life Of Pi By Yann Martel (Have) (Read)
 Life Plays With Me By David Grossman
@@ -2093,6 +2109,7 @@ Moving The Centre By Ngugi Wa Thiong'o
 Mr. Mani By Abraham B. Yehoshua
 Mr. Mercedes (Bill Hodges Trilogy, #1) By Stephen King
 Mr. Mulliner Speaking By Sir Pelham Grenville Wodehouse
+Mr. Murder By Dean Koontz
 Mr. Rochester By Sarah Shoemaker
 Mr. Salary: Faber Stories By Sally Rooney
 Mrs. Caldwell Habla Con Su Hijo (ES) By Camilo Jose Cela
@@ -2190,6 +2207,8 @@ Night (The Night Trilogy, #1) By Elie Wiesel (Read)
 Night And Day By Virginia Woolf (Have)
 Night And Hope By Arnost Lustig (Have)
 Night Birds, Night Thoughts By Jaan Kaplinski
+Night Chills By Dean Koontz
+Nightfall By Isaac Asimov & Robert Silverberg
 Nightflyers By George Raymond Richard Martin
 Night Of The Animals By Bill Broun
 Night Of The Living Dummy (Goosebumps, #7) By Robert Lawrence Stine
@@ -2260,6 +2279,8 @@ Objecto Quase By Jose Saramago
 Occasion For Loving By Nadine Gordimer
 O Charoun Kai E Thalassa Ton Paramythion (HI) By Salman Rushdie
 October Light By John Gardner
+Odd Apocalypse By Dean Koontz
+Odd Hours By Dean Koontz
 Odd Thomas By Dean Koontz
 Odes By Horace
 Odysseus Elytis, Selected Poems By Odysseas Elytis
@@ -2291,6 +2312,7 @@ One Bad Week: A Jonathan Crowley Chronicle By James Arthur Moore
 One Day at Horrorland (Goosebumps, #16) By Robert Lawrence Stine
 One Day Ice Again For Thucydides By Peter Handke
 One Day In The Life Of Ivan Denisovich By Aleksandr Solzhenitsyn
+One Door Away From Heaven By Dean Koontz
 One Flew Over The Cuckoo Nest By Dale Wasserman
 One Flew Over The Cuckoo Nest By Ken Kesey (Read)
 One Hundred Years Of Solitude By Gabriel Garcia Marquez (Have)
@@ -2477,6 +2499,7 @@ Prize Stock By Kenzaburo Oe
 Probably Joy By Jose Saramago
 Pro Bono By Seicho Matsumoto
 Procedures For Underground By Margaret Atwood
+Prodigal Son By Dean Koontz
 Prodigals: Stories By Greg Jackson
 Prodigy (Legend, #2) By Marie Lu (Read)
 Professor Andersens Natt: Roman (NO) By Dag Solstad
@@ -2599,6 +2622,7 @@ Sacre Bleu: A Comedy D'Art By Christopher Moore
 Sacred Hunger (Sacred Hunger, #1) By Barry Unsworth
 Sacrificing Families: Navigating Laws, Labor, And Love Across Borders By Leisy J. Abrego (Have)
 Safe Haven By Nicholas Sparks
+Saint Odd By Dean Koontz
 'Salem's Lot By Stephen King
 Salki By Wojciech Nowicki
 Salt To The Sea By Ruta Sepetys
@@ -2657,6 +2681,7 @@ See Under: Love By David Grossman
 Segu By Maryse Conde
 Segundo Libro De Cronicas (ES) By Antonio Lobo Antunes
 Seiobo There Below By Laszlo Krasznahorka
+Seize The Night By Dean Koontz
 Seized The Night: New Tales Of Vampiric Terror By Brian Keene, Charlaine Harris, David Wellington, Gary A. Braunbeck, Joe McKinney, John Ajvide Lindqvist, John Langan, Kelley Armstrong, Laird Barron, Leigh Perry, Lucy A. Snyder, Lynda Barry, Michael Koryta, Rio Youers, Robert Shearman, Scott Smith, Seanan McGuire, Sherrilyn Kenyon & Tim Lebbon
 Selected Poems By Adam Zagajewski
 Selected Poems By Czeslaw Milosz
@@ -2771,6 +2796,7 @@ Sol By Wislawa Szymborska
 Solar By Ian McEwan
 Sol El Primero (GRK) By Odysseas Elytis
 Solenoid: Roman (DE) By Mircea Cartarescu
+Sole Survivor By Dean Koontz
 Solidarite, Solitude (FR) By Adam Zagajewski
 Solidarity, Solitude: Essays By Adam Zagajewski
 Solidarnosc I Samotnosc (PO) By Adam Zagajewski
@@ -2854,6 +2880,7 @@ Storia Di Piera (IT) By Dacia Maraini
 Stories By Gabriel Garcia Marquez
 Story And Other Stories By Lydia Davis
 Straight Fiction By Martin Amis
+Strangers By Dean Koontz
 Strangories For Children By Isaac Bashevis Singer
 Strange Pilgrims By Gabriel Garcia Marquez
 Stranger Shores By John Maxwell Coetzee
@@ -3031,6 +3058,7 @@ The Best American Sports Writing 1999 By Richard Ford
 The Best Awful There Is By Carrie Fisher
 The Best Of Connie Willis: Award - Winning Stories By Connie Willis
 The Bible By Unknown (Have)
+The Bicentennial Man By Isaac Asimov
 The Big Box By Toni Morrison
 The Big Green Tent By Lyudmila Ulitskaya
 The Bill By Laszlo Krasznahorka
@@ -3110,6 +3138,7 @@ The Castle Of Kings By Oliver Potzsch
 The Casual Vacancy By Joanne Rowling
 The Catcher Of The Rye By Jerome David Salinger (Read)
 The Cave By Jose Saramago
+The Caves Of Steel By Isaac Asimov
 The Celebration Of Insignificance By Milan Kundera
 The Cement Garden By Ian McEwan
 The Chalk Man: A Novel By C.J. Tudor
@@ -3174,6 +3203,7 @@ The Country Of Ice Cream Star By Sandra Newman
 The Cow By Lydia Davis
 The Crime By Nagiub Mahfouz
 The Crimson Cord: Rahab's Story (Daughters Of The Promisd Land, #1) By Jill Eileen Smith
+The Crooked Staircase By Dean Koontz
 The Crossing By Cormac McCarthy
 The Crucible By Aruther Miller (Have) (Read)
 The Cruise Of The Arctic Star By Scott O'Dell
@@ -3231,6 +3261,7 @@ The Dog Of The South By Charles Portis
 The Dogs Of Avalon: The Race To Save Animals In Peril By Laura Schenone
 The Doll By Ismail Kadare
 The Doll - Master: And Other Tales Of Terror By Joyce Carol Oates
+The Door To December By Dean Koontz
 The Double By Jose Saramago
 The Double Flame: Love And Eroticism By Octavio Paz
 The Double Tongue By William Golding
@@ -3261,6 +3292,7 @@ The Encyclopedna Of Dragons By Mircea Cartarescu
 The End: My Struggle By Karl Ove Knausgard
 The End Of A Family Story By Peter Nadas
 The End Of Affair ThBy Graham Greene
+The End Of Eternity By Isaac Asimov
 The End Of The Story: A Novel By Lydia Davis
 The Enemy (The Enemy, #1) By Charlie Higson (Have) (Read)
 The Enigma Of Arrival By Sir Vidiadhar Surajprasad Naipaul
@@ -3279,6 +3311,7 @@ The Extreme (Animorphs, #24) By Katherine Applegate
 The Eye By Vladimir Nabokov (Read)
 The Eye In The Pyramid (Illuminatus, #1) By Robert Shea
 The Eyes Of Darkness By Dean Koontz
+The Face By Dean Koontz
 The Fallen By Juan Marse
 The Fall Of The House Of Usher And Other Tales By Edgar Allan Poe (Have)
 The Fall Of The Imam By Nawal El Saadawi
@@ -3333,6 +3366,7 @@ The Friendly Persuasion By Jessamyn West (Have)
 The Frolic Of The Beasts By Yukio Mishima
 The Fruit Cage (Storycuts) By Julian Barnes
 The Funeral Party By Lyudmila Ulitskaya
+The Funhouse By Dean Koontz
 The Future Won't Be Long By Jarett Kobek
 The Game Of Contemporaneity By Kenzaburo Oe
 The Game Of Love And Death By Martha Brockenbrough (Read)
@@ -3377,6 +3411,7 @@ The Golden House By Salman Rushdie
 The Golden Notebook By Doris Lessing
 The Goldfinch By Donna Tartt
 The Good Elem By Isaac Bashevis Singer
+The Good Guy By Dean Koontz
 The Good People Of New York: A Novel By Thisbe Nissen (Have)
 The Good Son By Ian McEwan
 The Goarth (House Of Earth, #1) By Pearl Sydenstricker Buck
@@ -3456,6 +3491,7 @@ The House At The Edge Of Night By Catherine Banner
 The House Gun By Nadine Gordimer
 The House Of Cloud By Fereshteh Molavi
 The House Of The Spirits By Isabel Allende
+The House Of Thunder By Dean Koontz
 The House On Mango Street By Sandra Cisneros (Read)
 The Human Province By Elias Canetti
 The Hunchback Of Notre Dame By Victor Hugo (Read)
@@ -3464,6 +3500,7 @@ The Hundred Secret Senses By Amy Tan (Have)
 The Hunger Angel By Herta Muller
 The Hunger Games (The Hunger Games, #1) By Suzanne Collins (Read)
 The Hunting Of The Snark By Lewis Carroll
+The Husband By Dean Kootz
 The Ice Dragon By George Raymond Richard Martin
 The Illegal By Lawrence Hill
 The Illiad By Homer
@@ -3546,6 +3583,7 @@ The Last Lover By Can Xue
 The Last Of The Mohicans (The Leatherstocking Tales, #2) By James Fenimore Cooper
 The Last Of The President's Men By Bob Woodward
 The Last Poems By Czeslaw Milosz
+The Last Question By Isaac Asimov
 The Last Sacrifice: The Tides Of War By James Arthur Moore
 The Last Stand Of The DNA Cowboys By Mick Farren (Have)
 The Last Starfighter By Alan Dean Foster
@@ -4106,6 +4144,7 @@ The Village On Horseback: Prose and Verse, 2003 - 2008 By Jesse Ball
 The Virgin And The Gypsy By David Herbert Lawrence (Have) (Read)
 The Virtuous Burglar By Dario Fo
 The Visitor (Animorphs, #2) By Katherine Applegate
+The Voice Of The Night By Dean Koontz
 The Voices Of Marrakesh: A Record Of A Visit By Elias Canetti
 The Voyage Of The Armada: The Spanish Story By David Howarth (Have)
 The Walker Place: A Short Story By James Arthur Moore
@@ -4132,6 +4171,7 @@ The Weight Of The World By Peter Handke
 The Well Of Life By Nawal El Saadawi
 The Werewolf In The Living Room (Goosebumps 2000, #17) By Robert Lawrence Stine
 The Werewolf Of Fever Swamp (Goosebumps, #14) By Robert Lawrence Stine
+The Whispering Room By Dean Koontz
 The White Album By Joan Didion
 The White Bicycle (Wild Orchard, #3) By Beverley Brenna
 The White Castle By Orphan Pamuk
@@ -4239,6 +4279,7 @@ Through The Window: Seventeen Essays And A Short Story By Julian Barnes
 Thunder Rolling In The Mountains By Scott O'Dell
 Thus Bad Begins By Javier Marias
 Thyroid Diary: A Story By Lydia Davis
+Ticktock By Dean Koontz
 Tiepolo's Hound By Derek Walcott
 Ties By Domenico Starnone
 Tigers At Twilight (Magic Tree House, #19) By Mary Pope Osborne
@@ -4333,6 +4374,7 @@ Twenty And Ten By Claire Huchet Bishop (Have)
 Twenty Scottish Tales & Legends By Cyril Swinson (Read)
 Twenty Sonnets To Mary, Queen Of Scots By Joseph Brodsky
 Twice Born: A Novel (Movie Tie - In) By Margaret Mazzantini
+Twilight Eyes By Dean Koontz
 Twilight Of The Eastern Gods By Ismail Kadare
 Twin Flower: A Story Of Bali By G.E.P. Collins (Have)
 Twister On Tuesday (Magic Tree House, #23) By Mary Pope Osborne
@@ -4407,6 +4449,7 @@ Various Voices By Harold Pinter
 Vater Telefoniert Mit Den Fliegen By Herta Muller
 Veil: The Secret Wars Of The CIA, 1981 - 1987 By Bob Woodward
 Veces Un Caballero (ES) By Javier Marias
+Velocity By Dean Koontz
 Velvet Waters By Gerald Murnane
 Venice, An Interior By Javier Marias
 Ventanas De Manhattan (ES) By Antonio Munoz Molina
@@ -4536,6 +4579,7 @@ What Moves At The Margin: Selected Nonfiction By Toni Morrison
 What Must Be Said By Gunter Grass
 What Our Minds Do When We Read Novels By Orhan Pamuk 
 What Ours Is Not Yours: Stories By Helen Oyeyemi (Read)
+What The Night Knows By Dean Koontz
 What The Twilight Says By Derek Walcott
 What We Saw By Aaron Hartzler (Read)
 What Wives Wish Their Husbands Knew About Women By James Clayton "Jim" Dobson, Jr. (Have)
@@ -4565,6 +4609,7 @@ While I Was Gone By Sue Miller (Have)
 While Mortals Sleep: Unpublished Short Fiction By Kurt Vonnegut
 While The Women Are Sleeping By Javier Marias
 Whiskey Tango Foxtrot By David Shafer
+Whispers By Dean Koontz
 White Dog And Swing Frame By Mo Yan
 White Egrets By Derek Walcott
 White Fang By Jack London (Read)
