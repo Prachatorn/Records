@@ -18,6 +18,7 @@
 3 Novels By César Aira By César Aira
 40 By Travis Thrasher
 4 3 2 1: A Novel By Paul Auster
+5 Days That Shook The World By Alexander Cockburn, Allan Sekula & Jeffrey St. Clair (Have)
 69 By Ryu Murakami
 77 Shadow Street By Dean Koontz
 7 Hours Omnibus By Mike Dellosso, Rene Gutteridge, Tom Parlick & Travis Thrasher
@@ -1144,6 +1145,7 @@ Fables: The Wolf Among Us Volume 1 By Dave Justus, Eric Nguyen, Lee Loughridge, 
 Fables: The Wolf Among Us Volume 2 By Andrew Pepoy, Christopher Mitten, Dave Justus, Eric Nguyen, Joelle Jones, Lee Loughridge, Matthew Sturges, Megan Levens, Shawn McManus, Steve Sadowski, Travis Moore (Read)
 Facing The Bridge By Yoko Tawada
 Fado Alexandrino By Antonio Lobo Antunes
+Fairy Tales for Computers By Leslie George Katz
 Family Matters By Rohinton Mistry
 Farenheit 451 By Rad Bradbury (Read)
 Faith By Len Deighton
@@ -1620,6 +1622,7 @@ In The Name Of The Mother: Reflections On Writers & Empire By Ngugi Wa Thiong'o
 In The Native State By Tom Stoppard
 In The Night Of Time By Antonio Munoz Molina
 In The Pit: A Cape Breton Coal Miner By Rennie MacKenzie
+In The Skin Of A Jihadist: A Young Journalist Enters The Isis Recruitment Network By Anna Erelle (Have)
 In The South By Salman Rushdie
 In The Tall Grass By Joe Hill & Stephen King
 In The Time Of Dinosaurs (Animorphs, #18.5) By Katherine Applegate
@@ -1685,6 +1688,7 @@ Jailbird By Kurt Vonnegut (Have)
 Jakarta By Alice Munro
 Jane Eyre By Charlotte Bronte (Have)
 Japanese Folk - Plays: The Ink - Smeared Lady And Other Kyogen By Shio Sakanishi (Read)
+Japan's High Schools By Thomas P. Rohlen (Have)
 Japan, The Ambiguous, And Myself: The Nobel Prize Speech And Other Lectures By Kenzaburo Oe
 Jase & The Deadliest Hunt By John Luke Robertson & Travis Thrasher
 Jazz By Toni Morrison
@@ -1866,6 +1870,7 @@ Les Sages De Chelm (FR) By Isaac Bashevis Singer
 Less Than One: Selected Essays By Joseph Brodsky
 Let Me Be Frank With You By Richard Ford
 Let Me Tell You: New Stories, Essays, And Other Writings By Shirley Jackson
+Letourneau's Used Auto Parts By Carolyn Chute
 Let's Get Invisible! (Goosebumps, #6) By Robert Lawrence Stine
 Let's Pretend This Neveer Happened: A Mostly True Memoir By Jenny Lawson
 Letter Of Elizabeth, Lady Chandos, To Francis Bacon By John Maxwell Coetzee
@@ -1878,8 +1883,8 @@ Let The Great World Spin By Colum McCann
 Let The Old Dead Make Room For The Young Dead: Faber Stories By Milan Kundera
 Let The Old Dreams Die By John Ajvide Lindqvist
 Let The Right One In By John Ajvide Lindqvist
-Letourneau's Used Auto Parts By Carolyn Chute
 Letters From Russia By Astolpe De Custine
+Lettres Portugaises (FR) By Gabriel De Guilleragues (Have)
 Levels Of Life By Julian Barnes
 Leviathan Thomas Hobbes (Have)
 L'Extase Materielle (FR) By Jean - Marie Gustave Le Clezio
@@ -2009,7 +2014,7 @@ Madre Piccola By Ubah Cristina Ali Farah
 Maestro: Greenspan's Fed And The American Boom By Bob Woodward
 Maggie, A Girl Of The Streets And Selected Stories By Stephen Crane(Have)
 Magic Seeds By Sir Vidiadhar Surajprasad Naipaul
-Mahfociz (Have)
+Mahogany & Other Stories By Boris Pilnyak (Have)
 Main Street By Sinclair Lewis (Have)
 Maisie Dobbs (Maisie Dobbs, #1) By Jacqueline Winspear
 Maison Dans La Derive (FR) By Marilynne Robinson
@@ -2124,7 +2129,7 @@ Mirrors By Adunis
 Misery By Stephen King
 Missing Person By Patrick Modiano
 Missing Soluch By Mohammed Dowlatabadi
-Miss Lonelyhearts / The Day Of The Locust By Nathanael West
+Miss Lonelyhearts & The Day Of The Locust By Nathanael West (Have)
 Miss Marjoribanks (Chronicles Of Carlingford, #5) By Margaret Oliphant Wilson Oliphant
 Miss Peregrine's Home For Peculiar Children (Miss Peregrin's Peculiar Children, #1) By Ransom Riggs
 Moby Dick By Herman Melville
@@ -4059,6 +4064,7 @@ The Scream By Rohinton Mistry
 The Scream Of The Haunted Mask (Goosebumps HorrorLand, #4) By Robert Lawrence Stine
 The Screwtape Letters By Clive Staples Lewis (Have)
 The Sea Cloak By Nayrouz Qarmout
+The Sea Lady By Herbert George Wells (Read)
 The Seamstress And The Wind By Cesar Aira
 The Sea Of Gold And Other Tales From Japan By Yoshiko Uchida (Read)
 The Second Book Of Moses, Called Exodus By David Grossman
