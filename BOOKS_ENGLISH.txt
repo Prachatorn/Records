@@ -10,6 +10,7 @@
 1916: A Novel Of The Irish Rebellion By Morgan Llywelyn
 1922 By Stephen King
 1984 By George Orwell
+19th - Century American Women's Novels: Interpretive Strategies By Susan K. Harris
 1Q84 By Haruki Murakami
 1Q84 By Haruki Murakami (KR) (Have)
 28 By Patrick Modiano
@@ -67,6 +68,7 @@ A Confederate General From Big Sur / Dreaming Of Babylon / The Hawkline Monster 
 A Connecticut Yankee In King Arthur's Court By Mark Twain (Read)
 A Convergence Of Birds By Lydia Davis
 A Correspondence Course And Other Stories By Nadine Gordimer
+A Country Doctor By Sarah Orne Jewett
 A Country Road, A Tree By Jo Baker
 A Crazy Day With Cobras (Magic Tree House, #45) By Mary Pope Osbourne
 Across By Peter Handke
@@ -163,6 +165,7 @@ A Late Divorce By Abraham B. Yehoshua
 Albert's Bridge & Other Plays By Tom Stoppard
 Alcatraz Versus The Evil Librarians (Alcatraz, #1) By Brandon Sanderson (Have)
 A Lesson Before Dying By Ernest James Gaines
+Alexander's Bridge By Willa Cather
 Alexandra By Scott O'Dell
 Alfabetos: ENSAIOS DE LITERATURA (IT) By Claudio Magris
 Alfred And Emily By Doris Lessing
@@ -297,6 +300,7 @@ Appetite (Storycuts) By Julian Barnes
 Appointment In Samarra: A Novel By John O'Hara (Have)
 A Prayer For Owen Meany By John Irving
 A Prayer For The City By Buzz Bissinger (Have)
+April Twilights By Willa Cather
 Aquarium By David Vann
 A Question Of Upbringing (A Dance To The Music Of Time, #1) By Anthony Powell
 Arabian Nights And Days By Naguib Mahfouz
@@ -403,6 +407,7 @@ A Widow's Story: A Memoir By Joyce Carol Oates
 A Wilderness Station: Selected Stories, 1968-1994 By Alice Munro
 A Wild Sheep Chase (The Rat, #3) By Haruki Murakami (Read)
 A Woman In Jerusalem By Abraham B. Yehoshua
+A Woman Of Genius By Mary Hunter Austin
 A Working Woman By Elvira Navarro
 A World Of Strangers By Nadine Gordimer
 A Wrinkle In Time (Time Quintet, #1) By Madeleine L'Engle (Read)
@@ -459,6 +464,7 @@ Beauty's Punishment (Sleeping Beauty, #2) By Anne Rice
 Bebop Baby By Mircea Cartarescu
 Be Careful What You Wish For... (Goosebumps, #12) By Robert Lawrence Stine
 Because It Is Bitter, And Because It Is My Heart By Joyce Carol Oates
+Becoming A Heroine By Rachel M. Brownstein
 Bednye Rodstvenniki. Rasskazy (CCCP) By Lyudmila Ulitskaya
 Bedtime Stories: The Junior Novel By Helena Mayer (Have)
 Beethoven Was One - Sixteenth Black By Nadine Gordimer
@@ -647,6 +653,7 @@ Catch - 22 By Joseph Heller (Have)
 Catch A Falling Spy By Len Deighton
 Catherine Certitude By Patrick Modiano
 Catching Fire (The Hunger Games, #2) By Suzanne Collins (Read)
+Cather, Canon, And The Politics Of Reading By Deborah Carlin
 Cat's Cradle By Kurt Vonnegut (Read)
 Cat's Eye By Margaret Atwood
 Cecil Taylor By Cesar Aira
@@ -772,6 +779,7 @@ Conversations With V. S. Naipaul By Sir Vidiadhar Surajprasad Naipaul
 Coraline By Neil Gaiman
 Cormac McCarthy: A Descriptive Bibliography By Cormac McCarthy
 Corner Boy: A Novel By Herbert Simmons
+Corespondence, Writings & Speeches By Elizabeth Cadt Stanton & Susan B. Anthony
 Corrigan By Caroline Blackwood
 Cosmopolis By Don DeLillo
 Cossee Essay By David Grossman
@@ -788,6 +796,7 @@ Cries In The Drizzle By Yu Hua
 Crime And Punishment By Fyodor Dostoyevsky
 Crimes Of Conscience By Nadine Gordimer
 Cristina And Her Double: Selected Essays By Herta Muller
+Critical Essays On Willa Cather By John Murphy
 Critical Perspectives On Derek Walcott By Derek Walcott
 Crooked Heart By Lissa Evans
 Crooner By Kazou Ishiguro
@@ -1635,6 +1644,7 @@ In The Skin Of A Jihadist: A Young Journalist Enters The Isis Recruitment Networ
 In The South By Salman Rushdie
 In The Tall Grass By Joe Hill & Stephen King
 In The Time Of Dinosaurs (Animorphs, #18.5) By Katherine Applegate
+Intimate Matters: A History Of Sexuality In America By Estelle B. Freedman & John D'Emilio
 Into The Drowning Deep (Rolling In The Deep, #1) By Mira Grant
 Introducing Don DeLillo By Don DeLillo
 Introduction 7: Stories By New Writers By Kazou Ishiguro
@@ -2026,6 +2036,7 @@ Maggie, A Girl Of The Streets And Selected Stories By Stephen Crane(Have)
 Magic Seeds By Sir Vidiadhar Surajprasad Naipaul
 Mahogany & Other Stories By Boris Pilnyak (Have)
 Main Street By Sinclair Lewis (Have)
+Main - Travelled Roads By Hamlin Garland
 Maisie Dobbs (Maisie Dobbs, #1) By Jacqueline Winspear
 Maison Dans La Derive (FR) By Marilynne Robinson
 Making The Arab World: Nasser, Qutb, And The Clash That Shaped The Middle East By Fawaz A. Gerges
@@ -2209,6 +2220,7 @@ Murnane By Gerald Murnane
 Mutmabungen Uber Einen Sabel (DE) By Claudio Magris
 My Absolute Darling By Gabriel Tallent
 My American Fictionary By Dubravka Ugresic
+My Antonia By Willa Cather
 My Beloved World By Sonia Sotomayor
 My Best Friend Is Invisible (Goosebumps, #57) By Robert Lawrence Stine
 My Brilliant Career By Miles Franklin
@@ -2280,6 +2292,7 @@ Neverwhere (London Below, #1) By Neil Gaiman
 New And Collected Poems, 1931 - 2001 By Czeslaw Milosz
 Newbies By James Arthur Moore
 New Book By Rohinton Mistry
+New Feminist Criticism: Essays On Women, Literature, Theory By Elaine Showalter
 New Selected Poems, 1966 - 1987 By Seamus Heaney
 New Selected Stories By Alice Munro
 News Of A Kidnapping By Gabriel Garcia Marquez
@@ -2578,6 +2591,7 @@ Power Vs. Force: The Hidden Determinants Of Human Behavior By Huo Jin Si (Have)
 Poza Za Prozu (RS) By Dubravka Ugresic
 Pozne Swieta (PO) By Adam Zagajewski
 Pragnienie (PO) By Adam Zagajewski
+Prairie Folks By Hamlin Garland
 Pravda By Edward Docx
 Prelude To Foundation (Foundation, #6) By Isaac Asimov
 Presence: Stories By Arthur Miller
@@ -2715,6 +2729,7 @@ Running Dog By Don DeLillo
 Run, River By Joan Didion
 Run With The Horsemen By Ferrol Sams
 Russka: The Novel Of Russia By Edward Rutherfurd
+Ruth Hall By Fanny Fern
 Rymowanki Dla Duzych Dzieci (PL) By Wislawa Szymborska
 Sabbath's Theater By Philip Roth (Have)
 Sabers And Utopias: Visions Of Latin America: Essays By Mario Vargas Llosa
@@ -3322,6 +3337,7 @@ The Counselor By Cormac McCarthy
 The Counterfeiters By Andre Gide
 The Count Of Monte Cristo By Alexandre Dumas (Read)
 The Country Of Ice Cream Star By Sandra Newman
+The Country Of The Pointed Firs By Sarah Orne Jewett
 The Cow By Lydia Davis
 The Crime By Nagiub Mahfouz
 The Crimson Cord: Rahab's Story (Daughters Of The Promisd Land, #1) By Jill Eileen Smith
@@ -3373,6 +3389,7 @@ The Dictator's Last Night By Yasmina Khadra
 The Discovery (Animorphs, #20) By Katherine Applegate
 The Discovery Of Heaven By Harry Mulisch
 The Discreet Hero: A Novel By Mario Vargas Llosa
+The Disobedient Writer: Women And Narrative Tradition By Nancy A. Walker
 The Dispossessed By Szilard Borbely
 The Dispossessed (Hainish Cycle, #6) By Ursula Kroeber Le Guin
 The Distance From Normandy By Jonathan Hull (Have)
@@ -3538,6 +3555,7 @@ The Godfather By Mario Puzo
 The God Stealer By Francisco Sionil Jose
 The Gods Themselves By Isaac Asimov
 The Golden Apples By Eudora Welty (Have)
+The Golden Bough By James George Frazer
 The Golden House By Salman Rushdie
 The Golden Notebook By Doris Lessing
 The Goldfinch By Donna Tartt
@@ -3623,6 +3641,7 @@ The Hours Before Dawn By Celia Fremilin
 The House At The Edge Of Night By Catherine Banner
 The House Gun By Nadine Gordimer
 The House Of Cloud By Fereshteh Molavi
+The House Of Mirth By Edith Wharton
 The House Of The Spirits By Isabel Allende
 The House Of Thunder By Dean Koontz
 The House On Mango Street By Sandra Cisneros (Read)
@@ -4149,6 +4168,7 @@ The Soft Voice Of The Serpent By Nadine Gordimer
 The Solitude Of Latin America By Gabriel Garcia Marquez
 The Solution (Animorphs, #22) By Katherine Applegate
 The Song Of Igor's Campaign By Anon
+The Song Of The Lark By Willa Carther
 The Sons Of The Dragon By George Raymond Richard Martin
 The Sorbonne Affair (Hugo Marston, #7) By Mark Pryor
 The Sorrow Gondola By Tomas Transtromer
@@ -4294,7 +4314,9 @@ The Virtuous Burglar By Dario Fo
 The Visitor (Animorphs, #2) By Katherine Applegate
 The Voice Of The Night By Dean Koontz
 The Voices Of Marrakesh: A Record Of A Visit By Elias Canetti
+The Voyage In: Fictions Of Female Development By Elizabeth Abel, Elizabeth Langland & Marianne Hirsch
 The Voyage Of The Armada: The Spanish Story By David Howarth (Have)
+The Voyage Perilous: Willa Cather's Romanticism By Susan J. Rosowski
 The Walker Place: A Short Story By James Arthur Moore
 The Waltz Invention By Vladimir Nabokov
 The Wanderer (Female Difficulties) By Fanny Burney
@@ -4346,14 +4368,16 @@ The Wizard Of Ooze (Goosebumps HorrorLand, #17) By Robert Lawrence Stine
 The Wizard Of Oz By Salman Rushdie
 The Wolves Of Winter: A Novel By Tyrell Johnson
 The Womanizer By Richard Ford
-The Women In The Castle By Jessica Shattuck
 The Woman In The Window: A Novel By Daniel Mallory / A. J. Finn
+The Woman's Bible By Elizabeth Cady Stanton
 The Woman Who Stole My Life By Marian Keyes
+The Women In The Castle By Jessica Shattuck
 The Wonderful Wizard Of Oz (Oz, #1) By Lyman Frank Baum (Read)
 The Wondrous And Tragic Life Of Ivan And Ivana By Maryse Conde
 The Wooden Shepherdess (The Human Predicament, Vol.2) By Richard Hughes
 The Works Of Zola By Emile Zola (Have)
 The World According To Garp By John Irving
+The World And The Parish: Willa Cather's Articles And Reviews, 1893 - 1902 By Willa Cather & William M. Curtin
 The World At Night (Night Soldiers, #4) By Alan Furst
 The World Does Move By Booth Tarkington
 The World Goes On By Laszlo Krasznahorka
@@ -4361,6 +4385,7 @@ The World Of Ice And Fire By George Raymond Richard Martin
 The World Of Odysseus By Sir Moses Isaac Finley
 The World Of The Shining Prince By Ivan Morris
 The World Of Tomorrow By Brendan Mathews
+The World Of Willa Cather By Mildred R. Bennett
 The World Split Open: Great Authors On How And Why We Write By Jeanette Winterson, L. E. Margaret Atwood, Marilynne Robinson, Robert Stone, Russell Banks, Ursula K. Le Guin & Wallace Stegner
 The World To Come By Dara Horn
 The Wreath Of Dionysus: A Novel By Evdokia Nagrodskaia (Have)
@@ -4789,6 +4814,12 @@ Wild Cards: Juego Sucio (Wild Cards, #5) By George Raymond Richard Martin
 Wilderness Tips By Margaret Atwood
 Wildlife By Richard Ford
 Wild Workshop By Anne Carson
+Willa Cather: A Literary Life By James Woodress
+Willa Cather: A Memoir By Elizabeth Shepley Sergeant
+Willa Cather In Contest: Progress, Race, Empire By Guy Reynolds
+Willa Cather In Person: Interviews, Speeches, And Letters By L. Brent Bohlke & Willa Cather
+Willa Cather: Queering America By Marilee Lindemann
+Willa Cather: The Emerging Voice By Sharon O'Brien
 Will Grayson, Will Grayson (Will Grayson, Will Grayson, #1) By John Green (Read)
 William Blake By Gilbert Keith Chesterton (Have)
 Willie's Redneck Time Machine By John Luke Robertson & Travis Thrasher
@@ -4819,6 +4850,7 @@ Woman At Point Zero By Nawal El Saadawi
 Woman At War By Dacia Maraini
 Woman Of The Ashes By Mia Couto
 Woman Of The Inner Sea By Thomas Keneally
+Women And Economics By Charlottle Perkins Gilman
 Women As Lovers By Elfriede Jelinek
 Women In Love (Brangwen Family, #2) By David Herbert Richards Lawrence (Have)
 Women With Men By Richard Ford
@@ -4828,6 +4860,7 @@ Wonder (The Book Of Marvella, #2) By Travis Thrasher
 Wonder Woman: Warbringer (DC Icons, #1) By Leigh Bardugo
 Words Into Flesh By David Grossman
 Words Without Borders By Zaher Omareen
+Work: A Story Of Experience By Louisa May Alcott
 Work Like Any Other By Virginia Reeves
 World Order By Henry Kissinger
 World War Z - An Oral History Of The Zombie War By Max Brooks (Read)
@@ -4837,6 +4870,7 @@ Writers In Politics: Essays By Ngugi Wa Thiong'o
 Writ In Blood By James Arthur Moore
 Writing Against Neocolonialism By Ngugi Wa Thiong'o
 Writing And Being By Nadine Gordimer
+Writing Beyond The Ending By Rachel Blau DuPlessis
 Writing In The Dark: Essays On Literature And Politics By David Grossman
 Writing Like Breathing: Dacia Maraini Anthology By Dacia Maraini
 Writings 5: Best Hopes By Francisco Sionil Jose
