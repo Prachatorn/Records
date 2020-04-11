@@ -369,7 +369,7 @@ A Tale Of Three Wishes By Isaac Bashevis Singer
 A Tale Of Two Cities By Charles Dickens
 A Tale Of Two Gardens By Octavio Paz
 At First Sight By Nicholas Sparks
-At The Sky's Edge By Bei Dao
+A Thurber Carnival By James Thurber
 A Tidewater Morning By William Styron (Have)
 A Time Between Ashes And Roses By Adunis
 A Time For Everything By Karl Ove Knausgård
@@ -384,6 +384,7 @@ Attack Of The Graveyard Ghouls (Goosebumps 2000, #11) By Robert Lawrence Stine
 Attack Of The Jack - O' - Lanterns (Goosebumps, #48) By Robert Lawrence Stine
 Attack Of The Mutant (Goosebumps, #25) By Robert Lawrence Stine
 At The Dark End Of The Street: Black Women, Rape, And Resistance -- A New History Of The Rights Movement From Rosa Parks To The Rise Of Black Power By Danielle L. McGuire
+At The Sky's Edge By Bei Dao
 A Turn In The South By Sir Vidiadhar Surajprasad Naipaul
 Audition By Ryu Murakami
 Auge I Vind (NO) By Jon Fosse
@@ -1288,6 +1289,7 @@ Friendship By Emily Gould
 Fright Camp (Goosebumps 2000, #8) By Robert Lawrence Stine
 Frog By Mo Yan (Read)
 From A Crooked Rib By Nuruddin Farah
+From First To Last By Damon Runyon
 From Here To Eternity By James Jones
 From The Corner Of His Eye By Dean Koontz
 From The Diary Of A Snail By Günter Grass
@@ -2043,6 +2045,7 @@ Maisie Dobbs (Maisie Dobbs, #1) By Jacqueline Winspear
 Maison Dans La Derive (FR) By Marilynne Robinson
 Making The Arab World: Nasser, Qutb, And The Clash That Shaped The Middle East By Fawaz A. Gerges
 Making Waves (Beach Lane, #1) By Laura Moore
+Man - Eaters Of Kumaon By Jim Corbett
 Mala Indole (ES) By Javier Marías
 Mamista By Len Deighton
 Mangiami Pure By Dacia Maraini
@@ -2236,6 +2239,7 @@ My Dog Tulip By Joe Randolph Ackerley (Have)
 My Family And Other Animals By Gerald Durrell (Have)
 My Father And Myself By Joe Randolph Ackerley
 My Father's Suitcase: The Nobel Lecture By Orhan Pamuk
+My Favorite Animal Stories By Gerald Durrell
 My First Seven Years (Plus A Few More) By Dario Fo
 My Friends Call Me Monster (Goosebumps HorrorLand, #7) By Robert Lawrence Stine
 My Garden (Book) By Jamaica Kincaid
@@ -2523,6 +2527,7 @@ Phantom Of The Auditorium (Goosebumps, #24) By Robert Lawrence Stine
 Phantoms By Dean Koontz
 Phil & The Ghost Of Camp Ch - Yo - CA By John Luke Robertson & Travis Thrasher
 Phlertarontas Me Ton Gkremo By Carrie Fisher
+Phoenix By David Herbert Lawrence
 Piano Lessons Can Be Murder (Goosebumps, #13) By Robert Lawrence Stine
 Pictures Of You By Caroline Leavitt
 Piedra De Sol (ES) By Octavio Paz
@@ -2876,6 +2881,7 @@ Sisters By Raina Telgemeier
 Si Te Dicen Que Cai (ES) By Juan Marsé
 Six Feet Of The Country By Nadine Gordimer
 Six Plus One Remorses For The Sky By Odysseas Elytis
+Six - Pointer Buck By David Stephen
 Six Shorts 2017: The Finalists For The 2017 Sunday Times EFG Short Story Award By Bret Anthony Johnston, Celeste Ng, Kathleen Alcott, Richard Lambert, Sally Rooney & Victor Lodato
 Sjunger Näktergalen Än I Dorpat? (ET) By Jaan Kaplinski
 Skeleton Crew By Stephen King
@@ -3292,6 +3298,7 @@ The Chosen By Chaim Potok (Have)
 The Chronicles Of Narnia (Chronicles Of Narnia, #1-7) By Clive Staples Lewis
 The Circling Song By Nawal El Saadawi
 The Cleft By Doris Lessing
+The Cloister And The Hearth By Charles Reade
 The Cloven Viscount By Italo Calvino
 The Cockroach By Ian McEwan
 The Code Of The Woosters (Jeeves, #7) By Sir Pelham Grenville Wodehouse
@@ -3613,6 +3620,7 @@ The Hearts Of Men: A Novel By Nickolas Butler
 The Heaven Of Animals By David James Poissant
 The Hedge Knight By George Raymond Richard Martin
 The Help By Kathryn Stockett (Have)
+The Henry Williamson Animal Saga By Henry Williamson
 The Hidden (Animorphs, #39) By Katherine Applegate
 The Hidden Face Of Eve By Sawal El Saadawi
 The High Mountains Of Portugal By Yann Martel
@@ -4220,6 +4228,7 @@ The Suspect By John Lescroart (Have)
 The Suspicion (Animorphs, #24) By Katherine Applegate
 The Sweetest Dream By Doris Lessing
 The Swiss Family Robinson By Johann David Wyss
+The Sword In The Stone By Terence Hanbury White
 The Sworn Sword By George Raymond Richard Martin
 The Sympathizer By Viet Thanh Nguyen
 The Takeover By Dame Muriel Spark
@@ -4717,6 +4726,7 @@ We Are The Change We Seek: The Speeches Of Barack Obama By Eugene Joseph "E. J."
 We Are What We Pretend To Be: The First And Last Works By Kurt Vonnegut (Read)
 Weariness By Jon Fosse
 Web Of The Witch World By Andre Norton (Have)
+We Chose The Islands By Arthur Grimble
 Wedding Song By Nagiub Mahfouz
 Weep Not, Child By Ngugi wa Thiong'o
 We Filipinos: Our Moral Malaise, Our Heroic Heritage By Francisco Sionil José
@@ -4907,6 +4917,7 @@ Ziemia Ognista (PO) By Adam Zagajewski
 Zinky Boys: Soviet Voices From The Afghanistan War By Svetlana Alexievich
 Zlateh The Goat And Other Stories By Isaac Bashevis Singer
 Zombie By Joyce Carol Oates
+Zoo Quest For A Dragon By David Attenborough
 Zoo Station (John Russell, #1) By David Downing
 Zora, A Cruel Tale By Philippe Arseneault
 Zuleika Dobson By Max Beerbohm
