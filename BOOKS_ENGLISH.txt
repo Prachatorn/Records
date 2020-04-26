@@ -1224,7 +1224,7 @@ Finders Keepers By Stephen King
 Finnegans Wake By James Joyce
 Fio Das Missangas (PT) By Mia Couto
 Fire And Blood (A Targaryen History, #1) By George Raymond Richard Martin
-Fire And Fury: Inside The Trump White House By Michael Wolff
+Fire And Fury: Inside The Trump White House By Michael Wolff (Read)
 Fire And Knowledge By Peter Nadas
 Fire Down Below By William Golding
 Firefly: Big Damn Hero By Nancy Holder (Have)
@@ -3419,6 +3419,7 @@ The Demon Hunter (Oliver Nocturne, #4) By Kevin Emerson (Have)
 The Demon Of Cawnpore By Jules Verne (Have)
 The Departure (Animorphs, #19) By Katherine Applegate
 The Departures Of Seasons By Fereshteh Molavi
+The Devil's Bargain By Joshua Green
 The Devil With Boobs By Dario Fo
 The Diary Of Alice James By Alice James (Have)
 The Diary Of A Good Neighbour By Doris Lessing
