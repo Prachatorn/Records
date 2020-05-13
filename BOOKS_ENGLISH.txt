@@ -580,6 +580,7 @@ Bone: A Novel By Fae Myenne Ng (Have)
 Bookclub In A Box Discusses The Novel Family Matters By Marilyn Herbert & Rohinton
 Boomtown By James Arthur Moore
 Border Districts: A Fiction By Gerald Murnane
+Boredom: The Literary History Of A State Of Mind By Patricia Spacks
 Botchan By Natsume Soseki
 Boulevard Du Guinardo By Juan Marse
 Bounty By Derek Walcott
@@ -1045,11 +1046,13 @@ Earwitness: Fifty Characters By Elias Canetti
 East Of Eden By John Steinbeck (Read)
 East, West By Salman Rushdie
 Easy Motion Tourist By Leye Adenle
+Eat A Bowl Of Tea By Louis Chu
 Eating Fish Alone And Country Cooking From Central France By Lydia Davis
 Echoes Of An Autobiography By Naguib Mahfouz
 Economy Of The Unlost By Anne Carson
 Ecstasy By Ryu Murakami
 Education For A National Culture By Ngugi Wa Thiong'o
+Education In Movement Spaces: Standing Rock To Chicago Freedom Square By Multiple Editors
 Eg Er Vinden (NO) By Jon Fosse
 Egg Monsters From Mars (Goosebumps, #42) By Robert Lawrence Stine
 Eight Little Piggies: Reflections In Natural History By Stephen Jay Gould
@@ -1441,6 +1444,7 @@ Harbour By John Ajvide Lindqvist
 Hard - Boiled Wonderland And The End Of The World By Haruki Murakami (Read)
 Harlequin And Columbine By Booth Tarkington
 Haroun And Luka By Salman Rushdie
+Harriet The Spy By Louise Fitzhugh
 Harry Dernier By Derek Walcott
 Harry Potter And The Chamber of Secrets (Harry Potter, #2) By Joanne Rowling (Read)
 Harry Potter And The Deathly Hallows (Harry Potter, #7) By Joanne Rowling
@@ -2441,6 +2445,7 @@ Omen's Daughters By Richard Gustave Stern
 Omeros By Derek Walcott
 On A Dark Night I Left My Silent House By Peter Handke
 On Anarchism By Noam Chomsky
+On A Slow Train Through Arkansaw By Thomas William Jackson
 On Boxing By Joyce Carol Oates
 On Chesil Beach By Ian McEwan
 On Contemporary Art By Cesar Aira
@@ -3050,6 +3055,7 @@ Storia Di Piera (IT) By Dacia Maraini
 Stories By Gabriel Garcia Marquez
 Story And Other Stories By Lydia Davis
 Straight Fiction By Martin Amis
+Straight Man By Richard Russo
 Strangers By Dean Koontz
 Strangories For Children By Isaac Bashevis Singer
 Strange Pilgrims By Gabriel Garcia Marquez
@@ -3501,6 +3507,7 @@ The Extreme (Animorphs, #24) By Katherine Applegate
 The Eye By Vladimir Nabokov (Read)
 The Eye In The Pyramid (Illuminatus, #1) By Robert Shea
 The Eyes Of Darkness By Dean Koontz
+The Eyes Of The World By Harold Bell Wright
 The Face By Dean Koontz
 The Fallen By Juan Marse
 The Fall Of The House Of Usher And Other Tales By Edgar Allan Poe (Have)
@@ -3805,6 +3812,7 @@ The Lemon Table By Julian Barnes
 The Leopard By Giuseppe Tomasi Di Lampedusa
 The Lesser Bohemians By Elimear McBride
 The Libant By Mircea Cartarescu
+The Library Book By Susan Orlean
 The Library Of Greek Mythology By Apollodorus
 The Life And Adventures Of Santa Claus By Lyman Frank Baum (Have) (Read)
 The Life And Opinions Of Tristram Shandy, Gentleman By Laurence Sterne
@@ -3825,6 +3833,7 @@ The Living Thoughts Of Kierkegaard By Soren Kierkegaard
 The Lizard By Jose Saramago
 The Lonely Hearts Hotel: A Novel By Heather O'Neill
 The Long Goodbye (Philip Marlowe,#6) By Raymond Chandler
+The Long Public Life Of A Short Private Poem: Reading And Remembering Thomas Wyatt By Peter Murphy
 The Long Walk By Stephen King
 The Looming Tower: Al Qaeda And The Road To 9 / 11 By Lawrence Wright
 The Lorax By Theodor Seuss Geisel
@@ -3861,6 +3870,7 @@ The Man Who Killed The Deer By Frank Waters (Have)
 The Man Without A Shadow: A Novel By Joyce Carol Oates
 The Mapmaker's Children By Sarah McCoy
 The Marriages Between Zones Three, Four And Five By Doris Lessing
+The Marrow Thieves By Cherie Dimaline
 The Marquise Of O - And Other Stories By Heinrich Von Kleist (Have)
 The Martian By Andy Weir
 The Martian Chronicles By Ray Bradbury (Read)
@@ -3889,6 +3899,7 @@ The Mimic Men By Sir Vidiadhar Surajprasad Naipaul
 The Minister's Wooing By Harriet Beecher Stowe (Have) (Read)
 The Ministry Of Pain By Dubravka Ugresic
 The Miracle Cures Of Dr. Aira By Cesar Aira
+The Miraculous Journey Of Edward Tularne By Kate Dicamillo
 The Mirage By Maguib Mahfouz
 The Mirror Or The Glass? By Toni Morrison
 The Misadventures Of Awkward Black Girl By Issa Rae
@@ -3985,10 +3996,12 @@ The Outcasts Of Poker Flat - The Luck Of Roaring Camp And Other Stories By Bret 
 The Outcry By Henry James
 The Outsiders By Susan Eloise Hinton (Read)
 The Overcrowded Barracoon By Sir Vidiadhar Surajprasad Naipaul
+The Overstory By Richard Powers
 The Oxford Book Of English Detective Stories By Patricia Craig
 The Pack By James Arthur Moore
 The Pages Of Day And Night By Adunis
 The Painted Bird By Jerzy Kosinski
+The Painted Drum By Louise Erdrich
 The Painters From Shanghai By Jennifer Cody Epstein (Have)
 The Palace Of Dreams By Ismail Kadare
 The Paper Men By William Golding
@@ -4029,6 +4042,7 @@ The Playmaker By Thomas Keneally
 The Play Of The Eyes By Elias Canetti
 The Plea (Eddie Flynn, #2) By Steve Cavanagh
 The Ploughman's Lunch By Ian McEwan
+The Poems Of Emily Dickinson By Emily Dickinson
 The Poetry Of Derek Walcott, 1948 - 2013 By Derek Walcott
 The Poisonwood Bible By Barbara Kinsolver (Have)
 The Polish Rider By Antonio Munoz Molina
@@ -4710,6 +4724,7 @@ View With A Grain Of Sand By Wislawa Szymborska
 Vigilance (Storycuts) By Julian Barnes
 Viking Ships At Sunrise (Magic Tree House, #15) By Mary Pope Osborne
 Vilde Toret By Tomas Transtromer
+Vile Bodies By Evelyn Waugh
 Villa Aurores (FR) By Jean - Marie Gustave Le Clezio
 Villa Triste By Lucretia Grindle
 Villa Triste (FR) By Patrick Modiano
