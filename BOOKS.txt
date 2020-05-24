@@ -173,6 +173,10 @@ Alcatraz Versus The Evil Librarians (Alcatraz, #1) By Brandon Sanderson (Have)
 A Lesson Before Dying By Ernest James Gaines
 Alexander's Bridge By Willa Cather
 Alexandra By Scott O'Dell
+Alex Rider: Mission Files By Anthony Horowitz
+Alex Rider: Secret Weapon By Anthony Horowitz
+Alex Rider Undercover By Anthony Horowitz
+Alex Underground (Alex Rider, #6.5) By Anthony Horowitz
 Alfabetos: ENSAIOS DE LITERATURA (IT) By Claudio Magris
 Alfred And Emily By Doris Lessing
 Alfred Ollivant's Bob, Son Of Battle: The Last Gray Dog Of Kenmuir By Lydia Davis
@@ -327,6 +331,7 @@ A Ripple From The Storm By Doris Lessing
 Aristotle And Dante Discover The Secrets Of The Universe By Benjamin Alire Sáenz (Read)
 A River Called Time By Mai Couto
 A River Town By Thomas Keneally
+Ark Angel (Alex Rider, #6) By Anthony Horowitz
 Armageddon In Retrospect, And Other Stories By Kurt Vonnegut (Read)
 Armageddon Summer By Bruce Coville & Jane Yolen (Have)
 Armand V.: Footnotes To An Unexcavated Novel By Dag Solstad
@@ -344,6 +349,7 @@ A Separate Peace By John Knowles (Read)
 A Separate Peace: A Play In One Act By Tom Stoppard
 Asesinaato Del Perdedor, El (ES) By Camilo José Cela
 A Severed Head By Iris Murdoch
+As Ever, Scott Fitz: Letters Between F. Scott Fitzgerald And His Literary Agent Harold Ober, 1919 - 1940 By Francis Scott Key Fitzgerald
 Ashley Bell By Dean Koontz
 A Shocker On Shock Street (Goosebumps, #35) By Robert Lawrence Stine
 A Short History Of Chemistry By Isaac Asimov 
@@ -376,6 +382,7 @@ A Tale Of Love And Darkness By Amos Oz
 A Tale Of Three Wishes By Isaac Bashevis Singer
 A Tale Of Two Cities By Charles Dickens
 A Tale Of Two Gardens By Octavio Paz
+A Taste Of Death (Alex Rider, #2.25) By Anthony Horowitz
 At First Sight By Nicholas Sparks
 A Thurber Carnival By James Thurber
 A Tidewater Morning By William Styron (Have)
@@ -708,6 +715,7 @@ China In Ten Words By Yu Hua
 China Men By Maxine Hong Kingston (Have)
 Choke: What the Secrets Of The Brain Reveal About Getting It Right When You Have To By Sian Beilock
 Christine By Stephen King (Read)
+Christmas At Gunpoint (Alex Rider, #0.5) By Anthony Horowitz
 Christmas In Camelot (Magic Tree House, #29) By Mary Pope Osborne
 Christmas In July (Christmas, Colorado, #2) By Debbie Mason
 Christmas Lights By Travis Thrasher
@@ -740,6 +748,7 @@ Close Sesame By Nuruddin Farah
 Close To Home By Harry Crews
 Close - Up By Len Deighton 
 Cloud Atlas By David Mitchell
+Coda (Alex Rider, #7.5) By Anthony Horowitz
 Cœur Brûle Et Autres Romances (FR) By Jean - Marie Gustave Le Clézio
 Coin Locker Babies By Ryu Murakami
 Cold Comfort Farm By Stella Gibbons
@@ -816,6 +825,7 @@ Crimes Of Conscience By Nadine Gordimer
 Cristina And Her Double: Selected Essays By Herta Müller
 Critical Essays On Willa Cather By John Murphy
 Critical Perspectives On Derek Walcott By Derek Walcott
+Crocodile Tears (Alex Rider, #8) By Anthony Horowitz
 Cronicando (PT) By Mia Couto
 Crooked Heart By Lissa Evans
 Crooner By Kazou Ishiguro
@@ -1041,6 +1051,7 @@ Dusklands By John Maxwell Coetzee
 Dwa Miasta (PO) By Adam Zagajewski
 Dying Of The Light By George Raymond Richard Martin
 Dzikie Czeresnie (PO) By Adam Zagajewski
+Eagle Strike (Alex Rider, #4) By Anthony Horowitz
 Earth Abides By George Rippey Stewart
 Earth Geeks Must Go! (Goosebumps 2000, #24) By Robert Lawrence Stine
 Earth Is Room Enough By Isaac Asimov
@@ -1320,6 +1331,8 @@ From The Fatherland, With Love By Ryu Murakami
 Frontier By Can Xue
 Frontiers By Nadine Gordimer
 Frymëzime Djaloshare (AB) By Ismail Kadare
+F. Scott Fitzgerald: A Study Of The Stories By John A. Higgins
+F. Scott Fitgerald In His Own Time: A Miscellany By Francis Scott Key Fitzgerald
 Fuego De Cada Diam El (ES) By Octavio Paz
 Fuego En Las Entrañas (ES) By William Golding
 Fukuzawa Yukichi On Women And The Family: The Thought Of Fukuzawa By Fukuzawa Yukichi
@@ -2333,10 +2346,12 @@ Nervous Conditions (Nervous Conditions, #1) By Tsitsi Dangarembga
 Never Any End To Paris By Enrique Vila - Matas
 Never Let Go By John Baker, Mac Owen, Mary Owen & Travis Thrasher
 Never Let Me Go By Kazou Ishiguro
+Never Say Die (Alex Rider, #11) By Anthony Horowitz
 Neverwhere (London Below, #1) By Neil Gaiman
 New And Collected Poems, 1931 - 2001 By Czesław Miłosz
 Newbies By James Arthur Moore
 New Book By Rohinton Mistry
+New Essays On F. Scott Fitzgerald's Neglected Stories By Jackson R. Bryer
 New Feminist Criticism: Essays On Women, Literature, Theory By Elaine Showalter
 New Selected Poems, 1966 - 1987 By Seamus Heaney
 New Selected Stories By Alice Munro
@@ -2361,6 +2376,7 @@ Night Of The New Magicians (Magic Tree House, #35) By Mary Pope Osborne
 Night Of The Ninjas (Magic Tree House, #5) By Mary Pope Osborne
 Night Of The Ninth Dragon (Magic Tree House, #55) By Mary Pope Osbourne
 Night Rounds By Patrick Modiano
+Nightshade (Alex Rider, #12) By Anthony Horowitz
 Night Shift By Stephen King
 Nightsongs By Jon Fosse
 Night Train By Martin Amis
@@ -2473,6 +2489,7 @@ On Keeping A Notebook: Photographs And Drawings With An Essay By Jamie Hawkeswor
 Only Killers And Thieves: A Novel By Paul Howarth
 Only Prostitutes Marry In May By Dacia Maraini
 Only When I Larf By Len Deighton
+Only Yesterday: An Informal History Of The 1920s By Frederick Lewis Allen
 On Persephone's Island: A Sicilian Journal By Mary Taylor Simeti (Have)
 On The Come Up: A Novel Based On A True Story By Hannah Weyer (Read)
 On The Road By Jack Kerouac
@@ -2614,6 +2631,7 @@ Poetry: June 2012
 Poetry: November 2010
 Poetry Pamphlets 1 - 12 By Lydia Davis
 Poetry: September 2012
+Point Blank (Alex Rider, #2) By Anthony Horowitz
 Point Omega By Don DeLillo
 Poisson D'or (FR) By Jean - Marie Gustave Le Clézio
 Polar Bears Past Bedtime (Magic Tree House, #12) By Mary Pope Osborne
@@ -2684,6 +2702,7 @@ Quatre Quatuors Pour Un Week - End (FR) By Gao Xingjian
 Queenie (Storycuts) By Alice Munro
 Que Haréis Con Este Libro. Teatro Completo / What Will You Do with This Book. Complete Theater (ES) By José Saramago
 Quichotte By Salman Rushdie
+Quite A Ride (Alex Rider, #2.5) By Anthony Horowitz
 Quotations From Chairman Mao Tse - Tung By Mao Zedong
 Quo Vadis By Henryk Sienkiewicz
 Qyteti Pa Reklama (AB) By Ismail Kadare
@@ -2731,6 +2750,7 @@ Remember: The Journey To School Integration By Toni Morrison
 Remembrance And Pantomime By Derek Walcott
 Rem: Roman By Mircea Cărtărescu
 Representative Photoplays Analyzed By Scott O'Dell
+Resistance To Interrogation (Alex Rider, #1.5) By Anthony Horowitz
 Return Of The Mummy (Goosebumps, #23) By Robert Lawrence Stine
 Return To Ghost Camp (Goosebumps 2000, #19) By Robert Lawrence Stine
 Return To Horrorland (Goosebumps 2000, #13) By RObert Lawrence Stine
@@ -2781,6 +2801,7 @@ Runaway: Stories By Alice Munro (Have)
 Running Dog By Don DeLillo
 Run, River By Joan Didion
 Run With The Horsemen By Ferrol Sams
+Russian Roulette: The Story Of An Assassin (Alex Rider, #10) By Anthony Horowitz
 Russka: The Novel Of Russia By Edward Rutherfurd
 Ruth Hall By Fanny Fern
 Rymowanki Dla Dużych Dzieci (PL) By Wisława Szymborska
@@ -2831,6 +2852,8 @@ Schindler's List By Thomas Keneally (Read)
 Schwarze Hunde. (DE) By Ian McEwan
 Science: Vintage Minis By Ian McEwan
 Scorpia (Alex Rider, #5) By Anthony Horowitz (Have)
+Scorpia Rising (Alex Rider, #9) By Anthony Horowitz
+Scott Fitzgerald And His World By Arthur Mizener
 Scrappy Little Nobody By Anna Kendrick
 Scream School (Goosebumps 2000, #15) By Robert Lawrence Stine
 Sea Grapes By Derek Walcott
@@ -2844,6 +2867,7 @@ Secondhand Time: The Last Of The Soviets By Svetlana Alexievich
 Second Words By Margaret Atwood
 Secret Lives & Other Stories By Ngũgĩ Wa Thiong'o
 Secrets By Nuruddin Farah
+Secret Weapon (Alex Rider, #3.5) By Anthony Horowitz
 Secure The Base: Making Africa Visible In The Globe By Ngũgĩ Wa Thiong'o
 Seduction And Betrayal By Elizabeth Hardwick
 Seeing By José Saramago
@@ -2933,6 +2957,7 @@ Six - Pointer Buck By David Stephen
 Six Shorts 2017: The Finalists For The 2017 Sunday Times EFG Short Story Award By Bret Anthony Johnston, Celeste Ng, Kathleen Alcott, Richard Lambert, Sally Rooney & Victor Lodato
 Sjunger Näktergalen Än I Dorpat? (ET) By Jaan Kaplinski
 Skeleton Crew By Stephen King
+Skeleton Key (Alex Rider, #3) By Anthony Horowitz
 Skeletons On The Zahara: A True Story Of Survivial By Dean King (Have)
 Sketches For A Life Of Wassilly By Lydia Davis
 Sky Blue By Travis Thrasher
@@ -2960,6 +2985,7 @@ Small Avalanches And Other Stories By Joyce Carol Oates
 Small Memories By José Saramago
 Small Wonder: Essays By Barbara Kingsolver (Have)
 Smile No More By James Arthur Moore
+Snakehead (Alex Rider, #7) By Anthony Horowitz
 Snapshots By Claudio Magris
 Snow By Orhan Pamuk
 Snow Country By Yasunari Kawabata
@@ -2980,8 +3006,9 @@ Solitary: A Novel (Solitary Tales, #1) By Travis Thrasher
 Somebody (Three Roads Home, #1) By Travis Thrasher
 Some Hell By Patrick Nathan
 Some Monday For Sure By Nadine Gordimer
-Somersault Byone To Run With By David Grossman
-Some Kenzaburō Ōe
+Someone To Run With By David Grossman
+Somersault By Kenzaburō Ōe
+Some Sort Of Epic Grandeur: The Life Of F. Scott Fitzgerald By Matthew J. Bruccoli
 Something For The Pain: A Memoir Of The Turf By Gerald Murnane
 Something I Can Never Have (Solitary Tales, #0.5) By Travis Thrasher
 Something I've Been Meaning To Tell You By Alice Munro
@@ -3076,6 +3103,7 @@ Stoners By John Williams (Have)
 Stoppard: The Plays For Radio 1964 - 1983 By Tom Stoppard
 Storie Di Cani Per Una Bambina (IT) By Dacia Maraini
 Stories From Our Neighbourhood By Nagiub Mahfouz
+Stormbreaker (Alex Rider, #1) By Anthony Horowitz
 Storm Still By Peter Handke
 Strong Opinions By Vladimir Nabokov
 Subject Seven By James Arthur Moore
@@ -3574,6 +3602,7 @@ The Fruit Cage (Storycuts) By Julian Barnes
 The Funeral Party By Lyudmila Ulitskaya
 The Funhouse By Dean Koontz
 The Future Won't Be Long By Jarett Kobek
+The Gadgets By Anthony Horowitz
 The Game Of Contemporaneity By Kenzaburō Ōe
 The Game Of Love And Death By Martha Brockenbrough (Read)
 The Gangster We Are All Looking For By Lê Thi Diem Thúy (Have)
@@ -4072,8 +4101,11 @@ The Predator: Hunters And Hunted: Official Movie Prequel By James Arthur Moore
 The Pregnant Widow By Marin Amis
 The Pretender (Animorphs, #23) By Katherine Applegate
 The Pretenders By Francisco Sionil José
+The Price Of Paradise By Susana López Rubio
+The Price Of Paradise: The Magazine Career Of F. Scott Fitzgerald By Stephen W. Pottis
 The Price Of Politics By Bob Woodward
 The Price Of Salt (The Grim Arcana, #1) By Geoffrey Thorne
+The Price Was High: The Last Uncollected Stories Of F. Scott Fitzgerald By Francis Scott Key Fitzgerald
 The Prime Of Miss Jean Brodie By Dame Muriel Spark (Read)
 The Prince And The Pauper By Mark Twain (Read)
 The Princes Of Ireland (The Dublin Saga, #1) By Edward Rutherfurd
@@ -4427,6 +4459,7 @@ The Werewolf Fever Swamp (Goosebumps, #14) By Robert Lawrence Stine
 The Whispering Room By Dean Koontz
 The White Album By Joan Didion
 The White Bicycle (Wild Orchard, #3) By Beverley Brenna
+The White Carnation (Alex Rider, #0.4) By Anthony Horowitz
 The White Castle By Orphan Pamuk
 The White Tiger By Aravind Adiga
 The Widow And Her Hero By Thomas Keneally

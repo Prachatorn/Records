@@ -108,9 +108,9 @@ Beans By Patricia Grace (Have) (Read)
 Beauty And The Beast By Madame Leprince De Beaumont (Have) (Read)
 Before Perseus By Ben White
 Being Young Was Her Thing By Benjamin Joseph Manaly Novak (Read)
-Benediction By Francis Scott Key Fitzgerald (Have)
+Benediction By Francis Scott Key Fitzgerald (Have) (Read)
 Berenice By Edgar Allan Poe
-Bernice Bobs Her Hair By Francis Scott Key Fitzgerald (Have)
+Bernice Bobs Her Hair By Francis Scott Key Fitzgerald (Have) (Read)
 Bestiary By Julio Cortazar (Have)
 Betrayal By Gay Degani
 Betrothed By Shmuel Yosef Agnon (Have) (Read)
@@ -192,7 +192,7 @@ Cunning By Wong Meng Voon (Read)
 Cure By Kevin Hosey
 Custom - Made Bride By Kurt Vonnegut (Read)
 Dagon By Howard Phillips Lovecraft (Have)
-Dalyrimple Goes Wrong By Francis Scott Key Fitzgerald (Have)
+Dalyrimple Goes Wrong By Francis Scott Key Fitzgerald (Have) (Read)
 Damage By Gregg Hurwitz
 Dark Matter By Benjamin Joseph Manaly Novak (Read)
 Death And The Maiden By Michel Tournier (Have)
@@ -313,7 +313,7 @@ Harlem Slanguage By Zora Neale Hurston
 Harrison Berheron (1961) By Kurt Vonnegut (Read)
 Hateship, Friendship, Courtship, Loveship, Marriage By Alice Munro (Read)
 Hawking By Washington Irving
-Head And Shoulders By Francis Scott Key Fitzgerald (Have)
+Head And Shoulders By Francis Scott Key Fitzgerald (Have) (Read)
 Hearts Like Lemons In Fists Of Dew By Dallas Woodburn (Have)
 Henne Fire By Isaac Bashevis Singer (Have)
 Herbert West - Reanimator By Howard Phillips Lovecraft (Have)
@@ -374,7 +374,7 @@ It All Started Just About A Year And A Half Ago By Ryu Murakami (Read)
 It Used To Be Green Once By Patricia Grace (Have) (Read)
 Jacklighting By Ann Beattie (Have)
 J. C. Audetat, Translator Of Don Quixote By Benjamin Joseph Manaly Novak (Read)
-Jemina, The Mountain Girl By Francis Scott Key Fitzgerald (Have)
+Jemina, The Mountain Girl By Francis Scott Key Fitzgerald (Have) (Read)
 Jermaine's Postscript To His Seventh - Grade Poem Assignment By Christoffer Molnar
 Jewellry By Alberto Moravia (Have)
 Jingle Bells By Shōtarō Yasuoka (Read)
@@ -445,7 +445,7 @@ Malvern Hills By Kazuo Ishiguro (Read)
 Magnolia Flower By Zora Neale Hurston
 Marie's Stupid Boyfriend By Benjamin Joseph Manaly Novak (Read)
 Maud - Evelyn By Henry James
-May Day By Francis Scott Key Fitzgerald (Have)
+May Day By Francis Scott Key Fitzgerald (Have) (Read)
 May - Day By Washington Irving
 May - Day Customs By Washington Irving
 Mean Dog By Wong Meng Voon (Read)
@@ -476,7 +476,6 @@ Morella By Edgar Allan Poe
 More Stately Manisons (1951) By Kurt Vonnegut (Read)
 Mother Catherine By Zora Neale Hurston
 Mr. Carp By Mukoda Kuniko
-Mr. Icky The Quintessence Of Quaintness In One Act By Francis Scott Key Fitzgerald (Have)
 Mrs. Amworth By Edward Frederic Benson
 Mrs. Medwin By Henry James
 MS Found In A Bottle By Edgar Allan Poe (Read)
@@ -523,8 +522,9 @@ On Seeing The 100% Perfect Girl One Beautiful April Morning By Haruki Murakami (
 On The Divide By Willa Cather
 Order Of Insects By William Gass (Have)
 Origins By Amanda Rodriguez (Read)
-O Russet Witch! By Francis Scott Key Fitzgerald (Have)
+"O Russet Witch!" By Francis Scott Key Fitzgerald (Have) (Read)
 Out Of The Deep By Walter De La Mare
+Owen Wingrave By Henry James
 Owl By Emily Ruskovich
 Painted Ocean, Painted Ship By Rebecca Makkai (Have)
 Papaya And Snail By Wong Meng Voon (Read)
@@ -548,7 +548,6 @@ Pollock And The Porroh Man By Herbert George Wells
 Polygamy By David Joseph
 Poor Little Rich Town By Kurt Vonnegut (Read)
 Popular Superstitutions By Washington Irving
-Porcelain And Pink By Francis Scott Key Fitzgerald (Have)
 Portrait Of An Old Geisha By Okamoto Kanoko
 'Possum Or Pig? By Zora Neale Hurston
 Post And Beam By Alice Munro (Read)
@@ -661,7 +660,7 @@ Take It Off By Jason Jordan
 Tale Of A Night By Jahanara Siddique (Have) (Read)
 Talking Of Michelangelo By Frank Byrns
 Talpa By Juan Rulfo (Have)
-Tarquin Of Cheapside By Francis Scott Key Fitzgerald (Have)
+Tarquin Of Cheapside By Francis Scott Key Fitzgerald (Have) (Read)
 Teddy By Jerome David Salinger (Read)
 Telling By David Erlewine
 Television Golf (1988) By John Updike (Have)
@@ -718,7 +717,7 @@ The Cabuliwallah By Rabindranath Tagore (Have) (Read)
 The Call Of Cthulhu By Howard Phillips Lovecraft (Have)
 The Camaraderie Of Golf - I (1986) By John Updike (Have)
 The Camaraderie Of Golf - II (1987) By John Updike (Have)
-The Camel's Back By Francis Scott Key Fitzgerald (Have)
+The Camel's Back By Francis Scott Key Fitzgerald (Have) (Read)
 The Case Of Charles Dexter Ward By Howard Phillips Lovecraft (Have)
 The Cask Of Amontillado By Edgar Allan Poe (Read)
 The Celestial Omnibus By Edward Morgan Forster
@@ -740,8 +739,8 @@ The Cousins By Charles Baxter (Have)
 The Cowboy Tango By Maggie Shipstead (Have)
 The Cruise Of The Jolly Roger By Kurt Vonnegut (Read)
 The Culprit By Washington Irving
-The Curious Case Of Benjamin Button By Francis Scott Key Fitzgerald (Have)
-The Cut - Glass Bowl By Francis Scott Key Fitzgerald (Have)
+The Curious Case Of Benjamin Button By Francis Scott Key Fitzgerald (Have) (Read)
+The Cut - Glass Bowl By Francis Scott Key Fitzgerald (Have) (Read)
 The Dance By Joy Jolissaint
 The Dancing Dwarf By Haruki Murakami (Read)
 The Dancing Kettle By Yoshiko Uchida (Read)
@@ -755,7 +754,7 @@ The Devil In The Belfry By Edgar Allan Poe
 The Devil To Pay By David Edgerly Gates
 The Devoted Friend By Oscar Wilde (Have) (Read)
 The Devotee By Rabindranath Tagore (Have) (Read)
-The Diamond As Big As The Ritz By Francis Scott Key Fitzgerald (Have)
+The Diamond As Big As The Ritz By Francis Scott Key Fitzgerald (Have) (Read)
 The Diary By Emily L. Byrne (Read)
 The Dog That Bit People By James Thurber (Read)
 The Doll Queen By Carlos Fuentes (Have)
@@ -786,8 +785,9 @@ The Fisherman And His Soul By Oscar Wilde (Have) (Read)
 The Flower - Eating Crone By Enchi Fumiko
 The Foreign Girl By Wong Meng Voon (Read)
 Thr Foster Portfolio (1951) By Kurt Vonnegut (Read)
-The Four Fists By Francis Scott Key Fitzgerald (Have)
+The Four Fists By Francis Scott Key Fitzgerald (Have) (Read)
 The Fourth Hurdle By Wong Meng Voon (Read)
+The Friends Of The Friends By Henry James
 The Furnished Room By William Sydney Porter / O. Henry
 The General Election, Ha Ha By Wong Meng Voon (Read)
 The Gentleman From America By Michael Arlen
@@ -833,7 +833,7 @@ The Human Nature By Marguerite Del Giudice (Have)
 The Hungry Stones By Rabindranath Tagore (Have) (Read)
 The Hunter By Edgar Lawrence Doctorow (Have)
 The Hyannis Port Story (1963) By Kurt Vonnegut (Read)
-The Ice Palace By Francis Scott Key Fitzgerald (Have)
+The Ice Palace By Francis Scott Key Fitzgerald (Have) (Read)
 The Inheritance By W. J. Glover (Read)
 The Impatient Billionaire And The Mirror For Earth By Benjamin Joseph Manaly Novak (Read)
 The Imp Of The Perverse By Edgar Allan Poe
@@ -842,7 +842,7 @@ The Interruption By William Wymark Jacobs (Read)
 The Invisible Hand, The World’s Longest River Of Tears By Wong Meng Voon (Read)
 The Island Of The Fay By Edgar Allan Poe
 The Izu Dancer By Kawabata Yasunari
-The Jelly Bean By Francis Scott Key Fitzgerald (Have)
+The Jelly Bean By Francis Scott Key Fitzgerald (Have) (Read)
 The Jewels Of The Sea By Yoshiko Uchida (Read)
 The Jilting Of Granny Weatherall By Katerine Anne Porter
 The Jolly Corner By Henry James
@@ -859,11 +859,12 @@ The Land With No Air By Jane Hammons
 The Last Answer By Isaac Asimov
 The Last Lawn Of The Afternoon BY Haruki Murakami (Read)
 The Last Mohican By Bernard Malamud (Have)
+The Last Of The Valerii By Henry James
 The Last Picture Show By Ryu Murakami (Read)
 The Last Tomb - Sweeping By Wong Meng Voon (Read)
 The Laugh By Tea Obreht (Have)
 The Laughing Man By Jerome David Salinger (Read)
-The Lees Of Happiness By Francis Scott Key Fitzgerald (Have)
+The Lees Of Happiness By Francis Scott Key Fitzgerald (Have) (Read)
 The Library By Washington Irving
 The Lie (1962) By Kurt Vonnegut (Read)
 The Life Of The Imagination By Nadine Gordimer (Have)
@@ -905,7 +906,7 @@ The Nightingale And The Rose By Oscar Wilde (Have) (Read)
 The No - Talent Kid By Kurt Vonnegut (Read)
 The Oblong Box By Edgar Allan Poe
 The Official's Chair By Wong Meng Voon (Read)
-The Offshore Pirate By Francis Scott Key Fitzgerald (Have)
+The Offshore Pirate By Francis Scott Key Fitzgerald (Have) (Read)
 The Ogre Who Built A Bridge By Yoshiko Uchida (Read)
 The Old Man Of The Flowers By Yoshiko Uchida (Read)
 The Old Man With The Bump By Yoshiko Uchida (Read)
@@ -948,6 +949,7 @@ The Rifle By Kojima Nobuo
 The Ring Of Kerry By Dennis McFadden
 The Roadside Rose By Wong Meng Voon (Read)
 The Rocking - Horse Winner By David Herbert Lawrence
+The Romance Of Certain Old Clothes By Henry James
 The Rookery By Washington Irving
 The Royal Palms By Mathew Klam
 The Sacrifice By Jahanara Siddique (Have) (Read)
@@ -1019,6 +1021,7 @@ The Trial For Murder By Charles Dickens
 The Trouble With A Caddie (1993) By John Updike (Have)
 The Truth About Tara By Annabeth Leong (Read)
 The Tryst By Joyce Carol Oates (Have)
+The Turn Of The Screw By Henry James
 The Two Faces By Henry James
 The Two Foolish Cats By Yoshiko Uchida (Read)
 The Ugly Little Boy By Isaac Asimov & Robert Silverberg
