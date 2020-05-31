@@ -163,6 +163,7 @@ Airborn By Octavio Paz
 Airmail: The Letters Of Robert Bly And Tomas Transtromer By Tomas Tranströmer
 Airport In Amsterdam By Adam Zagajewski
 Airshipwreck By Len Deighton
+A Journal Of The Plague Year By Daniel Defoe
 A Journey To The End Of The Millennium By Abraham B. Yehoshua
 A Knight Of The Seven Kingdoms By George Raymond Richard Martin
 A Land Of Permanent Goodbyes By Atia Abawi (Read)
@@ -474,6 +475,7 @@ Basic French Cooking By Len Deighton
 Batman Arkham: Ra’s Al Ghul: The Best Of The Demon And The Bat! By DC (Read)
 Battle Of Britain By Len Deighton
 Be Afraid -- Be Very Afraid! (Goosebumps 2000, #20) By Robert Lawrence Stine
+Bear To The Bone (Bear Claw Security, #1) By Terry Bolryder
 Beartown: A Novel (Beartown, #1) By Fredrik Backman
 Beasley's Christmas Party By Booth Tarkington
 Beast By Brie Spangler
@@ -659,6 +661,7 @@ Can't And Won't: Stories By Lydia Davis
 Canvas By Adam Zagajewski
 Capital: The Eruption Of Delhi By Rana Dasgupta
 Captain Pantoja And The Special Service By Mario Vargas Llosa
+Captain Scott's Dairy By Robert Falcon Scott
 Car: A Novel By Harry Crews
 Carbon 14 And Other Science Methods That Date The Past By Gray Johnson Poole & Lynn Poole
 Cards Of Identity By Nigel Dennis (Have)
@@ -819,6 +822,7 @@ Coup De Semonce (FR) By William Golding
 Course Of Empire: Paintings By Joan Didion
 Crabwalk By Günter Grass
 Cramp (Fast Fiction) By Gao Xingjian
+Craving Her Mates: A Shapeshifter Paranormal Romance (My Wicked Mates, #1) By Erzabet Bishop
 Creature Teacher (Goosebumps 2000, #3) By Robert Lawrence Stine
 Crediting Poetry By Seamus Heaney
 Creep From The Deep (Goosebumps HorrorLand, #2) By Robert Lawrence Stine (Read)
@@ -2064,6 +2068,7 @@ Love By Toni Morrison
 Love, Again By Doris Lessing
 Love And Exile By Isaac Bashevis Singer
 Love And Lies: An Essay On Truthfulness, Deceit, And The Growth And Care Of Erotic Love By Clancy Martin
+Love At Furst Sight (Built Fur Love, #1) By Terry Bolryder
 Love, Etc. By Julian Barnes
 Love In The Kingdom Of Oil By Nawal El Saadawi
 Love In The New Millennium By Can Xue
@@ -2356,6 +2361,7 @@ Ned Kelly And The City Of Bees By Thomas Keneally
 Needful Things By Stephen King
 Need To Know: A Novel By Karen Cleveland
 Negotiating With The Dead: A Writer On Writing By Margaret Atwood (Have)
+Nelson Mandela's Dairy By Nelson Mandela
 Nemesis By Philip Roth (Have)
 Nëntori I Një Kryeqyteti (AB) By Ismail Kadare
 Neon In Daylight: A Novel By Hermione Hoby
@@ -2376,6 +2382,7 @@ News Of A Kidnapping By Gabriel García Márquez
 New Writing From Africa 2009: Original Short Stories By African Writers, Selected By The South African Centre Of International PEN. By John Maxwell Coetzee
 New York By Edward Rutherfurd
 Ngugi Wa Thiong'o Speaks By Ngũgĩ Wa Thiong'o
+Nice Guy Dinosaur Doesn't Pound Me In The Butt Because I'm Not Interested And He's Not Actually Nice He's Just Annoying And Creepy And Doesn't Respect ... When I Tell Him We're Not On A Date By Chuck Tingle
 Nicht Zur Veröffentlichung. (DE) By Nadine Gordimer
 Nieobjęta Ziemia (POL) By Czesław Miłosz
 Night (The Night Trilogy, #1) By Elie Wiesel (Read)
@@ -2413,6 +2420,7 @@ No Country For Old Men: A Novel By Cormac McCarthy (Have)
 Nocturnes: Five Stories Of Music And Nightfall By Kazup Ishiguro (Read)
 No End Of Fun By Wisława Szymborska
 Nokon Kjem Til å kKmme (NO) By Jon Fosse
+No Longer Human By Osamu Dazai
 No Love Lost By Alice Munro
 No Name By Wilkie Collins
 No - No Boy By John Okada
@@ -2673,6 +2681,10 @@ Possessions By James Arthur Moore
 Possible Poems By José Saramago
 Post Aetatem Nostram: Versek By Joseph Brodsky
 Postcards From The Edge By Carrie Fisher (Read)
+Pounded In The Butt By My Book "Pounded In The Butt By My Book 'Pounded In The Butt By My Book "Pounded In The Butt By My Own Butt"'" By Chuck Tingle
+Pounded In The Butt By My Book "Pounded In The Butt By My Book 'Pounded In The Butt By My Own Butt'" By Chuck Tingle
+Pounded In The Butt By My Book "Pounded In The Butt By My Own Butt By Chuck Tingle
+Pounded In The Butt By My Own Butt By Chuck Tingle
 Poupée Blonde By Patrick Modiano
 Pow! By Mo Yan
 Power Politics By Margaret Atwood
@@ -2714,6 +2726,7 @@ Pulse By Julian Barnes
 Punished! By David Lubar (Have)
 Puppy Love And Other Stories By Francisco Sionil José
 Puritans And Prigs By Marilynne Robinson
+Purrfect For Me (Built Fur Love, #3) By Terry Bolryder
 Pururi Tânăr, Infăşurat în Pixeli (RU) By Mircea Cărtărescu
 Put By Cormac McCarthy
 Putting The Boot In By Julian Barnes
@@ -3066,6 +3079,7 @@ South Of Nowhere By António Lobo Antunes
 South Pole Station By Ashley Shelby
 South Sea Tales By Robert Louis Stevenson (Have)
 So You Don't Get Lost In The Neighborhood: A Novel By Patrick Modiano
+Space Raptor Butt Invasion By Chuck Tingle
 Spadework For A Palace By László Krasznahorka
 Spätzünder. Frühe Erzählungen (DE) By Thomas Pynchon
 Speak, Memory: An Autobiography Revisited By Vladimir Nabokov
@@ -3129,6 +3143,7 @@ Stoppard: The Plays For Radio 1964 - 1983 By Tom Stoppard
 Storie Di Cani Per Una Bambina (IT) By Dacia Maraini
 Stories From Our Neighbourhood By Nagiub Mahfouz
 Stormbreaker (Alex Rider, #1) By Anthony Horowitz
+Stormfire By Christine Monson
 Storm Still By Peter Handke
 Strong Opinions By Vladimir Nabokov
 Subject Seven By James Arthur Moore
@@ -3152,6 +3167,7 @@ Sunstone By Octavio Paz
 Superman Doomed (The New 52) By Aaron Kuder, Charles Soule, Greg Pak, Ken Lashley, Scott Lobdell, Tony S. Daniel (Read)
 Surfacing By Margaret Atwood
 Surfing With Sartre: An Aquatic Inquiry Into A Life Of Meaning By Aaron James
+Surrendering To Her Mate: A Shapeshifter Paranormal Romance (My Wicked Mates, #2) By Erzabet Bishop
 Surrender The Pink By Carrie Fisher
 Surrender the Pink - 8 Cassettes By Carrie Fisher
 Surrender The Pink - Arrow Spe Sale By Carrie Fisher
@@ -3502,6 +3518,8 @@ The Devil With Boobs By Dario Fo
 The Diary Of Alice James By Alice James (Have)
 The Diary Of A Good Neighbour By Doris Lessing
 The Diary Of A Young Girl By Anne Frank By Anne Frank (Read)
+The Diary Of Lena Mukhina: A Girl's Life In The Siege Of Leningrad By Lena Mukhina
+The Diary Of Samuel Pepys By Samuel Pepys
 The Dictator's Last Night By Yasmina Khadra
 The Discovery (Animorphs, #20) By Katherine Applegate
 The Discovery Of Heaven By Harry Mulisch
@@ -3587,8 +3605,9 @@ The Fascinating Stranger And Other Stories By Booth Tarkington
 The Fat Man And Infinity: And Other Writings By António Lobo Antunes
 The Fault In Our Stars By John Green (Read)
 The Fear By Thomas Keneally
-The Feast Orsome Inn By Isaac Bashevis Singer
-The Feaf The Goat By Mario Vargas Llosa
+The Fear Of The Unknown Gives My Butt Pause But Then I Realize How Powerful And Unique I Am And We Pound Enthusiastically By Chuck Tingle
+The Fearsome Inn By Isaac Bashevis Singer
+The Feast Of The Goat By Mario Vargas Llosa
 The Feathered Serpent By Scott O'Dell
 The Federalist Papers By Alexander Hamilton (Have)
 The Feet Of Juan Bacnang: A Novel By Francisco Sionil José
@@ -4611,6 +4630,7 @@ Through The Tunnel By Doris Lessing
 Through The Window: Seventeen Essays And A Short Story By Julian Barnes
 Thunder Rolling In The Mountains By Scott O'Dell
 Thus Bad Begins By Javier Marías
+Thus Spoke Zarathustra: A Book For All And None By Friedrich Nietzsche
 Thyroid Diary: A Story By Lydia Davis
 Ticktock By Dean Koontz
 Tiepolo's Hound By Derek Walcott
@@ -4654,6 +4674,7 @@ Tonight On The Titanic (Magic Tree House, #17) By Mary Pope Osborne
 Too Far Afield By Günter Grass
 To Know A Woman By Amos Oz
 Too Much Happiness By Alice Munro
+Tormenting Her Mate: A Shapeshifter Paranormal Romance (My Wicked Mates, #3) By Erzabet Bishop
 Tortilla Flat By John Steinbeck (Read)
 To Stir The Heart By Ngũgĩ Wa Thiong'o
 Totenauberg By Elfriede Jelinek
@@ -4700,6 +4721,7 @@ Truth Barriers By Tomas Tranströmer
 Truth In Autobiography By John Maxwell Coetzee
 Truth In History By Oscar Handlin
 T. Singer Roman (NO) By Dag Solstad
+Tucker's Justice (Wild West Cowboys, #1) By Maggie Carpenter
 Tuesday Siesta By Gabriel García Márquez
 Tuesdays With Morrie By Mitch Albom (Have) (Read)
 Tuf Voyaging By George Raymond Richard Martin
