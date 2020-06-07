@@ -391,6 +391,7 @@ At The Sky's Edge By Bei Dao
 A Tidewater Morning By William Styron (Have)
 A Time Between Ashes And Roses By Adunis
 A Time For Everything By Karl Ove Knausgard
+A Time To Kill By John Grisham
 Atlantic Hotel By Joao Gilberto Noll
 Atlas Shrugged By Ayn Rand (Have)
 Atonement By Ian McEwan (Read)
@@ -994,6 +995,7 @@ Disney After Dark (KingDom Keepers, #1) By Ridley Pearson (Have) (Read)
 Dissolving Classroom: Story Collection By Junji Ito (Have)
 District And Circle By Seamus Heaney
 Divergent (Divergent, #1) By Veronica Roth (Read)
+Divided Sisters By Kathy Russell & Midge Wilson
 Divine Comedy By Dante Alighieri
 Doctor Faustus By Thomas Mann
 Doctor Sleep (The Shining, #2) By Stephen King
@@ -1217,6 +1219,7 @@ Fantastic Voyage (Fantastic Voyage, #1) By Isaac Asimov
 Fantastic Voyage II: Destination Brain (Fantastic Voyage, #2) By Isaac Asimov
 Far From The Madding Crowd By Thomas Hardy (Have)
 Farther Surroundings By Czeslaw Milosz
+Fatal Invention: How Science, Politics, And Big Business Re - Create Race In The Twenty - First Century Dorothy E. Roberts
 Fatelessness By Imre Kertesz
 Father And I Were Ranchers (Little Britches, #1) By Ralph Moody
 Fatherhood: Vintage Minis By Karl Ove Knausgard
@@ -1575,6 +1578,7 @@ How I Became A North Korean By Krys Lee
 How I Became A Nun By Cesar Aira
 How I Got My Shrunken Head (Goosebumps, #39) By Robert Lawrence Stine
 How I Learned To Fly (Goosebumps, #52) By Robert Lawrence Stine
+How To Be An Antiracist By Ibram Xolani Kendi
 How To Behave In A Crowd By Camille Bordas
 How To Cure A Fanatic By Amos Oz
 How To Eat A Cupcake By Meg Donohue
@@ -2035,6 +2039,7 @@ Livingstone's Companions: Stories By Nadine Gordimer
 Living To Tell The Tale By Gabriel Garcia Marquez
 Livret De Famille (FR) By Patrick Modiano
 Local Anaesthetic By Gunter Grass
+Locking Up Our Own: Crime And Punishment In Black America By James Forman Jr.
 Logical Family: A Memoir By Armistead Maupin
 Loitering With Intent By Dame Muriel Spark
 Lolita By Vladimir Nabokov
@@ -2207,6 +2212,7 @@ Midnight's Gate By Bei Dao
 Midsummer By Derek Walcott
 Miguel Street By Sir Vidiadhar Surajprasad Naipaul
 Mihyar Of Damascus, His Songs By Adunis
+Mike Mulligan And His Steam Shovel By Virginia Lee Burton
 Milczenie Roslin By Wislawa Szymborska
 Miles City, Montana By Alice Munro
 Milk And Honey By Rupi Kaur
@@ -3039,6 +3045,7 @@ Solidarite, Solitude (FR) By Adam Zagajewski
 Solidarity, Solitude: Essays By Adam Zagajewski
 Solidarnosc I Samotnosc (PO) By Adam Zagajewski
 Solitary: A Novel (Solitary Tales, #1) By Travis Thrasher
+Sol Primordi: The Silent Night And The Lioness Of The Sword By Mike Walker
 Somebody (Three Roads Home, #1) By Travis Thrasher
 Some Hell By Patrick Nathan
 Some Monday For Sure By Nadine Gordimer
@@ -3179,6 +3186,7 @@ Swallowing Mercury By Wioletta Greg
 Swann's Way (In Search Of Lost Time, #1) By Marcel Proust
 Sweeney Astray By Seamus Heaney
 Sweet And Sour Milk By Nuruddin Farah
+Sweeter Than Life By Mark Tryon
 Sweet Land Of Liberty: The Forgotten Struggle For Civil Rights In The North By Thomas J. Sugrue
 Sweet Thursday (Cannery Row, #2) By John Steinbeck
 Sweet Tooth By Ian McEwan
@@ -3989,6 +3997,7 @@ The Milldnight Verdict By Seamus Heaney
 The Miionaire Next Door: The Surprising Secrets Of America's Wealthy By Thomas J. Stanley (Have)
 The Mill On The Floss By George Eliot (Have)
 The Mimic Men By Sir Vidiadhar Surajprasad Naipaul
+The Miner's Canary By Gerald Torres & Lani Guiner
 The Minister's Wooing By Harriet Beecher Stowe (Have) (Read)
 The Ministry Of Pain By Dubravka Ugresic
 The Miracle Cures Of Dr. Aira By Cesar Aira
@@ -4041,6 +4050,7 @@ The Neverending Story By Michael Ende (Read)
 The New Dead By Aimee Bender, Brian Keene, David Liss, David Wellington, Derek Nikitas, James Arthur Moore, Joe R. Lansdale, John Connolly, Jonathan Maberry, Kelley Armstrong, Max Brooks, Mike Carey, Rick Hautala, Tad Williams & Tim Lebbon
 The New Granta Book Of The American Short Story By Richard Ford
 The New Hunger (Warm Bodies, #1.5) By Isaac Marion (Have)
+The New Jim Crow: Mass Incarceration In The Age Of Colrblindness By Michelle Alexander
 The New Life By Dante Alighieri
 The New Life By Orphan Pamuk
 The Nigger Of The 'Narcissus' / Typhoon / And Other Stories By Joseph Conrad (Have)
@@ -4361,6 +4371,7 @@ The Stone Raft By Jose Saramago
 The Story Begins: Essays On Literature By Amos Oz
 The Story Of A New Name (The Neapolitan Novels, #2) By Elena Ferrante
 The Story Of A Shipwrecked Sailor By Gabriel Garcia Marquez
+The Story Of Babar: The Little Elephant By Jean De Brunhoff
 The Story Of Hong Gildong By Unknown
 The Story Of King Arthur And His Knights By Howard Pyle (Read)
 The Story Of Mats Israelson (Storycuts) By Julian Barnes
@@ -4563,7 +4574,9 @@ The World Of Willa Cather By Mildred R. Bennett
 The World Split Open: Great Authors On How And Why We Write By Jeanette Winterson, L. E. Margaret Atwood, Marilynne Robinson, Robert Stone, Russell Banks, Ursula K. Le Guin & Wallace Stegner
 The World To Come By Dara Horn
 The Wreath Of Dionysus: A Novel By Evdokia Nagrodskaia (Have)
+The Wretched Of The Earth By Frantz Fanon
 The Writer And The World: Essays By Sir Vidiadhar Surajprasad Naipaul
+They Can't Kill Us All: Ferguson, Baltimore, And A New Era In America's Racial Justice Movement By Wesley Lowrey
 The Yearlings By Marjorie Kinnan Rawlings (Have)
 The Year Of 1993 By Jose Saramago
 The Year Of Magical Thinking By Joan Didion
@@ -4976,6 +4989,7 @@ Whispers By Dean Koontz
 White Dog And Swing Frame By Mo Yan
 White Egrets By Derek Walcott
 White Fang By Jack London (Read)
+White Fragility By Robin DiAngelo
 White Houses: A Novel By Amy Bloom
 White Noise By Don DeLillo
 White Rose, Black Forest By Eoin Dempsey
