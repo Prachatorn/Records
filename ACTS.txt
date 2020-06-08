@@ -32,6 +32,7 @@ Bringing An End To Harassment By Enhancing Accountability And Rejecting Discrimi
 Better Care Reconciliation Act (2017)
 Better Workforce For Veterans Act (2017)
 Big Cat Public Safety Act (2019)
+Bill Emerson Good Samaritan Act (1996)
 Biological Implant Tracking And Veteran Safety Act (2019)
 Blue Water Navy Vietnam Veterans Act (2019)
 Boosting Rates Of American Veteran Employment (BRAVE) Act (2019)
@@ -137,117 +138,127 @@ Federal Crop Insurance Reform Act (1994)
 Federal Election Campaign Act (1971)
 Federal Food, Drug, And Cosmetic Act (1938)
 Federal Reserve Act (1913)
-Feeding America Through Farm Flexibility Act
-Fighting For Orange - Stricken Territories In The Eastern Region Act
-Financial CHOICE Act
-First Rhode Island Regiment Congressional Gold Medal Act
-Florida Manatee Research And Recovery Act
-Food And Nutrition Act
-Food Deserts Act
-Food Donation Act
-Food Recovery Act
-Food Security IS National Security Act
-Food Stamp Integrity Act
-Food, Agriculture, Conservaton, And Trade Act
-Foreclosure Relief And Extension For Servicemembers Act
-Foreign Intelligence Surveillance Act
-Foreign Investment And Economic Security Act
-Fort McClellan Health Registry Act
-Foster And Homeless Youth Food Security Act
-Fruit And Vegetables Access For Children Act
-Fry Scholarship Enhancement Act
-FUEL Reform Act
-Funding For Students Scholarships For The 1890s Land - Grant African - American Colleges And Universities Act
-Ghost Army Congressional Gold Medal Act
-GI Bill Fairness Act
-GI Bill Processing Improvement Act
-GI Bill STEM Extension Act
-GI Internship Program Act
-Give Our Troops A Raise Act
-Give Veterans Home Loan Choices Act
-Government By The People Act
-Gray Wolf State Management Act
-Great Lakes Agricultural Stewardship Act
-Greater Sage - Grouse Protection And Recovery Act
-Gregg Wenzel Clandestine Heroes Parity Act
-Grow Our Own Directive - Physician Assistant Employment And Education Act
-Guard And Reservists Education Improvement Act
-Guardians Of America's Freedom Medal Act
-Harry W. Colmery Veterans Educational Assistance Act
-Healthy Breakfasts Help Kids Learn Act
-Hearing Protection Act
-HEARTS Act
-HELP For Wildlife Act
-Help Our Service Members And Citizens Abroad Vote Act
+Feeding America Through Farm Flexibility Act (2017)
+Fighting For Orange - Stricken Territories In The Eastern Region Act (2017)
+Financial CHOICE Act (2017)
+First Rhode Island Regiment Congressional Gold Medal Act (2015)
+Florida Manatee Research And Recovery Act (2017)
+Food And Nutrition Act (2008)
+Food Deserts Act (2017)
+Food Donation Act (2017)
+Food Recovery Act (2017)
+Food Security IS National Security Act (2017)
+Food Stamp Integrity Act (2017)
+Food, Agriculture, Conservaton, And Trade (FACT) Act (1990)
+Foreclosure Relief And Extension For Servicemembers Act (2015)
+Foreign Intelligence Surveillance Act (1978)
+Foreign Investment And Economic Security Act (FIESA) (2017)
+For The People Act (2019)
+Fort McClellan Health Registry Act (2017)
+Foster And Homeless Youth Food Security Act (2017)
+Fruit And Vegetables Access For Children Act (2017)
+Fry Scholarship Enhancement Act (2015)
+Farewell To Unnecessary Energy Lifelines (FUEL) Reform Act (2019)
+Funding For Students Scholarships For The 1890s Land - Grant African - American Colleges And Universities Act (2016)
+Ghost Army Congressional Gold Medal Act (2019)
+GI Bill Fairness Act (2017)
+GI Bill Tuition Fairness Act (2013)
+GI Bill Processing Improvement Act (2015)
+GI Bill STEM Extension Act (2019)
+GI Bill Work Study Improvement Act (2019)
+GI Internship Program Act (2014)
+Give Our Troops A Raise Act (2017)
+Give Veterans Home Loan Choices Act (2017)
+Government By The People Act (2014)
+Government By The People Act (2017)
+Gray Wolf State Management Act (2017)
+Gray Wolf State Management Act (2019)
+Great Lakes Agricultural Stewardship Act (2019)
+Greater Sage - Grouse Protection And Recovery Act (2017)
+Gregg Wenzel Clandestine Heroes Parity Act (2019)
+Grow Our Own Directive - Physician Assistant Employment And Education Act (2017)
+Guard And Reservists Education Improvement Act (2017)
+Guardians Of America's Freedom Medal Act (2018)
+Harry W. Colmery Veterans Educational Assistance Act (2017)
+Healthy Breakfasts Help Kids Learn Act (2019)
+Hearing Protection Act (2019)
+HEARTS Act (2017)
+HEARTS Act (2019)
+Help Our Service Members And Citizens Abroad Vote Act (2017)
+Hemp Farming Act (2018)
 Hire Military Service Members Act
-HIRE Vets Act
-Hmong Veterans' Service Recognition Act
-Homegrown Organic Act
-Homeless Veterans Legal Services Act
-Homeless Veterans Prevention Act
-Homeless Veterans' Reintegration Programs Reauthorization Act
-HOMES Act
-Homestead Act
-Honor Guardsmen And Reservists Act
-Honor Our Commitment Act
-Honoring Our Heroes Act
-Honoring Our WWII Merchant Mariners Act
-Honoring Real Patriots Act
-Horse Protection Amendments Act
-Housing Our Heroes Act
-Humane Cosmetics Act
-Hunter And Farmer Protection Act
-Hunting, Fishing, And Recreational Shooting Protection Act
-Icebreaker Act
-Illegal Immigration Reform And Immigrant Responsibility Act
-Immigration And Nationality Act
-Improve Access To Care For Our Female Veterans Act
-Improving Access To Farm Conservation 
-Improving Transition Programs For All Veterans Act
-Increasing The Department Of Veterans Affairs Accountability To Veterans Act
-Increasing Transferability Of Entitlement To Post - 9 - 11 Educational Assistance Act
-Industrial Help Water Rights Act
-Intelligence Authorization Act
-Investment Company Act
-Jack Alderson Toxic Exposure Declassification Act
-Janey Ensminger Act
-Jessica Kensky And Patrick Downes Act
-Judiciary Act
-Julian Woods Yellow Ribbon Program Expansion Act
-Justice For Servicemembers Act
-Justice For Servicemembers And Veterans Act
-Kansas - Nebraska Act
-Keeping Our Commitment To Disabled Veterans Act
-Keeping Our Commitment To Ending Veteran Homelessness Act
-Keeping Our Commitment To Overseas Veterans Act
+HIRE Vets Act (2017)
+Hmong Veterans' Service Recognition Act (2017)
+Homegrown Organic Act (2017)
+Homeless Veterans Legal Services Act (2019)
+Homeless Veterans Prevention Act (2019)
+Homeless Veterans' Reintegration Programs Reauthorization Act (2018)
+HOMES Act (2019)
+Homestead Act (1862)
+Honor Guardsmen And Reservists Act (2014)
+Honor Our Commitment Act (2017)
+Honoring Our Heroes Act (2017)
+Honoring Our WWII Merchant Mariners Act (2019)
+Honoring Real Patriots Act (2017)
+Horse Protection Amendments Act (2019)
+Housing Our Heroes Act (2017)
+Humane Cosmetics Act (2019)
+Hunter And Farmer Protection Act (2013)
+Hunter And Farmer Protection Act (2017)
+Hunting, Fishing, And Recreational Shooting Protection Act (2015)
+Hunting, Fishing, And Recreational Shooting Protection Act (2017)
+Hunting Heritage And Environmental Legacy Preservation HELP For Wildlife Act (2017)
+Icebreaker Act (2017)
+Illegal Immigration Reform And Immigrant Responsibility Act (1996)
+Immigration And Nationality Act (1965)
+Improve Access To Care For Our Female Veterans Act (2017)
+Improving Access To Farm Conservation Act (2017)
+Improving Transition Programs For All Veterans Act (2017)
+Increasing The Department Of Veterans Affairs Accountability To Veterans Act (2017)
+Increasing Transferability Of Entitlement To Post - 9 - 11 Educational Assistance Act (2017)
+Industrial Help Water Rights Act (2017)
+Intelligence Authorization Act (2018)
+Investment Company Act (1940)
+Jack Alderson Toxic Exposure Declassification Act (2017)
+Janey Ensminger Act (2019)
+Jessica Kensky And Patrick Downes Act (2017)
+Judiciary Act (1789)
+Julian Woods Yellow Ribbon Program Expansion Act (2017)
+Justice For Servicemembers Act (2019)
+Justice For Servicemembers And Veterans Act (2017)
+Kansas - Nebraska Act (1854)
+Keeping Our Commitment To Disabled Veterans Act (2017)
+Keeping Our Commitment To Ending Veteran Homelessness Act (2018)
+Keeping Our Commitment To Overseas Veterans Act (2018)
 Lanham Act (1946)
-Leadership Recognition Act
-Legal Services For Homeless Veterans Act
-Lend - Lease Act
-Liberty Through Strength Act
-Lift The Relocation Burden From Military Spouses Act
-Limiting Inhumane Federal Trapping Act
-Macadamia Tree Health Initiative Act
-Major General Tim Lowenberg National Guard Cyber Defenders Act
-Make America Secure Appropriations Act
-Maritime Security Accountability Act
-Master Sergeant Roddie Edmonds Congressional Gold Medal Act
-Maximizing Efficiency And Improving Access To Providers At The Department Of Veterans Affairs Act
-Merrill's Marauders Congressional Gold Medal Act
-Mexican Gray Wolf Recovery Plan Act
-Migratory Birds Of The Americas Conservation Act
-Military And Veteran Caregiver Services Improvement Act
-Military Asset Protection Act
-Military Commission Act
-Military Construction, Veterans Affairs, And Related Agencies Appropriations Act
-Military Consumer Enforcement Act
-Military Consumer Protection Act
-Military Family Leave Act
-Military Family Stability Act
-Military Patron Protection Act
-Military Pay Protection Act
-Military Residency Choice Act
-Military Retiree Survivor Comfort Act
+Leadership Recognition Act (2017)
+Legal Services For Homeless Veterans Act (2019)
+Lend - Lease Act (1941)
+Liberty Through Strength Act (2017)
+Liberty Through Strength Act II (2015)
+Lift The Relocation Burden From Military Spouses Act (2016)
+Limiting Inhumane Federal Trapping Act (2017)
+Macadamia Tree Health Initiative Act (2017)
+Major General Tim Lowenberg National Guard Cyber Defenders Act (2018)
+Make America Secure Appropriations Act (2018)
+Maritime Security Accountability Act (2017)
+Master Sergeant Roddie Edmonds Congressional Gold Medal Act (2019)
+Maximizing Efficiency And Improving Access To Providers At The Department Of Veterans Affairs Act (2016)
+Merrill's Marauders Congressional Gold Medal Act (2019)
+Mexican Gray Wolf Recovery Plan Act (2017)
+Migratory Birds Of The Americas Conservation Act (2019)
+Military And Veteran Caregiver Services Improvement Act (2017)
+Military Asset Protection Act (2017)
+Military Commissions Act (2006)
+Military Construction, Veterans Affairs, And Related Agencies Appropriations Act (2019)
+Military Consumer Enforcement Act (2017)
+Military Consumer Protection Act (2017)
+Military Family Leave Act (2013)
+Military Family Stability Act (2017)
+Military Patron Protection Act (2017)
+Military Pay Protection Act (2017)
+Military Residency Choice Act (2017)
+Military Retiree Survivor Comfort Act (2019)
 Military SAVE Act
 Modernization Of Medical Records Access For Veterans Act
 MOMS Leave Act
@@ -341,7 +352,7 @@ Servicemember Debt Collection Reform Act
 Servicemember Intimate Privacy Protection Act
 Servicemember Voting Protection Act
 Servicemembers And Veterans Empowerment And Support Act
-Servicemembers Civil Relief Act
+Servicemembers Civil Relief Act (2003)
 Serving Our Rural Veterans Act
 Sewage Sludge In Food Production Consumer Notification Act
 Sgt, Brandon Ketchum Never Again Act
