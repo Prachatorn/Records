@@ -497,6 +497,7 @@ Beginning With My Streets By Czesław Miłosz
 Behind Her Eyes By Sarah Pinborough
 Behind The Beautiful Forevers: Life, Death, And Hope In A Mumbai Undercity By Katherine Boo
 Behind The Scenes At The Museum By Kate Atkinson
+Behold The Dreamers By Imbolo Mbuc
 Belinda By Maria Edgeworth
 Bellefleur By Joyce Carol Oates
 Bells In Winter By Czesław Miłosz
@@ -547,6 +548,7 @@ Black Box By Amos Oz
 Black Dahlia & White Rose: Stories By Joyce Carol Oates
 Black Elk Speaks By John G. Neihardt (Have)
 Black Girl / White Girl By Joyce Carol Oates
+Black Is The Body By Emily Bernard
 Black Liberation And The American Dream: The Struggle For Racial And Ecomonic Justice By Paul Le Blanc
 Black Linguistics: Langauge, Society And Politics In Africa And The Americas By Ngũgĩ Wa Thiong'o
 Black No More By George Schuyler
@@ -1559,6 +1561,7 @@ Home By Toni Morrison
 Home And Away: Writing The Beautiful Game By Karl Ove Knausgård
 Homebase By Shawn Wong
 Homebush Boy: A Memoir By Thomas Keneally
+Homecoming By Yaa Gyasi
 Homecoming: Essays On African And Caribbean Literature, Culture And Politics By Ngũgĩ Wa Thiong'o
 Homegoing By Yaa Gyasi
 Homer & Langley By Edgar Lawrence Doctorow (Have)
@@ -2170,6 +2173,7 @@ Maurka For Two Dead Men By Camilo José Cela
 Mazx, Der Schlawiner: Roman (DE) By Isaac Bashevis Singer
 Me Alquilo Para Soñar (ES) By Gabriel García Márquez
 ME: A Novel By Tomoyuki Hoshino
+Me And White Supremacy: Combat Racism, Change The World, And Become A Good Ancestor By Layla Saad
 Me And You By Niccolò Ammaniti
 Me Before You And After You Boxed Set By Jojo Moyes
 Medea By Lyudmila Ulitskaya
@@ -3294,6 +3298,7 @@ Theatre Writings By Tom Stoppard
 The Attack (Animorphs, #26) By Katherine Applegate
 The August Sleepwalker By Bei Dao
 The Autobiography Of An Unknown Indian By Nirad Chandra Chaudhuri
+The Autobiography Of Malcolm X By Malcolm X
 The Autobiography Of Mark Twain By Mark Twain (Have)
 The Autobiography Of The People In Verse By Ismail Kadare
 The Autumn Of The Patriarch By Gabriel García Márquez
@@ -4054,6 +4059,7 @@ The New Hunger (Warm Bodies, #1.5) By Isaac Marion (Have)
 The New Jim Crow: Mass Incarceration In The Age Of Colrblindness By Michelle Alexander
 The New Life By Dante Alighieri
 The New Life By Orphan Pamuk
+The Nickel Boys By Colson Whitehead
 The Nigger Of The 'Narcissus' / Typhoon / And Other Stories By Joseph Conrad (Have)
 The Nightingale By Kristin Hannah
 The Night Manager By John le Carré
@@ -4917,6 +4923,7 @@ We Are The Change We Seek: The Speeches Of Barack Obama By Eugene Joseph "E. J."
 We Are What We Pretend To Be: The First And Last Works By Kurt Vonnegut (Read)
 Weariness By Jon Fosse
 Web Of The Witch World By Andre Norton (Have)
+We Cast A Shadow By Maurice Carlos Ruffin
 We Chose The Islands By Arthur Grimble
 Wedding Song By Nagiub Mahfouz
 Weep Not, Child By Ngugi wa Thiong'o
@@ -4931,6 +4938,7 @@ Welcome To Camp Slither (Goosebumps HorrorLand, #9) By Robert Lawrence Stine
 Welcome To Dead House (Goosebumps, #1) By Robert Lawrence Stine
 Welcome To HorroLand: A Survival Guide (Goosebumps HorrorLand, #0) By Robert Lawrence Stine
 Welcome To The Monkey House By Kurt Vonnegut (Read)
+Well - Read Black Girl By Glory Edim
 We Need New Names By NoViolet Bulawayo
 Werewolf Skin (Goosebumps, #60) By Robert Lawrence Stine
 Werewolf Storyteller's Screen By James Arthur Moore
@@ -4992,7 +5000,7 @@ Whispers By Dean Koontz
 White Dog And Swing Frame By Mo Yan
 White Egrets By Derek Walcott
 White Fang By Jack London (Read)
-White Fragility By Robin DiAngelo
+White Fragility: Why It's So Hard For White People To Talk About Racism By Robin DiAngelo
 White Houses: A Novel By Amy Bloom
 White Noise By Don DeLillo
 White Rose, Black Forest By Eoin Dempsey
