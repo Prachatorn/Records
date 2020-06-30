@@ -617,6 +617,7 @@ Brain Juice (Goosebumps 2000, #12) By Robert Lawrence Stine
 Brass By Xhenet Aliu
 Braveheart By Randall Wallace (Have)
 Brave New World By Aldous Huxley (Have) (Read)
+Braving The Wilderness By Brené Brown
 Breakfast At Tiffany's By Truman Capote
 Breakfast Of Champions By Kurt Vonnegut
 Breakfast with Socrates: An Extraordinary (Philosophical) Journey Through Your Ordinary Day By Robert Rowland Smith
@@ -1159,6 +1160,7 @@ England, England By Julian Barnes
 Enigma Variations: A Novel By André Aciman
 Enough By Wisława Szymborska
 Enquête Sur Un Sabre (FR) By Claudio Magris
+Entertaining Satan: Witchcraft And The Culture Of Early New England By John Putnam Demos
 Entre Sartre Y Camus (ES) By Mario Vargas Llosa
 Envoy Extraordinary By William Golding
 Equal Rites (Discworld, #3) By Terry Pratchett (Read)
@@ -1433,6 +1435,7 @@ Gone Girl By Gillian Flynn
 Gone With The Wind By Margatey Mitchell
 Good Bones And Simple urders By Margaret Atwood
 Goodbye, Mickey Mouse By Len Deighton
+Goodbye Tsugumi By Banana Yoshimoto
 Goodbye, Vitamin By Rachel Khong
 Good Climate, Friendly Inhabitants By Nadine Gordimer
 Good Morning, Gorillas (Magic Tree House, #26) By Mary Pope Osborne
@@ -1867,6 +1870,7 @@ Kidnapped (David Balfour, #1) By Robert Louis Stevenson (Have) (Read)
 Kidnapped: The Tragic Life Of J. Paul Getty III By Charles Fox
 Kill Me Now By Timmy Reed
 Killing The Messenger: The Right - Wing Plot To Derail Hilliary And Hijack Your Government By David Brock (Have)
+Kinder Than Solitude By Yiyun Li
 Kindred By Octavia Estelle Butler (Have)
 Kindred Spirits By Péter Nádas
 Kingdom Cons By Yuri Herrera
@@ -2279,6 +2283,7 @@ Miss Peregrine's Home For Peculiar Children (Miss Peregrin's Peculiar Children, 
 Moby Dick By Herman Melville
 Modern Critical Views Series 1, 115 Vol By William Golding
 Modern One - Act Plays By Harold Pinter, Horst Buss, James Saunders & Tom Stoppard
+Modern Romance: An Investigation By Aziz Ansari & Eric Klinenberg
 Modern Views Of Electricity By Sir Oliver Joseph Lodge
 Modern Views On Matter By Sir Oliver Joseph Lodge
 Moll Flanders By Daniel Defoe
@@ -2467,6 +2472,7 @@ Nobody Knows (KEY News, #5) By Mary Jane Clark
 Nobody's Fool By Richard Russo
 Nobody's Home By Dubravka Ugrešić
 No Cape Needed: The Simplest, Smartest, Fastest Steps To Improve How You Communicate By Leaps And Bounds By David Grossman
+No Captain Needed: Iconic Photographs, Public Culture, And Liberal Democracy By John Lucaites & Robert Hariman
 No Country For Old Men: A Novel By Cormac McCarthy (Have)
 Nocturnes: Five Stories Of Music And Nightfall By Kazup Ishiguro (Read)
 No End Of Fun By Wisława Szymborska
@@ -2572,6 +2578,7 @@ On The Come Up: A Novel Based On A True Story By Hannah Weyer (Read)
 On The Electrodynamics Of Moving Bodies By Albert Einstein
 On The Road By Jack Kerouac
 On The Yard By Malcolm Braly
+Onward: How Starbucks Fought For Its Life Without Losing Its Soul By Howard Schultz
 On Writing: A Memoir Of The Craft By Stephen King
 Opened Ground: Selected Poems, 1966 - 1996 By Seamus Heaney
 Open Papers By Odysseas Elytis
@@ -2597,6 +2604,7 @@ Our Mutual Friend By Charles Dickens
 Our Republic By Thomas Keneally
 Outback By Thomas Keneally
 Outer Dark By Cormac McCarthy
+Outliers By Malcolm Gladwell
 Out Of The Blackout By Robert Barnard
 Out Of The Dark By Patrick Modiano
 Out Of The Devil's Mouth By Travis Thrasher
@@ -2639,6 +2647,7 @@ Passenger By Thomas Keneally
 Passi Affrettati (IT) By Dacia Maraini
 Passing By Nella Larsen (Have)
 Passage To Munity By Alexander Kent (Have)
+Patriot Number One: American Dreams In Chinatown By Lauren Hilgers
 Pawana By Jean - Marie Gustave Le Clézio
 Payback: Debt And The Shadow Side Of Wealth By Margaret Atwood
 Peace And Its Discontents: Essays On Palestine In The Middle East Peace Process By Edward Wadie Said
@@ -2738,6 +2747,7 @@ Pounded In The Butt By My Book "Pounded In The Butt By My Book 'Pounded In The B
 Pounded In The Butt By My Book "Pounded In The Butt By My Own Butt By Chuck Tingle
 Pounded In The Butt By My Own Butt By Chuck Tingle
 Poupée Blonde By Patrick Modiano
+Pour Your Heart Into It By Howard Schultz
 Pow! By Mo Yan
 Power Politics By Margaret Atwood
 Powers Of Two: Finding The Essence Of Innovation In Creative Pairs By Joshua Wolf Shenk
@@ -2856,6 +2866,7 @@ Rich And Pretty By Rumaan Alam
 Right Text Wrong Number (Offsides, #1) By Natalie Decker
 Ring Roads By Patrick Modiano
 Rin, Tongue And Dorner: A Novel By Rich Shapero (Have)
+Rising Strong By Brené Brown
 Rita Hayworth And The Shawshank Redemption By Stephen King
 Rites Of Passage By William Golding
 Ritournelle De La Faim (FR) By Jean - Marie Gustave Le Clézio
@@ -2901,6 +2912,7 @@ Sacrificing Families: Navigating Laws, Labor, And Love Across Borders By Leisy J
 Safe Haven By Nicholas Sparks
 Saint Odd By Dean Koontz
 Så Lang En Reise (HI) By Rohinton Mistry
+Salem Possessed By Paul Boyer & Stephen Nissenbaum
 'Salem's Lot By Stephen King
 Salki By Wojciech Nowicki
 Salt To The Sea By Ruta Sepetys
@@ -3082,6 +3094,7 @@ Snow By Orhan Pamuk
 Snow Country By Yasunari Kawabata
 Snow Falling In Spring: Coming Of Age In China During The Cultural Revolution By Moying Li (Have) (Read)
 Snow Flower And The Secret Fan By Lisa See
+Snow Hunters By Paul Yoon
 Soba, Senbei And Shibuya: A Memoir Of Post - War Japan By Francisco Sionil José
 Soccer On Sunday (Magic Tree House, #52) By Mary Pope Osbourne
 Social Suicide (Deadly Cool, #2) By Gemma Halliday (Read)
@@ -3212,6 +3225,7 @@ Sugar Street By Naguib Mahfouz
 Suicide Blonde By Darcey Steinke
 Suitcase: A Journal Of Transcultural Traffic By Amos Oz, Harold Pinter, Jacques Derrida, Jessica Hagedorn, Nuruddin Farah, Paul Celan, Saul Friedlander & Seydou Keïta
 Suite Francaise By Irène Némirovsky
+Suki's Kimono By Chieri Uegaki
 Sula By Toni Morrison
 Summer By Edith Wharton (Have)
 Summer By Karl Ove Knausgård
@@ -3575,6 +3589,7 @@ The Demon Hunter (Oliver Nocturne, #4) By Kevin Emerson (Have)
 The Demon Of Cawnpore By Jules Verne (Have)
 The Departure (Animorphs, #19) By Katherine Applegate
 The Departures Of Seasons By Fereshteh Molavi
+The Devil In The Shape Of A Woman By Carol F. Karlsen
 The Devil's Bargain By Joshua Green
 The Devil With Boobs By Dario Fo
 The Diary Of Alice James By Alice James (Have)
@@ -4012,6 +4027,7 @@ The Magic Strings Of Frankie Presto: A Novel By Mitch Albom
 The Magnificent Ambersons By Booth Tarkington
 The Magus By John Fowles
 The Maids By Jun'ichiro Tanizaki
+The Making Of Asian America: A History By Erika Lee
 The Making Of The Representative For Planet 8 By Doris Lessing
 The Makioka Sisters By Jun'ichiro Tanizaki (Have)
 The Mandelbaum Gate By Dame Muriel Spark
@@ -4105,6 +4121,7 @@ The Neverending Story By Michael Ende (Read)
 The New Dead By Aimee Bender, Brian Keene, David Liss, David Wellington, Derek Nikitas, James Arthur Moore, Joe R. Lansdale, John Connolly, Jonathan Maberry, Kelley Armstrong, Max Brooks, Mike Carey, Rick Hautala, Tad Williams & Tim Lebbon
 The New Granta Book Of The American Short Story By Richard Ford
 The New Hunger (Warm Bodies, #1.5) By Isaac Marion (Have)
+The New Information Professional: Your Guide To Careers In The Digital Age By Judy Lawson
 The New Jim Crow: Mass Incarceration In The Age Of Colrblindness By Michelle Alexander
 The New Life By Dante Alighieri
 The New Life By Orphan Pamuk
@@ -4859,10 +4876,11 @@ Underworld By Don DeLillo
 Undiscovered Country By Tom Stoppard
 Une Aventure De Choura (FR) By Patrick Modiano
 Une Fiancée Pour Choura (FR) By Patrick Modiano
-Unholy Loves By Jforced Flourishing: Understanding Jaan Kaplinski By Thomas Salumets
-Unoyce Carol Oates
+Unforced Flourishing: Understanding Jaan Kaplinski By Thomas Salumets
+Unholy Loves By Joyce Carol Oates
 UN Invitado De Honor (FR) By Nadine Gordimer
 Universal Harvester By John Darnielle
+Universal Principles Of Design By William Lidwell
 Un Lento Aprendizaje (ES) By Thomas Pynchon
 Un Manual Para Ser Niño (ES) By Gabriel García Márquez
 Un Monde Évanoui (FR) By Yu Hua
@@ -5022,6 +5040,7 @@ What Can I Do When Everything's On Fire? By António Lobo Antunes
 What Gods Demand: A Blasted Lands Tale By James Arthur Moore
 What Happened By Hillary Rodham Clinton
 What Happened To Burger's Daughter Or How South African Censorship Works By Nadine Gordimer
+What I Like About You By Marisa Kanter
 What I Lived For By Joyce Carol Oates
 What I Love By Odysseas Elytis
 What Is Africa To Me? Fragments Of A True - To - Life Autobiography By Maryse Condé
@@ -5034,6 +5053,7 @@ What Moves At The Margin: Selected Nonfiction By Toni Morrison
 What Must Be Said By Günter Grass
 What Our Minds Do When We Read Novels By Orhan Pamuk 
 What Ours Is Not Yours: Stories By Helen Oyeyemi (Read)
+What's Your Creative Type? Harness The Power Of Your Artistic Personality By Meta Wagner
 What The Night Knows By Dean Koontz
 What The Twilight Says By Derek Walcott
 What We Saw By Aaron Hartzler (Read)
@@ -5056,6 +5076,7 @@ Where I'm Calling From: New And Selected Stories By Raymond Carver
 Where Is Here By Joyce Carol Oates
 Where I Was From By Joan Didion
 Where The Bird Sings Best By Alejandro Jodorowsky
+Where The Body Meets Memory By David Mura
 Where The Jackals Howl By Amos Oz
 Where The Red Fern Grows By Wilson Rawls
 Where The Sun Rises And Where It Sets By Czesław Miłosz
@@ -5166,6 +5187,7 @@ Yesterday, Tomorrow By Nuruddin Farah
 Yoko Tawada In Dialogue By Yoko Tawada
 Yoko Tawada's Portrait Of A Tongue: An Experimental Translation By Chantal Wright By Yoko Tawada
 Yoronica Del Cambio (DE) By Imre Kertész
+You Are A Badass At Making Money: Master The Mindset Of Wealth By Jen Sincero
 You Are A Badass: How To Stop Doubting Your Greatness And Start Living An Awesome Life By Jen Sincero
 You Begin By Margaret Atwood
 You Be The Jury: Courtroom Collection By Marvin Miller (Have)
@@ -5183,6 +5205,7 @@ Youth: Scenes From Provincial II By John Maxwell Coetzee
 Zeina By Nawal El Saadawi
 Zen And The Art Of Motorcycle Maintenance: An Inquiry Into Values By Robert Maynard Pirsig
 Zen. Jurnal 2004 - 2010 (RU) By Mircea Cărtărescu
+Zen Pencils: Cartoon Quotes From Inspirational Folks By Gavin Aung Than
 Zero K By Don DeLillo
 Z For Zachariah By Robert Leslie Carroll Conly / Robert C. O'Brien
 Zia By Scott O'Dell
