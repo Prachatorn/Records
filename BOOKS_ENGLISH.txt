@@ -758,6 +758,7 @@ Clandestine In Chile By Gabriel Garcia Marquez
 Clara S, Musikalische Tragodie By Elfriede Jelinek
 Classical Love By Yu Hua
 Classic Crews: A Harry Crews Reader By Harry Crews
+Click By David Almond, Deborah Ellis, Edin Colfer, Gregory Maguire, Linda Sue Park, Margo Lanagan, Nick Hornby, Roddy Doyle, Ruth Ozeki & Tim Wynne - Jones (Have)
 Clonk Clonk By William Golding
 Close Quarters By William Golding
 Close Sesame By Nuruddin Farah
@@ -779,6 +780,7 @@ Collected Stories By Bruno Schulz (Have)
 Collected Stories By Doris Lessing
 Collected Stories By Isaac Bashevis Singer
 Collected Stories Of F. Scott Fitzgerald By Francis Scott Key Fitzgerald (Have) (Read)
+Collected Stories Of Wallace Stegner By Wallace Stegner (Have)
 Colomba By Dacia Maraini
 Colon By Wislawa Szymborska
 Colorless Tsukuru Tazaki And His Years Of Pilgrimage By Haruki Murakami (Read)
@@ -1456,11 +1458,13 @@ Green Shadows And Other Peoms By Gerald Mernane
 Greyhound For Breakfast By James Kelman (Have)
 Great Dialogues Of Plato By Plato (Have)
 Great Expectations By Charles Dickens (Have)
+Great Folk Tales Of Old Ireland By Mary McGarry (Have)
 Great Granny Webster By Caroline Blackwood
 Great Jones Street By Don DeLillo
 Great Short Works Of Henry Van Dyke By Henry Van Dyke (Have)
 Greed By Elfriede Jelinek
-Greek Tragedies, Vol. 1: Aeschylus: Agamemnon, Prometheus Bound; Sophocles: Oedipus The King, Antigone; Euripides: Hippolytus By David Grene
+Greek Tragedies, Vol. 1: Aeschylus: Agamemnon, Prometheus Bound; Sophocles: Oedipus The King, Antigone; Euripides: Hippolytus By David Grene (Have)
+Greek Tragedies, Vol. 3: Aeschylus: The Eumenides, Sophocles: Philoctetes, Sophocles: Oedipus At Colonus, Euripides: The Bacchae, Euripides: Alcestis By David Greene & Richmond Lattimore (Have)
 Green: A Novel By Sam Graham - Felsen
 Green Eggs And Ham By Theodor Seuss Geisel
 Gregor And The Curse Of The Warmbloods (Underland Chronicles, #3) By Suzanne Collins (Have)
@@ -1680,7 +1684,7 @@ In Between The Sheets By Ian McEwan
 In Care Of (Three Roads Home, #2) By Travis Thrasher
 Incidental Inventions By Elena Ferrante
 Incidents In The Life Of A Slave Girl By Harriet Jacobs (Have) (Read)
-In Cold Blood By Truman Capote
+In Cold Blood By Truman Capote (Have)
 Independence Day By Richard Ford
 In Der Falle (DE) By Herta Muller
 India By Sir Vidiadhar Surajprasad Naipaul
@@ -2572,6 +2576,7 @@ Only Yesterday: An Informal History Of The 1920s By Frederick Lewis Allen
 On Persephone's Island: A Sicilian Journal By Mary Taylor Simeti (Have)
 On The Come Up: A Novel Based On A True Story By Hannah Weyer (Read)
 On The Electrodynamics Of Moving Bodies By Albert Einstein
+On The Other Side Of Freedom: The Case For Hope By DeRay Mckesson
 On The Road By Jack Kerouac
 On The Yard By Malcolm Braly
 Onward: How Starbucks Fought For Its Life Without Losing Its Soul By Howard Schultz
@@ -2793,6 +2798,7 @@ Psychopolis By Ian McEwan
 Qashtamar By Nagiub Mahfouz
 Quatre Quatuors Pour Un Week - End (FR) By Gao Xingjian
 Queenie (Storycuts) By Alice Munro
+Quentin Dumvard By Sir Waltor Scott (Have)
 Que Hareis Con Este Libro. Teatro Completo / What Will You Do with This Book. Complete Theater (ES) By Jose Saramago
 Quichotte By Salman Rushdie
 Quite A Ride (Alex Rider, #2.5) By Anthony Horowitz
@@ -2999,11 +3005,12 @@ SEPPUKU: The Curious Workings Of The Art Mafia By Vinod Bharadwaj
 Sere Amado Cuando Falte (ES) By Javier Maris
 Seraphina (Seraphina, #1) By Rachel Hartman (Read)
 Serenity Falls By James Arthur Moore
-Sevs By James Arthur Moore
-Seen Forgerve The People! By Yan Lianke
-Sesen Men By Max Beerbohm
+Serve The People! By Yan Lianke
+Seven Forges (Seven Forges, #1) By James Arthur Moore
+Seven Men By Max Beerbohm
 Seventeen By Booth Tarkington
 Seventeen Poisoned Englishmen By Gabriel Garcia Marquez
+Seventeenth Century Poetry: The Schools Of Donne And Jonson By Hugh Kenner (Have)
 Sex And Rage By Eve Babitz
 Sexy By Joyce Carol Oates
 Shadow: Five Presidents And The Legacy Of Watergate By Bob Woodward
@@ -3500,6 +3507,7 @@ The Chocolate War By Robert Cormier (Read)
 The Choice By Bob Woodward
 The Chosen By Chaim Potok (Have)
 The Chronicles Of Narnia (Chronicles Of Narnia, #1-7) By Clive Staples Lewis
+The Circle By Dave Eggers (Have)
 The Circling Song By Nawal El Saadawi
 The Cleft By Doris Lessing
 The Cloister And The Hearth By Charles Reade
@@ -4064,6 +4072,7 @@ The Message (Animorphs, #4) By Katherine Applegate
 The Metamorphosis By Franz Kafka (Have) (Read)
 The Metamorphosis And Other Stories By Franz Kafka
 The Metaphysical Pause By Czeslaw Milosz
+The Metaphysical Poets By Helen Gardner (Have)
 The Mexican Dream, Or, The Interrupted Thought Of Amerindian Civilization By Jean - Marie Gustave Le Clezio
 The Middle Passage By Sir Vidiadhar Surajprasad Naipaul
 The Midlander By Booth Tarkington
@@ -4921,6 +4930,7 @@ Veil: The Secret Wars Of The CIA, 1981 - 1987 By Bob Woodward
 Veces Un Caballero (ES) By Javier Marias
 Velocity By Dean Koontz
 Velvet Waters By Gerald Murnane
+Vendredi Ou Les Limbes Du Pacifique (FR) By Michel Tournier (Have)
 Venice, An Interior By Javier Marias
 Ventanas De Manhattan (ES) By Antonio Munoz Molina
 Venus Among The Fishes By Scott O'Dell
