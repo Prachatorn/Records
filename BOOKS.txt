@@ -79,6 +79,7 @@ Across By Peter Handke
 A Crown Of Feathers And Other Stories By Isaac Bashevis Singer
 Action Cook Book By Len Deighton
 Act Of The Damned By António Lobo Antunes
+Adam Bede By George Eliot
 A Dance To The Music Of Time: 1st Movement (A Dance To The Music Of Time, #1-3) By Anthony Powell
 A Dance With Dragons (A Song of Ice and Fire, #5) By George Raymond Richard Martin
 Ada Or Ardor: A Family Chronicle By Vladimir Nabokov
@@ -135,6 +136,7 @@ A Gesture (Have)
 A Gesture Life: A Novel By Chang - Rae Lee yokoHave)
 A Ghost Tale For Christmas Time (Magic Tree House, #44) By Mary Pope Osbourne
 Aghwee The Sky Monster By Kenzaburō Ōe
+Agnes Grey By Anne Brontë
 A Girl In Exile By Ismail Kadare
 A Good Day For Seppuku: Stories BY Kate Braverman
 A Good Night For Ghosts (Magic Tree House, #42) By Mary Pope Osbourne
@@ -310,6 +312,7 @@ Anthology Of Mexican Poetry By Octavio Paz
 Anticipations By Herbert George Wells
 Anweisungen An Die Krokodile (DE) By António Lobo Antunes
 A Painter Of Our Time By John Berger (Have)
+A Pair Of Blue Eyes By Thomas Hardy
 A Pale View Of Hills By Kazuo Ishiguro
 Apartment In Athens By Glenway Wescott (Have)
 A Passage To India By Edward Morgan Forster (Read)
@@ -419,6 +422,7 @@ Aunt Julia And The Scriptwriter By Mario Vargas Llosa
 Austerlitz By Winfried Georg Sebald
 Aus Tiefstem Vergessen (DE) By Patrick Modiano
 Australians By Thomas Keneally
+Autobiography And Other Writings By Benjamin Franklin
 Autobiography Of Red By Anne Carson
 Auto - Da - Fé By Elias Canetti
 Auto Dos Danados (PT) By António Lobo Antunes
@@ -476,6 +480,7 @@ Barley Patch By Gerald Murnane
 Baroane! By Mircea Cărtărescu
 Baron Wenckheim's Homecoming By László Krasznahorka
 Barrel Of A Pen By Ngũgĩ Wa Thiong'o
+Barry Lyndon By William Makepeace Thackeray
 Bartleby & Co By Enrique Vila - Matas
 Bartleby The Scrivener By Herman Melville
 Basic French Cookery Course By Len Deighton
@@ -697,7 +702,9 @@ Catch - 22 By Joseph Heller (Have)
 Catch A Falling Spy By Len Deighton
 Catherine Certitude By Patrick Modiano
 Catching Fire (The Hunger Games, #2) By Suzanne Collins (Read)
+Catharine And Other Writings By Jane Austen
 Cather, Canon, And The Politics Of Reading By Deborah Carlin
+Catriona By Robert Louis Stevenson
 Cat's Cradle By Kurt Vonnegut (Read)
 Cat's Eye By Margaret Atwood
 Cave Of Riches: The Story Of The Dead Sea Scrolls By Alan Honour
@@ -792,6 +799,7 @@ Colorless Tsukuru Tazaki And His Years Of Pilgrimage By Haruki Murakami (Read)
 Come Rain Or Come Shine: Faber Stories By Kazou Ishiguro
 Commission Of Tears By António Lobo Antunes
 Commonwealth By Ann Patchett
+Communicate To Influence: How To Inspire Your Audience To Action By Ben Decker & Kelly Decker
 Como Se Cuenta Un Cuento (ES) By Gabriel García Márquez
 Complete Fairy Tales Of Oscar Wilde By Oscar Wilde (Have) (Read)
 Complete Shorter Fiction By Oscar Wilde
@@ -839,6 +847,7 @@ Coup De Semonce (FR) By William Golding
 Course Of Empire: Paintings By Joan Didion
 Crabwalk By Günter Grass
 Cramp (Fast Fiction) By Gao Xingjian
+Cranford By Elizabeth Gaskell
 Craving Her Mates: A Shapeshifter Paranormal Romance (My Wicked Mates, #1) By Erzabet Bishop
 Crazy Rich Asians (Crazy Rich Asians, #1) By Kevin Kwan
 Creature Teacher (Goosebumps 2000, #3) By Robert Lawrence Stine
@@ -1503,6 +1512,7 @@ Hannibal (Hannibal Lecter, #3) By Thomas Harris (Have)
 Harald, Claudia, And Their Son Duncan By Nadine Gordimer
 Harán  D mM u Ucriminal (ES) By Javier Maríasarbour By John Ajvide Lindqvist
 Hard - Boiled Wonderland And The End Of The World By Haruki Murakami (Read)
+Hard Times By Charles Dickens
 Harlequin And Columbine By Booth Tarkington
 Haroun And Luka By Salman Rushdies
 Harriet The Spy By Louise Fitzhugh
@@ -1821,6 +1831,7 @@ Jase & The Deadliest Hunt By John Luke Robertson & Travis Thrasher
 Jazz By Toni Morrison
 Jechać Do Lwowa I Inne Wiersze (PO) By Adam Zagajewski
 Jekyll And Heidi (Goosebumps 2000, #14) By Robert Lawrence Stine
+Jennie Gerhardt By Theodore Dreiser
 Jenta I Sofaen (NO) By Jon Fosse
 Jesusalém By Mia Couto
 Jews And Words By Amos Box
@@ -2010,6 +2021,7 @@ Let's Get Invisible! (Goosebumps, #6) By Robert Lawrence Stine
 Let's Pretend This Neveer Happened: A Mostly True Memoir By Jenny Lawson
 Letter Of Elizabeth, Lady Chandos, To Francis Bacon By John Maxwell Coetzee
 Letters For Nostalgic Years By Kenzaburō Ōe
+Letters From An American Farmer By Michel Guillaume Jean De Crèvecœur
 Letters From London By Julian Barnes
 Letters From War By Mark Schultz & Travis Thrasher
 Letters To A Young Novelist By Mario Vargas Llosa
@@ -2155,7 +2167,7 @@ Made To Order Family (Slocum Family, #3) By Ruth Logan Herne
 Madonna At Ringside By Harry Crews
 Madre Piccola By Ubah Cristina Ali Farah
 Maestro: Greenspan's Fed And The American Boom By Bob Woodward
-Maggie, A Girl Of The Streets And Selected Stories By Stephen Crane(Have)
+Maggie, A Girl Of The Streets And Selected Stories By Stephen Crane (Have)
 Magic Seeds By Sir Vidiadhar Surajprasad Naipaul
 Mahogany & Other Stories By Boris Pilnyak (Have)
 Maine: The Seasons By Richard Ford
@@ -2201,11 +2213,13 @@ Marriage By Herbert George Wells
 Marrow I: China Penguin Specials By Yan Lianke
 Marrowsland By Alexis M. Smith
 Martha Quest By Doris Lessing
+Martin Chuzzlewit By Charles Dickens
 Martin Eden By Jack London
 Martin Luther: Selections From His Writings By Martin Luther (Have)
 Marvelous (The Books Of Marvella, #1) By Travis Thrasher
 Mary By Vladimir Nabokov
 Marya: A Life By Joyce Carol Oates
+Mary Barton By Elizabeth Gaskell
 Mary Poppins (Mary Poppins, #1) By Pamela Lyndon Travers
 Mason & Dixon By Thomas Pynchon
 Mass By Francisco Sionil José
@@ -2447,6 +2461,7 @@ New Writing From Africa 2009: Original Short Stories By African Writers, Selecte
 New York By Edward Rutherfurd
 Ngugi Wa Thiong'o Speaks By Ngũgĩ Wa Thiong'o
 Nice Guy Dinosaur Doesn't Pound Me In The Butt Because I'm Not Interested And He's Not Actually Nice He's Just Annoying And Creepy And Doesn't Respect ... When I Tell Him We're Not On A Date By Chuck Tingle
+Nicholas Nickleby By Charles Dickens
 Nicht Zur Veröffentlichung. (DE) By Nadine Gordimer
 Nieobjęta Ziemia (POL) By Czesław Miłosz
 Night (The Night Trilogy, #1) By Elie Wiesel (Read)
@@ -2498,7 +2513,7 @@ No Place Like: Selected Stories By Nadine Gordimer
 Normal People By Sally Rooney
 North By Seamus Heaney
 North And South By Elizabeth Gaskell
-Northanger Abbey By Jane Austen
+Northanger Abbey, Lady Susan, The Watsons, And Sandition By Jane Austen
 North Of Dawn: A Novel By Nuruddin Farah
 Norwegian Wood By Haruki Murakami (Read)
 Norwood By Charles Portis
@@ -2873,6 +2888,7 @@ Révolutions By Jean - Marie Gustave Le Clézio
 Rewriting Reality By Allyson Fiddler
 Rhyming Life And Death By Amos Oz
 Rich And Pretty By Rumaan Alam
+Riders Of The Purple Sage By Zane Grey
 Right Text Wrong Number (Offsides, #1) By Natalie Decker
 Ring Roads By Patrick Modiano
 Rin, Tongue And Dorner: A Novel By Rich Shapero (Have)
@@ -2888,6 +2904,7 @@ Robopocalypse (Robopocalypse, #1) By Daniel H. Wilson (Read)
 Robot Dreams (Robot, #0.4) By Isaac Asimov
 Robots And Empire (Robot, #4) By Isaac Asimov
 Robot Visions (Robot, #0.5) By Isaac Asimov
+Rob Roy By Walter Alva Scott
 Rock Springs By Richard Ford
 Rock With Wings (Leaphorn & Chee, #20) By Anne Hillerman
 Roll Of Thunder, Hear Me Cry (Logans, #4) By Mildred DeLois Taylor (Have) (Read)
@@ -2996,6 +3013,7 @@ Selected Poems By Jaan Kaplinski
 Selected Poems By elected Poems, 1954 - 1986 By Tomas Tranströmer
 Selected Poems, 1965 - 1975 By Seamus Heaney
 Selected Poetry By Derek Walcott
+Selected Stories And Sketches By Bret Harte
 Selected Stories By Alice Munro
 Selected Stories By Francisco Sionil José
 Selected Stories By Kjell Askildsen
@@ -3053,6 +3071,7 @@ Sieben Nächtliche Siebenzeiler (GRK) By Odysseas Elytis
 Signalling Across Space Without Wires: Being A Description Of The Work Of Hertz And His Successors By Sir Oliver Joseph Lodge
 Signs And Wonders By Alix Ohlin
 Si In Space By Travis Thrasher
+Silas Marner By George Eliot
 Silence By Shusaku Endo (Have)
 Silence House By Orphan Pamuk
 Simone: A Novel By Eduardo Lalo
@@ -3323,6 +3342,7 @@ The Acts Of King Arther And His Noble Knights By John Steinbeck (Have)
 The Adventures Of Augie March By Saul Bellow
 The Adventures Of Baron Münchausen By Rudolf Erich Raspe
 The Adventures Of Huckleberry Finn By Mark Twain (Read)
+The Adventures Of Oliver Twist By Charles Dickens
 The Adventure's Of Tom Sawyer By Mark Twain (Read)
 The Address By Fiona Davis
 The Aeneid By Virgil (Have)
@@ -3424,6 +3444,7 @@ The Blasted Lands: Seven Forges By James Arthur Moore
 The Blind Assassin By Margaret Atwood
 The Blind Fisherman By Mia Couto
 The Blinding Order By Ismail Kadare
+The Blithedale Romance By Nathaniel Hawthorne
 The Blob That Ate Everyone (Goosebumps, #55) By Robert Lawrence Stine
 The Blood Of Adonis By Adunis
 The Blue Fairy Book By Andrew Lang
@@ -3595,6 +3616,7 @@ The Dead Zone By Stephen King
 The Death Of Adam By Marilynne Robinson
 The Death Of Jesus By John Maxwell Coetzee
 The Decameath Of Methuselah And Other Stories By Isaac Bashevis Singer
+The Deerslayer By James Fenimore Cooper
 The Deron By Giovanni Boccaccio
 The Deception (Animorphs, #46) By Katherine Applegate
 The Decision (Animorphs, #18) By Katherine Applegate
@@ -3880,6 +3902,7 @@ The House At The Edge Of Night By Catherine Banner
 The House Gun By Nadine Gordimer
 The House Of Cloud By Fereshteh Molavi
 The House Of Mirth By Edith Wharton
+The House Of The Seven Gables By Nathaniel Hawthorne
 The House Of The Spirits By Isabel Allende
 The House Of Thunder By Dean Koontz
 The House On Mango Street By Sandra Cisneros (Read)
@@ -3976,6 +3999,7 @@ The Last Harmattan Of Alusine Dunbar By Syl Cheney - Coker
 The Last Kashmiri Rose By (Joe Sandilands, #1) By Barbara Cleverly (Have)
 The Last Lecture By Jeffrey Zaslow (Read)
 The Last Lover By Can Xue
+The Last Man By Mary Shelley
 The Last Of The Mohicans (The Leatherstocking Tales, #2) By James Fenimore Cooper
 The Last Of The President's Men By Bob Woodward
 The Last Poems By Czesław Miłosz
@@ -3999,6 +4023,7 @@ The Library Book By Susan Orlean
 The Library Of Greek Mythology By Apollodorus
 The Life And Adventures Of Santa Claus By Lyman Frank Baum (Have) (Read)
 The Life And Opinions Of Tristram Shandy, Gentleman By Laurence Sterne
+The Life Of Charlotte Brontë By Elizabeth Gaskell
 The Line Becomes A River: Dispatches From The Border By Francisco Cantú
 The Line Of Beauty By Alan Hollinghurst
 The Lion Or The Mouse? By Toni Morrison
@@ -4102,6 +4127,7 @@ The Moomins And The Great Flood (The Moomins, #1) By Tove Jansson
 The Moon Is A Harsh Mistress By Robert Anson Heinlein
 The Moon Is Down By John Steinbeck
 The Moons Of Jupiter By Alice Munro
+The Moonstone By Wilkie Collins
 The Moor's Last Sigh By Salman Rushdie
 The Morning Star By Karl Ove Knausgård
 The Moronic Inferno By Martin Amis
@@ -4170,6 +4196,7 @@ The Odyssey By Homer (Read)
 The Office Of Innocence By Thomas Keneally
 The Old Capital By Yasunari Kawabata (Read)
 The Old Chief Mshlanga By Doris Lessing
+The Old Curiosity Shop By Charles Dickens
 The Old Man And The Medal By Ferdinand Oyono (Have)
 The Old Man And The Sea By Ernest Hemingway (Read)
 The Once And Future King By Terence Hanbury "Tim" White (Have)
@@ -4178,6 +4205,7 @@ The Only Story By Julian Barnes
 The Open Couple & An Ordinary Day By Dario Fo
 The Orchard Keeper By Cormac McCarthy
 The Origin Of Others By Toni Morrison
+The Origin Of Species By Charles Darwin
 The Orphan Master's Son By Adam Johnson
 The Other (Animorphs, #40) By Katherine Applegate
 The Other House By Henry James
@@ -4207,6 +4235,7 @@ The Passionate Friends By Herbert George Wells
 The Passport By Herta Müller
 The Past And The Punishments By Yu Hua
 The Pastures Of Heaven By John Steinbeck
+The Pathfinder By James Fenimore Cooper
 The Pathseeker By Imre Kertész
 The Pearl By John Steinbeck (Read)
 The Pedant In The Kitchen By Julian Barnes
@@ -4224,11 +4253,13 @@ The Physics Of Sorrow By Georgi Gospodinov
 The Piano Teacher By Elfriede Jelinek
 The Piano Tuner By Daniel Mason
 The Pickup By Nadine Gordimer
+The Pickwick Papers By Charles Dickens
 The Picture Of Dorian Gray By Oscar wilde
 The Pigman (The Pigman, #1) By Paul Zindel (Read)
 The Pillars Of The Earth (Kingsbridge, #1) By Ken Follett (Have)
 The Pillow Book By Sei Shōnagon
 The Pinch Runner Memorandum By Kenzaburō Ōe
+The Pioneers By James Fenimore Cooper
 The Place At Whitton By Thomas Keneally
 The Place Where Souls Are Born: A Journey To The Southwest By Thomas Keneally
 The Plains By Gerald Murnane
@@ -4257,6 +4288,7 @@ The Power Of LightDer By Isaac Bashevis Singer
 The Power Of Thought: What It Is And What It Does By John Douglas Sterrett
 The Power Of Truth: Individual Problems And Possibilities By William George Jordan
 The Practice Of Autosuggestion By The Method Of Emile Coué By C. Harry Brooks
+The Prairie By James Fenimore Cooper
 The Predator (Animorphs, #5) By Katherine Applegate
 The Predator: Hunters And Hunted: Official Movie Prequel By James Arthur Moore
 The Pregnant Widow By Marin Amis
@@ -4275,6 +4307,7 @@ The Princess Bride By William Goldman
 The Princess Diarist By Carrie Fisher
 The Private Memoirs And Confessions Of A Justified Sinner By James Hogg
 The Prodigal Son By Derek Walcott
+The Professor By Charlotte Brontë
 The Professor's House By Willa Cather
 The Progress Of Love By Alice Munro
 The Promise Remains By Travis Thrasher
@@ -4345,6 +4378,7 @@ The Revival (Storycuts) By Julian Barnes
 The Revolt Of The Angels By Anatole France
 The Revolution Of The Moon By Andrea Camilleri
 The Rise And Fall Of D.O.D.O. By Neal Stephenson
+The Rise Of Silas Lapham By William Dean Howells
 The Rise Of The Unmeltable Ethnics By Michael Novak
 The River Between By Ngũgĩ Wa Thiong'o (Read)
 The River Ki By Sawako Ariyoshi (Have)
@@ -4479,7 +4513,7 @@ The Story Of The Lost Child (The Neapolitan Novels, #4) By Elena Ferrante
 The Story Of The Other Wise Man By Henry Van Dyke (Have)
 The Storyteller By Mario Vargas Llosa
 The Stowaway: A Young Man's Extraordinary Adventure To Antarctica By Laurie Gwen Shapiro
-The Strange Case of Dr. Jekyll and Mr. Hyde By Robert Louis Stevenson(Read)
+The Strange Case of Dr. Jekyll and Mr. Hyde By Robert Louis Stevenson (Read)
 The Strange Library By Haruki Murakami (Read)
 The Stranger By Albert Camus (Read)
 The Stranger (Animorphs, #7) By Katherine Applegate
@@ -4545,6 +4579,7 @@ The Tragedy Of Brady Sims By Ernest James Gaines
 The Trail Of Your Blood In The Snow By Gabriel García Márquez
 The Train By Dacia Maraini
 The Traitor's Niche By Ismail Kadare
+The Transformation And Memoirs Of Carwin, The Biloquist / Wieland By Charles Brockden Brown
 The Transmigration Of Timothy Archer (VALIS Trilogy, #3) By Philip Kindred Dick
 The Traps Of Faith By Octavio Paz
 The Traveller's Baggage By José Saramago
@@ -4658,6 +4693,7 @@ The Wizard Of Oz By Salman Rushdie
 The Wolves Of Winter: A Novel By Tyrell Johnson
 The Womanizer By Richard Ford
 The Woman In The Window: A Novel By Daniel Mallory / A. J. Finn
+The Woman In White By WIlkie Collins
 The Woman's Bible By Elizabeth Cady Stanton
 The Woman Who Stole My Life By Marian Keyes
 The Women In The Castle By Jessica Shattuck
@@ -4665,6 +4701,7 @@ The Wonderful Visit By Herbert George Wells
 The Wonderful Wizard Of Oz (Oz, #1) By Lyman Frank Baum (Read)
 The Wondrous And Tragic Life Of Ivan And Ivana By Maryse Condé
 The Wooden Shepherdess (The Human Predicament, Vol.2) By Richard Hughes
+The Woodlanders By Thomas Hardy
 The Work Of Hertz And Some Of His Successors: Being The Substance Of A Lecture Delivered At The Royal Institution On Friday Evening June 1, 1894...With Additions And Appendices By Sir Oliver Joseph Lodge
 The Works Of Zola By Emile Zola (Have)
 The World According To Garp By John Irving
@@ -4691,6 +4728,7 @@ The Year Of Magical Thinking By Joan Didion
 The Year Of The Death Of Ricardo Reis By José Saramago
 The Year Of The Flood (MaddAddam, #2) By Margaret Atwood
 The Years, Months, Days By Yan Lianke
+The Yellow Wall - Paper And Other Stories By Charlotte Perkins Gilman
 The Yellow Wind By David Grossman
 They Poured Fire On Us From The Sky: The True Story Of Three Lost Boys From Sudan By Benson Deng
 The Zigzag Kid By David Grossman
@@ -4959,6 +4997,7 @@ Vile Bodies By Evelyn Waugh
 Villa Aurores (FR) By Jean - Marie Gustave Le Clézio
 Villa Triste By Lucretia Grindle
 Villa Triste (FR) By Patrick Modiano
+Villette By Charlotte Brontë
 Vindication (Matt Royal Mystery, #11) By H. Terrell Griffin
 Vinegar Hill: A Novel By A. Manette Ansay (Have)
 Vineland By Thomas Pynchon
@@ -5033,6 +5072,7 @@ We Chose The Islands By Arthur Grimble
 Wedding Song By Nagiub Mahfouz
 Weep Not, Child By Ngugi wa Thiong'o
 We Filipinos: Our Moral Malaise, Our Heroic Heritage By Francisco Sionil José
+Weir Of Hermiston By Robert Louis Stevenson
 Wer Steht Auf Der Anderen Seite? Grenzbetrachtungen (DE) By Claudio Magris
 West Of Sadness By Odysseas Elytis
 Weirdo Halloween (Goosebumps HorrorLand, #16) By Robert Lawrence Stine
@@ -5173,6 +5213,7 @@ Women And Economics By Charlottle Perkins Gilman
 Women As Lovers By Elfriede Jelinek
 Women Who Work: Rewriting The Rules For Success By Ivanka Trump
 Women In Love (Brangwen Family, #2) By David Herbert Richards Lawrence (Have)
+Women In The Nineteenth Century And Other Writings By Margaret Fuller
 Women With Men By Richard Ford
 Wonderful, Wonderful Times By Elfriede Jelinek
 Wonderland By Joyce Carol Oates
@@ -5212,6 +5253,7 @@ You Begin By Margaret Atwood
 You Be The Jury: Courtroom Collection By Marvin Miller (Have)
 You Can't Scare Me! (Goosebumps, #15) By Robert Lawrence Stine
 You Can't Not Communicate: More Proven Communication Solutions That Power The Fortune 100 By David Grossman
+Young Goodman Brown And Other Tales By Nathaniel Hawthorne
 Young Lonigan (Stud Lonigan, #1) By James Thomas Farrell
 Young Once By Patrick Modiano
 You're More Powerful Than You Think: A Citizen's Guide To Making Change Happen By Eric Liu
