@@ -442,6 +442,7 @@ A Wild Sheep Chase (The Rat, #3) By Haruki Murakami (Read)
 A Woman In Jerusalem By Abraham B. Yehoshua
 A Woman Of Genius By Mary Hunter Austin
 A Working Woman By Elvira Navarro
+A World For Julius By Alfredo Bryce Echenique
 A World Of Strangers By Nadine Gordimer
 A Wrinkle In Time (Time Quintet, #1) By Madeleine L'Engle (Read)
 A Writer's People: Ways Of Looking And Feeling By Sir Vidiadhar Surajprasad Naipaul
@@ -635,6 +636,7 @@ Briefing For A Descent Into Hell By Doris Lessing
 Bright Scythe By Tomas Tranströmer
 Brilliant Creatures: His First Novel By Clive James (Have)
 Bring Larks And Heroes By Thomas Keneally
+Broad And Alien Is The World By Ciro Alegría
 Brodsky: A Personal Memoir By Joseph Brodsky & Li͡udmila Shtern
 Broken By Travis Thrasher
 Broken April By By Ismail Kadare
@@ -816,6 +818,7 @@ Continental Drift By Russell Banks (Have)
 Continent: Stories By Jim Crace
 Contos Do Nascer Da Terra (PT) By Mia Couto
 Convenience Store Woman By Sayaka Murata (Read)
+Conversación En La Catedral (ES) By Mario Vargas Llosa
 Conversation In The Cathedral By Mario Vargas Llosa
 Conversation In The Pyrenees By Adunis
 Conversations By César Aira
@@ -1139,11 +1142,13 @@ Elizabeth Costello: Huit Leçons (FR) By John Maxwell Coetzee
 Elle By Douglas Glover
 El Loco De Los Balcones (ES) By Mario Vargas Llosa
 El Monarca Del Tiempo (ES) By Javier Marías
+El Mundo Es Ancho Y Ajeno (ES) By Ciro Alegría
 El Nombre Y La Cosa (ES) By José Saramago
 El Ogro Filantropico (ES) By Octavio Paz
 El Pequeno Monje Budista (ES) By César Aira
 El Robinson Urbano (ES) By Antonio Muñoz Molina
 Elsewhere, Perhaps By Amos Oz
+El Sexto (ES) By José María Arguedas
 El Siglo (ES) By Javier Marías
 El Signo Y El Garabato (ES) By Octavio Paz
 El Tilo / The Lime Tree By César Aira
@@ -1918,10 +1923,12 @@ Labor Day By Joyce Maynard
 Labors Of Love: A Screenplay By Lydia Davis & Pete Osterhaus
 La Ciasa De Jampol (FR) By Isaac Bashevis Singer
 La Colina De Los Sacrificios (ES) By Antonio Muñoz Molina
+La Ciudad Y Los Perros (ES) By Mario Vargas Llosa
 La Civilización Del Espectáculo (ES) By Mario Vargas Llosa
 Lada'at Ishah By Amos OZ
 Ladera Este (ES) By Octavio Paz
 Lad Destruction De Kreshev (FR) By Isaac Bashevis Singer
+La Distancia Que Nos Separa (ES) By Renato Cisneros
 Lady Chatterley's Lover By David Herbert Richards Lawrence (Have)
 Lady Oracle By Margaret Atwood
 Lady With Lapdog And Other Stories By Anton Chekhov
@@ -1951,7 +1958,8 @@ La Nave Per Kobe (IT) By Dacia Maraini
 Landmark: The Inside Story Of America's New Health - Care Law And What It Means For Us All By The Staff Of The Washington Post (Have)
 La Niche De La Honte By Ismail Kadare
 La Oscura Historia De La Prima Montse (ES) By Juan Marsé
-La Place De L'étoile (FR) By Patrick Modiano
+La Palabra Del Mudo (ES) By Julio Ramón Ribeyro
+La Place De L'Étoile (FR) By Patrick Modiano
 La Prière Et L'épée (FR) By Adunis
 La Princesa Primavera / The Spring Princess By César Aira
 La Propia Muerte (FR) By Péter Nádas
@@ -2120,6 +2128,7 @@ Lord Of The Flies By William Golding (Read)
 Los Cachorros (ES) By Mario Vargas Llosa
 Los Dominios De Lobo (ES) By Javier Marías
 Los Dos Payasos / The Two Clown By César Aira
+Los Heraldos Negros (ES) By César Vallejo
 Los Hijos Del Limo (ES) By Octavio Paz
 Los Jefes (ES) By Mario Vargas Llosa
 Los Misterios De Madrid (ES) By Antonio Muñoz Molina
@@ -2692,6 +2701,7 @@ Persuasion By Jane Austen (Read)
 Peasants And Other Stories By Anton Chekhov
 Peizazh S. Navodneniem - Landscape With Flood By Joseph Brodsky
 Pequeña Crónica De Grandes Días (ES) By Octavio Paz
+Peruvian Traditions By Ricardo Palma
 Petals Of Blood By Ngugi wa Thiong'o
 Peter Pan In Kensington Gardens / Peter And Wendy By Sir James Matthew Barrie
 Pet Sematary By Stephen King (Read)
@@ -3032,6 +3042,7 @@ Seraphina (Seraphina, #1) By Rachel Hartman (Read)
 Serenity Falls By James Arthur Moore
 Serve The People! By Yan Lianke
 Seven Forges (Seven Forges, #1) By James Arthur Moore
+Seven Interpretive Essays On Peruvian Reality By José Carlos Mariátegui
 Seven Men By Max Beerbohm
 Seventeen By Booth Tarkington
 Seventeen Poisoned Englishmen By Gabriel García Márquez
@@ -3068,6 +3079,7 @@ Shyness And Dignity By Dag Solstad
 Siddhartha By Hermann Hesse (Read)
 Siddharthhort Letter, Long Farewell By Peter Handke
 Sieben Nächtliche Siebenzeiler (GRK) By Odysseas Elytis
+Siete Ensayos De Interpretación De La Realidad Peruana (ES) By José Carlos Mariátegui
 Signalling Across Space Without Wires: Being A Description Of The Work Of Hertz And His Successors By Sir Oliver Joseph Lodge
 Signs And Wonders By Alix Ohlin
 Si In Space By Travis Thrasher
@@ -3437,6 +3449,7 @@ The Bishop And The Actress: A Play By Tom Stoppard
 The Black Arrow By Robert Louis Stevenson
 The Black Auxiliary: The Untold Sotry Of 18 African Americans Who Defied Jim Crow And Adolf Hitler To Compete In The 1936 Berlin Olympics By Blair Underwood, Deborah Riley Draper & Travis Thrasher
 The Black Book By Orphan Pamuk
+The Black Heralds By César Vallejo
 The Black Madonna By Doris Lessing
 The Black Pearl By Scott O'Dell
 The Black Sheep By Honoré de Balzac (Have)
@@ -3641,6 +3654,7 @@ The Discreet Hero: A Novel By Mario Vargas Llosa
 The Disobedient Writer: Women And Narrative Tradition By Nancy A. Walker
 The Dispossessed By Szilárd Borbély
 The Dispossessed (Hainish Cycle, #6) By Ursula Kroeber Le Guin
+The Distance Between Us By Renato Cisneros
 The Distance From Normandy By Jonathan Hull (Have)
 The Diversion (Animorphs, #49) By Katherine Applegate
 The Divine Comedy Of Dante Alighieri: Inferno (Classic Reprint) By Warburton Pike (Have)
@@ -4851,6 +4865,7 @@ Touch The Water, Touch The Wind By Amos Oz
 Tous Les Noms By José Saramago
 Towards The Forest: Knausgard On Munch By Karl Ove Knausgård
 Town And Country Lovers By Nadine Gordimer
+Tradiciones Peruanas (ES) By Ricardo Palma
 Train To Budapest By Dacia Maraini
 Transcription By Kate Atkinson (Have)
 Transformations Of The Lover By Adunis
@@ -4940,6 +4955,7 @@ Universal Principles Of Design By William Lidwell
 Un Lento Aprendizaje (ES) By Thomas Pynchon
 Un Manual Para Ser Niño (ES) By Gabriel García Márquez
 Un Monde Évanoui (FR) By Yu Hua
+Un Mundo Para Julius (ES) By Alfredo Bryce Echenique
 Unseen Hand: Poems By Adam Zagajewski
 Until Stones Become Lighter Than Water By António Lobo Antunes
 Untitled Novel: Rohinton Mistry BY Rohinton Mistry
