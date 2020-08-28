@@ -594,6 +594,7 @@ Blood Red, Sister Rose By Thomas Keneally
 Blood Sports By Eden Robinson
 Bloodstained Oz By James Arthur Moore
 Bloodstained Wonderland By James Arthur Moore
+Blood, Tears And Folly: An Objective Look At World War II By Len Dieghton
 Bloody Jack (Bloody Jack, #1) By Louis A. Meyer
 Blue Aloha By Patrick Modiano
 Bluebeard's Egg By Margaret Atwood
@@ -1037,7 +1038,7 @@ Dog It Was That Died, And Other Plays BY Tom Stoppard
 Dogs In The Dead Of Night (Magic Tree House, #46) By Mary Pope Osbourne
 Dog Years By Günter Grass
 Dolores Claiborne By Stephen King
-Dom Dzienny, Dom Nocny (PL-PL) By Olga Tokarczuk
+Dom Dzienny, Dom Nocny (PL) By Olga Tokarczuk
 Donne Mie (IT) By Dacia Maraini
 Do Not Say We Have Nothing By Madeleine Thien
 Dolphins At Daybreak (Magic Tree House, #9) By Mary Pope Osborne
@@ -1396,7 +1397,7 @@ Fury By Salman Rushdie
 Gabriel García Márquez: The Last Interview: And Other Conversations By Gabriel García Márquez
 Gagamba By Francisco Sionil José
 Galeerentagebuch (DE) By Imre Kertész
-Gandhi: An Autobiography - The Story Of My Experiments With Truth By Gandhi
+Gandhi: An Autobiography - The Story Of My Experiments With Truth By Gandhi (Have)
 Gao Xingjian, Ink Paintings 1983 - 1993 By Gao Xingjian
 García Márquez: Story Of A Deicide By Mario Vargas Llosa
 Gargantua And Pantagruel By François Rabelais
@@ -1470,11 +1471,12 @@ Gospel Singer By Harry Crews
 Gossip From The Forest By Thomas Keneally
 Go Tell It On The Mountain By James Baldwin (Read)
 Go, Went, Gone By Jenny Erpenbeck
-Gra Na Wielu Bębenkachh: 19 Opowiadań ́(PL-PL) By Olga Tokarczuk
+Gra Na Wielu Bębenkachh: 19 Opowiadań ́(PL) By Olga Tokarczuk
 Gravestone (Solitary Tales, #2) By Travis Thrasher
 Gravity's Rainbow By Thomas Pynchon
 Gray Baby By Scott Loring Sanders (Read)
 Green Flash By Rania Mamoun
+Green Shadows And Other Peoms By Gerald Mernane
 Greyhound For Breakfast By James Kelman (Have)
 Great Dialogues Of Plato By Plato (Have)
 Great Expectations By Charles Dickens (Have)
@@ -1516,7 +1518,8 @@ Handling The Undead By John Ajvide Lindqvist
 Ḥanān Qalīl (AR) By Nawal El Saadawi
 Hannibal (Hannibal Lecter, #3) By Thomas Harris (Have)
 Harald, Claudia, And Their Son Duncan By Nadine Gordimer
-Harán  D mM u Ucriminal (ES) By Javier Maríasarbour By John Ajvide Lindqvist
+Haran De Mi Un Criminal (ES) By Javier Marias
+Harbour By John Ajvide Lindqvist
 Hard - Boiled Wonderland And The End Of The World By Haruki Murakami (Read)
 Hard Times By Charles Dickens
 Harlequin And Columbine By Booth Tarkington
@@ -2126,6 +2129,7 @@ Look At The Harlequins! By Vladimir Nabokov
 Looking Through The Looking Glass By Lewis Carroll (Read)
 Loot And Other Stories By Nadine Gordimer
 Lord Jim By Joseph (Have)
+Lord Malquist And Mr. Moon: A Novel By Tom Stoppard
 Lord Of Ashes (Steelhaven, #3) By Richard Ford
 Lord Of The Flies By William Golding (Read)
 Los Cachorros (ES) By Mario Vargas Llosa
@@ -2189,12 +2193,11 @@ Maisie Dobbs (Maisie Dobbs, #1) By Jacqueline Winspear
 Maison Dans La Derive (FR) By Marilynne Robinson
 Making The Arab World: Nasser, Qutb, And The Clash That Shaped The Middle East By Fawaz A. Gerges
 Making Waves (Beach Lane, #1) By Laura Moore
-Man - Eaters Of Kumaon By Jim Corbett
-Mala Indole (ES) By Javier Marías
-Mamista By Len Deighton
 Man And His Tools By William A. Burns
 Man - Eaters Of Kumaon By Jim Corbett
 Mangiami Pure By Dacia Maraini
+Mala Indole (ES) By Javier Marías
+Mamista By Len Deighton
 Manhattan Beach By Jennifer Egan
 Maniac Magee By Jerry Spinelli (Read)
 Manicpixiedreamgirl By Tom Leveen
@@ -2741,6 +2744,7 @@ Plays Three By Jon Fosse
 Playth A Tiger: A Play In Three Acts By Doris Lessing
 Please, Louise By Toni Morrison
 Plenty By Orison Swett Marden
+Ploughsharaes Fall 1996 By Richard Ford
 Plutarch's Lives, Vol 1 By Plutarch
 Pnin By Vladimir Nabokov
 Po By Olga Tokarczuk
@@ -2764,7 +2768,7 @@ Point Omega By Don DeLillo
 Poisson D'or (FR) By Jean - Marie Gustave Le Clézio
 Polar Bears Past Bedtime (Magic Tree House, #12) By Mary Pope Osborne
 Polish Writers On Writing By Adam Zagajewski
-Pond By Claire litika Ja Antipolitika (ET) By Jaan Kaplinski
+Politika Ja Antipolitika (ET) By Jaan Kaplinski
 Political Fictions By Joan Didion
 Pond By Claire - Louise Bennett
 Po - On By Francisco Sionil José
@@ -3050,6 +3054,7 @@ Seven Interpretive Essays On Peruvian Reality By José Carlos Mariátegui
 Seven Men By Max Beerbohm
 Seventeen By Booth Tarkington
 Seventeen Poisoned Englishmen By Gabriel García Márquez
+Seventeenth Century Poetry: The Schools Of Donne And Jonson By Hugh Kenner (Have)
 Sex And Rage By Eve Babitz
 Sexy By Joyce Carol Oates
 Shadow: Five Presidents And The Legacy Of Watergate By Bob Woodward
@@ -3262,6 +3267,7 @@ Stories From Our Neighbourhood By Nagiub Mahfouz
 Stormbreaker (Alex Rider, #1) By Anthony Horowitz
 Stormfire By Christine Monson
 Storm Still By Peter Handke
+Stowaway On Board By Dacia Maraini
 Strong Opinions By Vladimir Nabokov
 Subject Seven By James Arthur Moore
 Success By Martin Amis
@@ -3330,6 +3336,7 @@ Telling Times: Writing And Living, 1950 - 2008
 Temptation (Solitary Tales, #3) By Travis Thrasher
 Ten By Gretchen McNeil (Read)
 Tender Wings Of Desire By Harland Sanders
+Tender Is The Night By Francis Scott Key Fitzgerald
 Teniente Bravo (ES) By Juan Marsé
 Ten Thousand Lives By Ko Un
 Teresa L'Après - Midi By Juan Marsé
@@ -3593,7 +3600,9 @@ The Conscience Of Words By Elias Canetti
 The Consequences Of Revenge (Consequence, #2) By Aleatha Romig
 The Conservationist By Nadine Gordimer
 The Conspiracy (Animorphs, #31) By Katherine Applegate
+The Continuing Silence Of A Poet: The Collected Stories Of Abraham B. Yehoshua By Abraham B. Yehoshua
 The Corn Maiden And Other Nightmares By Joyce Carol Oates
+The Corrections By Jonathan Franzen
 The Counselor By Cormac McCarthy
 The Counterfeiters By André Gide
 The Count Of Monte Cristo By Alexandre Dumas (Read)
@@ -3782,7 +3791,7 @@ The Fox In The Attic (The Human Predicament, Vol.1) By Richard Hughes
 The Fox Was Ever The Hunter By Herta Müller
 The Fragrance Of Guava By Gabriel García Márquez
 The Friendly Persuasion By Jessamyn West (Have)
-The Frolic Of The Beasts By Yukio Mishima
+The Frolic Of The Beasts By Yukio Mishima (Read)
 The Fruit Cage (Storycuts) By Julian Barnes
 The Funeral Party By Lyudmila Ulitskaya
 The Funhouse By Dean Koontz
@@ -3816,7 +3825,7 @@ The Girl Who Came Home By Hazel Gaynor
 The Girl Who Cried Monster (Goosebumps, #8) By Robert Lawrence Stine
 The Girl Who Loved Tom Gordon By Stephen King (Read)
 The Girl With All The Gifts (The Girl With All The Gifts, #1) By Mike Carey
-The Girl With Seven Names: Escape From North Korea By David John & Hyeonseo Lee
+The Girl With Seven Names: Escape From North Korea By David John & Hyeonseo Lee (Have)
 The Givenness Of Things: Essays By Marilynne Robinson
 The Giver (The Giver, #1) By Lois Lowry (Read)
 The Giving Tree By Shel Silverstein
@@ -4678,7 +4687,6 @@ The Way Of Life Should Be: A Novel By Christina Baker Kline (Have)
 The Way To Paradise By Mario Vargas Llosa
 The Weakness (Animorphs, #37) By Katherine Applegate
 The Wedding By Elias Canetti
-The Werewolf In The Living Room (Goosebumps 2000, #17) By Robert Lawrence Stine
 The Weight Of The World By Peter Handke
 The Well Of Life By Nawal El Saadawi
 The Werewolf In The Living Room (Goosebumps 2000, #17) By Robert Lawrence Stine
@@ -4882,6 +4890,7 @@ Traplines By Eden Robinson
 Traps By Friedrich Duerrenmatt (Read)
 Tratado Das Paixões Da Alma (PT) By António Lobo Antunes
 Traum Im Herbst. Und Andere Stücke (NO) By Jon Fosse
+Traveling In The Gait Of A Fox By Dacia Maraini
 Traveling On One Leg By Herta Müller
 Travels With Charlie, In Search Of America By John Steinbeck (Read)
 Travesia Del Horizonte (ES) By Javier Marías

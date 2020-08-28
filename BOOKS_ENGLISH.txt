@@ -114,6 +114,7 @@ A Fairy Tale (Have)
 A Far Cry From Kensington By Dame Muriel Spark
 A Farewell To Arms By Ernest Hemingway (Read)
 A Feast For Crows (A Song of Ice and Fire, #4) By George Raymond Richard Martin
+A Feast Of Snakes By Harry Crews
 A Fine Balance By Rohinton Mistry
 A Fish In The Water By Mario Vargas Llosa
 A Flag On The Island By Sir Vidiadhar Surajprasad Naipaul
@@ -127,6 +128,7 @@ After The Quake By Haruki Murakami (Read)
 Against The Day By Thomas Pynchon
 Agamemnon's Daughter By Ismail Kadare
 A Game Of Thrones (A Song Of Ice And Fire, #1) By George Raymond Richard Martin
+A Game of Thrones The Card Game: Here To Serve Chapter Pack By George Raymond Richard Martin
 A Garden Of Earthly Delights By Joyce Carol Oates
 A Gentleman In Moscow By Amor Towles
 Age Of Iron By John Maxwell Coetzee
@@ -510,10 +512,12 @@ Beginning With My Streets By Czeslaw Milosz
 Behind Her Eyes By Sarah Pinborough
 Behind The Beautiful Forevers: Life, Death, And Hope In A Mumbai Undercity By Katherine Boo
 Behind The Scenes At The Museum By Kate Atkinson
+Behold The Dreamers By Imbolo Mbuc
 Belinda By Maria Edgeworth
 Bellefleur By Joyce Carol Oates
 Bells In Winter By Czeslaw Milosz
 Beloved By Toni Morrison
+Beloved Writing: Fifty Years Of Engagement By Dacia Maraini
 Beltenebros By Antonio Munoz Molina
 Be My Knife By David Grossman
 Bendita Mania De Contar Cuentos (ES) By Gabriel Garcia Marquez
@@ -560,6 +564,7 @@ Black Dahlia & White Rose: Stories By Joyce Carol Oates
 Black Elk Speaks By John G. Neihardt (Have)
 Black Girl / White Girl By Joyce Carol Oates
 Black Liberation And The American Dream: The Struggle For Racial And Ecomonic Justice By Paul Le Blanc
+Black Is The Body By Emily Bernard
 Black Linguistics: Langauge, Society And Politics In Africa And The Americas By Ngugi Wa Thiong'o
 Black No More By George Schuyler
 Black Star, Bright Dawn By Scott O'Dell
@@ -797,6 +802,7 @@ Colorless Tsukuru Tazaki And His Years Of Pilgrimage By Haruki Murakami (Read)
 Come Rain Or Come Shine: Faber Stories By Kazou Ishiguro
 Commission Of Tears By Antonio Lobo Antunes
 Commonwealth By Ann Patchett
+Communicate To Influence: How To Inspire Your Audience To Action By Ben Decker & Kelly Decker
 Como Se Cuenta Un Cuento (ES) By Gabriel Garcia Marquez
 Complete Fairy Tales Of Oscar Wilde By Oscar Wilde (Have) (Read)
 Complete Shorter Fiction By Oscar Wilde
@@ -1032,7 +1038,8 @@ Dog It Was That Died, And Other Plays BY Tom Stoppard
 Dogs In The Dead Of Night (Magic Tree House, #46) By Mary Pope Osbourne
 Dog Years By Gunter Grass
 Dolores Claiborne By Stephen King
-Dom Dzienny, Dom Nocny (PL-PL) By Olga Tokarczuk
+Dom Dzienny, Dom Nocny (PL) By Olga Tokarczuk
+Donne Mie (IT) By Dacia Maraini
 Do Not Say We Have Nothing By Madeleine Thien
 Dolphins At Daybreak (Magic Tree House, #9) By Mary Pope Osborne
 Domingos De Agosto (FR) By Patrick Modiano
@@ -1390,7 +1397,7 @@ Fury By Salman Rushdie
 Gabriel Garcia Marquez: The Last Interview: And Other Conversations By Gabriel Garcia Marquez
 Gagamba By Francisco Sionil Jose
 Galeerentagebuch (DE) By Imre Kertesz
-Gandhi: An Autobiography - The Story Of My Experiments With Truth By Gandhi
+Gandhi: An Autobiography - The Story Of My Experiments With Truth By Gandhi (Have)
 Gao Xingjian, Ink Paintings 1983 - 1993 By Gao Xingjian
 Garcia Marquez: Story Of A Deicide By Mario Vargas Llosa
 Gargantua And Pantagruel By Francois Rabelais
@@ -1601,6 +1608,7 @@ Home By Toni Morrison
 Home And Away: Writing The Beautiful Game By Karl Ove Knausgard
 Homebase By Shawn Wong
 Homebush Boy: A Memoir By Thomas Keneally
+Homecoming By Yaa Gyasi
 Homecoming: Essays On African And Caribbean Literature, Culture And Politics By Ngugi Wa Thiong'o
 Homegoing By Yaa Gyasi
 Homer & Langley By Edgar Lawrence Doctorow (Have)
@@ -1684,6 +1692,7 @@ Il Tuo Volto Domani (ES) By Javier Marias
 Imaginary Homelands By Salman Rushdie
 Imagine Africa By Mia Couto
 Imagine Me Gone By Adam Haslett
+Imani: Roman (DE) By Mia Couto
 Im Haarknoten Wohnt Eine Dame (DE) By Herta Muller
 Im Herzen Des Landes (DE) By John Maxwell Coetzee
 Immer Derselbe Schnee Und Immer Derselbe Onkel (DE) By Herta Muller
@@ -1931,6 +1940,7 @@ La Exposicion (FR) By Claudio Magris
 La Fete Chantee Et Autres Essais De Theme Amerindien (FR) By Jean - Marie Gustave Le Clezio
 La Fievre (FR) By Jean - Marie Gustave Le Clezio
 La Flecha Del Tiempo (FR) By Martin Amis
+La Fuga Del Rio Lobo (FR) By Juan Marse
 La Fuite (FR) By Gao Xingjian
 La Grande Vie (FR) By Jean - Marie Gustave Le Clezio
 La Gueera De Los Gimnasios (FR) By Cesar Aira
@@ -2037,6 +2047,7 @@ Letters From Russia By Astolpe De Custine
 Lettres Portugaises (FR) By Gabriel De Guilleragues (Have)
 Levels Of Life By Julian Barnes
 Leviathan Thomas Hobbes (Have)
+Le Voyageur Sans Bagages (FR) By Jean Anouilh (Have)
 L'Extase Materielle (FR) By Jean - Marie Gustave Le Clezio
 L'Habitude D'Aimer (FR) By Doris Lessing
 L'Herbe Des Nuits (FR) By Patrick Modiano
@@ -3518,6 +3529,7 @@ The Captive By Scott O'Dell
 The Captive Mind By Czeslaw Milosz
 The Capture (Animorphs, #6) By Katherine Applegate
 The Care And Management Of Lies: A Novel Of The Great War By Jacqueline Winspear
+The Caretaker & The Dumb Waiter: Two Plays By Harold Pinter (Have) (Read)
 The Case For Impeachment By Allan Jay Lichtman
 The Case For Literature By Gao Xingjian
 The Castaway, And Other Poems By Derek Walcott
@@ -3779,7 +3791,7 @@ The Fox In The Attic (The Human Predicament, Vol.1) By Richard Hughes
 The Fox Was Ever The Hunter By Herta Muller
 The Fragrance Of Guava By Gabriel Garcia Marquez
 The Friendly Persuasion By Jessamyn West (Have)
-The Frolic Of The Beasts By Yukio Mishima
+The Frolic Of The Beasts By Yukio Mishima (Read)
 The Fruit Cage (Storycuts) By Julian Barnes
 The Funeral Party By Lyudmila Ulitskaya
 The Funhouse By Dean Koontz
@@ -3813,6 +3825,7 @@ The Girl Who Came Home By Hazel Gaynor
 The Girl Who Cried Monster (Goosebumps, #8) By Robert Lawrence Stine
 The Girl Who Loved Tom Gordon By Stephen King (Read)
 The Girl With All The Gifts (The Girl With All The Gifts, #1) By Mike Carey
+The Girl With Seven Names: Escape From North Korea By David John & Hyeonseo Lee (Have)
 The Givenness Of Things: Essays By Marilynne Robinson
 The Giver (The Giver, #1) By Lois Lowry (Read)
 The Giving Tree By Shel Silverstein
@@ -4777,6 +4790,7 @@ Thousand Cranes By Yasunari Kawabata (Read)
 Three Angels By Adam Zagajewski
 Threebies By Kazou Ishiguro
 Threebies: Milan Kundera By Milan Kundera
+Threebies: Rohinton Mistry By Rohinton Mistry
 Three Brothers: Memories Of My Family By Yan Lianke
 Three Comrades By Erich Maria Remarque
 Three Cheers For The Paraclete By Thomas Keneally
@@ -4876,8 +4890,8 @@ Traplines By Eden Robinson
 Traps By Friedrich Duerrenmatt (Read)
 Tratado Das Paixoes Da Alma (PT) By Antonio Lobo Antunes
 Traum Im Herbst. Und Andere Stucke (NO) By Jon Fosse
+Traveling In The Gait Of A Fox By Dacia Maraini
 Traveling On One Leg By Herta Muller
-Travelling In The Gait Of A Fox By Dacia Maraini
 Travels With Charlie, In Search Of America By John Steinbeck (Read)
 Travesia Del Horizonte (ES) By Javier Marías
 Travesti By Mircea Cartarescu
@@ -5085,6 +5099,7 @@ We Are The Change We Seek: The Speeches Of Barack Obama By Eugene Joseph "E. J."
 We Are What We Pretend To Be: The First And Last Works By Kurt Vonnegut (Read)
 Weariness By Jon Fosse
 Web Of The Witch World By Andre Norton (Have)
+We Cast A Shadow By Maurice Carlos Ruffin
 We Chose The Islands By Arthur Grimble
 Wedding Song By Nagiub Mahfouz
 Weep Not, Child By Ngugi wa Thiong'o
