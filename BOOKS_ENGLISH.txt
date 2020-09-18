@@ -1794,7 +1794,7 @@ I, Robot: To Protect (I, Robot: Reichert, #1) By Mickey Zucker Reichert (Have)
 Ironweed By William Kennedy
 Irr! Gront (NO) By Dag Solstad
 Isabella, Three Sailing Ships And A Con Man By Dario Fo
-Isabelle Huppert: Woman Of Many Faces Elfriede Jelinek & Susan SOntag 
+Isabelle Huppert: Woman Of Many Faces Elfriede Jelinek & Susan Sontag 
 I See By My Outfit By Peter Soyer Beagle
 Is It Just Me Or Is Everything Shit?: The Encyclopedia Of Modern Life By Alan McArthur & Steve Lowe (Have)
 Islam Without Extremes: A Muslim Case For Liberty By Mustafa Akyol
@@ -1916,6 +1916,7 @@ Knuckles The Hound Of Hanalei By Rick Dierker & Susan Dierker
 Koba The Dread By Martin Amis
 Kojiki By Anonymous
 Kokoro By Soseki Natsume
+Kolyma Tales By Variam Shalamov
 Koniec I Poczatek (PL) By Wislawa Szymborska
 Kon - Tiki By Thor Heyerdahl (Have)
 Kopfgeburten Oder Die Deutschen Sterben Aus (DE) By Gunter Grass
@@ -3667,6 +3668,7 @@ The Diary Of A Young Girl By Anne Frank By Anne Frank (Read)
 The Diary Of Lena Mukhina: A Girl's Life In The Siege Of Leningrad By Lena Mukhina
 The Diary Of Samuel Pepys By Samuel Pepys
 The Dictator's Last Night By Yasmina Khadra
+The Disappearing Spoon: And Other True Tales Of Madnes, Love, And The History Of The World From The Periodic Table Of The Elements By Sam Kean
 The Discovery (Animorphs, #20) By Katherine Applegate
 The Discovery Of Heaven By Harry Mulisch
 The Discreet Hero: A Novel By Mario Vargas Llosa
