@@ -879,6 +879,7 @@ Cruddy By Lynda Barry
 Cry Of The Cat (Goosebumps 2000, #1) By Robert Lawrence Stine
 Cryptonomicon By Neal Stephenson
 Cry, The Beloved Country By Alan Paton
+Cockold By Kiran Nagarkar
 Cuckoo: Cheating By Nature By Nick Davies
 Cujo By Stephen King (Have)
 Cup Of Gold: A Life Of Sir Henry Morgan, Buccaneer, With Occasional Reference To History By John Steinbeck 
@@ -1130,6 +1131,7 @@ Eldre Kortare Prosa (NO) By Jon Fosse
 Elegy For Iris By John Bayley (Have)
 Elegy For Kosovo: Stories By Ismail Kadare
 Elementary Mechanics Including Hydrostatics And Pneumatics By Alfred Lodge & Sir Oliver Joseph Lodge
+Elements Of Political Economy By Alvaro Florez Estrada
 Elevation By Stephen King
 Elfangor's Secret (Animorphs, #29.5) By Katherine Applegate
 Elfriede Jelinek: Framed By Language By Elfriede Jelinek
@@ -1595,6 +1597,7 @@ Historia Abreviada De La Literature Portatil (ES) By Enrique Vila - Matas
 Historia De Detectives: Detective Story By Juan Marse
 Histoire D'Un Baiser By Albert Cim
 History Lessons (The Flash, Volume 5) By Brian Buccellato & Patrick Zircher (Read)
+History Of The French Revolution By Jules Michelet
 History Of The Thirteen By Honore de Balzac (Have)
 Hitchhiker Guide's To The Galaxy By Douglas Adams (Read)
 Hocus Pocus By Kurt Vonnegut
@@ -2201,6 +2204,7 @@ Man - Eaters Of Kumaon By Jim Corbett
 Mangiami Pure By Dacia Maraini
 Mala Indole (ES) By Javier Marias
 Mamista By Len Deighton
+Mandingo By Kyle Onslott
 Manhattan Beach By Jennifer Egan
 Maniac Magee By Jerry Spinelli (Read)
 Manicpixiedreamgirl By Tom Leveen
@@ -2255,6 +2259,7 @@ Me And You By Niccolo Ammaniti
 Me Before You And After You Boxed Set By Jojo Moyes
 Medea By Lyudmila Ulitskaya
 Medea And Her Children By Lyudmila Ulitskaya
+Meditations By Marcus Aurelius
 Mediums: Speakers With The Dead By Andrew Bates, Ed Hall, Fred Yelk, James Arthur Moore, John Diagle, Justin Achilli, Lisa Daigle, Robert Martin, Roger Gaudreau, Ronni Radner & Tracy Rysavy
 Melville In Love: The Secret Life Of Herman Melville And The Muse Of Moby - Dick By Michael Shelden
 Melancholy Byia I - II: Roman (NO) By Jon Fosse
@@ -2708,6 +2713,8 @@ Pensativities: Selected Essays By Mia Couto
 People On A Bridge: Poems By Wislawa Szymborska
 Perballe Pasqyres Se Nje Gruaje (AB) By Ismail Kadare
 Perelandra (Space Trilogy, #2) By Clive Staples Lewis
+Perfume: The Story Of A Murderer By Patrick Suskind
+Persian Letters By Montesquieu
 Persuasion By Jane Austen (Read)
 Peasants And Other Stories By Anton Chekhov
 Peizazh S. Navodneniem - Landscape With Flood By Joseph Brodsky
@@ -3404,6 +3411,7 @@ The Annotated Alice: The Definitive Edition By Lewis Carroll
 The Annotated Lolita By Vladimir Nabokov
 The Answer (Animorphs, #53) By Katherine Applegate
 The Answer Is Never: A Skateboarder's History Of The World By Jocko Weyland
+The Antichrist By Friedrich Nietzsche
 The Anti - Federalist Papers And The Constitutional Convention Debates By Ralph Louis Ketcham
 The Antilles: Fragments Of Epic Memory: The Nobel Lecture By Derek Walcott
 The Appointment By Herta Muller
@@ -3441,6 +3449,7 @@ The Bazaar Of Bad Dreams By Stephen King
 The Beach At Night By Elena Ferrante
 The Bean Trees (Greer Family, #1) By Barbara Kingsolver
 The Beast From The East (Goosebumps, #43) By Robert Lawrence Stine
+The Beast Within By Emile Zola
 The Beautiful And Damned By Francis Scott Key Fitzgerald
 The Beautiful Annabel Lee Was Chilled And Killed By Kenzaburo Oe
 The Beautiful Lady By Booth Tarkington
@@ -4278,6 +4287,7 @@ The Pathseeker By Imre Kertesz
 The Pearl By John Steinbeck (Read)
 The Pedant In The Kitchen By Julian Barnes
 The Penelopiad By Margaret Atwood
+The Penguin Dictionary Of Classical Mythology By Pierre Grimal
 The Penitent By Isaac Bashevis Singer
 The People's Train By Thomas Keneally
 The Perfect Nanny: A Novel By Leila Slimani
@@ -4300,6 +4310,7 @@ The Pinch Runner Memorandum By Kenzaburo Oe
 The Pioneers By James Fenimore Cooper
 The Place At Whitton By Thomas Keneally
 The Place Where Souls Are Born: A Journey To The Southwest By Thomas Keneally
+The Plain In Flames By Juan Rulfo
 The Plains By Gerald Murnane
 The Playboy Of The Western World And Riders To The Sea By John Millington Synge (Have) (Read)
 The Playmaker By Thomas Keneally
@@ -4532,6 +4543,7 @@ The Spanish Smile By Scott O'Dell
 The Spinoza Of Market Street By Isaac Bashevis Singer
 The Spire By William Golding
 The Spirit Level By Seamus Heaney
+The Spirit Of The Laws By Montesquieu
 The Sport Of The Gods By Paul Laurence Dunbar (Have) (Read)
 The Sportswriter By Richard Ford
 The Spy: A Novel Of Mata Hari By Paulo Coelho
