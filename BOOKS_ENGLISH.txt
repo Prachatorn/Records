@@ -118,6 +118,8 @@ A Feast Of Snakes By Harry Crews
 A Fine Balance By Rohinton Mistry
 A Fish In The Water By Mario Vargas Llosa
 A Flag On The Island By Sir Vidiadhar Surajprasad Naipaul
+Africa Dances: A Book About West African Negroes By Geoffrey Gorer
+Africa Dream By Eloise Greenfield
 African Laghter: Four Visits To Zimbabwe By Doris Lessing
 After Abel And Other Stories By Michal Lemberger
 After Dark By Haruki Murakami (Read)
@@ -154,6 +156,7 @@ A Hero Of Our Time By Mikhail Lermontov (Have)
 A High Wind In Jamaica By Richard Hughes
 A Historia Do Hidroaviao (PT) By Antonio Lobo Antunes
 A History Of Books By Gerald Murnane
+A History Of The Warfare Of Science With Theology In Christendom By Andrew Dickson White
 A History Of The World In 10.5 Chapters By Julian Barnes
 A History Of War In 100 Battle By Richard Overy
 A Hologram For The King By Dave Eggers (Have)
@@ -1598,6 +1601,7 @@ Historia Abreviada De La Literature Portatil (ES) By Enrique Vila - Matas
 Historia De Detectives: Detective Story By Juan Marse
 Histoire D'Un Baiser By Albert Cim
 History Lessons (The Flash, Volume 5) By Brian Buccellato & Patrick Zircher (Read)
+History Of The Conflict Between Religion And Science By John William Draper
 History Of The French Revolution By Jules Michelet
 History Of The Thirteen By Honore de Balzac (Have)
 Hitchhiker Guide's To The Galaxy By Douglas Adams (Read)
@@ -1680,6 +1684,7 @@ I, Claudius (Claudius, #1) By Robert Graves
 Ideas And Opinions By Albert Einstein
 Identity By Milan Kundera
 Identity Leadership: To Lead Others You Must First Lead Yourself By Stedman Graham
+If Crab No Walk: A Traveller In The West Indies By Owen Rutter
 If I Could Tell You By Elizabeth Wilhide
 If It Bleeds By Stephen King
 If Only The Sea Could Sleep By Adunis
@@ -1754,6 +1759,7 @@ Interior Chinatown By Charles Yu
 Interpreter Of Maladies By Jhumpa Lahiri
 In The Arena By Booth Tarkington
 In The Cafe Of Lost Youth By Patrick Modiano
+In The Castle Of My Skin By George Lamming
 In The Company Of The Courtesan By Sarah Dunant
 In The Country: Stories By Miroslav Penkov
 In The Days Of The Comet By Herbert George Wells
@@ -1806,7 +1812,7 @@ Islam Without Extremes: A Muslim Case For Liberty By Mustafa Akyol
 Istanbul: City Of A Hundered Names By Orhan Pamuk
 Istanbul: Memories And The City By Orphan Pamuk
 Iskrenne Vash Shurik. Roman (CCCP) By Lyudmila Ulitskaya
-Island Of Point Nemo By Jean - Marie Blas De Robles
+Island Of Point Nemo By Jean - Marie Blas De Robles (Read)
 Island Of The Blue Dolphins By Scott O'Dell (Read)
 Island Of Wings By Karin Altenberg
 Islands In The Stream By Ernest Hemingway
@@ -2624,6 +2630,7 @@ Only Yesterday: An Informal History Of The 1920s By Frederick Lewis Allen
 On Persephone's Island: A Sicilian Journal By Mary Taylor Simeti (Have)
 On The Come Up: A Novel Based On A True Story By Hannah Weyer (Read)
 On The Electrodynamics Of Moving Bodies By Albert Einstein
+On The Origin Of Species By Charles Darwin
 On The Other Side Of Freedom: The Case For Hope By DeRay Mckesson
 On The Road By Jack Kerouac
 On The Yard By Malcolm Braly
@@ -4093,6 +4100,7 @@ The Long Public Life Of A Short Private Poem: Reading And Remembering Thomas Wya
 The Long Walk By Stephen King
 The Long Way To A Small, Angry Planet By Becky Chambers
 The Looming Tower: Al Qaeda And The Road To 9 / 11 By Lawrence Wright
+The Loom Of Youth By Alec Waugh
 The Lorax By Theodor Seuss Geisel
 The Loss Of El Dorado By Sir Vidiadhar Surajprasad Naipaul
 The Lost Boys By Craig Shaw Gardner
@@ -4810,6 +4818,7 @@ Thor: Dueling With Giants By Keith Robert Andreassi DeCandido (Have)
 Those Barren Leaves By Aldous Huxley (Have)
 Those Who Forget The Past: The Question Of Anti - Semitism By Ron Rosenbaum
 Those Who Leave And Those Who Stay (The Neapolitan Novels, #3) By Elena Ferrante
+Those Wild West Indies By Edmund S. Whitman
 Thousand Cranes By Yasunari Kawabata (Read)
 Three Angels By Adam Zagajewski
 Threebies By Kazou Ishiguro
