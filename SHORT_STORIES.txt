@@ -162,6 +162,7 @@ Boshi Jiken / The Hat Incident (1926) By Yasunari Kawabata (Read)
 Bound By Maurine Dallas Watkins
 Breaking Labor News By Ron Carlson
 Broken Wings By Henry James
+Brother And Sister By Aesop (Have) (Read)
 Bruce And The Bloodhound By Sir Walter Scott (Read)
 Bruce And The Spider By Sir Walter Scott (Read)
 Brush Strokes By Madeline Wise (Have)
@@ -239,6 +240,7 @@ December Golf (1989) By John Updike (Have)
 De Daumier - Smith's Blue Period By Jerome David Salinger (Read)
 Deer In The Works (1955) By Kurt Vonnegut (Read)
 Delicate Edible Birds By Lauren Groff (Have)
+Demades And His Fable By Aesop (Have) (Read)
 Departure By Donora Hillard
 Der Arme Dolmetscher By Kurt Vonnegut (Read)
 Desert Dolphin By Shimada Masahiko
@@ -304,6 +306,7 @@ Fantasies By Francis Scott Key Fitzgerald (Have)
 Farrell's Caddie (1991) By John Updike (Have)
 Fat By Raymond Carver (Have)
 Father And Son (2000) By Qiu Xiaolong (Read)
+Father And Sons By Aesop (Have) (Read)
 Fear Not By Olga Tokarczuk (Read)
 Fertility By Kirsten Beachy
 Fill It Up By Wong Meng Voon (Read)
@@ -361,6 +364,7 @@ Great Day By Kurt Vonnegut (Read)
 Great Writers Steal By Benjamin Joseph Manaly Novak (Read)
 Green Hills By Terry Rund (Have)
 Green Tea By Joseph Sheridan Le Fanu
+Grief And His Due By Aesop (Have) (Read)
 Guidance From Cioran By Olga Tokarczuk (Read)
 Guidebooks By Olga Tokarczuk (Read)
 Gumi Nusutto / The Silverberry Thief (1925) By Yasunari Kawabata (Read)
@@ -381,6 +385,9 @@ Hearts Like Lemons In Fists Of Dew By Dallas Woodburn (Have)
 Hebi / The Snakes (1950) By Yasunari Kawabata (Read)
 Henne Fire By Isaac Bashevis Singer (Have)
 Herbert West - Reanimator By Howard Phillips Lovecraft (Have)
+Hercules And Minerva By Aesop (Have) (Read)
+Hercules And Plutus By Aesop (Have) (Read)
+Herclues And The Waggoner By Aesop (Have) (Read)
 Here I Am By Olga Tokarczuk (Read)
 Heyyyyy, Rabbits By Benjamin Joseph Manaly Novak (Read)
 High John De Conquer By Zora Neale Hurston
@@ -467,6 +474,8 @@ Journey By Patricia Grace (Have) (Read)
 Jujube By Ubah Cristina Ali Farah (Read)
 Julia Bride By Henry James
 Julie And The Warlord By Benjamin Joseph Manaly Novak (Read)
+Jupiter And The Monkey By Aesop (Have) (Read)
+Jupiter And The Tortoise By Aesop (Have) (Read)
 Just An Idea By Benjamin Joseph Manaly Novak (Read)
 Just Before The War With The Eskimos By Jerome David Salinger (Read)
 Just Lather, That's All By Hernando Tellez
@@ -559,6 +568,10 @@ Mein Fuhrer By David Joseph
 Mekura To Shojo / The Blind Man And The Girl (1928) By Yasunari Kawabata (Read)
 Memoirs Of A Marshal (1990) By John Updike (Have)
 Men Without Women By Haruki Murakami (Read)
+Mercury And The Man Bitten By An Ant By Aesop (Have) (Read)
+Mercury And The Sculpter By Aesop (Have) (Read)
+Mercury And The Tradesman By Aesop (Have) (Read)
+Mercury And The Woodman By Aesop (Have) (Read)
 Meridians By Olga Tokarczuk (Read)
 Merry Christmas By Dazai Osamu
 Mesmeric Revelation By Edgar Allan Poe
@@ -685,6 +698,7 @@ Pretty Mouth And Green My Eyes By Jerome David Salinger (Read)
 Prize Stock By Oe Kenzaburo
 Processional By Chris Compson
 Progress By Joe Schreiber
+Prometheus And The Making Of Man By Aesop (Have) (Read)
 Prove It On Me By Cara Patterson (Read)
 PS By Jill McCorkle (Have)
 Psychopolis By Ian McEwan (Read)
@@ -840,58 +854,107 @@ The Aleph By Jorge Luis Borges (Have)
 The Ambulance Driver By Benjamin Joseph Manaly Novak (Read)
 The Amputee By Stephen Dunn
 The Angel Of The Odd By Edgar Allan Poe
+The Ant By Aesop (Have) (Read)
+The Apes And The Two Travellers By Aesop (Have) (Read)
+The Archer And The Lion By Aesop (Have) (Read)
 The Artificial Nigger By Flannery O'Connor (Have)
 The Ascent By Ron Rash (Have)
+The Ass And His Burdens By Aesop (Have) (Read)
+The Ass And His Driver By Aesop (Have) (Read)
+The Ass And His Masters By Aesop (Have) (Read)
+The Ass And His Purchaser By Aesop (Have) (Read)
+The Ass And His Shadow By Aesop (Have) (Read)
+The Ass And The Dog By Aesop (Have) (Read)
+The Ass And The Lap - Dog By Aesop (Have) (Read)
+The Ass And The Mule By Aesop (Have) (Read)
+The Ass And The Old Peasant By Aesop (Have) (Read)
+The Ass And The Wolf By Aesop (Have) (Read)
+The Ass Carrying The Image By Aesop (Have) (Read)
+The Ass In The Lion's Skin By Aesop (Have) (Read)
+The Ass, The Cock And The Lion By Aesop (Have) (Read)
+The Ass, The Fox And The Lion By Aesop (Have) (Read)
+The Astronomer By Aesop (Have) (Read)
+The Athenian And The Theban By Aesop (Have) (Read)
 The Author By Washington Irving
 The Author's Farewell By Washington Irving
 The Babus Of Nayanjore By Rabindranath Tagore (Have) (Read)
+The Bald Huntsman By Aesop (Have) (Read)
+The Bald Man And The Fly By Aesop (Have) (Read)
 The Balloon - Hoax By Edgar Allan Poe (Read)
 The Bargain Lost By Edgar Allan Poe
+The Bat And The Weasels By Aesop (Have) (Read)
+The Bat, The Bramble And The Seagull By Aesop (Have) (Read)
 The Battle Of Bannockburn By Sir Walter Scott (Read)
 The Battle Of The Birds By W. J. Glover (Read)
+The Bear And The Fox By Aesop (Have) (Read)
+The Bear And The Travellers By Aesop (Have) (Read)
 The Bear Came Over The Mountains By Alice Munro (Read)
 The Bears Of Nametoko By Miyazawa Kenji
 The Beast In The Jungle By Henry James
 The Beautiful Girl In The Bookstore By Benjamin Joseph Manaly Novak (Read)
 The Beckoning Fair One By Oliver Onions
+The Bee And Jupiter By Aesop (Have) (Read)
+The Bee - Keeper By Aesop (Have) (Read)
 The Beginner's Guide To Smuggling By Zaher Omareen (Read)
 The Beldonald Holbein By Henry James
+The Belly And The Members By Aesop (Have) (Read)
 The Bench Of Desolation By Henry James
 The Best Of Everything By Richard Yates (Have)
 The Best Thing In The World Awards By Benjamin Joseph Manaly Novak (Read)
 The Bet By Abe Kobo
 The Big Bad Boom (1990) By John Updike (Have)
+The Birds, The Beasts And The Bat By Aesop (Have) (Read)
 The Birthday Of The Infanta By Oscar Wilde (Have) (Read)
 The Birthplace By Henry James
+The Blackamoor By Aesop (Have) (Read)
 The Black Cat By Edgar Allan Poe (Read)
+The Blacksmith And His Dog By Aesop (Have) (Read)
+The Blind Man And The Cub By Aesop (Have) (Read)
 The Bliss Of Golf (1982) By John Updike (Have)
 The Bloomsbury Christening By Charles Dickens
 The Blue Bird By Madame D'Aulnoy (Have) (Read)
 The Blue Flower By Henry Van Dyke (Have) (Read)
 The Boarded Window By Ambrose Bierce (Read)
 The Boar Hunt By Terence Hanbury White (Read)
+The Boasting Traveller By Aesop (Have) (Read)
 The Bodhi Tree By Olga Tokarczuk (Read)
 The Bone Of Contention By Zora Neale Hurston
 The Bonfire By Kunikida Doppo
 The Book Of Infamy By Olga Tokarczuk (Read)
 The Bound Man By Ilse Aichinger (Have)
+The Boy And The Filberts By Aesop (Have) (Read)
+The Boy And The Nettles By Aesop (Have) (Read)
+The Boy And The Snails By Aesop (Have) (Read)
+The Boy Bathing By Aesop (Have) (Read)
+The Boys And The Frogs By Aesop (Have) (Read)
 The Boy Who Hated Girls By Kurt Vonnegut (Read)
 The Bravest Thing I Ever Did By Benjamin Joseph Manaly Novak (Read)
+The Bull And The Calf By Aesop (Have) (Read)
 The Business Man By Edgar Allan Poe
 The Busy Man By Washington Irving
+The Butcher And His Customers By Aesop (Have) (Read)
 The Cabuliwallah By Rabindranath Tagore (Have) (Read)
+The Cage Bird And The Bat By Aesop (Have) (Read)
 The Call Of Cthulhu By Howard Phillips Lovecraft (Have)
 The Camaraderie Of Golf - I (1986) By John Updike (Have)
 The Camaraderie Of Golf - II (1987) By John Updike (Have)
 The Camel's Back By Francis Scott Key Fitzgerald (Have) (Read)
 The Case Of Charles Dexter Ward By Howard Phillips Lovecraft (Have)
 The Cask Of Amontillado By Edgar Allan Poe (Read)
+The Cat And The Birds By Aesop (Have) (Read)
+The Car And The Cock By Aesop (Have) (Read)
+The Cat And The Mice By Aesop (Have) (Read)
 The Celestial Omnibus By Edward Morgan Forster
 The Challenge By Mario Vargas Llosa (Have)
+The Charcoal - Burner And The Fuller By Aesop (Have) (Read)
+The Charger And The Miller By Aesop (Have) (Read)
 The Child Screams And Looks Back At You By Russell Banks (Have)
 The Child Who Raised Poisonous Snakes By Can Xue (Read)
 The Chosen Husband By Mavis Gallant (Have)
 The Cloak By Isak Dinesen (Have)
+The Clown And The Countryman By Aesop (Have) (Read)
+The Cobbler Turned Doctor By Aesop (Have) (Read)
+The Cock And The Jewel By Aesop (Have) (Read)
 The Coffee Shop Assistant By Wong Meng Voon (Read)
 The Colour Out Of Space By Howard Phillips Lovecraft (Have)
 The Commandant’s Desk By Kurt Vonnegut (Read)
@@ -903,6 +966,12 @@ The Copper Miner's Sad Sad Song By Roxane Gay
 The Country Husband By John Cheever (Have)
 The Cousins By Charles Baxter (Have)
 The Cowboy Tango By Maggie Shipstead (Have)
+The Crab And His Mother By Aesop (Have) (Read)
+The Crab And The Fox By Aesop (Have) (Read)
+The Crow And The Pitcher By Aesop (Have) (Read)
+The Crow And The Raven By Aesop (Have) (Read)
+The Crow And The Snake By Aesop (Have) (Read)
+The Crow And The Swan By Aesop (Have) (Read)
 The Cruise Of The Jolly Roger By Kurt Vonnegut (Read)
 The Culprit By Washington Irving
 The Curious Case Of Benjamin Button By Francis Scott Key Fitzgerald (Have) (Read)
@@ -915,6 +984,7 @@ The Day After By Brian Crawford
 The Dead By James Joyce
 The Deal By Leonard Michaels (Have)
 The Death Trap By Jahanara Siddique (Have) (Read)
+The Debtor And His Sow By Aesop (Have) (Read)
 The Destructors By Graham Greene
 The Devil In The Belfry By Edgar Allan Poe
 The Devil To Pay By David Edgerly Gates
@@ -922,14 +992,31 @@ The Devoted Friend By Oscar Wilde (Have) (Read)
 The Devotee By Rabindranath Tagore (Have) (Read)
 The Diamond As Big As The Ritz By Francis Scott Key Fitzgerald (Have) (Read)
 The Diary By Emily L. Byrne (Read)
+The Dog And The Cook By Aesop (Have) (Read)
+The Dog And The Shadow By Aesop (Have) (Read)
+The Dog And The Sow By Aesop (Have) (Read)
+The Dog And The Wolf By Aesop (Have) (Read)
+The Dog Chasing A Wolf By Aesop (Have) (Read)
+The Dog In The Manger By Aesop (Have) (Read)
+The Dogs And The Fox By Aesop (Have) (Read)
+The Dogs And The Hides By Aesop (Have) (Read)
 The Dog That Bit People By James Thurber (Read)
+The Dog, The Cock And The Fox By Aesop (Have) (Read)
 The Doll Queen By Carlos Fuentes (Have)
+The Dolphins, The Whales And The Sprat By Aesop (Have) (Read)
 The Don's Cinnamon By Ben Stroud
 The Dreams In The Witch House By Howard Phillips Lovecraft (Have)
 The Dream Sleepers By Patricia Grace (Have) (Read)
 The Duc De L'Omelette By Edgar Allan Poe
 The Duel By Kaiko Takeshi
 The Dunwich Horror By Howard Phillips Lovecraft (Have)
+The Eagle And His Captor By Aesop (Have) (Read)
+The Eagle And The Arrow By Aesop (Have) (Read)
+The Eagle And The Beetle By Aesop (Have) (Read)
+The Eagle And The Cocks By Aesop (Have) (Read)
+The Eagle And The Fox By Aesop (Have) (Read)
+The Eagle, The Cat And The Wild Sow By Aesop (Have) (Read)
+The Eagle, The Jackdaw And The Shepherd By Aesop (Have) (Read)
 The Earth's Nipples By Olga Tokarczuk (Read)
 The Eatonville Anthology By Zora Neale Hurston
 The Eight - Headed Dragon By Yoshiko Uchida (Read)
@@ -938,24 +1025,60 @@ The Embroidered Shoes And The Vexation Of Old Lady Yuan Si By Can Xue (Read)
 The Empty Nest By Madeline Mora - Summonte
 The Endless Mystery By Peter Straub
 The End Or The Beginning By James Frey
+The Escaped Jackdaw By Aesop (Have) (Read)
 The Euphio Question (1951) By Kurt Vonnegut (Read)
 The Exact Cost Of The Young Couple's Forthcoming Wedding By J. J. Steinfeld
 The Expert By Nakajima Atsushi
 The Facts In The Case Of M. Valdemar By Edgar Allan Poe (Read)
 The Fall Of The House Of Usher By Edgar Allan Poe (Read)
 The Fall Of The Roman Empire, The 1881 Indian Uprising, Hitler’s Invasion Of Poland, And The Realm Of Raging Winds By Haruki Murakami (Read)
+The Farmer And Fortune By Aesop (Have) (Read)
+The Farmer And His Dogs By Aesop (Have) (Read)
+The Farmer And His Sons By Aesop (Have) (Read)
+The Farmer And The Fox By Aesop (Have) (Read)
+The Farmer And The Stork By Aesop (Have) (Read)
+The Farmer And The Viper By Aesop (Have) (Read)
+The Farmer, His Boy And The Rooks By Aesop (Have) (Read)
 The Farm - House By Washington Irving
 The Father By Mathieu Cailler (Have)
+The Father And His Daughters By Aesop (Have) (Read)
+The Fawn And His Mother By Aesop (Have) (Read)
 The Female Con Artist By Wong Meng Voon (Read)
 The Fire And The Cloud By Zora Neale Hurston
+The Fir Tree And THe Bramble By Aesop (Have) (Read)
 The Fisherman And His Soul By Oscar Wilde (Have) (Read)
+The Fisherman And The Sprat By Aesop (Have) (Read)
+The Fisherman Piping By Aesop (Have) (Read)
+The Flea And The Man By Aesop (Have) (Read)
+The Flea And The Ox By Aesop (Have) (Read)
 The Flower - Eating Crone By Enchi Fumiko
+The Fly And The Draught - Mule By Aesop (Have) (Read)
 The Foreign Girl By Wong Meng Voon (Read)
 Thr Foster Portfolio (1951) By Kurt Vonnegut (Read)
 The Four Fists By Francis Scott Key Fitzgerald (Have) (Read)
 The Fourth Hurdle By Wong Meng Voon (Read)
+The Fowler And The Lark By Aesop (Have) (Read)
+The Fowler, The Partridge And The Cock By Aesop (Have) (Read)
+The Fox And The Bramble By Aesop (Have) (Read)
+The Fox And The Crow By Aesop (Have) (Read)
+The Fox And The Goat By Aesop (Have) (Read)
+The Fox And The Grapes By Aesop (Have) (Read)
+The Fox And The Grasshopper By Aesop (Have) (Read)
+The Fox And The Hedgehog By Aesop (Have) (Read)
+The Fox And The Leopard By Aesop (Have) (Read)
+The Fox And The Lion By Aesop (Have) (Read)
+The Fox And The Monkey By Aesop (Have) (Read)
+The Fox And The Snake By Aesop (Have) (Read)
+The Fox And The Stork By Aesop (Have) (Read)
+The Foxes And The River By Aesop (Have) (Read)
+The Fox Who Served A Lion By Aesop (Have) (Read)
+The Fox Without A Tail By Aesop (Have) (Read)
 The Friends Of The Friends By Henry James (Read)
+The Frogs And The Well By Aesop (Have) (Read)
+The Frogs Asking For A King By Aesop (Have) (Read)
+The Frogs' Complaint Against The Sun By Aesop (Have) (Read)
 The Furnished Room By William Sydney Porter / O. Henry
+The Gardener And His Dog By Aesop (Have) (Read)
 The General Election, Ha Ha By Wong Meng Voon (Read)
 The Gentleman From America By Michael Arlen
 The Ghost Of Mark Twain By Benjamin Joseph Manaly Novak (Read)
@@ -965,13 +1088,22 @@ The Gimme Game (1995) By John Updike (Have)
 The Girl Who Gave Great Advice By Benjamin Joseph Manaly Novak (Read)
 The Given Case By Henry James
 The Glass Slipper By Shōtarō Yasuoka (Read)
+The Gnat And The Bull By Aesop (Have) (Read)
+The Gnat And The Lion By Aesop (Have) (Read)
+The Goat And The Vine By Aesop (Have) (Read)
+The Goatherd And The Goat By Aesop (Have) (Read)
+The Goatherd And The Wild Goats By Aesop (Have) (Read)
 The Gold - Bug By Edgar Allan Poe (Read)
 The Golden Rule By Lynne Sharon Schwartz
 The Golf - Course Proprietor (1979) By John Updike (Have)
 The Good Housewife And Little People By Elizabeth Wilson Grierson (Read)
 The Goodman Of Ballengiech By Sir Walter Scott (Read)
+The Goods And The Ills By Aesop (Have) (Read)
+The Goose That Laid The Golden Eggs By Aesop (Have) (Read)
 The Gowrie Conspiracy By Sir Walter Scott (Read)
 The Grateful Monkey's Secret By Yoshiko Uchida (Read)
+The Grasshopper And The Ants By Aesop (Have) (Read)
+The Grasshopper And The Owl By Aesop (Have) (Read)
 The Great Bear By Charles Reade (Read)
 The Great Condition By Henry James
 The Great God Pan By Arthur Machen
@@ -985,23 +1117,39 @@ The Handsomest Drowned Man In The World By Gabriel García Márquez
 The Happiest Girl In The Whole USA By Manuel Munoz
 The Happy Prince By Oscar Wilde (Have) (Read)
 The Happy Vulture By Wong Meng Voon (Read)
+The Hare And The Hound By Aesop (Have) (Read)
+The Hare And The Tortoise By Aesop (Have) (Read)
+The Hares And The Frogs By Aesop (Have) (Read)
 The Haunted House By Washington Irving
 The Haunter Of The Dark By Howard Phillips Lovecraft (Have)
 The Haunters And The Haunted (The House And The Brain) By Edward Bulwer - Lytton
+The Hawk, The Kite And The Pigeons By Aesop (Have) (Read)
 The Heart Of The Shoal By Herman Merville (Read)
+The Heifer And The Ox By Aesop (Have) (Read)
+The Herdsman And The Lost Bull By Aesop (Have) (Read)
 The Historian By Washington Irving
 The History Of Happiness By Brenda Peynado
 The History Of Philip Verheven, Written By His Student And Confidant Willem Van Horssen By Olga Tokarczuk (Read)
 The Hollow By James Lasdun (Have)
 The Home - Coming By Rabindranath Tagore (Have) (Read)
 The Horla By Guy De Maupassant
+The Horse And His Rider By Aesop (Have) (Read)
+The Horse And The Ass By Aesop (Have) (Read)
+The Horse And The Groom By Aesop (Have) (Read)
+The Horse And The Stag By Aesop (Have) (Read)
 The Horse - Dealer's Daughter By David Herbert Lawrence
+The Hound And The Fox By Aesop (Have) (Read)
+The Hound And The Hare By Aesop (Have) (Read)
 The House Guard By Shōtarō Yasuoka (Read)
 The Human Nature By Marguerite Del Giudice (Have)
 The Hungry Stones By Rabindranath Tagore (Have) (Read)
 The Hunter By Edgar Lawrence Doctorow (Have)
+The Hunter And The Horseman By Aesop (Have) (Read)
+The Hunter And The Woodman By Aesop (Have) (Read)
 The Hyannis Port Story (1963) By Kurt Vonnegut (Read)
 The Ice Palace By Francis Scott Key Fitzgerald (Have) (Read)
+The Image Seller By Aesop (Have) (Read)
+The Imposter By Aesop (Have) (Read)
 The Inheritance By W. J. Glover (Read)
 The Impatient Billionaire And The Mirror For Earth By Benjamin Joseph Manaly Novak (Read)
 The Imp Of The Perverse By Edgar Allan Poe
@@ -1010,19 +1158,27 @@ The Interruption By William Wymark Jacobs (Read)
 The Invisible Hand, The World’s Longest River Of Tears By Wong Meng Voon (Read)
 The Island Of The Fay By Edgar Allan Poe
 The Izu Dancer By Kawabata Yasunari
+The Jackdaw And The Pigeon By Aesop (Have) (Read)
 The Jelly Bean By Francis Scott Key Fitzgerald (Have) (Read)
 The Jewels Of The Sea By Yoshiko Uchida (Read)
 The Jilting Of Granny Weatherall By Katerine Anne Porter
 The Jolly Corner By Henry James (Read)
 The Kangaroo Communique By Haruki Murakami (Read)
 The Keeper Of The Light By Henry Van Dyke (Have) (Read)
+The Kid And The Wolf By Aesop (Have) (Read)
 The Kid Nobody Could Handle (1955) By Kurt Vonnegut (Read)
+The Kid On The Housetop By Aesop (Have) (Read)
 The Killers By Ernest Hemingway
 The Kingdom Of Cards By Rabindranath Tagore (Have) (Read)
+The Kingdom Of The Lion By Aesop (Have) (Read)
 The King's Ears By Shōtarō Yasuoka (Read)
 The Kingsley Drive Chorus By Naira Kuzmich
+The Labourer And The Snake By Aesop (Have) (Read)
 The Lady Inventors' Club Of Kink By Andrea Dale (Read)
+The Lamb Chased By A Wolf By Aesop (Have) (Read)
+The Lamp By Aesop (Have) (Read)
 The Larid And The Fawn By David Stephen (Read)
+The Lark And The Farmer By Aesop (Have) (Read)
 The Land With No Air By Jane Hammons
 The Last Answer By Isaac Asimov
 The Last Lawn Of The Afternoon BY Haruki Murakami (Read)
@@ -1037,6 +1193,21 @@ The Library By Washington Irving
 The Lie (1962) By Kurt Vonnegut (Read)
 The Life Of The Imagination By Nadine Gordimer (Have)
 The Light - House By Edgar Allan Poe
+The Lion And The Ass By Aesop (Have) (Read)
+The Lion And The Boar By Aesop (Have) (Read)
+The Lion And The Bull By Aesop (Have) (Read)
+The Lion And The Hare By Aesop (Have) (Read)
+The Lion And The Mouse By Aesop (Have) (Read)
+The Lion And The Three Bulls By Aesop (Have) (Read)
+The Lion And The Wild Ass By Aesop (Have) (Read)
+The Lioness And The Vixen By Aesop (Have) (Read)
+The Lion In Love By Aesop (Have) (Read)
+The Lion, Jupiter And The Elephant By Aesop (Have) (Read)
+The Lion, The Bear And The Fox By Aesop (Have) (Read)
+The Lion, The Fox And The Ass By Aesop (Have) (Read)
+The Lion, The Fox And The Stag By Aesop (Have) (Read)
+The Lion, The Mouse And The Fox By Aesop (Have) (Read)
+The Lion, The Wolf And The Fox By Aesop (Have) (Read)
 The Literalist's Love Poem By Benjamin Joseph Manaly Novak (Read)
 The Little Green Monster By Haruki Murakami (Read)
 The Lottery By Shirley Jackson (Read)
@@ -1046,23 +1217,43 @@ The Lurking Fear By Howard Phillips Lovecraft (Have)
 The Magic Barrel By Bernard Malamud
 The Magic Purse Of The Swamp Maiden By Yoshiko Uchida (Read)
 The Mall By Robley Wilson
+The Man And His Two Sweethearts By Aesop (Have) (Read)
+The Man And The Image By Aesop (Have) (Read)
+The Man And The Lion By Aesop (Have) (Read)
+The Man And The Satyr By Aesop (Have) (Read)
 The Manned Missiles (1958) By Kurt Vonnegut (Read)
 The Man Of The Crowd By Edgar Allan Poe
 The Man Of Tomorrow / Maybe You've Heard This Once Before, But You've Never Heard It Like This By Will Panzo
 The Mansion By Henry Van Dyke (Have) (Read)
 The Man That Was Used Up By Edgar Allan Poe (Read)
+The Man, The Horse, The Ox And The Dog By Aesop (Have) (Read)
 The Manuscript By Washington Irving
 The Man Who Invented The Calendar By Benjamin Joseph Manaly Novak (Read)
+The Man Who Lost His Spade By Aesop (Have) (Read)
 The Man Who Posted Pictures Of Everything He Ate By Benjamin Joseph Manaly Novak (Read)
 The Man Who Told Us About Inflatable Women By Benjamin Joseph Manaly Novak (Read)
 The Market Was Down By Benjamin Joseph Manaly Novak (Read)
 The Masque Of The Red Death By Edgar Allan Poe (Read)
 The Medal By Shōtarō Yasuoka (Read)
+The Mice And The Weasels By Aesop (Have) (Read)
+The Mice In Council By Aesop (Have) (Read)
+The Milkmaid And Her Pail By Aesop (Have) (Read)
 The Mill By Henry Van Dyke (Have) (Read)
+The Miller, His Son And Their Ass By Aesop (Have) (Read)
+The Mischievous Dog By Aesop (Have) (Read)
+The Miser By Aesop (Have) (Read)
+The Mistress And Her Servants By Aesop (Have) (Read)
+The Monkey And The Camel By Aesop (Have) (Read)
+The Monkey And The Dolphin By Aesop (Have) (Read)
+The Monkey As King By Aesop (Have) (Read)
 The Monkey's Paw By William Wymark Jacobs
+The Moon And Her Mother By Aesop (Have) (Read)
 The Most Dangerous Game By Richard Connell (Read)
 The Mother By Natalia Ginzburg (Have)
+The Mouse And The Bull By Aesop (Have) (Read)
+The Mouse, The Frog And The Hawk By Aesop (Have) (Read)
 The Moving Hand By Cyril Swinson (Read)
+The Mule By Aesop (Have) (Read)
 The Murders In The Rue Morgue By Edgar Allan Poe (Read)
 The Music Of Erich Zann By Howard Phillips Lovecraft (Have)
 The Mysterious House By Jahanara Siddique (Have) (Read)
@@ -1070,38 +1261,66 @@ The Mystery Of Marie Rog?t Edgar Allan Poe
 The Necklace By Guy De Maupassant
 The Netherlands Lives With Water By Jim Shepard
 The Newton Boys' Last Photograph By Blake Crounch
+The Nightingale And The Hawk By Aesop (Have) (Read)
 The Nightingale And The Rose By Oscar Wilde (Have) (Read)
+The Nightingale And The Swallow By Aesop (Have) (Read)
+The North Wind And The Sun By Aesop (Have) (Read)
 The No - Talent Kid By Kurt Vonnegut (Read)
+The Oak And The Reeds By Aesop (Have) (Read)
 The Oblong Box By Edgar Allan Poe
 The Official's Chair By Wong Meng Voon (Read)
 The Offshore Pirate By Francis Scott Key Fitzgerald (Have) (Read)
 The Ogre Who Built A Bridge By Yoshiko Uchida (Read)
+The Old Hound By Aesop (Have) (Read)
+The Old Lion By Aesop (Have) (Read)
+The Old Man And Death By Aesop (Have) (Read)
 The Old Man Of The Flowers By Yoshiko Uchida (Read)
 The Old Man With The Bump By Yoshiko Uchida (Read)
+The Old Woman And The Doctor By Aesop (Have) (Read)
+The Old Woman And The Wine - Jar By Aesop (Have) (Read)
+The Olive Tree And The Fig Tree By Aesop (Have) (Read)
 The Ones Who Walk Away From Omelas By Ursula Kroeber Le Guin
 The Open Window By Hector Hugh Munro / Saki 
 The Original And The Copy By Olga Tokarczuk (Read)
 The Other Side Of The Door By Jessa Slade
 The Oval Portrait By Edgar Allan Poe
+The Owl And The Birds By Aesop (Have) (Read)
+The Ox And The Frog By Aesop (Have) (Read)
+The Oxen And The Axletrees By Aesop (Have) (Read)
+The Oxen And The Butchers By Aesop (Have) (Read)
 The Package By Kurt Vonnegut (Read)
+The Pack - Ass, The Wild Ass And The Lion By Aesop (Have) (Read)
+The Pass Ass And The Wild Ass By Aesop (Have) (Read)
 The Papers By Henry James
+The Parrot And The Cat By Aesop (Have) (Read)
+The Partridge And The Fowler By Aesop (Have) (Read)
 The Password By David Miller
+The Peacock And Juno By Aesop (Have) (Read)
+The Peacock And The Crane By Aesop (Have) (Read)
+The Peasant And The Apple Tree By Aesop (Have) (Read)
 The Peony Garden By Nagai Kafu
 The Pictures By Patricia Grace (Have)
 The Piece Of Straw By Yoshiko Uchida (Read)
+The Pig And The Sheep By Aesop (Have) (Read)
 The Pilgrimage By William Maxwell (Have)
 The Pit And The Pendulum By Edgar Allan Poe (Read)
 The Pleasure Of Being Right By Benjamin Joseph Manaly Novak (Read)
+The Ploughman And The Wolf By Aesop (Have) (Read)
+The Ploughman, The Ass And The Ox By Aesop (Have) (Read)
 The Polish Girl By Molly Power (Have)
 The Polymer Preservation Process, Step By Step By Olga Tokarczuk (Read)
+The Pomegranate, The Apple Tree And The Bramble By Aesop (Have) (Read)
 The Pool And The Piano By Najwa Binshatwan
 The Powder - Blue Dragon By Kurt Vonnegut (Read)
 The Premature Burial By Edgar Allan Poe (Read)
 The Princess And The Fisherman By Yoshiko Uchida (Read)
 The Princess Of Light By Yoshiko Uchida (Read)
 The Pro (1966) By John Updike (Have)
+The Prophet By Aesop (Have) (Read)
 The Psychology Of An Island By Olga Tokarczuk (Read)
 The Purloined Letter By Edgar Allan Poe (Read)
+The Quack Doctor By Aesop (Have) (Read)
+The Quack Frog By Aesop (Have) (Read)
 The Rabbit And The Chocodile By Yoshiko Uchida (Read)
 Therapy Dog By Randall Brown
 The Rats In The Walls By Howard Phillips Lovecraft (Have)
@@ -1116,14 +1335,19 @@ There Should Be A Name For It By Mathew Klam
 The Return By Joe Richard Lansdale
 The Return Of Imray By Rudyard Kipling
 There Will Come Soft Rains By Ray Bradbury
+The Rich Man And The Tanner By Aesop (Have) (Read)
 The Rifle By Kojima Nobuo
 The Right Time And Place By Olga Tokarczuk (Read)
 The Ring Of Kerry By Dennis McFadden
+The Rivers And The Sea By Aesop (Have) (Read)
 The Roadside Rose By Wong Meng Voon (Read)
 The Rocking - Horse Winner By David Herbert Lawrence
+The Rogue And The Oracle By Aesop (Have) (Read)
 The Romance Of Certain Old Clothes By Henry James (Read)
 The Rookery By Washington Irving
+The Rose And The Amaranth By Aesop (Have) (Read)
 The Royal Palms By Mathew Klam
+The Runaway Slave By Aesop (Have) (Read)
 The Sacrifice By Jahanara Siddique (Have) (Read)
 The Sacrificial Egg By Chinua Achebe (Have)
 The Sailor - Boy's Tale By Isak Dinesen
@@ -1142,21 +1366,39 @@ The Sea Of Gold By Yoshiko Uchida (Read)
 The Sea Raiders By Herbert George Wells
 The Second Bakary Attack By Haruki Murakami (Read)
 The Selfish Giant By Oscar Wilde (Have) (Read)
+The Serpent And The Eagle By Aesop (Have) (Read)
 The Seventh Veil By Zora Neale Hurston
 The Shadow Out Of Time By Howard Phillips Lovecraft (Have)
 The Shadow Over Innsmouth By Howard Phillips Lovecraft (Have)
 The Shawl By Cynthia Ozick (Have) (Read)
+The Sheep And The Dog By Aesop (Have) (Read)
+The Sheep, The Wolf And The Stag By Aesop (Have) (Read)
+The She - Goats And Their Beards By Aesop (Have) (Read)
+The Shepherd And The Wolf By Aesop (Have) (Read)
+The Shepherd's Boy And The Wolf By Aesop (Have) (Read)
 The Shimmering Red Light - The Moment Ting - Ting Woke Up By Wong Meng Voon (Read)
 The Shimmies Of Normandy By Robert Planquets
+The Shipwrecked Man And The Sea By Aesop (Have) (Read)
+The Sick Man And The Doctor By Aesop (Have) (Read)
+The Sick Stag By Aesop (Have) (Read)
 The Silence By Haruki Murakami (Read)
+The Slave And The Lion By Aesop (Have) (Read)
 The Sleeping Beauty In The Woods By Charles Perrault (Have) (Read)
 The Slow Man By Wajdi Al - Ahdal (Read)
+The Snake And Jupiter By Aesop (Have) (Read)
+The Soldier And His Horse By Aesop (Have) (Read)
 The Something By John Grisham By Benjamin Joseph Manaly Novak (Read)
 The Son Of The Strong Man Of The Wood By Elizabeth Wilson Grierson (Read)
 The Source By Henry Van Dyke (Have) (Read)
 The Special Type By Henry James
 The Spectacles By Edgar Allan Poe
+The Spendthrift And The Swallow By Aesop (Have) (Read)
 The Sphinx By Edgar Allan Poe (Read)
+The Stag And The Lion By Aesop (Have) (Read)
+The Stag And The Vine By Aesop (Have) (Read)
+The Stag At The Pool By Aesop (Have) (Read)
+The Stag In The Ox - Stall By Aesop (Have) (Read)
+The Stag With One Eye By Aesop (Have) (Read)
 The Star - Child By Oscar Wilde (Have) (Read)
 The Statement Of Randolph Carter By Howard Phillips Lovecraft (Have)
 The Statue By Jahanara Siddique (Have) (Read)
@@ -1173,6 +1415,9 @@ The Street Ends At The Cemetery By Clark Howard
 The Student Of Salamanca By Washington Irving
 The Suitcase By Cynthia Ozick (Have)
 The Summer And Winter Of A School: A Parable By Wong Meng Voon (Read)
+The Swallow And The Crow By Aesop (Have) (Read)
+The Swan By Aesop (Have) (Read)
+The Swollen Fox By Aesop (Have) (Read)
 The Sword Dance By Shōtarō Yasuoka (Read)
 The System Of Dr. Tarr And Prof. Fether By Edgar Allan Poe (Read)
 The Tablets Of The Law By Zora Neale Hurston
@@ -1180,36 +1425,56 @@ The Tell - Tale Heart By Edgar Allan (Read)
 The Tengu's Magic Nose Fan By Yoshiko Uchida (Read)
 The Terrible Black Snake's Revenge By Yoshiko Uchida (Read)
 The Thak Man - Eater By Jim Corbett (Read)
+The Thief And The Innkeeper By Aesop (Have) (Read)
+The Thieves And The Cock By Aesop (Have) (Read)
 The Thing On The Doorstep By Howard Phillips Lovecraft (Have)
 The Third Night By Natsume Soseki
 The Third Person By Henry James (Read)
 The Thousand - And - Second Tale Of Scheherazade By Edgar Allan Poe
 The Three Strangers By Thomas Hardy (Read)
+The Three Tradesman By Aesop (Have) (Read)
 The Time Before The Last By Marcus Sakey
 The Tone Of Time By Henry James
 The Tongue - Cut Sparrow By Yoshiko Uchida (Read)
 The Tongue Is The Strongest Muscle By Olga Tokarczuk (Read)
+The Tortoise And The Eagle By Aesop (Have) (Read)
+The Town Mouse And The Country Mouse By Aesop (Have) (Read)
+The Traveller And Fortune By Aesop (Have) (Read)
+The Traveller And His Dog By Aesop (Have) (Read)
+The Travellers And The Plane Tree By Aesop (Have) (Read)
 The Tree Of Knowledge By Henry James
+The Trees And The Axe By Aesop (Have) (Read)
 The Trial For Murder By Charles Dickens
 The Trouble With A Caddie (1993) By John Updike (Have)
+The Trumpter Taken Prisoner By Aesop (Have) (Read)
 The Truth About Tara By Annabeth Leong (Read)
 The Tryst By Joyce Carol Oates (Have)
 The Tsar's Collection By Olga Tokarczuk (Read)
+The Tunny Fish And The Dolphin By Aesop (Have) (Read)
 The Turn Of The Screw By Henry James (Read)
+The Two Bags By Aesop (Have) (Read)
 The Two Faces By Henry James
 The Two Foolish Cats By Yoshiko Uchida (Read)
+The Two Frogs By Aesop (Have) (Read)
+The Two Pots By Aesop (Have) (Read)
+The Two Soldiers And The Robber By Aesop (Have) (Read)
 The Ugly Little Boy By Isaac Asimov & Robert Silverberg
 The Unicorn Trap By Kurt Vonnegut (Read)
 The Unparalleled Adventure Of One Hans Pfaall By Edgar Allan Poe
 The Upside - Down World By Becky Hagenston
 The Vague Restaurant Critic By Benjamin Joseph Manaly Novak (Read)
+The Vain Jackdaw By Aesop (Have) (Read)
 The Valetudinarian By Joshua Ferris (Have)
 The Velvet Glove By Henry James
 The Victory By Rabindranath Tagore (Have) (Read)
+The Viper And The File By Aesop (Have) (Read)
 The Walk To School On The Day After Labor Day By Benjamin Joseph Manaly Novak (Read)
+The Walnut Tree By Aesop (Have) (Read)
 The Wandering Minstrel By Shōtarō Yasuoka (Read)
+The Wasp And The Snake By Aesop (Have) (Read)
 The Watery Season By Michal Lemberger
 The Way Things Are Going By Lynn Freed
+The Weasel And The Man By Aesop (Have) (Read)
 The Wedding By Washington Irving
 The Wedding Of The Mouse By Yoshiko Uchida (Read)
 The Whispering In Darkness By Howard Phillips Lovecraft (Have)
@@ -1219,8 +1484,26 @@ The Widow By Washington Irving
 The Widow's First Year By Joyce Carol Oates
 The Widow's Retinue By Washington Irving
 The Wild Angels By Ryu Murakami (Read)
+The Wild Boar And The Fox By Aesop (Have) (Read)
+The Wily Lion By Aesop (Have) (Read)
 The Wind - Up Bird And Tuesday's Women By Haruki Murakami (Read)
 The Wise Old Woman By Yoshiko Uchida (Read)
+The Witch By Aesop (Have) (Read)
+The Wolf And His Shadow By Aesop (Have) (Read)
+The Wolf And The Boy By Aesop (Have) (Read)
+The Wolf And The Crane By Aesop (Have) (Read)
+The Wolf And The Goat By Aesop (Have) (Read)
+The Wolf And The Horse By Aesop (Have) (Read)
+The Wolf And The Lamb By Aesop (Have) (Read)
+The Wolf And The Lion By Aesop (Have) (Read)
+The Wolf And The Sheep By Aesop (Have) (Read)
+The Wolf And The Shepherd By Aesop (Have) (Read)
+The Wolf In Sheep's Clothing By Aesop (Have) (Read)
+The Wolf, The Fox And The Ape By Aesop (Have) (Read)
+The Wolf, The Mother, And Her Child By Aesop (Have) (Read)
+The Wolves And The Dogs By Aesop (Have) (Read)
+The Wolves, The Sheep And The Ram By Aesop (Have) (Read)
+The Woman And The Farmer By Aesop (Have) (Read)
 The Woman In Gaul By Zora Neale Hurston
 The Wonderful Talking Bowl By Yoshiko Uchida (Read)
 The World In Your Head By Olga Tokarczuk (Read)
@@ -1287,6 +1570,7 @@ Up The Coule By Hamlin Garland
 Urashima Taro And The Princess Of The Sea By Yoshiko Uchida (Read)
 U. S. Golf (1994) By John Updike (Have)
 Vendors Of Names By Olga Tokarczuk (Read)
+Venus And The Cat By Aesop (Have) (Read)
 Victory Unintentional By Isaac Asimov
 View From A '77 Chevy Scottsdale By Natalie McNabb
 Village Worthies By Washington Irving
