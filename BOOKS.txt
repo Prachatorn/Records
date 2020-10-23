@@ -26,6 +26,7 @@
 77 Shadow Street By Dean Koontz
 7 Hours Omnibus By Mike Dellosso, Rene Gutteridge, Tom Parlick & Travis Thrasher
 A Bad Case Of Stripes By David Shannon
+Abahn Sabana David By Marguerite Duras
 A Banquet Of Consequences By Elizabeth George
 ABC Of French Food By Len Deighton
 Abducting Diana By Dario Fo
@@ -144,6 +145,7 @@ A Good Day For Seppuku: Stories BY Kate Braverman
 A Good Night For Ghosts (Magic Tree House, #42) By Mary Pope Osbourne
 A Good Scent From A Strange Mountain: Stories By Robert Olen Butler (Have)
 A Grain Of Wheat By Ngũgĩ Wa Thiong'o
+A Greater Music By Bae Suah
 A Guest Of Honour By Nadine Gordimer
 A Handbook On Hanging By Charles Duff
 A Hard And Heavy Thing By Matthew J. Hefti
@@ -762,6 +764,7 @@ Chronicle In Stone By Ismail Kadare
 Chronicle Of A Blood Merchant By Yu Hua
 Chronicle Of A Death Foretold By Gabriel García Márquez (Read)
 Chronicle Of A Last Summer: A Novel Of Egypt By Yasmine El Rashidi
+Chronicle Of The Murdered House By Lúcio Cardoso
 Cienka Kreska (PO) By Adam Zagajewski
 Cincizeci De Sonete De Mircea Cărtărescu Cu Cincizeci De Desene Originale De Tudor Jebeleanu (RU) By Mircea Cărtărescu
 Cincuenta Poemas (ES) By Odysseas Elytis
@@ -1591,6 +1594,7 @@ Hideaway By Dean Koontz
 Hiding In Plain Sight By Nuruddin Farah
 Hier, Demain (FR) By Nuruddin Farah
 High Lonesome: New & Selected Stories, 1966 - 2006 By Joyce Carol Oates
+High Tide By Inga Ābele
 High Tide In Hawaii (Magic Tree House, #28) By Mary Pope Osborne
 High Tide In Tucson: Essays From Now Or Never By Barbara Kingsolver
 High Time For Heroes (Magic Tree House, #51) By Mary Pope Osbourne
@@ -1971,6 +1975,7 @@ La Llama Doble (ES) By Octavio Paz
 L. A. Math: Romance, Crime, And Mathematics In The City Of Angels By James D. Stein Jr.
 La Mendiga By César Aira
 L'amore Rubato (IT) By Dacia Maraini
+L'Amour By Marguerite Duras
 Land Of Many Colors By Maryse Condé
 Land Of Sin By José Saramago
 Landscape With Landscape By Gerald Murnane
@@ -2453,6 +2458,7 @@ My Struggle: Book Two: A Man In Love By Karl Ove Knausgård
 My Struggle, Sixth Book By Karl Ove Knausgård
 My Travels Around The World By Nawal El Saadawi
 My Twentieth Century Evening And Other Small Breakthroughs: The Nobel Lecture By Kazou Ishiguro
+My Two Worlds By Sergio Chejfec
 My Year In The No - Man's - Bay By Peter Handke
 Mzalendo Kimathi By Ngũgĩ Wa Thiong'o
 Na Berma De Nenhuma Estrada E Outros Contos (PT) By Mia Couto
@@ -2949,6 +2955,7 @@ Robot Dreams (Robot, #0.4) By Isaac Asimov
 Robots And Empire (Robot, #4) By Isaac Asimov
 Robot Visions (Robot, #0.5) By Isaac Asimov
 Rob Roy By Walter Alva Scott
+Rock, Paper, Scisoors By Naja Marie Aidt
 Rock Springs By Richard Ford
 Rock With Wings (Leaphorn & Chee, #20) By Anne Hillerman
 Roll Of Thunder, Hear Me Cry (Logans, #4) By Mildred DeLois Taylor (Have) (Read)
@@ -3659,8 +3666,10 @@ The Currents Of Space (Galactic Empire, #2) By Isaac Asimov
 The Curse Of Camp Cold Lake (Goosebumps, #56) By Robert Lawrence Stine
 The Curse Of The Mummy's Tomb (Goosebumps, #5) By Robert Lawrence Stine
 The Cut - Rate Kingdom By Thomas Keneally
-The Dancing Kettle And Other Japanese FOlk Tales By Yoshiko Uchida (Read)
+The Cyclist Conspiracy By Svetislav Basara
+The Dancing Kettle And Other Japanese Folk Tales By Yoshiko Uchida (Read)
 The Dancing Mind By Toni Morrison
+The Dark By Sergio Chejfec
 The Dark Canoe By Scott O'Dell
 The Dark Half By Stephen King
 The Dark Horse (The Dark Horse, #1) By Josh Lanyon (Have)
@@ -4136,6 +4145,7 @@ The Maids By Jun'ichiro Tanizaki
 The Making Of Asian America: A History By Erika Lee
 The Making Of The Representative For Planet 8 By Doris Lessing
 The Makioka Sisters By Jun'ichiro Tanizaki (Have)
+The Man Between: Michael Henry Heim & A Life In Translation By Esther Allen
 The Mandelbaum Gate By Dame Muriel Spark
 The Man From The USSR And Other Plays By Vladimir Nabokov
 The Manhattan Project By László Krasznahorka
@@ -4331,6 +4341,7 @@ The Place At Whitton By Thomas Keneally
 The Place Where Souls Are Born: A Journey To The Southwest By Thomas Keneally
 The Plain In Flames By Juan Rulfo
 The Plains By Gerald Murnane
+The Planets By Sergio Chejfec
 The Playboy Of The Western World And Riders To The Sea By John Millington Synge (Have) (Read)
 The Playmaker By Thomas Keneally
 The Play Of The Eyes By Elias Canetti
@@ -4468,6 +4479,7 @@ The Russian Bride: A Thriller By Ed Kovacs
 The Sacrifice By Joyce Carol Oates
 The Sacrifice (Animorphs, #52) By Katherine Applegate
 The Saga Of Tanya The Evil 1: Deus Lo Vuit By Carlo Zen (Have)
+The Sailor From Gibraltar By Marguerite Duras
 The Same River By Jaan Kaplinski
 The Same Sea By Amos Oz
 The Same Sea In Us All By Jaan Kaplinski
@@ -4538,6 +4550,7 @@ The Sleeper Awakes By Herbert George Wells
 The Slopes Of Lebanon By Amos Oz
 The Small Rain By Thomas Pynchon
 The Smile Of The Lamb By David Grossman
+The Smoke Of Distant Fires By Eduardo Chirinos
 The Snares Of Memory By Juam Marse
 The Snow Child By Eowyn Ivey
 The Snowden Files: The Inside Story Of The World's Most Wanted Man By Luke Harding
@@ -5216,6 +5229,7 @@ Where The Red Fern Grows By Wilson Rawls
 Where The Sun Rises And Where It Sets By Czesław Miłosz
 Where The Wild Coffee Grows: The Untold Story Of Coffee From The Cloud Forests Of Ethiopia To Your Cup By Jeff Koehler
 Where The Wild Things Are By Maurice Sendak
+Where Tigers Are At Home By Jean - Marie Blas De Roblès
 While I Was Gone By Sue Miller (Have)
 While Mortals Sleep: Unpublished Short Fiction By Kurt Vonnegut
 While The Women Are Sleeping By Javier Marías
