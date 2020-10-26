@@ -439,7 +439,7 @@ Avenue Of Mysteries By John Irving (Have)
 A Very Scandinavian Christmas: The Greatest Nordic Holiday Stories Of All Time By August Strindberg, Hans Christian Andersen, Karl Ove Knausgård, Selma Lagerlöf
 A Victim Of The Aurora By Thomas Keneally
 A View By The Sea By Shōtarō Yasuoka
-A Way In The World By Sir Vidiadhar Surajprasad Naipaul
+A Way In The World By Sir Vidiadhar Surajprasad Naipaul (Read)
 Awe (The Books Of Marvella, #3) By Travis Thrasher
 A Widow's Story: A Memoir By Joyce Carol Oates
 A Wilderness Station: Selected Stories, 1968-1994 By Alice Munro
@@ -923,6 +923,7 @@ Darkness: Fiction By Dacia Maraini
 Darkness Visible By William Golding
 Dark Rivers Of The Heart By Dean Koontz
 Dark Rooms By Olga Tokarczuk
+Dark Times Filled With Light By Juan Gelman
 Dark Visions By George Raymond Dan Simmons, Richard Martin & Stephen King
 Das Gewicht Der Welt (DE) By Peter Handke
 Das Leben Der Gespenster (DE) By Javier Marías
@@ -1936,6 +1937,7 @@ Knuckles The Hound Of Hanalei By Rick Dierker & Susan Dierker
 Koba The Dread By Martin Amis
 Kojiki By Anonymous
 Kokoro By Soseki Natsume
+Kolyma Tales By Variam Shalamov
 Koniec I Początek (PL) By Wisława Szymborska
 Kon - Tiki By Thor Heyerdahl (Have)
 Kopfgeburten Oder Die Deutschen Sterben Aus (DE) By Günter Grass
@@ -2081,6 +2083,7 @@ Libra By Don DeLillo
 Libro De Cronicas (ES) By António Lobo Antunes
 Licks Of Love: Short Stories And A Sequel, "Rabit Remembered" By John Updike (Have)
 Life 3.0: Being Human In The Age Of Artificial Intelligence By Max Tegmark
+Lies, First Person By Gail Hareven
 Life And Death Are Wearing Me Out By Mo Yan
 Life As We Know It By Susan Beth Pfeffer (Read)
 Life Before Man By Margarte Atwood
@@ -2955,6 +2958,7 @@ Robot Dreams (Robot, #0.4) By Isaac Asimov
 Robots And Empire (Robot, #4) By Isaac Asimov
 Robot Visions (Robot, #0.5) By Isaac Asimov
 Rob Roy By Walter Alva Scott
+Rochester Kinockings: A Novel Of The Fox Sisters By Hubert Haddad
 Rock, Paper, Scisoors By Naja Marie Aidt
 Rock Springs By Richard Ford
 Rock With Wings (Leaphorn & Chee, #20) By Anne Hillerman
@@ -3302,6 +3306,7 @@ Stormbreaker (Alex Rider, #1) By Anthony Horowitz
 Stormfire By Christine Monson
 Storm Still By Peter Handke
 Stowaway On Board By Dacia Maraini
+Street of Thieves By Mathias Énard
 Strong Opinions By Vladimir Nabokov
 Subject Seven By James Arthur Moore
 Success By Martin Amis
@@ -4216,6 +4221,7 @@ The Mountains Of Parnassus By Czesław Miłosz
 The Mulching Of America By Harry Crews
 The Mummy Awakens By Nagiub Mahfouz
 The Mummy Walks (Goosebumps 2000, #16) By Robert Lawrence Stine
+The Museum Of Eterna's Novel By Macedonio Fernandez
 The Museum Of Innocence By Orphan Pamuk
 The Museum Of Unconditional Surrender By Dubravka Ugrešić
 The Musical Brain: And Other Stories By César Aira
@@ -4620,6 +4626,7 @@ The Sword In The Stone By Terence Hanbury White
 The Sworn Sword By George Raymond Richard Martin
 The Sympathizer By Viet Thanh Nguyen
 The Takeover By Dame Muriel Spark
+The Taker And Other Stories By Rubem Fonseca
 The Taking By Dean Koontz
 The Talented Ribkins By Ladee Hubbard
 The Tale Of Genji By Murasaki Shikibu
@@ -5364,6 +5371,7 @@ Ziemia Ognista (PO) By Adam Zagajewski
 Zinky Boys: Soviet Voices From The Afghanistan War By Svetlana Alexievich
 Zlateh The Goat And Other Stories By Isaac Bashevis Singer
 Zombie By Joyce Carol Oates
+Zone By Mathias Énard
 Zoo Quest For A Dragon By David Attenborough
 Zoo Station (John Russell, #1) By David Downing
 Zora, A Cruel Tale By Philippe Arseneault
