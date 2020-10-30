@@ -1302,6 +1302,7 @@ Fima By Amos Oz
 Final Argument By Clifford Irving (Have)
 Finders Keepers By Seamus Heaney
 Fin De Siecle By Joseph Brodsky
+Finding Darwin's God By Kenneth Raymond Miller
 Finding The Centre: Two Narratives By Sir Vidiadhar Surajprasad Naipaul
 Finders Keepers By Stephen King
 Finnegans Wake By James Joyce
@@ -1663,6 +1664,7 @@ How To Win Friends & Influence People By Dale Carnegie (Have)
 Huai Bao Xian Hua Di Nu Ren By Mo Yan
 Hui Chang Ge De Qiang By Mo Yan
 Human Chain By Seamus Heaney
+Humani Generis By Pope Plus XII
 Human Voices By Penelope Fitzgerald (Have)
 Hunger Games By Suzanne Collins (Read)
 Hunger Und Seide (DE) By Herta Muller
@@ -2091,6 +2093,7 @@ Life Expectancy By Dean Koontz
 Life Is Elsewhere By Milan Kundera
 Life Of Pi By Yann Martel (Have) (Read)
 Life Plays With Me By David Grossman
+Life's Solution: Inevitable Humans In A Lonely Universe By Simon Conway Morris
 Life's Wisdom By Nagiub Mahfouz
 Life & Times Of Michael K By John Maxwell Coetzee
 Life Times: Stories, 1952 - 2007 By Nadine Gordimer
@@ -2283,7 +2286,7 @@ Meditations By Marcus Aurelius
 Mediums: Speakers With The Dead By Andrew Bates, Ed Hall, Fred Yelk, James Arthur Moore, John Diagle, Justin Achilli, Lisa Daigle, Robert Martin, Roger Gaudreau, Ronni Radner & Tracy Rysavy
 Melville In Love: The Secret Life Of Herman Melville And The Muse Of Moby - Dick By Michael Shelden
 Melancholy Byia I - II: Roman (NO) By Jon Fosse
-Melanchol Jon Fosse
+Melancholy By Jon Fosse
 Melancholy II By Jon Fosse
 Memento Mori By Dame Muriel Spark
 Memoir By Toni Morrison
@@ -3694,6 +3697,7 @@ The Deception (Animorphs, #46) By Katherine Applegate
 The Decision (Animorphs, #18) By Katherine Applegate
 The Defense By Vladimir Nabokov
 The Deleted World By Tomas Transtromer
+The Demon - Haunted World By Ann Druyan & Carl Sagan
 The Demon Hunter (Oliver Nocturne, #4) By Kevin Emerson (Have)
 The Demon Of Cawnpore By Jules Verne (Have)
 The Departure (Animorphs, #19) By Katherine Applegate
@@ -4705,6 +4709,7 @@ The Unexpected (Animorphs, #44) By Katherine Applegate
 The Union Kack By Imre Kertesz
 The Unit By Ninni Holmqvist
 The Universe In A Nutshell By Stephen Hawking
+The Universe In A Single Atom: The Convergence Of Science And Spirituality By 14th Dalai Lama
 The University Encyclopedia Of Mathematics By Toni Morrison
 The Unknown (Animorphs, #14) By Katherine Applegate
 The Unknown Masterpiece And Gambara By Honore De Balzac
@@ -4716,6 +4721,7 @@ The Upright Revolution: Or Why Humans Walk Upright By Ngugi Wa Thiong'o
 The Vacationers By Emma Straub
 The Vagrants: A Novel By Yiyun Li (Have)
 The Very First Light: A Scientific Journey Back To The Dawn Of The Universe By John Boslough & John Cromwell Mather
+The Varieties Of Scientific Experience: A Personal View Of The Search For God By Ann Druyan & Carl Sagan
 The View From Castle Rock By Alice Munro
 The Village On Horseback: Prose and Verse, 2003 - 2008 By Jesse Ball
 The Virgin And The Gypsy By David Herbert Lawrence (Have) (Read)
@@ -5311,6 +5317,7 @@ Women Who Work: Rewriting The Rules For Success By Ivanka Trump
 Women In Love (Brangwen Family, #2) By David Herbert Richards Lawrence (Have)
 Women In The Nineteenth Century And Other Writings By Margaret Fuller
 Women With Men By Richard Ford
+Wonderful Life: The Burgess Shale And The Nature Of History By Stephen Jay Gould
 Wonderful, Wonderful Times By Elfriede Jelinek
 Wonderland By Joyce Carol Oates
 Wonder (The Book Of Marvella, #2) By Travis Thrasher
