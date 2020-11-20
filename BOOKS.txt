@@ -313,6 +313,7 @@ Another Pamela / Virtue Still Rewarded By Upton Sinclair (Have)
 Another Secret: Luuletusi By Doris Kareva
 Anselm Kiefer: Transition From Cool To Warm By Karl Ove Knausgård
 Anthem By Ayn Rand (Have)
+Anthology Of Japanese Literature By Donald Keene
 Anthology Of Mexican Poetry By Octavio Paz
 Anticipations By Herbert George Wells
 Anweisungen An Die Krokodile (DE) By António Lobo Antunes
@@ -345,6 +346,8 @@ Are You Terrified Yet? (Goosebumps 2000, #9) By Robert Lawrence Stine
 Argentina, The Great Estancias By César Aira
 A Rich Man's SECRET By Ken Roberts (Have)
 Ariel By Steve Boyett (Have)
+Ariel By Sylvia Plath
+Ariel: The Restored Edition By Sylvia Plath
 A Rild Asnes, 1970 (NO) By Dag Solstad
 A Ripple From The Storm By Doris Lessing
 Aristotle And Dante Discover The Secrets Of The Universe By Benjamin Alire Sáenz (Read)
@@ -881,6 +884,7 @@ Crossbones By Nuruddin Farah
 Cross Channel By Julian Barnes
 Crossing The Mangrove By Maryse Condé
 Crossing The Sierra De Gredos By Peter Handke
+Crossing The Water: Transitional Poems By Sylvia Plath
 Crossing To Safety By Wallace Stegner (Have)
 Crowds And Power By Elias Canetti
 Crow Lake By Mary Lawson
@@ -1420,6 +1424,7 @@ Garments Of Shadows (Mary Russell, #12) By Layrie R. King
 Gates Of The Dead: Tides Of War By James Arthur Moore
 Gateway (Heechee Saga, #1) By Frederik Pohl
 Geek Love By Katherine Dunn
+Genji And Heike: Selections From The Tale Of Genji And The Tale Of The Heike By Helen Craig McCullough
 Gens Des Nuages (FR) By Jean - Marie Gustave Le Clézio
 Gentle Julia By Booth Tarkington
 Gentleman's Agreement By Laura Zametkin Hobson
@@ -1875,6 +1880,7 @@ Joan And Peter By Herbert George Wells
 Joan Didion: Essays & Conversations By Joan Didion
 Joheved (Rashi's Daughters Book I) By Maggie Anton (Have)
 Johnny Got His Gun By Dalton Trumbo
+Johnny Panic And The Bible Of Dreams By Sylvia Plath
 John Singer Sargent By Carter Ratcliff
 Joie De Vivre: Secrets Of Wining, Dining, And Romancing Like The French By Harriet Welty Rochefort
 Jokers Wild (Wild Cards, #3) By George Raymond Richard Martin
@@ -2065,6 +2071,7 @@ Letters For Nostalgic Years By Kenzaburō Ōe
 Letters From An American Farmer By Michel Guillaume Jean De Crèvecœur
 Letters From London By Julian Barnes
 Letters From War By Mark Schultz & Travis Thrasher
+Letters Home: Correspondence, 1950 - 1963 By Sylvia Plath
 Letters To A Young Novelist By Mario Vargas Llosa
 Letters To Marina By Dacia Maraini
 Let The Great World Spin By Colum McCann
@@ -2409,6 +2416,7 @@ Mr. Polly By Herbert George Wells
 Mr. Rochester By Sarah Shoemaker
 Mr. Salary: Faber Stories By Sally Rooney
 Mrs. Caldwell Habla Con Su Hijo (ES) By Camilo José Cela
+Mrs. Cherry's Kitchen By Sylvia Plath
 Mrs. Dalloway By Virginia Woolf (Have)
 Mrs. Grant And Madame Jule By Jennifer Chiaverini
 Mr. Stone And The Knights Companion By Sir Vidiadhar Surajprasad Naipaul
@@ -2416,6 +2424,7 @@ M / T And The Narrative About The Marvels Of The Forest By Kenzaburō Ōe
 Mudwoman By Joyce Carol Oates
 Multitude Of Sins Header By Richard Ford
 Mummies In The Morning (Magic Tree House, #3) By Mary Pope Osborne
+Murasaki Shikibu's The Tale Of Genji: Philosophical Perspectives By James McMullen
 Murder In The Dark By Margaret Atwood
 Murder On The Orient Express By Agatha Christie (Read)
 Murnane By Gerald Murnane
@@ -3487,6 +3496,7 @@ The Beautiful Annabel Lee Was Chilled And Killed By Kenzaburō Ōe
 The Beautiful Lady By Booth Tarkington
 The Beauty Of The Husband By Anne Carson
 The Beauty of the Husband: A Fictional Essay In 29 Tangos By Anne Carson
+The Bed Book By Sylvia Plath
 The Beggar By Naguib Mahfouz
 The Beginning (Animorphs, #54) By Katherine Applegate
 The Beginning And The End By Naguib Mahfouz
@@ -3619,12 +3629,14 @@ The Collected Novels Of Toni Morrison By Toni Morrison
 The Collected Poems, 1931 - 1987 By Czesław Miłosz
 The Collected Poems Of Octavio Paz, 1957 - 1987 By Octavio Paz
 The Collected Poems Of Odysseus Elytis By Odysseas Elytis
+The Collected Poems Of Sylvia Plath
 The Collected Stories By Eudora Welty
 The Collected Stories Of Lydia Davis By Lydia Davis
 The Collected Stories Of Peter Taylor By Peter Taylor (Have)
 The Collector By John Fowles
 The Colonel By Mohammed Dowlatabadi
 The Color Purple By Alice Walker (Read)
+The Colossus By Syvia Plath
 The Colour Of Democracy: Racism In Canadian Society By Frances Henry
 The Columbia Anthology Of American Poetry By Jay Parini (Have)
 The Comedy Of Errors By William Shakespeare
@@ -4038,6 +4050,7 @@ Their Eyes Were Watching God By Zora Neale Hurston (Read)
 The Island By Victoria Hislop (Have)
 The Island Of Dr. Moreau By Herbert George Wells
 The Issa Valley By Czesław Miłosz
+The It - Doesn't Matter Suit By Sylvia Plath
 The Jaguar Smile By Salman Rushdie
 The Janitor On Mars By Martin Amis
 The Japanese Lover: A Novel By Isabel Allende (Have)
@@ -4220,9 +4233,9 @@ The Moon Is Down By John Steinbeck
 The Moons Of Jupiter By Alice Munro
 The Moonstone By Wilkie Collins
 The Moor's Last Sigh By Salman Rushdie
+The Moravian Night By Peter Handke (Read)
 The Morning Star By Karl Ove Knausgård
 The Moronic Inferno By Martin Amis
-The Moravian Night By Peter Handke
 The Most Beautiful Women In Florence: A Story Of Botticelli By Alyssa Palombo
 The Most Dangerous Place On Earth By Lindsey Lee Johnson
 The Mothers By Brit Bennett
@@ -4593,10 +4606,11 @@ The Spinoza Of Market Street By Isaac Bashevis Singer
 The Spire By William Golding
 The Spirit Level By Seamus Heaney
 The Spirit Of The Laws By Montesquieu
+The Splendor Of Longing In The Tale Of The Genji By Norma Field
 The Sport Of The Gods By Paul Laurence Dunbar (Have) (Read)
 The Sportswriter By Richard Ford
 The Spy: A Novel Of Mata Hari By Paulo Coelho
-The Stand By Stephen King
+The Stand By Stephen King (Have)
 The Star Diaries: Further Reminiscences Of Lijon Tichy By Stanislaw Lem
 The Stars My Destination By Alfred Bester (Have)
 The Stone Raft By José Saramago
@@ -4707,6 +4721,7 @@ The Ultimate Good Luck By Richard Ford
 The Ultimate Hitchhiker's Guide To The Galaxy By Douglas Adams
 The Ultimate Safari By Nadine Gordimer
 The Umbrella Man And Other Stories By Roald Dahl
+The Unabridged Journals Of Sylvia Plath By Karen V. Kukil & Sylvia Plath
 The Unbearable Lightness Of Being By Milan Kundera
 The Unconsoled By Kazuo Ishiguro
 The Underground (Animorphs, #17) By Katherine Applegate
@@ -5303,6 +5318,7 @@ Wintering Out By Seamus Heaney
 Winter In Lisbon By Antonio Muñoz Molina
 Winter (The Lunar Chronicles, #4) By Marissa Meyer
 Winter Street (Winter, #1) By Elin Hilderbrand
+Winter Trees By Sylvia Plath
 Wired: The Short Life And Fast Times Of John Belushi By Bob Woodward
 Wir Sind Lockvögel, Baby. Roman By Elfriede Jelinek
 Wishful Drinking By Carrie Fisher
