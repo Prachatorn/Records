@@ -1,8 +1,11 @@
 An Overview Of Black Racial Identity Theories (1998) By Eric M. Benjamin, John W. Wilson, Madonna G. Constantine & Tina Q. Richardson
+A Proof Of Concept For Scale - Adaptive Paranetrizations: The Case Of The Lorenz '96 Model (2018) By Gabriele Vissio & Valerio Lucarini
 Are We Them? Textual And Literary Representations Of The Chinese In Twentieth - Century Thailand By Thak Chaloemtiarana
 Asian American Racial Identity Development Theory (2012) By Jean Kim
 Assessing Immigrant Assimilation - New Empirical And Theoretical Challenges (2005) By Mary C. Waters & Tomas R. Jimenez
+A Time - Spectral Approach To Numerical Weather Prediction (2018) By Hiu Fai Yik, Jan Scheffel & Kristoffer Lindvall
 Becoming Muslim - The Development Of A Religious Identity (2005) By Lori Peek
+Beyond Beer's Law: Revisiting The Lorentz - Lorenz Equation (2020) By Jurgen Popp & Thomas G. Mayerhofer
 Bicultural Identity Integration (BII) - Components And Psychosocial Antecedents By Jana Haritatos & Veronica Benet - Martinez
 Biculturalism and Context - What Is Biculturalism, And When Is It Adaptive (2010) By Jennifer B. Unger & Seth J. Schwartz
 Brothers & Beasts - An Anthology Of Men On Fairy Tales (2007) By Kate Bernheimer
@@ -15,7 +18,9 @@ Dr. Phil And Montel Help AIS Students "Get Real" With The Fraud Triangle (2014) 
 Donkey - Skin: An Adolescent's Struggle Against Incest And For Independence (2003) By Bettina Knapp (Have) (Read)
 Estimation Of Von Bertalanffy Growth Curve Parameters From Recapture Data (1991) By Ian R. James
 Evaluation Of Italian Companies' Perception About ISO 14001 And Eco Management And Audit Scheme III: Motivations, Benefits And Barriers (2016) By Federica Murmura, Laura Bravi, Lolita Liberatore & Nicola Casolani
+Evolving Chaos: Identifying New Attractors Of The Generalised Lorenz Family (2018) By Indranil Pan & Saptarshi Das
 Finding Difference - Nemo And Friends Opening The Door To Disability Theory (2010) By Daniel L. Preston
+Forward And Adjoint Sensitivity Computation Of Chaotic Dynamical Systems (2013) By Qiqi Wang
 Four Types Of Integration In Disability Identity Development (1997) By Carol J. Gill
 Framing Identity: Using Photographs To Rethink Sexism, Gender, ANd Sexuality (2016) By Kim Cosier
 From Passive Acceptance To Active Commitment - A Model Of Feminist Identity Development For Women (1985) By Kristin L. Roush & Nancy E. Downing
@@ -37,6 +42,9 @@ Langauge And Ethnicity (2010) By Angela Reyes
 Letting Down Rapunzel: Feminism's Effects On Fairy Tales (2014) By Angela Smith
 Like Mother. Like Daughter: Maternal Cravings And Birthmarks In The Fairy Tales Of Madame d'Aulnoy By Holly Tucker (2000) (Have) (Read)
 Literature, Theory, And The Politics Of Criticism In Contemporary Thailand (2011) By Rachel V. Harrison
+Local Well - Posedness For The Space - Time Monopole Equation In Lorenz Gauge (2011) By  Nikolaos Bournaveas & Timothy Candy
+Lyapunov Dimension Formula For The Global Attractor Of The Lorenz System (2018) By D. V. Kusakin, Gennady A. Leonov, N. A. Korzhemanova & Nikolay V. Kuznetsov
+Lyapunov Exponents Of Two Stochastic Lorenz 63 Systems (2019) By Bernard J. Geurts, Darryl D. Holm & Erwin Luesink
 Masculinity and Men's Bodies in Fairy Tales: Youth, Violence, and Transformation (2018) By Jeana Jorgensen
 Matthew Effects in Children with Learning Disabilities: Development of Reading, IQ, and Psychosocial Problems From Grade 2 to Grade 8 (2003) By Hollis S. Scarborough & Jennifer D. Parker
 Monstrous Wives: Bluebeard As Criminal And Cultural Hero (2004) By Maria Tatar (Have) (Read)
@@ -48,7 +56,9 @@ New Perspectives On Racial Identity Development: A Theoretical And Practical Ant
 Notebooks And Children's Drawings, Or The Inter - Authorship Of Peter Handke's Kindergeschichte (2018) By Jacob Haubenreich
 "Not Half But Double": Exploring Critical Incidents in the Racial Identity of Multiracial College Students (2012) By Angela H. Kellogg & Debora L. Liddell
 "Of Mice And Men", Fairy Tales, And Legends: A Reactionary Ethical Proposal To Storytelling And The Brisefio Factors (2013) By Mia - Carre B. Long
+On Differences And Similarities In The Analysis Of Lorenz, Chen And Lu Systems (2015) By Gennady A. Leonov & Nikolay V. Kuznetsov
 On The Problem Of The Destructive Animus (1992) By Verena Kast (Have) (Read)
+On Stability By The First Approximation For Discrete Systems (2005) By Gennady A. Leonov & Nikolay V. Kuznetsov
 Orwell's Paradox: Equality In Animal Farm (2012) By David Dwan
 Overactivity, Impulsivity And Repetitive Behaviour In Males With Fragile X Syndrome: Contrasting Developmental Trajectories In Those With And Without Elevated Autism Symptoms (2018) By C. Oliver, C. Stinton, G. Singla, H. Crawford & J. Moss
 Parasitic And Pseudoparasitic Gaps (1994) By Paul. M Postal
@@ -75,6 +85,7 @@ Social Cognitive Theory Of Gender Development And Differentiation (1999) By Albe
 Straw Men And Fairy Tales: Evaluating Reactions To "A Natural History Of Rape" (2003) By Craig T. Palmer & Randy Thornhill
 Syntactic Change In The Parallel Architecture: The Case Of Parasitic Gaps (2017) By Peter W. Culicover
 Testing Cross's Revised Racial Identity Model: An Examination Of The Relationship Between Racial Identity And Internalized Racialism (2002) By Kevin O. Cokley
+Testing For Chaos In Deterministic Systems With Noise (2005) By Georg A. Gottwald & Ian Melbourne
 The Biracial Baby Boom: Understanding Ecological Constructions Of Racial Identity In The 21st Century (1999) By Maria P. P. Root
 The Causative Alternation (2009) By Florian Schafer
 The Deconstruction Of Chinese Shi...De Clefts Revisited (2011) By Daniel Hole
