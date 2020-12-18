@@ -229,6 +229,7 @@ Amazonia: Five Years At The Epicenter Of The Dot.Com Juggernaut By James Marcus
 Amazons By Don DeLillo
 Amelia By Henry Fielding
 A Mercy By Toni Morrison
+America And Americans By John Steinbeck
 America Latina, 1960 - 2013: Photographs By Alfonso Morales, Luis Camnitzer, & Olivier Compagnon
 Americana By Don DeLillo
 Americanah By Chimamanda Ngozi Adichie
@@ -662,6 +663,7 @@ Buffalo Before Breakfast (Magic Tree House, #18) By Mary Pope Osborne
 Bukolit By Elfriede Jelinek
 Burger's Daughter By Nadine Gordimer
 Burmese Days By George Orwell (Read)
+Burning Bright By John Steinbeck
 Burn This Book By Toni Morrison
 Burn This Book: PEN Writers Speak Out On The Power Of The Word By Toni Morrison
 Bush At War By Bob Woodward
@@ -841,6 +843,7 @@ Conversations With Derek Walcott By Derek Walcott
 Conversations With Friends By Sally Rooney
 Conversations With F. Sionil Jose By Francisco Sionil José
 Conversations With Gabriel García Márquez By Gabriel García Márquez
+Conversations With John Steinbeck By John Steinbeck
 Conversations With Julian Barnes By Julian Barnes
 Conversations With Kazuo Ishiguro By Kazou Ishiguro
 Conversations With Maryse Condé By Maryse Condé
@@ -1748,6 +1751,7 @@ India: A Wounded Civilization By Sir Vidiadhar Surajprasad Naipaul
 India: Essays By Sir Vidiadhar Surajprasad Naipaul
 Indigo: A Novel By Charlaine Harris, Cherie Priest, Christopher Golden, James Arthur Moore, Jonathan Maberry, Kat Richardson, Kelley Armstrong, Mark Morris, Seanan McGuire & Tim Lebbon
 Indivisible By Travis Thrasher
+In Dubious Battle By John Steinbeck
 In Einem Freien Land By Sir Vidiadhar Surajprasad Naipaul
 In Every Moment We Are Still Alive: A Novel By Tom Malmquist
 In Evil Hour By Gabriel García Márquez
@@ -1882,6 +1886,7 @@ Joheved (Rashi's Daughters Book I) By Maggie Anton (Have)
 Johnny Got His Gun By Dalton Trumbo
 Johnny Panic And The Bible Of Dreams By Sylvia Plath
 John Singer Sargent By Carter Ratcliff
+John Steinbeck: A Biography By Jay Parini
 Joie De Vivre: Secrets Of Wining, Dining, And Romancing Like The French By Harriet Welty Rochefort
 Jokers Wild (Wild Cards, #3) By George Raymond Richard Martin
 Jonathan Strange And Mr. Norrell By Susanna Clarke
@@ -1889,6 +1894,7 @@ Joseph Andrews By Henry Fielding
 Joseph Anton: A Memoir By Salman Rushdie
 Joseph Brodsky: Conversations By Joseph Brodsky
 Joseph Brodsky Reads His Poetry By Joseph Brodsky
+Journal Of A Novel: The East Of Eden Letters By John Steinbeck
 Journal Of An Unseen April By Odysseas Elytis
 Journey From The Land Of No: A Girlhood Caught In Revolutionary Iran By Roya Hakakian
 Journey To Jericho By Scott O'Dell
@@ -3053,6 +3059,7 @@ Scott Fitzgerald And His World By Arthur Mizener
 Scrappy Little Nobody By Anna Kendrick
 Scream School (Goosebumps 2000, #15) By Robert Lawrence Stine
 Sea Grapes By Derek Walcott
+Sea Of Cortez: A Leisurely Journal Of Travel And Research By John Steinbeck & Edward Flanders Robb Ricketts
 Sea Of Poppies (Ibis Trilogy, #1) By Amitav Ghosh
 Searching By Nawal El Saadawi
 Searching For Emma By Dacia Maraini
@@ -3360,7 +3367,7 @@ Sweeney Astray By Seamus Heaney
 Sweet And Sour Milk By Nuruddin Farah
 Sweeter Than Life By Mark Tryon
 Sweet Land Of Liberty: The Forgotten Struggle For Civil Rights In The North By Thomas J. Sugrue
-Sweet Thursday (Cannery Row, #2) By John Steinbeck
+Sweet Thursday (Cannery Row, #2) By John Steinbeck (Read)
 Sweet Tooth By Ian McEwan
 Swimming Lessons By Claire Fuller
 Swing Time By Zadie Smith
@@ -3955,6 +3962,7 @@ The Happy Failure: Stories By Herman Melville (Have)
 The Harafish By Naguib Mahfouz
 The Hare By César Aira
 The Harry Palmer Quartet By Len Deighton
+The Harvest Gypsies: On The Road To The Grapes Of Wrath By John Steinbeck
 The Harz Journey By Heinrich Heine
 The Hated Wife: Carrie Kipling, 1862 - 1939 By Adam Nicolson (Have)
 The Hate U Give By Angie Thomas
@@ -4595,6 +4603,7 @@ The Song Of The Lark By Willa Carther
 The Sons Of The Dragon By George Raymond Richard Martin
 The Sorbonne Affair (Hugo Marston, #7) By Mark Pryor
 The Sorrow Gondola By Tomas Tranströmer
+The Sorrows Of Young Werther By Johann Wolfgang Von Goethe
 The Sot - Weed Factor By John Barth
 The Soul Of A Bishop By Herbert George Wells
 The Sound And The Fury By William Shakespeare
@@ -4707,6 +4716,7 @@ The Trial Of Dedan Kimathi By Ngũgĩ Wa Thiong'o
 The Tricks Of The Trade By Dario Fo
 The Trills Of Love By Odysseas Elytis
 The Trouble With Goats And Sheep: A Novel By Joanna Cannon
+The True Adventures Of John Steinbeck By Jackson J. Benson
 The True Meaning Of Smekday By Adam Rex
 The Truth About Stories: A Native Narrative By Thomas King (Have)
 The Tunnel By William Howard Gass
@@ -4776,6 +4786,7 @@ The Water - Method Man By John Irving
 The Way Of All Women: A Psychological Interpretation By Mary Esther Harding
 The Way Of Life Should Be: A Novel By Christina Baker Kline (Have)
 The Way To Paradise By Mario Vargas Llosa
+The Wayward Bus By John Steinbeck
 The Weakness (Animorphs, #37) By Katherine Applegate
 The Wedding By Elias Canetti
 The Weight Of The World By Peter Handke
@@ -4789,6 +4800,7 @@ The White Bicycle (Wild Orchard, #3) By Beverley Brenna
 The White Carnation (Alex Rider, #0.4) By Anthony Horowitz
 The White Castle By Orphan Pamuk
 The White Tiger By Aravind Adiga
+The Wide World Of John Steinbeck By Peter Lisca
 The Widow And Her Hero By Thomas Keneally
 The Widows Of Malabar Hill (Perveen Mistry, #1) By Sujata Massey
 The Wife Between Us: A Novel By Greer Hendricks
@@ -4803,6 +4815,7 @@ The Wind In The Willows By Kenneth Grahame (Read)
 The Winds Of Winter (A Song Of Ice And Fire, #6) By George Raymond Richard Martin
 The Wings Of The Dove By Henry James (Have)
 The Winners By Julio Cortázar
+The Winter Of Our Discontent By John Steinbeck
 The Winter Queen (Erast Fandorin Mysteries, #1) By Boris Akunin (Have)
 The Winter Room By Gary Paulsen (Have)
 The Wit And Wisdom Of Tyrion Lannister By George Raymond Richard Martin
@@ -4833,6 +4846,7 @@ The World At Night (Night Soldiers, #4) By Alan Furst
 The World Does Move By Booth Tarkington
 The World Goes On By László Krasznahorka
 The World Of Ice And Fire By George Raymond Richard Martin
+The World Of Li'l Abner By Al Capp
 The World Of Odysseus By Sir Moses Isaac Finley
 The World Of The Shining Prince By Ivan Morris
 The World Of Tomorrow By Brendan Mathews
@@ -5351,6 +5365,7 @@ Wonder Woman: Warbringer (DC Icons, #1) By Leigh Bardugo
 Words Into Flesh By David Grossman
 Words Without Borders By Zaher Omareen
 Work: A Story Of Experience By Louisa May Alcott
+Working Days: The Journals Of The Grapes Of Wrath, 1938 - 1941 By John Steinbeck
 Work Like Any Other By Virginia Reeves
 World Order By Henry Kissinger
 World War Z - An Oral History Of The Zombie War By Max Brooks (Read)
