@@ -327,7 +327,7 @@ A Passage To India By Edward Morgan Forster (Read)
 A People's History Of The United States By Howard Zinn
 A Perfect Peace By Amos Oz
 A Perfect Time For Pandas (Magic Tree House, #48) By Mary Pope Osbourne
-A Personal Matter By Kenzaburō Ōe (Read)
+A Personal Matter By Kenzaburō Ōe (Read) (Fav)
 A Piece Of My Heart By Richard Ford
 A Piece Of The World: A Novel By Christina Baker Kline
 A Portrait Of The Artist As A Young Man By James Joyce
@@ -833,7 +833,7 @@ Contemporary English Stories By Graham Swift, Ian McEwan & Martin Amis
 Continental Drift By Russell Banks (Have)
 Continent: Stories By Jim Crace
 Contos Do Nascer Da Terra (PT) By Mia Couto
-Convenience Store Woman By Sayaka Murata (Read)
+Convenience Store Woman By Sayaka Murata (Read) (Fav)
 Conversación En La Catedral (ES) By Mario Vargas Llosa
 Conversation In The Cathedral By Mario Vargas Llosa
 Conversation In The Pyrenees By Adunis
@@ -3386,6 +3386,7 @@ Tales From Ovid By Ted Hughes (Have)
 Tales From The Heart: True Stories From My Childhood By Maryse Condé
 Tales From The Trails: Mexico By James Arthur Moore
 Tales Of The Jazz Age By Francis Scott Key Fitzgerald
+Tales Of Moonlight And Rain By Ueda Akinari
 Tales Of The Black Widowers By Isaac Asimov
 Talking It Over By Julian Barnes
 Tallinn On Your Own: An Old Town In Tales And Legends By Doris Kareva
@@ -4358,7 +4359,7 @@ The Past And The Punishments By Yu Hua
 The Pastures Of Heaven By John Steinbeck
 The Pathfinder By James Fenimore Cooper
 The Pathseeker By Imre Kertész
-The Pearl By John Steinbeck (Read)
+The Pearl By John Steinbeck (Read) (Fav)
 The Pedant In The Kitchen By Julian Barnes
 The Penelopiad By Margaret Atwood
 The Penguin Dictionary Of Classical Mythology By Pierre Grimal
@@ -5057,6 +5058,7 @@ Two Tales By Shmuel Yosef Agnon (Have) (Read)
 Two Women In One By Nawal El Saadawi
 Two Years, Eight Months And Twenty - Eight Nights By Salman Rushdie
 Tyrant Destroyed And Other Stories By Vladimir Nabokov
+Ugetsu Monogatari (JP) By Ueda Akinari
 Último Voo Do Flamigo (PT) By Mia Couto
 Ultraluminous: A Novel By Katherine Faw
 Ulysses By James Joyce
