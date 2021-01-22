@@ -70,7 +70,7 @@ A Cold Red Sunrise (Porfiry Rostnikov, #5) By Stuart M. Kaminsky
 A Collection Of Ghost Stories By Jahanara Siddique (Have) (Read)
 A Confederacy Of Dunces By John Kennedy Toole
 A Confederate General From Big Sur / Dreaming Of Babylon / The Hawkline Monster By Richard Brautigan
-A Connecticut Yankee In King Arthur's Court By Mark Twain (Read)
+A Connecticut Yankee In King Arthur's Court By Mark Twain (Read) (Fav)
 A Convergence Of Birds By Lydia Davis
 A Correspondence Course And Other Stories By Nadine Gordimer
 A Country Doctor By Sarah Orne Jewett
@@ -1355,7 +1355,7 @@ Florida Frenzy By Harry Crews
 Flowers For Algernon By Daniel Keyes (Read) (Fav)
 Flowers Of A Moment: Poems By Ko Un
 Flying Hero Class By Thomas Keneally
-Foe: A Novel By John Maxwell Coetzee (Read)
+Foe: A Novel By John Maxwell Coetzee (Read) (Fav)
 Force Of Nature: A Novel (John Ryder Novels) By Christian James
 Fording The Stream Of Consciousness By Dubravka Ugrešić
 Foreigners By Carolyn Janice Cherryh
@@ -1820,7 +1820,7 @@ Invasion Of The Body Squeezers Part 1 (Goosebumps 2000, #4) By Robert Lawrence S
 Invasion Of The Body Squeezers Part 1 (Goosebumps 2000, #5) By Robert Lawrence Stine
 Inventory: Losing, Finding, Collecting By Joseph Brodsky
 Invisible Cities By Italo Calvino
-Invisible Man By Ralph (Read)
+Invisible Man By Ralph (Read) (Fav)
 Invisible Man, Got The Whole World Watching: A Young Black Man's Education By Mychal Denzel Smith
 Invisible Rain By Olivia Rudy
 Invisible Yet Enduring Lilacs By Gerald Murnane
@@ -2005,6 +2005,7 @@ Landscape With Landscape By Gerald Murnane
 L'Anello Di Clarisse (FR) By Claudio Magris
 La Nave Per Kobe (IT) By Dacia Maraini
 Landmark: The Inside Story Of America's New Health - Care Law And What It Means For Us All By The Staff Of The Washington Post (Have)
+Language Is Power: The Story Of Standard English And Its Enemies By John Honey
 La Niche De La Honte By Ismail Kadare
 La Oscura Historia De La Prima Montse (ES) By Juan Marsé
 La Palabra Del Mudo (ES) By Julio Ramón Ribeyro
@@ -3045,7 +3046,7 @@ Sardines By Nuruddin Farah
 Sarong Party Girls By Cheryl Lu - Lien Tan
 Satan In Goray By Isaac Bashevis Singer
 Satantango By László Krasznahorkai
-Saturday By Ian McEwan
+Saturday By Ian McEwan (Read)
 Savage Seasons (Hap And Leonard, #1) By Joe Richard Lansdale (Have)
 Savannah Blues By Maryse Condé
 Save The Cat! The Last Book On Screenwriting You'll Ever Need By Blake Snyder
@@ -3059,7 +3060,7 @@ Say You're One Of Them By Uwem Akpan (Have)
 Scar Lover By Harry Crews
 Scenes From A Childhood By Jon Fosse
 Scenes From A Village Life By Amos Oz
-Schindler's List By Thomas Keneally (Read)
+Schindler's List By Thomas Keneally (Read) (Fav)
 Schwarze Hunde. (DE) By Ian McEwan
 Science: Vintage Minis By Ian McEwan
 Scorpia (Alex Rider, #5) By Anthony Horowitz (Have)
@@ -3436,9 +3437,9 @@ The Accursed By Joyce Carol Oates
 The Acts Of King Arther And His Noble Knights By John Steinbeck (Have)
 The Adventures Of Augie March By Saul Bellow
 The Adventures Of Baron Münchausen By Rudolf Erich Raspe
-The Adventures Of Huckleberry Finn By Mark Twain (Read)
+The Adventures Of Huckleberry Finn By Mark Twain (Read) (Fav)
 The Adventures Of Oliver Twist By Charles Dickens
-The Adventure's Of Tom Sawyer By Mark Twain (Read)
+The Adventure's Of Tom Sawyer By Mark Twain (Read) 
 The Address By Fiona Davis
 The Aeneid By Virgil (Have)
 The African By Jean - Marie Gustave Le Clézio
@@ -3611,7 +3612,7 @@ The Castaway, And Other Poems By Derek Walcott
 The Castle In The Sea By Scott O'Dell
 The Castle Of Kings By Oliver Pötzsch
 The Casual Vacancy By Joanne Rowling
-The Catcher Of The Rye By Jerome David Salinger (Read)
+The Catcher Of The Rye By Jerome David Salinger (Read) (Fav)
 The Cave By José Saramago
 The Caves Of Steel By Isaac Asimov
 The Celebration Of Insignificance By Milan Kundera
@@ -4085,7 +4086,7 @@ The Journey (Animorphs, #42) By Katherine Applegate
 The Journeyman Years: Culture, Society, Literature, And Art By Derek Walcott
 The Journeyman Years: Occasional Prose 1957 - 1974 By Derek Walcott
 The Journey Of A Caribbean Writer By Maryse Condé
-The Joy Luck Club By Amy Tan (Read)
+The Joy Luck Club By Amy Tan (Read) (Fav)
 The Jungle Book By Rudyard Kipling (Read)
 The Keepsake (Rizzoi & Isles, #7) By Tess Gerritsen (Have) (Read)
 The Kid Who Ran For President (Kid President, #1) By Dan Gutman (Have)
@@ -4630,6 +4631,7 @@ The Spire By William Golding
 The Spirit Level By Seamus Heaney
 The Spirit Of The Laws By Montesquieu
 The Splendor Of Longing In The Tale Of The Genji By Norma Field
+The Spoken Arabic Of Egypt By John Selden Willmore
 The Sport Of The Gods By Paul Laurence Dunbar (Have) (Read)
 The Sportswriter By Richard Ford
 The Spy: A Novel Of Mata Hari By Paulo Coelho
