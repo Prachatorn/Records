@@ -4,12 +4,15 @@ A Proof Of Concept For Scale - Adaptive Paranetrizations: The Case Of The Lorenz
 Are We Them? Textual And Literary Representations Of The Chinese In Twentieth - Century Thailand By Thak Chaloemtiarana
 Asian American Racial Identity Development Theory (2012) By Jean Kim
 Assessing Immigrant Assimilation - New Empirical And Theoretical Challenges (2005) By Mary C. Waters & Tomas R. Jimenez
+A Test Of THe Relation Between Working - Memory Capacity And Syntactic Island Effects (2012) By Colin Phillips, Jon Sprouse & Matt Wagers
 A Time - Spectral Approach To Numerical Weather Prediction (2018) By Hiu Fai Yik, Jan Scheffel & Kristoffer Lindvall
 Becoming Muslim - The Development Of A Religious Identity (2005) By Lori Peek
 Beyond Beer's Law: Revisiting The Lorentz - Lorenz Equation (2020) By Jurgen Popp & Thomas G. Mayerhofer
 Bicultural Identity Integration (BII) - Components And Psychosocial Antecedents By Jana Haritatos & Veronica Benet - Martinez
 Biculturalism and Context - What Is Biculturalism, And When Is It Adaptive (2010) By Jennifer B. Unger & Seth J. Schwartz
+Bootstrapping Lexical And Syntactic Acquisition (2008) By Anne Christophe, Jeffrey Lidz, Savita Bernal & Severine Millotte
 Brothers & Beasts - An Anthology Of Men On Fairy Tales (2007) By Kate Bernheimer
+Causal Coherence And Memory For Events In Narratives (1981) By Hyman Bern & John B. Black
 Charles Perrault's Paradox: How Aristocratic Fairy Tales Became synonymous With Folklore Conservation (2007) By Lydie Jean
 Cognitive Load Theory, The Transient Information Effect And E - Learning (2012) By Anna Wong, John Sweller, Nadine Marcus & Wayne Leahy
 Control Is Not Movement: Evidence From Overt PRO In Ewe (2019) By Deniz Satik
@@ -17,9 +20,11 @@ Digital Movie Piracy - A Perspective On Downloading Behavior Through Social (201
 Domesticating Wild Sheep - Sociolinguistic Functions And Style In Translations Of Haruki Murakami's Fiction (2012) By Kay S. Hamada
 Dr. Phil And Montel Help AIS Students "Get Real" With The Fraud Triangle (2014) By David C. Hayes, Philip W. Morris & Ronald J. Daigle
 Donkey - Skin: An Adolescent's Struggle Against Incest And For Independence (2003) By Bettina Knapp (Have) (Read)
+Emergence Of Syntax: Commonalities And Differences Across Children (2008) By Heidi Waterfall, Janellen Huttenlocher & Marina Vasilyeva
 Estimation Of Von Bertalanffy Growth Curve Parameters From Recapture Data (1991) By Ian R. James
 Evaluation Of Italian Companies' Perception About ISO 14001 And Eco Management And Audit Scheme III: Motivations, Benefits And Barriers (2016) By Federica Murmura, Laura Bravi, Lolita Liberatore & Nicola Casolani
 Evolving Chaos: Identifying New Attractors Of The Generalised Lorenz Family (2018) By Indranil Pan & Saptarshi Das
+Experimental Research Design (2014) By Alison Mackey, Rebekha Abbuhl & Susan Gass
 Finding Difference - Nemo And Friends Opening The Door To Disability Theory (2010) By Daniel L. Preston
 Forward And Adjoint Sensitivity Computation Of Chaotic Dynamical Systems (2013) By Qiqi Wang
 Four Types Of Integration In Disability Identity Development (1997) By Carol J. Gill
@@ -32,14 +37,17 @@ Gender Schema Theory and Its Implications for Child Development: Raising Gender 
 George Colman's "The Iron Chest" and "Blue - Beard" And The Pseudoscience Of Curiosity Cabinets (2007) By Marjean D. Purinton
 Gestalt Theory Rearranged - Back To Werheimer (2017) By Shelia Guberman
 Girl Meets Boy: Postcyborg Ethics, Individual Identity And Collective Rights In The Posthuman Age (2018) By Monica Calvo Pascual
+Grammatical And Information - Structural Influences On Pronoun Production (2014) By Andrew Kehler & Christine H. Rohde
 Hoocak And Other Siouan Langauges: A Typological Overview (2017) By Johannes Helmbrecht
 Horses And Their Ancestors (1954) By William A. Burns
+How Children Aged 2;6 Tailor Verbal Expressions To Interlocutor Informational Needs (2016) By Erika Nurmsoo, Heather Ferguson, Kirsten Abbot - Smith, Michael Forrester & Rebecca Croll
 Identificational Focus Versus Information Focus (1998) By Katalin E. Kiss
 Identity Development Throughout The Lifetime: An Examination Of Eriksonian Theory (2009) By Justin T. Sokol
 Identity Orientations of Latinos in the United States: Implications for Leaders and Organizations (2007) By Bernardo M. Ferdman & Placida V. Gallegos
 Indecorum, Compromised Authority And The Sovereign Body Politic In "The Fortunes Of Nigel" And "The Heart Of Mid - Lothian" (2018) By A. D. Cousins & Dani Napton
 It's OK To Be Neither: Teaching That Supports Gender - Independent Children (2016) By Melissa Bollow Tempel
 Keeping Creoles And Dialects Out Of The Classroom - Is It Justified (2006) By Jeff Siegel
+Knowing A Lot For One's Age: Vocabulary Skill And Not Age Is Associated With Anticipatory Incremental Sentence Interpretation In Children And Adults (2012) By Anne Fernald, Arielle Borovsky & Jeffrey L. Elman
 Langauge And Ethnicity (2010) By Angela Reyes
 Letting Down Rapunzel: Feminism's Effects On Fairy Tales (2014) By Angela Smith
 Like Mother. Like Daughter: Maternal Cravings And Birthmarks In The Fairy Tales Of Madame d'Aulnoy By Holly Tucker (2000) (Have) (Read)
@@ -59,16 +67,19 @@ Notebooks And Children's Drawings, Or The Inter - Authorship Of Peter Handke's K
 "Not Half But Double": Exploring Critical Incidents in the Racial Identity of Multiracial College Students (2012) By Angela H. Kellogg & Debora L. Liddell
 "Of Mice And Men", Fairy Tales, And Legends: A Reactionary Ethical Proposal To Storytelling And The Brisefio Factors (2013) By Mia - Carre B. Long
 On Differences And Similarities In The Analysis Of Lorenz, Chen And Lu Systems (2015) By Gennady A. Leonov & Nikolay V. Kuznetsov
+On The Give And Take Between Event Apprehension And Utterance Formulation (2007) By David January, John C. Trueswell, Lila R. Gleitman & Rebecca Nappa
 On The Problem Of The Destructive Animus (1992) By Verena Kast (Have) (Read)
 On Stability By The First Approximation For Discrete Systems (2005) By Gennady A. Leonov & Nikolay V. Kuznetsov
 Orwell's Paradox: Equality In Animal Farm (2012) By David Dwan
 Overactivity, Impulsivity And Repetitive Behaviour In Males With Fragile X Syndrome: Contrasting Developmental Trajectories In Those With And Without Elevated Autism Symptoms (2018) By C. Oliver, C. Stinton, G. Singla, H. Crawford & J. Moss
 Parasitic And Pseudoparasitic Gaps (1994) By Paul. M Postal
 Parasitic Gaps (1983) By Elisabet Engdahl
-Parasitic Gaps Licensed By Elided Syntactic Structure (2015) By Masaya Yoshida, Michael Frazier & Tim Hunter
+Parasitic Gaps Licensed By Elided Syntactic Structure (2015) By Masaya Yoshida, Michael Frazier & Tim 
+Parsing In Discourse: Context Effects And Their Limits By Charles A. Perfetti, Keith Rayner, M. Anne Britt & Simon Garrod
 Peasants Tell Tales: The Meaning Of The Mother Goose (1984) By Robert Darnton (Have) (Read)
 Perceived Socioeconomic Status: A New Type Of Identity That Influences Adolescents' Self - Rated Health (2007) By Bin Huang, Elizabeth Goodman, Nancy E. Adler & Tara Schafer - Kalkhoff
 Personality Terms Of Abuse In Three Cultures: Type Nouns Between Description And Insult (2004) By Doele De Raad, Jan Pieter Van Oudenhoven & Merle Hofstede
+Prediction In A Visual Language: Real - Time Sentence Processing In American Sign Language Across Development (2018) By Amy M. Lieberman, Arielle Borovsky & Rachel I. Mayberry
 Princes, Beasts, Or Royal Pains: Men And Masculinity In The Revisionist Fairy Tales Of Mary E. Wilkins Freeman (2006) By James Bucky Carter
 Pro - Drop And Theories Of Pro In The Minimalist Program Part 1: Consistent Null Subject Langauges And The Pronominal - Agr Hypothesis (2011) By Pilar P. Barbosa
 Queer Lessons: Sexual And Gender Minorities In Multicultural Education (2016) By Cris Mayo
@@ -80,6 +91,7 @@ Revisiting A Null Pronominal Account For Parasitic Gaps In Japanese (2018) By Hi
 Rightward DP - Movement Licenses Parasitic Gaps: A reply To Postal 1994 (2016) By Jason Overfelt
 Scrambling (2008) By Simin Karimi (Read)
 Seasonal And Animal Farm Size Influences On In - Stream Phosphorus Transport In An Agricultural Watershed (2017) By Andrew J. Huisman, K. G. Karthikeyan & Natalie L. H. Huisman
+Semantic Influences On Parsing: Use Of Thematic Role Information In Syntactic Ambiguity Resolution By John C. Trueswell, Michael K. Tanenhaus & Susan M. Garnsey
 Sleeping Beauty Must Die: The Plots Of Perrault's "La Belle Au Bois Dormant (2008) By Corolyn Fay (Have) (Read)
 Small Clauses (2011) By Barbara Citko
 Social Cognitive Theory In Cultural Context (2002) By Albert Bandura
@@ -95,6 +107,7 @@ The Deconstruction Of Chinese Shi...De Clefts Revisited (2011) By Daniel Hole
 The Effects Of Socioeconomic Status On Adolescent Identity Style With Regard To Perceived Support From Parents, Teachers, And Mentors (2012) By Autumn K. Knutson, Evelina M. Miropolsky & Lindsay A. Olson
 The Emotional Force Of Swearwords And Taboo Words In The Speech Of Muiltilinguals (2004) By Jean - Mare Dewarle
 The Grotesque Elements In Poe's "Black Cat" And Scudder's "The White Cat" (2014) By Abdulhameed A. Majeed, Anegbe Endurance & Wan Roselezam Bt. Wan Yahya
+The Persistence Of Structural Priming: Transient Activiation Or Implicit Learning? (2000) By Kathrun Bock & Zenzi M. Griffin
 The Social / Cultural Implication Of Disability: Vygotsky's Paradigm For Special Education (1995) By Boris Gindis
 Thoughts On Heroinism In French Fairy Tales (2013) By Christine A. Jones
 The Syntactic Complexity Of Russian Relative Clauses (2013) By Edward Gibson, Evelina Fedorenko & Roger Levy (Read)
@@ -104,6 +117,7 @@ Unacceptable But Comprehensible: The Facilitation Effect Of Resumptive Pronouns 
 Understanding Alcohol Expectancy Effects: Revisiting The Placebo Condition By Angela J. Jacques, Antonia Abbey, Carol VanZile - Tamsen, Christopher Saenz, Jeanette Norris, Jennifer A. Livingston, John J. Curtin, Kenneth E. Leonard, Kim J. Nomensen, Kristin A. Mariano, Lenwood W. Hayman Jr., Margeret C. Thomas, Maria Testa, Mark T. Fillmore, Michele R. Parkhill, Phillip O. Buck, Tina Zawacki & William H. George
 Understanding And Supporting Gender Equity In Schools (2016) By Diane S. Pollard
 Unsettling SpongeBob And The Legacies Of Violence On Bikini Bottom (2019) By Holly M. Barker
+Video Call Or Chat? Negotiation Of Meaning And Issues Of Face In Telecollaboration (2014) By Anne Bannink & Rose Van Der Zwaard
 Vygotsky's Social Constructionist View On Disability: A Methodology For Inclusive Education (2007) By Katarina A. Rodina
 What's In The Input? Frequent Frames In Child - Directed Speech Offer Distributional Cues To Grammatical Categories In Spanish And English (2010) By Adriana Weisleder & Sandra Robin Waxman (Read)
 White Racial Identity Models: A Critique And Alternative Proposal (1994) By Donald R. Atkinson, Sandra K. Bennett & Wayne Rowe
