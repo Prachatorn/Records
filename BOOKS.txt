@@ -1024,6 +1024,7 @@ Diario De Una Buena Vecina (ES) By Doris Lessing
 Diary Of A Child Called Souad By Nawal El Saadawi
 Diary Of A Wimpy Kid (Diary Of A Wimpy Kid, #1) By Jeff Kinney (Have) (Read)
 Diccionario De Autores Latinoamericanos (ES) By César Aira
+Dictionary Of The Khzars By Milorad Pavić
 Die Ausgesperrten. Roman. (DE) By Elfriede Jelinek
 Die Blassen Herren Mit Den Mokkatassen (DE) By Herta Müller
 Die Englisch Flagge (DE) By Imre Kertész
@@ -1269,7 +1270,6 @@ Fables: The Wolf Among Us Volume 2 By Andrew Pepoy, Christopher Mitten, Dave Jus
 Facing The Bridge By Yoko Tawada
 Fado Alexandrino BY António Lobo Antunes
 Fairy Tales for Computers By Leslie George Katz
-Family Matters By Rohinton Mistry
 Fahrenheit 451 By Rad Bradbury (Read)
 Faith By Len Deighton
 Faithful And Virtuous Night By Louise Glück (Read)
@@ -1281,10 +1281,12 @@ False Memory By Dean Koontz
 Falsling Out Of Time By David Grossman
 Fale Allegations (Burke, #9) By Andrew Vachss (Have)
 Family Furnishings: Selected Stories, 1995 - 2014 By Alice Munro
+Family Matters By Rohinton Mistry
 Family Secrets: Risking Reproduction In Central Mozambique By Rachel R. Chapman (Have)
 Fantastic Voyage (Fantastic Voyage, #1) By Isaac Asimov
 Fantastic Voyage II: Destination Brain (Fantastic Voyage, #2) By Isaac Asimov
 Far From The Madding Crowd By Thomas Hardy (Have)
+Far Off Things By Arthur Machen
 Farther Surroundings By Czesław Miłosz
 Fatal Invention: How Science, Politics, And Big Business Re - Create Race In The Twenty - First Century Dorothy E. Roberts
 Fatelessness By Imre Kertész
@@ -1707,6 +1709,7 @@ Icebound By Dean Koontz
 Ich, Ein Anderer (DE) By Imre Kertész
 Ich Schwebe Über Krakau. Erinnerungsbilder (PO) By Adam Zagajewski
 I, Claudius (Claudius, #1) By Robert Graves
+Ico: Castle In The Mist By Miyuki Miaybe (Read)
 Ideal Marriage: Its Physiology And Technique By Theodoor Hendrik Van De Velde
 Ideas And Opinions By Albert Einstein
 Identity By Milan Kundera
@@ -4070,6 +4073,7 @@ The Invincible Iron Man: The Future By Matt Fraction & Salvador Larroca (Read)
 The Invisible Man By Herbert George Wells (Read)
 The Ipcress File (Secret File, #1) By Len Deighton
 Their Eyes Were Watching God By Zora Neale Hurston (Read)
+The Iron Heel By Jack London
 The Island By Victoria Hislop (Have)
 The Island Of Dr. Moreau By Herbert George Wells
 The Issa Valley By Czesław Miłosz
@@ -4638,8 +4642,10 @@ The Sportswriter By Richard Ford
 The Spy: A Novel Of Mata Hari By Paulo Coelho
 The Stand By Stephen King (Have)
 The Star Diaries: Further Reminiscences Of Lijon Tichy By Stanislaw Lem
+The Starless Sea By Erin Mordenstern
 The Stars My Destination By Alfred Bester (Have)
 The Stone Raft By José Saramago
+The Stone Sky By Nora Keita Jemisin
 The Story Begins: Essays On Literature By Amos Oz
 The Story Of A New Name (The Neapolitan Novels, #2) By Elena Ferrante
 The Story Of A Shipwrecked Sailor By Gabriel García Márquez
@@ -5375,6 +5381,7 @@ Woman At Point Zero By Nawal El Saadawi
 Woman At War By Dacia Maraini
 Woman Of The Ashes By Mia Couto
 Woman Of The Inner Sea By Thomas Keneally
+Woman On The Edge Of Time By Marge Piercy
 Women And Economics By Charlottle Perkins Gilman
 Women As Lovers By Elfriede Jelinek
 Women Who Work: Rewriting The Rules For Success By Ivanka Trump
