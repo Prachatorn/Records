@@ -1369,6 +1369,7 @@ Forever Odd By Dean Koontz
 Forgive Me, Leanard Peacock By Matthew Quick
 For Joys We'll Ne'er Forget: Curtis S. Read the Camp, the Reservation, the Complete History 1920 - 2009 By By Christopher Fearon, Denis Pisanello, John R. Farley & Richard Ford
 Forms Of Distance By Bei Dao
+Forrest Gump By Winston Groom
 For The Living And The Dead By Tomas Tranströmer
 For The New Literature By Kenzaburō Ōe
 Fortune Smiles By Adam Johnson
@@ -2295,6 +2296,7 @@ Mary By Vladimir Nabokov
 Marya: A Life By Joyce Carol Oates
 Mary Barton By Elizabeth Gaskell
 Mary Poppins (Mary Poppins, #1) By Pamela Lyndon Travers
+Mash: A Novel About Three Army Doctors By Richard Hooker
 Mason & Dixon By Thomas Pynchon
 Mass By Francisco Sionil José
 Master Breasts: Objectified, Aesthetisized, Fantasized, Eroticized, Feminized by Photography's Most Titillating Masters . . . By Charles Simic, Dario Fo, Francine Prose & Karen Finley
@@ -2773,6 +2775,7 @@ People On A Bridge: Poems By Wisława Szymborska
 Përballë Pasqyrës Së Një Gruaje (AB) By Ismail Kadare
 Perelandra (Space Trilogy, #2) By Clive Staples Lewis
 Perfume: The Story Of A Murderer By Patrick Süskind
+Persepolis By Marjane Satrapi
 Persian Letters By Montesquieu
 Persuasion By Jane Austen (Read)
 Peasants And Other Stories By Anton Chekhov
@@ -3443,6 +3446,7 @@ The Absolute (Animorphs, #51) By Katherine Applegate
 The Absolutely True Diary Of A Part - Time Indian By Sherman Alexie
 The Abyss By Orson Scott Card
 The Accident By Ismail Kadare
+The Accidental Billionaires By Ben Mezrich
 The Accursed By Joyce Carol Oates
 The Acts Of King Arther And His Noble Knights By John Steinbeck (Have)
 The Adventures Of Augie March By Saul Bellow
@@ -3597,6 +3601,7 @@ The Bride Price Bygroom Was A Dog By Yoko Tawada
 The Bride Buchi Emecheta (Have) (Read)
 The Bridegroom Was A Dog By Yoko Tawada
 The Bridge Of San Luis Rey By Thornton Wilder (Read)
+The Bridge Over The River Kwai By Pierre Boulle
 The Brief Wondrous Life Of Oscar Wao By Junot Diaz
 The Bright Hour: A Memoir Of Living And Dying By Nina Riggs
 The Broken Wings By Kahlil Gibran (Have)
@@ -3749,6 +3754,7 @@ The Departure (Animorphs, #19) By Katherine Applegate
 The Departures Of Seasons By Fereshteh Molavi
 The Devil In The Shape Of A Woman By Carol F. Karlsen
 The Devil's Bargain By Joshua Green
+The Devil Wears Prada: A Novel By Lauren Weisberger
 The Devil With Boobs By Dario Fo
 The Diary Of Alice James By Alice James (Have)
 The Diary Of A Good Neighbour By Doris Lessing
@@ -3820,6 +3826,7 @@ The Essential Gesture By Nadine Gordimer
 The Essential Nawal El Saadawi: A Reader By Nawal El Saadawi
 The Evenings: A Winter's Tale By Gerard Reve
 The Everything Box (Another Coop Heist, #1) By Richard Kadrey
+The Exorcist By William Peter Blatty
 The Expanding Circle: Ethics And Sociobiology By Peter Singer
 The Expedition Of Humphry Clinker By Tobias Smollett (Have)
 The Experiment (Animorphs, #28) By Katherine Applegate
@@ -5247,6 +5254,7 @@ We Chose The Islands By Arthur Grimble
 Wedding Song By Nagiub Mahfouz
 Weep Not, Child By Ngugi wa Thiong'o
 We Filipinos: Our Moral Malaise, Our Heroic Heritage By Francisco Sionil José
+We Have Always Lived In The Castle By Shirley Jackson
 Weir Of Hermiston By Robert Louis Stevenson
 Wer Steht Auf Der Anderen Seite? Grenzbetrachtungen (DE) By Claudio Magris
 West Of Sadness By Odysseas Elytis
@@ -5375,6 +5383,7 @@ Winter Street (Winter, #1) By Elin Hilderbrand
 Winter Trees By Sylvia Plath
 Wired: The Short Life And Fast Times Of John Belushi By Bob Woodward
 Wir Sind Lockvögel, Baby. Roman By Elfriede Jelinek
+Wiseguy By Nicholas Pileggi
 Wishful Drinking By Carrie Fisher
 With Morning Comes Mistfall By George Raymond Richard Martin
 Without End By Adam Zagajewski
@@ -5395,6 +5404,7 @@ Women Who Work: Rewriting The Rules For Success By Ivanka Trump
 Women In Love (Brangwen Family, #2) By David Herbert Richards Lawrence (Have)
 Women In The Nineteenth Century And Other Writings By Margaret Fuller
 Women With Men By Richard Ford
+Wonder Boys By Michael Chabon
 Wonderful Life: The Burgess Shale And The Nature Of History By Stephen Jay Gould
 Wonderful, Wonderful Times By Elfriede Jelinek
 Wonderland By Joyce Carol Oates
