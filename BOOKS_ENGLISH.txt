@@ -989,6 +989,7 @@ Deliverance By James Dickey
 Del Mino Al Bidasoa (ES) By Camilo Jose Cela
 Delusions Of Grandma By Carrie Fisher
 Demasiada Nieve Alrededor (ES) By Javier Marias
+Demons By Fyodor Dostoevsky
 Demon Seed By Dean Koontz
 Demian By Hermann Hesse
 Democracy By Joan Didion
@@ -1053,7 +1054,7 @@ Dinner By Cesar Aira
 Dinosaurs Before Dark (Magic Tree House, #1) By Mary Pope Osborne
 Disappearance At Devil's Rock By Paul Tremblay
 Disgrace By John Maxwell Coetzee
-Disney After Dark (KingDom Keepers, #1) By Ridley Pearson (Have) (Read)
+Disney After Dark (Kingdom Keepers, #1) By Ridley Pearson (Have) (Read)
 Dissolving Classroom: Story Collection By Junji Ito (Have)
 District And Circle By Seamus Heaney
 Divergent (Divergent, #1) By Veronica Roth (Read)
@@ -1088,6 +1089,7 @@ Dora Bruder By Patrick Modiano
 Doruntine By Ismail Kadare
 Do Saal O Hasht Maah O Bist O Hasht Shab (HI) By Salman Rushdie
 Dossier K: A Memoir By Imre Kertesz
+Dostoevsky: The Stir Of Liberation, 1860 - 1865 By Joseph Frank
 Double Indemnity By James Mallahan Cain
 Double Persephone By Margaret Atwood
 Doubling The Point By John Maxwell Coetzee
@@ -2610,6 +2612,7 @@ Nostromo By Joseph Conrad
 Not All Bastards Are From Vienna By Andrea Molesini
 Not An Empty Promise By Joyce Anne Trbilco
 Notes D'Okinawa (FR) By Kenzaburo Oe
+Notes From Underground By Fyodor Dostoevsky (Read)
 Notes On A Scandal By Zoe Heller
 Notes On The Death Of Culture: Essays On Spectacle And Society By Mario Vargas Llosa
 No Te Vayas, No Me Olvides (ES) By Carrie Fisher
@@ -4115,7 +4118,6 @@ The Kid Who Ran For President (Kid President, #1) By Dan Gutman (Have)
 The Kingdom: A Novel By Fuminori Nakamura (Read)
 The Knight At Dawn (Magic Tree House, #2) By Mary Pope Osborne
 The King Bows And Kills By Herta Muller
-The Kingdom Keepers By Ridley Pearson (Read)
 The King Is Always Above The People: Stories By Daniel Alarcon
 The King Must Die (Theseus, #1) By Mary Renault (Have)
 The King Of Norway By Amos Oz
@@ -4510,7 +4512,7 @@ The Reivers By William Faulkner (Have)
 The Reluctant Fundamentalist By Mohsin Hamid
 The Reluctant Journal Of Henry K. Larsen By Susin Nielsen (Read)
 The Remaining By Travis Thrasher
-The Remains Of The Day By Kazuo Ishiguro (Read)
+The Remains Of The Day By Kazuo Ishiguro (Read) (Fav)
 The Republic Of Wine By Mo Yan
 The Research Magnificent By Herbert George Wells
 The Resistance (Animorphs, #47) By Katherine Applegate
@@ -5296,6 +5298,7 @@ What Is Hell, What Heaven, Cont'd By Olga Tokarczuk
 What Is Realism By John Maxwell Coetzee
 What Is Remembered (Storycuts) By Alice Munro
 What Is The What By Dave Eggers
+What Is To Be Done? By Nikolay Chernyshevsky
 What Moves At The Margin: Selected Nonfiction By Toni Morrison
 What Must Be Said By Gunter Grass
 What Our Minds Do When We Read Novels By Orhan Pamuk 
