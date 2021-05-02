@@ -10,6 +10,7 @@ A Book And Some Chives By Wong Meng Voon (Read)
 About The Past By Svetlana Alexievich (Read)
 A Bowl Of Bird's Nest Soup By Wong Meng Voon (Read)
 A Brave Heart By Henry Van Dyke (Have) (Read)
+A Brief Biography Of Li Shungshuang By Li Zhun (Have) (Read)
 A Brief History Of The Homely Wrench Society By Helen Oyeyemi (Read)
 A Brutal Murder In A Public Place By Joyce Carol Oates
 A Child With A Mother By Wong Meng Voon (Read)
@@ -80,7 +81,7 @@ An Impromptu Robbery By Eric Hsu
 Annette Delarbre By Washington Irving
 An Old Soldier By Washington Irving
 Anonymities By Can Xue (Read)
-An Ordinary Labourer By Wang Yuanjian (Read)
+An Ordinary Labourer By Wang Yuanjian (Have) (Read)
 Another Cook By Olga Tokarczuk (Read)
 Another Of Menchu's Tales By Olga Tokarczuk (Read)
 An Oversized Coffin And A Cheque By Wong Meng Voon (Read)
@@ -696,7 +697,7 @@ Once There Was A King By Rabindranath Tagore (Have) (Read)
 On Courage And What Comes After By Svetlana Alexievich (Read)
 On Cries And Whispers...And Exhilaration By Svetlana Alexievich (Read)
 One Arm By Yasunari Kawabata (Have)
-One Evening In The Rainy Season By Shi Zhecun (Read)
+One Evening In The Rainy Season By Shi Zhecun (Have) (Read)
 One Month Too Soon By John Cashman
 One More Toast By Amber Whitley
 One Of These Days, We Have To Do Something About Willie By Benjamin Joseph Manaly Novak (Read)
@@ -836,7 +837,7 @@ Saving The Regalia By Elizabeth Wilson Grierson (Read)
 Scanners Live In Vain By Cordwainer Smith
 Scheherazade By Haruki Murakami (Read)
 Seal Cavern By Henry Williamson (Read)
-Sealed Off By Eileen Chang
+Sealed Off By Eileen Chang (Have) (Read)
 Seeing Is Knowing By Olga Tokarczuk (Read)
 Se Fue By Ryu Murakami (Read)
 Sentimental Flower By Wong Meng Voon (Read)
@@ -846,7 +847,7 @@ Setchin Jobutsu / Lavatory Buddhahood (1929) By Yasunari Kawabata (Read)
 Seven Floors By Dino Buzzati (Have)
 Seven Years Of Trips By Olga Tokarczuk (Read)
 Sex Appeal By Lucia Berlin (Read)
-Shanghai Foxtrot By Mu Shiying
+Shanghai Foxtrot By Mu Shiying (Have) (Read)
 Shashin / Photograph (1924) By Yasunari Kawabata (Read)
 Shaved By Pascal Scott (Read)
 Shibarareta Otto / The Bound Husband (1930) By Yasunari Kawabata (Read)
@@ -1111,6 +1112,7 @@ The Eagle, The Jackdaw And The Shepherd By Aesop (Have) (Read)
 The Earth's Nipples By Olga Tokarczuk (Read)
 The Eatonville Anthology By Zora Neale Hurston
 The Eight - Headed Dragon By Yoshiko Uchida (Read)
+The Election By Qin Zhaoyang (Have) (Read)
 The Elephant Vanishes By Murakami Haruki (Read)
 The Embroidered Shoes And The Vexation Of Old Lady Yuan Si By Can Xue (Read)
 The Empty Nest By Madeline Mora - Summonte
@@ -1559,7 +1561,7 @@ The Upside - Down World By Becky Hagenston
 The Vague Restaurant Critic By Benjamin Joseph Manaly Novak (Read)
 The Vain Jackdaw By Aesop (Have) (Read)
 The Valetudinarian By Joshua Ferris (Have)
-The Vegetable Seeds By Hao Ran (Read)
+The Vegetable Seeds By Hao Ran (Have) (Read)
 The Velvet Glove By Henry James
 The Victory By Rabindranath Tagore (Have) (Read)
 The Viper And The File By Aesop (Have) (Read)
