@@ -223,6 +223,7 @@ Almost Transparent Blue By Ryu Murakami
 A Long December By Richard Chizmar
 Along The Bosphorus By Orhan Pamuk
 A Lovely Tale Of Photography By Péter Nádas
+A Lover's Discourse: Fragments By Roland Barthes
 A Man And Two Women By Doris Lessing
 A Man Called Ove By Fredrik Backman
 A Man In Love By Karl Ove Knausgård
@@ -367,6 +368,7 @@ Armageddon In Retrospect, And Other Stories By Kurt Vonnegut (Read)
 Armageddon Summer By Bruce Coville & Jane Yolen (Have)
 Armand V.: Footnotes To An Unexcavated Novel By Dag Solstad
 A Robertson Family Christmas By Kay Robertson & Travis Thrasher
+A Room Of One's Own By Virginia Woolf
 A Room With A View By Edward Morgan Forster (Have)
 Artforum By César Aira
 Arther & George By Julian Barnes
@@ -2644,6 +2646,7 @@ No Captain Needed: Iconic Photographs, Public Culture, And Liberal Democracy By 
 No Country For Old Men: A Novel By Cormac McCarthy (Have)
 Nocturnes: Five Stories Of Music And Nightfall By Kazup Ishiguro (Read)
 No End Of Fun By Wisława Szymborska
+No Good - Byes: The Mysterious Disappearance Of The McStay Family By Rick Baker
 Nokon Kjem Til å kKmme (NO) By Jon Fosse
 No Longer Human By Osamu Dazai
 No Love Lost By Alice Munro
@@ -2780,6 +2783,7 @@ Our Republic By Thomas Keneally
 Outback By Thomas Keneally
 Outer Dark By Cormac McCarthy
 Outliers By Malcolm Gladwell
+Out Of Darkness By Ashley Hope Prez
 Out Of The Blackout By Robert Barnard
 Out Of The Dark By Patrick Modiano
 Out Of The Devil's Mouth By Travis Thrasher
@@ -3439,6 +3443,7 @@ Suitcase: A Journal Of Transcultural Traffic By Amos Oz, Harold Pinter, Jacques 
 Suite Francaise By Irène Némirovsky
 Suki's Kimono By Chieri Uegaki & Stéphane Jorisch (Read)
 Sula By Toni Morrison
+Summer 1980 By Marguerite Duras
 Summer By Edith Wharton (Have)
 Summer By Karl Ove Knausgård
 Summer Cooking By Elizabeth David
@@ -4300,6 +4305,7 @@ The Making Of Asian America: A History By Erika Lee
 The Making Of Dr. Phil: The Straight - Talking True Story Of Everyone's Favorite Therapist By Lisa Gutierrez & Sophia Dembling
 The Making Of The Representative For Planet 8 By Doris Lessing
 The Makioka Sisters By Jun'ichiro Tanizaki (Have)
+The Malady Of Death By Marguerite Duras
 The Man Between: Michael Henry Heim & A Life In Translation By Esther Allen
 The Mandelbaum Gate By Dame Muriel Spark
 The Man From The USSR And Other Plays By Vladimir Nabokov
@@ -4574,6 +4580,7 @@ The Raging Quiet By Sherryl Jordan
 The Ransom Of Mercy Carter By Caroline B. Cooney (Have) (Read)
 The Rapture Of The Nerds By Cory Doctorow
 The Rat By Günter Grass
+The Ravishing Of Lol Stein BY Marguerite Duras
 The Reaction (Animorphs, #12) By Katherine Applegate
 The Real Benjamin Franklin (Vol. 2 Of The American Classic Series) By Andrew M. Allison, M. Richard Maxfield, Willard Cleon Skousen (Have)
 The Read Life Of Alejandro Mayta By Mario Vargas Llosa
@@ -4664,6 +4671,7 @@ The Sea Cloak By Nayrouz Qarmout
 The Sea Lady By Herbert George Wells (Read)
 The Seamstress And The Wind By César Aira
 The Sea Of Gold And Other Tales From Japan By Yoshiko Uchida (Read)
+The Sea Wall By Marguerite Duras
 The Second Book Of Moses, Called Exodus By David Grossman
 The Second Plane By Martin Amis
 The Second Sex By Simone De Beauvoir
@@ -4912,6 +4920,7 @@ The Wandering Border By Jean Kaplinski
 The Wandering Man In The Grande Ronde Valley By Riley O'Zerbe
 The Wangs Vs. The World By Jade Chang
 The War Against Cliché: Essays And Reviews, 1971 - 2000 By Martin Amis
+The War: A Memoir By Marguerite Duras
 The War Comes Home (The Bluesuit Chronicles, #1) By John Hansen (Read)
 The War In The Air By Herbert George Wells
 The Warning (Animorphs, #16) By Katherine Applegate
@@ -4961,6 +4970,7 @@ The Winter Room By Gary Paulsen (Have)
 The Wit And Wisdom Of Tyrion Lannister By George Raymond Richard Martin
 The Witches Of Eastwick (Eastwick, #1) By John Updike
 The Witches: Salem, 1692 By Stacy Schiff
+The Witch Of The Middle Ages By Jules Michelet
 The Witness Of Poetry By Czesław Miłosz
 The Wizard Of Ooze (Goosebumps HorrorLand, #17) By Robert Lawrence Stine
 The Wizard Of Oz By Salman Rushdie
