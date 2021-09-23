@@ -1162,6 +1162,7 @@ Eat A Bowl Of Tea By Louis Chu
 Eating Fish Alone And Country Cooking From Central France By Lydia Davis
 Echoes Of An Autobiography By Naguib Mahfouz
 Economy Of The Unlost By Anne Carson
+Ecrits Et Propos Sur L'Art (FR) By Henri Matisse
 Ecstasy By Ryu Murakami
 Education For A National Culture By Ngugi Wa Thiong'o
 Education In Movement Spaces: Standing Rock To Chicago Freedom Square By Multiple Editors
@@ -2047,6 +2048,7 @@ La Huida Del Inca (ES) By Mario Vargas Llosa
 Lahzat Sidq (AR) By Nawal El Saadawi
 Lake People By Abi Maxwell
 La Llama Doble (ES) By Octavio Paz
+L'Amant De La Chine Du Nord (FR) By Marguerite Duras
 L. A. Math: Romance, Crime, And Mathematics In The City Of Angels By James D. Stein Jr.
 La Mendiga By Cesar Aira
 L'amore Rubato (IT) By Dacia Maraini
@@ -2085,6 +2087,7 @@ Laughable Loves By Milan Kundera
 Laugher In The Dark By Vladimir Nabokov
 Laughing In The Jungle By Louis Adamic
 La Vida Del Lazarillo De Tormes By Unknown (Have) (Read)
+La Vie Materielle (FR) By Marguerite Duras
 Lavish Are The Dead By Kenzaburo Oe
 Law And Authority By Peter Kropotkin
 Lazarillo De Tormes By Marcel Charles Andrade (Have) (Read)
@@ -2119,6 +2122,7 @@ Le Roman D'Oxford (FR) By Javier Marias
 Lesen Verboten (RS) By Dubravka Ugresic
 Les Evengiles Du Crime (FR) By Linda Le (Have)
 Les Geants (FR) By Jean - Marie Gustave Le Clezio
+Les Impudents (FR) By Marguerite Duras
 Lesley Castle By Jane Austen
 Les Miserables By Victor Hugo (Read)
 Les Miserables. Piano / Vocal Selections By Alain Boublil
@@ -3311,6 +3315,7 @@ Snow Hunters By Paul Yoon
 Soba, Senbei And Shibuya: A Memoir Of Post - War Japan By Francisco Sionil José
 Soccer On Sunday (Magic Tree House, #52) By Mary Pope Osbourne
 Social Suicide (Deadly Cool, #2) By Gemma Halliday (Read)
+Sodom And Gomorrah By Marcel Proust
 Sol By Wislawa Szymborska
 Solar By Ian McEwan
 Solaris By Stanislaw Lem
@@ -3497,7 +3502,8 @@ Teach Us To Outgrow Our Madness: Four Short Novels By Kenzaburo Oe
 Team Of Rivals: The Politcal Genius Of Abraham Lincoln By Doris Kearns Goodwin
 Teardrop (7 Hours, #3) By Travis Thrasher
 Telekond Ayia Triadasse (ET) By Jaan Kaplinski
-Teling Times: Writing And Living, 1950 - 2008
+Telex From Cuba By Rachel Kushner
+Telling Times: Writing And Living, 1950 - 2008
 Temptation (Solitary Tales, #3) By Travis Thrasher
 Ten By Gretchen McNeil (Read)
 Tender Wings Of Desire By Harland Sanders
@@ -4254,7 +4260,9 @@ The Library Book By Susan Orlean
 The Library Of Greek Mythology By Apollodorus
 The Life And Adventures Of Santa Claus By Lyman Frank Baum (Have) (Read)
 The Life And Opinions Of Tristram Shandy, Gentleman By Laurence Sterne
+The Life Of A Stupid Man By Ryunosuke Akutagawa
 The Life Of Charlotte Bronte By Elizabeth Gaskell
+The Life Of Jesus By Ernest Renan
 The Line Becomes A River: Dispatches From The Border By Francisco Cantu
 The Line Of Beauty By Alan Hollinghurst
 The Lion Or The Mouse? By Toni Morrison
@@ -4288,6 +4296,7 @@ The Lost Writings By Franz Kafka (Read)
 The Love Of A Good Woman By Alice Munro
 The Love Of The Last Tycoon By Francis Scott Key Fitzgerald (Have)
 The Lover By Abraham B. Yehoshua
+The Lover, Wartime Notebooks, Practicalities By Marguerite Duras (Read)
 The Lucky Ones By Nicholas Sparks
 The Lusiads By Luis de Camoes (Have)
 The Lying Days By Nadine Gordimer
@@ -4316,6 +4325,7 @@ The Man Who Couldn't Stop: OCD And The True Story Of A Life Lost In Thought By D
 The Man Who Forgot How To Poop By Genghis Swan
 The Man Who Killed The Deer By Frank Waters (Have)
 The Man Without A Shadow: A Novel By Joyce Carol Oates
+The Man Without Qualities By Robert Musil
 The Mapmaker's Children By Sarah McCoy
 The Marriages Between Zones Three, Four And Five By Doris Lessing
 The Marrow Thieves By Cherie Dimaline
@@ -4420,6 +4430,7 @@ The Nobel Lecture: Bilingual Edition By Joseph Brodsky
 The Nobel Lecture In Literature, 1993 By Toni Morrison
 The Noise Of Time By Julian Barnes
 The Nonexistent Knight By Italo Calvino
+The North China Lover By Marguerite Duras
 The Notebook By Jose Saramago
 The Notebook By Nicholas Sparks (Have) (Read)
 The Notebooks Of Don Rigoberto By Mario Vargas Llosa
@@ -4776,7 +4787,8 @@ The Story Of The Lost Child (The Neapolitan Novels, #4) By Elena Ferrante
 The Story Of The Other Wise Man By Henry Van Dyke (Have)
 The Storyteller By Mario Vargas Llosa
 The Stowaway: A Young Man's Extraordinary Adventure To Antarctica By Laurie Gwen Shapiro
-The Strange Case of Dr. Jekyll and Mr. Hyde By Robert Louis Stevenson(Read)
+The Strange Case Of Dr. Jekyll and Mr. Hyde By Robert Louis Stevenson (Read)
+The Strange Case Of Rachel K By Rachel Kushner
 The Strange Library By Haruki Murakami (Read)
 The Stranger By Albert Camus (Read)
 The Stranger (Animorphs, #7) By Katherine Applegate
@@ -4901,6 +4913,7 @@ The Vagrants: A Novel By Yiyun Li (Have)
 The Varieties Of Scientific Experience: A Personal View Of The Search For God By Ann Druyan & Carl Sagan
 The Very First Light: A Scientific Journey Back To The Dawn Of The Universe By John Boslough & John Cromwell Mather
 The Vicar Of Wakefield By Oliver Goldsmith
+The Vice - Consul By Marguerite Duras
 The View From Castle Rock By Alice Munro
 The Village Of Stepanchikovo By Fyodor Dostoevsky
 The Village On Horseback: Prose and Verse, 2003 - 2008 By Jesse Ball
