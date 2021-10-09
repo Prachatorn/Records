@@ -175,6 +175,7 @@ Airport In Amsterdam By Adam Zagajewski
 Airshipwreck By Len Deighton
 A Journal Of The Plague Year By Daniel Defoe
 A Journey To The End Of The Millennium By Abraham B. Yehoshua
+A King Alone By Jean Giono
 A Knight Of The Seven Kingdoms By George Raymond Richard Martin
 A Land Of Permanent Goodbyes By Atia Abawi (Read)
 A Land Without Jasmine By Wajdi Al - Ahdal
@@ -248,6 +249,7 @@ American Speeches: Political Oratory From Patrick Henry To Barack Obama By Ted W
 American War: A Novel By Omar El Akkad
 America's First Daughter By Laura Kamoie & Stephanie Dray
 Američki Fikcionar(RS) By Dubravka Ugrešić
+Amerika: The Man Who Disappeared By Franz Kafka (Read)
 A Mild Attack Of Locusts By Doris Lessing
 A Million Windows By Gerald Murnane
 Amis Omnibus By Martin Amis
@@ -257,9 +259,9 @@ A Modest Proposal By Jonathan Swift
 A Modest Proposal And Other Satirical Works By Jonathan Swift
 A Moment Of True Feeling By Peter Handke
 Among Strange Victims By Daniel Saldaña París
-Among The Barons (Shadow Children, #4) (Have) By Margaret Peterson Haddi
+Among The Barons (Shadow Children, #4) By Margaret Peterson Haddi (Have)
 Among THe Believers By Sir Vidiadhar Surajprasad Naipaul
-Among The Brave (Shadow Children, #5) (Have) By Margaret Peterson Haddi
+Among The Brave (Shadow Children, #5) By Margaret Peterson Haddi (Have)
 Among The Hidden (Shadow Children, #1) By Margaret Peterson Haddi
 A Month In The Country By Joseph Lloyd Carr
 A Moveable Feast By Ernest Hemingway
@@ -625,6 +627,7 @@ Bloodstained Wonderland By James Arthur Moore
 Blood, Tears And Folly: An Objective Look At World War II By Len Dieghton
 Bloody Jack (Bloody Jack, #1) By Louis A. Meyer
 Blue Aloha By Patrick Modiano
+Blue Boy By Jean Giono
 Bluebeard's Egg By Margaret Atwood
 Blue Eyes, Black Hair By Marguerite Duras
 Blue House By Bei Dao
@@ -833,6 +836,7 @@ Collected Stories By Isaac Bashevis Singer
 Collected Stories Of F. Scott Fitzgerald By Francis Scott Key Fitzgerald (Have) (Read)
 Collected Stories Of Wallace Stegner By Wallace Stegner (Have)
 Colomba By Dacia Maraini
+Colline By Jean Giono
 Colon By Wisława Szymborska
 Colorless Tsukuru Tazaki And His Years Of Pilgrimage By Haruki Murakami (Read)
 Come Crashing Down: Stories By Daniel Cetina
@@ -1494,6 +1498,7 @@ GhostWriter By Travis Thrasher
 Gier By Elfriede Jelinek
 Gifts By Nuruddin Farah
 Gilead (Gilead, #1) By Marilynne Robinson
+Giono: Master Of Fictional Modes By Norma Lorre Goodrich
 Girl In The Dark By Anna Lyndsey
 Girls At War And Other Stories By Chinua Achebe
 Gitarmannen By Jon Fosse
@@ -1659,6 +1664,7 @@ High Tide By Inga Ābele
 High Tide In Hawaii (Magic Tree House, #28) By Mary Pope Osborne
 High Tide In Tucson: Essays From Now Or Never By Barbara Kingsolver
 High Time For Heroes (Magic Tree House, #51) By Mary Pope Osbourne
+Hill Of Destiny By Jean Giono
 Hill Of The Hawk By Scott O'Dell
 Himalaya Poems By Ko Un
 Hindoo Holiday: An Indian Journal By Joe Randolph "J. R." Ackerley
@@ -1700,6 +1706,7 @@ Hopscotch By Julio Cortázar
 Horsemen Of The Trumpocalypse By John Nichols (Have)
 Horseshoe Crabs And Velvet Worms: The Story Of The Animals And Plants That Time Has Left Behind By Richard Fortey
 Horse Under Water (Secret File, #2) By Len Deighton
+Hotel Savoy By Joseph Roth
 Hour Of The Olympics (Magic Tree House, #16) By Mary Pope Osborne
 Housekeeping By Marilynne Robinson
 House Of Gold Bud Macfarlane Jr.
@@ -2266,6 +2273,7 @@ Love In The Rain By Nagiub Mahfouz
 Love In The Time Of Cholera By Gabriel García Márquez (Have)
 LOVELESS FABLES By Camilo José Cela
 Lovely, Dark, Deep: Stories By Joyce Carol Oates
+Lovers Are Never Losers By Jean Giono
 Lovina By Kenzaburō Ōe
 Low - Lands By Thomas Pynchon
 Low Pay? Don't Pay! By Dario Fo
@@ -2379,6 +2387,7 @@ Melancholy By Jon Fosse
 Melancholy II By Jon Fosse
 Me And Kaminski By Daniel Kehlmann
 Measuring The World By Daniel Kehlmann
+Melville: A Novel By Jean Giono
 Memento Mori By Dame Muriel Spark
 Memoir By Toni Morrison
 Mémoire Du Vent (FR) By Adunis
@@ -3170,6 +3179,7 @@ Searching For Schindler: A Memoir By Thomas Keneally
 Season In Purgatory By Thomas Keneally
 Season Of The Sandstorms (Magic Tree House, #34) By Mary Pope Osborne
 Secondhand Time: The Last Of The Soviets: An Oral History By Svetlana Alexievich (Read)
+Second Harvest By Jean Giono
 Second Words By Margaret Atwood
 Secrecy World: Inside The Panama Papers Investigation Of Illicit Money Networks And The Global Elite By Jake Bernstein
 Secret Lives & Other Stories By Ngũgĩ Wa Thiong'o
@@ -3791,7 +3801,7 @@ The Counselor By Cormac McCarthy
 The Counterfeiters By André Gide
 The Count Of Monte Cristo By Alexandre Dumas (Read)
 The Country Of Ice Cream Star By Sandra Newman
-The COuntry Of The Blind By Herbert George Wells
+The Country Of The Blind By Herbert George Wells
 The Country Of The Pointed Firs By Sarah Orne Jewett
 The Cow By Lydia Davis
 The Crime By Nagiub Mahfouz
@@ -4127,6 +4137,7 @@ The Hork - Bajir Chronicles (Animorphs, #22.5) By Katherine Applegate
 The Horror At Camp Jellyjam (Goosebumps, #33) By Robert Lawrence Stine
 The Horror At Chiller House (Goosebumps HorrorLand, #19) By Robert Lawrence Stine
 The Horror Of The Black Ring (Goosebumps 2000, #18) By Robert Lawrence Stine
+The Horseman On The Roof By Jean Giono
 The Horses' Hair By Najwa Binshatwan
 The Horse's Mouth (First Trilogy, Vol.3) Byy Joyce Cary
 The Host (The Host, #1) By Stephenie Meyer
@@ -4326,6 +4337,7 @@ The Man Of Gold (Tekumel, #1) By M.A.R. Barker (Have)
 The Man Who Couldn't Stop: OCD And The True Story Of A Life Lost In Thought By David Adam
 The Man Who Forgot How To Poop By Genghis Swan
 The Man Who Killed The Deer By Frank Waters (Have)
+The Man Who Planted Trees By Jean Giono (Have) (Read)
 The Man Without A Shadow: A Novel By Joyce Carol Oates
 The Man Without Qualities By Robert Musil
 The Mapmaker's Children By Sarah McCoy
@@ -4745,10 +4757,12 @@ The Snow Child By Eowyn Ivey
 The Snowden Files: The Inside Story Of The World's Most Wanted Man By Luke Harding
 The Social Contract By Jean - Jacques Rousseau
 The Soft Voice Of The Serpent By Nadine Gordimer
+The Solitude Of Compassion By Jean Giono
 The Solitude Of Latin America By Gabriel García Márquez
 The Solution (Animorphs, #22) By Katherine Applegate
 The Song Of Igor's Campaign By Anon
 The Song Of The Lark By Willa Carther
+The Song Of The World By Jean Giono
 The Song Of Youth By Yang Mo
 The Sons Of The Dragon By George Raymond Richard Martin
 The Sorbonne Affair (Hugo Marston, #7) By Mark Pryor
