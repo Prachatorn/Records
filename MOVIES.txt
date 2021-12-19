@@ -493,6 +493,7 @@ Fast & Furious Presents: Hobbs & Shaw (2019) By David Leitch (Watched)
 Father Figures (2017) By Lawrence Sher
 Fellow Traveler (1975) By Masud Asadollahi
 Ferdinand (2017) By Carlos Saldanha
+Ferris Bueller's Day Off (1986) By John Hughes
 Fido (2006) By Andrew Currie
 Fifty Shades Darker (2017) By James Foley (Watched)
 Fifty Shades Freed (2018) By James Foley
@@ -534,6 +535,8 @@ Funny Games (1997) By Michael Haneke
 Funny Games (2007) By Michael Haneke
 Funny People (2009) By Judd Apatow
 Furueru Shita (JP) (1980) By Yoshitaro Nomura
+F / X (1986) By Robert Mandel
+F / X2 (1991) By Richard Franklin
 Game Change (2012) By Jay Roach
 Game Night (2018) By John Francis Daley & Jonathan Goldstein (Watched)
 Garden State (2004) By Zach Braff
@@ -916,6 +919,7 @@ Murder On The Orient Express (2017) By Kenneth Branagh (Watched)
 My Best Friend's Wedding (1997) By Paul John "P. J." Hogan
 My Big Fat Greek Wedding (2002) By Joel Zwick
 My Boss's Daughter (2003) By David Zucker
+My Dinner With Andre (1981) By Louis Malle
 My Dinner With Herve (2018) By Sacha Gervasi
 My Father The Hero (1994) By Steve Miner
 My Fellow Americans (1996) By Oeter Segal
@@ -1229,6 +1233,7 @@ Superman II: The Ricahrd Donner Cut (2006) By Richard Donner
 Superman III (1983) By Richard Lester
 Superman IV: The Quest For Peace (1987) By Sidney Joseph Furie
 Super Troopers (2001) By Jay Chandrasekhar (Watched)
+Surrogates (2009) By Jonathan Mostow
 Surviving Christmas (2004) By Mike Mitchell
 Swamp Thing (1982) By Wes Craven
 Sweet Dreams (1985) By Karel Reisz
@@ -1327,6 +1332,7 @@ The Crow (1994) By Alex Proyas
 The Darkness (2016) By Greg McLean
 The Day After Tomorrow (2004) By Roland Emmerich (Watched)
 The Day The Earth Stood Still (1951) By Robert Wise
+The Deadly Art Of Survival (1979) By Charlie Ahearn
 The Descent (2006) By Neil Marshall
 The Descent: Part 2 (2009) By Jon Harris
 The Devil's Rejects (2005) By Rob Zombie
@@ -1471,6 +1477,7 @@ The Old Man & The Gun (2018) By David Lowry (Watched)
 The Onion Movie (2008) By Mike Maguire & Tom Kuntz
 The Outcasts (2017) By Peter Hutchings
 The Package (2018) By Jake Szymanski (Watched)
+The Parent Trap (1998) By Nancy Meyers
 The Party (1968) By Blake Edwards
 The Passion Of The Christ By Mel Gibson
 The Peanut Butter Falcon (2019) By Michael Schwartz & Tyler Nilson
