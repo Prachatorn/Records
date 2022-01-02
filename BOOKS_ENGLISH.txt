@@ -181,6 +181,7 @@ A Journal Of The Plague Year By Daniel Defoe
 A Journey To The End Of The Millennium By Abraham B. Yehoshua
 A King Alone By Jean Giono
 A Knight Of The Seven Kingdoms By George Raymond Richard Martin
+A Land As God Made It: Jamestown And The Birth Of America By James Horn
 A Land Of Permanent Goodbyes By Atia Abawi (Read)
 A Land Without Jasmine By Wajdi Al - Ahdal
 Alan Turing, Enigma By Andrew Hodges
@@ -698,6 +699,7 @@ Brother Odd By Dean Koontz
 Brothers By Yu Hua
 Bruce & Stan's Guide To God: A User - Friendly Approach By Bruce Bickel & Stan Jantz
 Bruiser By Neal Shusterman (Read)
+Bruno's Dream By Iris Murdoch
 Bud, Not Buddy By Christopher Paul Curtis (Have)
 Buenas Tardes A Las Cosas De Aqui (ES) By Antonio Lobo Antunes
 Buffalo Before Breakfast (Magic Tree House, #18) By Mary Pope Osborne
@@ -1316,6 +1318,7 @@ Europe In Sepia By Debravka Ugresic
 Eusrace Chisholm And The Works By James Purdy
 Eustace And Hilda: A Trilogy By Leslie Poles Hartley
 Euthyphro By Plato
+Eva Trout By Elizabeth Bowen
 Evening Brings Everything Back By Jaan Kaplinski
 Eve Of The Emperor Penguin (Magic Tree House, #40) By Mary Pope Osbourne
 Evermore By Julian Barnes
@@ -1392,6 +1395,7 @@ Fifty Shades Of Grey (Fifty Shades, #1) By Erika Leonard James (Have)
 Fight Club By Chuck Palahniuk
 Fighter: The True Story Of The Battle Of Britain By Len Deighton
 Fight Like A Man & Other Stories We Tell Our Children By Christine Granados
+Figures In A Landscape By Barry England
 Fima By Amos Oz
 Final Argument By Clifford Irving (Have)
 Finders Keepers By Seamus Heaney
@@ -1490,6 +1494,7 @@ Frog By Mo Yan (Read)
 From A Crooked Rib By Nuruddin Farah
 From First To Last By Damon Runyon
 From Here To Eternity By James Jones
+From Scenes Like These By Gordon Williams
 From The Corner Of His Eye By Dean Koontz
 From The Diary Of A Snail By Gunter Grass
 From The Fatherland, With Love By Ryu Murakami
@@ -1989,6 +1994,7 @@ Jim The Boy By Tony Earley
 Joan And Peter By Herbert George Wells
 Joan Didion: Essays & Conversations By Joan Didion
 Joheved (Rashi's Daughters Book I) By Maggie Anton (Have)
+John Brown's Body By Audrey Lilian Barker
 Johnny Got His Gun By Dalton Trumbo
 Johnny Panic And The Bible Of Dreams By Sylvia Plath
 John Singer Sargent By Carter Ratcliff
@@ -2011,7 +2017,7 @@ Joyland By Stephen King
 Judas By Amis Oz
 Jude The Obscure By Thomas Hardy
 Julieta (Movie Tie - In Edition): Three Stories That Inspired The Movie By Alice Munro
-July's People By Nadine Gordimer
+July's People By Nadine Gordimer (Read)
 Jump And Other Stories By Nadine Gordimer
 Jurassic Park By Michael Crichton
 Just As I Am (Invisible Life, #2) By Everette Lynn Harris
@@ -2563,6 +2569,7 @@ Mr. Salary: Faber Stories By Sally Rooney
 Mrs. Caldwell Habla Con Su Hijo (ES) By Camilo Jose Cela
 Mrs. Cherry's Kitchen By Sylvia Plath
 Mrs. Dalloway By Virginia Woolf (Have)
+Mrs. Eckdorf In O'Neill's Hotel By William Trevor
 Mrs. Grant And Madame Jule By Jennifer Chiaverini
 Mr. Stone And The Knights Companion By Sir Vidiadhar Surajprasad Naipaul
 M / T And The Narrative About The Marvels Of The Forest By Kenzaburo Oe
@@ -3417,6 +3424,7 @@ Something For The Pain: A Memoir Of The Turf By Gerald Murnane
 Something I Can Never Have (Solitary Tales, #0.5) By Travis Thrasher
 Something I've Been Meaning To Tell You By Alice Munro
 Something Out There By Nadine Gordimer
+Something To Answer For By Percy Howard Newby
 Something To Declare: Essays On France By Julian Barnes
 Something Torn And New: An African Renaissance By Ngugi Wa Thiong'o
 Sometimes A Great Notion By Ken Kesey
@@ -3872,6 +3880,7 @@ The Complete Tales Of Uncle Remus By Joel Chandler Harris
 The Complete Typographer By Will Hill
 The Concert By Ismail Kadare
 The Confessions Of Nat Turner By William Styron
+The Conjunction By Terance Wheeler
 The Conscience Of Words By Elias Canetti
 The Consequences Of Revenge (Consequence, #2) By Aleatha Romig
 The Conservationist By Nadine Gordimer
@@ -3989,6 +3998,7 @@ The Eden Express: A Memoir By Mark Vonnegut
 The Edge Of Justice By Clinton McKinzie
 The Edge Of Sadness By Edwin O'Connor
 The Edible Woman By Margaret Atwood
+The Elected Member By Bernice Rubens
 The Elegies Of Oxopetra By Odysseas Elytis
 The Elephant's Journey By Jose Saramago
 The Elephant Vanishes And Other Stories By Haruki Murakami (Read)
@@ -4262,6 +4272,7 @@ The Imitation Game By Ian McEwan
 The Immortalists: A Novel By Chloe Benjamin
 The Imperial Presidency By Arthur Meler Schlesinger Jr.
 The Importance Of Being Earnest And Other Plays By Oscar Wilde (Have)
+The Impossible Object By Nicholas Mosley
 The Incredible And Sad Tale Of Innocent Erendira And Her Heartless Grandmother By Gabriel Garcia Marquez
 The Indian Trilogy By Sir Vidiadhar Surajprasad Naipaul
 The Infant With A Melancholic Face By Kenzaburo Oe
@@ -4527,6 +4538,7 @@ The New Jim Crow: Mass Incarceration In The Age Of Colrblindness By Michelle Ale
 The New Life By Dante Alighieri
 The New Life By Orphan Pamuk
 The New Machiavelli By Herbert George Wells
+The Nice And The Good By Iris Murdoch
 The Nickel Boys By Colson Whitehead
 The Nigger Of The 'Narcissus' / Typhoon / And Other Stories By Joseph Conrad (Have)
 The Nightingale By Kristin Hannah
