@@ -117,11 +117,13 @@ A Rose For Emily By William Faulkner (Read)
 A Round Of Visits By Henry James
 Art Alone Endures By William J. Brazill
 Asa No Tsume / Morning Nails (1926) By Yasunari Kawabata (Read)
+A Scream By Arkady Pavlovich Bogdankevich By Svetlana Alexievich (Read)
 A Set Of Variations On A Borrowed Theme By Frank O'Connor (Have)
 Ash Wednesday Feast By Olga Tokarczuk (Read)
 A Single Rose By Wong Meng Voon (Read)
 A Slow Boat To China By Haruki Murakami (Read)
 A Snap Decision By Jamie Felton
+A Solitary Human Voice By Lyudmilla Ignatenko By Svetlana Alexievich (Read)
 Assignment With An Octopus By Arthur Grimble (Read)
 Assimilation By Frank Byrns
 A Strange Kind Of Brain Damage By Can Xue (Read)
@@ -472,6 +474,7 @@ Hills Like White Elephants By Ernest Hemingway
 Hinata / A Sunny Place (1923) By Yasunari Kawabata (Read)
 Hi Ni Yuku Kanojo / The Girl Who Approached The Fire (1924) By Yasunari Kawabata (Read)
 Historia De Un Amor By Ryu Murakami (Read)
+Historical Note By Svetlana Alexievich (Read)
 History: A Smell Of Fish Glue By Sir Vidiadhar Surajprasad Naipaul (Read)
 Hitori No Kofuku / One Person's Happiness (1926) By Yasunari Kawabata (Read)
 Home Again By Sir Vidiadhar Surajprasad Naipaul (Read)
@@ -697,6 +700,36 @@ Mnemonics By Kurt Vonnegut (Read)
 Mobility Is Reality By Olga Tokarczuk (Read)
 Mojave By Dena Hankins (Read)
 Momotaro: Boy - Of - The - Peach By Yoshiko Uchida (Read)
+Monologue About A Damaged Child By Nadezhda Afanasyevna Burakova By Svetlana Alexieich (Read)
+Monologue About A Man Whose Tooth Was Hurting When He Saw Christ Fall By Arkady Filin By Svetlana Alexievich (Read)
+Monologue About A Moonlit Lanscape By Yevgeniy Aleksandrovich Brovkin By Svetlana Alexievich (Read)
+Monologue About A New Nation By Svetlana Alexievich (Read)
+Monologue About Answers By Aleksandr Revalskiy By Svetlana Alexievich (Read)
+Monologue About A Song Without Words By Mariya Volchok By Svetlana Alexievich (Read)
+Monologue About A Whole Life Written Down On Doors By Nikolai Fomich Kalugin By Svetlana Alexievich (Read)
+Monologue About Expensive Salami By Lyudmila Dmitrievna Polenkaya By Svetlana Alexievich (Read)
+Monologue About Freedom And The Dream Of An Ordinary Death By Aleksandr Kudryagin By Svetlana Alexievich (Read)
+Monologue About How A Person Is Only Clever And Refined In Evil By Svetlana Alexievich (Read)
+Monologue About How The Frightening Things In Life Happen Quietly And Naturally By Zoya Danilovna Bruk By Svetlana Alexievich (Read)
+Monologue About How We Can’t Live Without Chekohov And Tolstoy By Katya P. By Svetlana Alexievich (Read)
+Monologue About Instructions By Irina Kiselevna By Svetlama Alexievich (Read)
+Monologue About Lies And Truths By Sergei Vasilyevich Sobolev By Svetlana Alexievich (Read)
+Monologue About Loving Physics By Valentin Alekseevich Borisevich By Svetlana Alexievich (Read)
+Monologue About Memories By Nina Prohorovna Kovaleva By Svetlana Alexievich (Read)
+Monologue About Old Prophecies By Larisa Z. By Svetlana Alexievich (Read)
+Monologue About Political Strategy By Vladimir Matveevich Ivanov By Svetlana Alexievich (Read)
+Monologue About Taking Measurements By Marat Filippovich Kokhanov By Svetlana Alexievich (Read)
+Monologue About The Limitless Power One Person Can Have Over Another By Vasily Borisovich Nesterenko By Svetlana Alexievich (Read)
+Monologue About The Shadow Of Death By Viktor Latun By Svetlana Alexievich (Read)
+Monologue About The Shovel And The Atom By Ivan Nikolaevich Zhykhov By Svetlana Alexievich (Read)
+Monologue About What Can Be Talked About With The Living And The Dead By Zinaida Yevdokimovna Kovalenko By Svetlana Alexievich (Read)
+Monologue About What Radiation Looks Like By Anna Petrovna Badaeva By Svetlana Alexievich (Read)
+Monologue About What We Didn’t Know: Death Can Be So Beautiful By Nadezhda Petrovna Vygovskaya By Svetlana Alexievich (Read)
+Monologue About Writing Chernobyl By Anatoly Shimanskiy By Svetlana Alexievich (Read)
+Monologue About War Movies By Sergei Gurin By Svetlana Alexievich (Read)
+Monologue By A Defender Of The Soviet Government By Anonymous By Svetlana Alexievich (Read)
+Monologue On Why We Remember By Pyotr S. By Svetlana Alexievich (Read)
+Monologues By Those Who Returned By Svetlana Alexievich (Read)
 MONSTER, The Roller Coaster By Benjamin Joseph Manaly Novak (Read)
 Moonlight Sonata By Alexander Woollcott
 Moral Exercise (1993) By John Updike (Have)
@@ -820,6 +853,7 @@ Patriotism By Yukio Mishima (Have)
 Paul's Case By Willa Cather
 Peanut Butter By Camille Esses
 Penlight By Ryu Murakami (Read)
+People’s Chorus By Svetlana Alexievich (Read)
 Phantom Limb By Fereshteh Molavi (Read)
 Phantom Pain By Lucia Berlin (Read)
 Philip By Jason Rice
@@ -959,6 +993,7 @@ Sleep Deprivation By Jade Walker
 Smothered And Covered By Tom Barlow
 Snapshot Of A Dog By James Thurber (Read)
 Snow Blind By Elizabeth Strout
+Soldiers’ Chorus By Svetlana Alexievich (Read)
 Solid Geometry By Ian McEwan
 So Long By Lucia Berlin (Read)
 Someone Ought To Tell Her There's Nowhere To Go By Danielle Evans (Have)
@@ -1758,6 +1793,8 @@ Those Three - Or Four - Footers (1994) By John Updike (Have)
 Thou Art The Man By Edgar Allan Poe
 Though Tiny Windows By Barry Napier
 Three Hundred Kilometers By Olga Tokarczuk (Read)
+Three Monologues About A Homeland By Svetlana Alexievich (Read)
+Three Monologues About A Single Bullet By Svetlana Alexievich (Read)
 Three Policemen By Youshiyuki Junnosuke
 Three Rounds With Rabbit Angstrom (1959, 1989) By John Updike (Have)
 Thy Shiny Car In The Night By Nick Mamatas
