@@ -2652,6 +2652,7 @@ Nabokov's Dozen By Vladimir Nabokov
 Na Brzegu Rzeki (POL) By Czeslaw Milosz
 Nadirs By Herta Muller
 Naked In Garden Hills By Harry Crews
+Naked Lunch By William S. Burroughs
 Nakeftali The Storyteller And His Horse, Sus: And Other Stories By Isaac Bashevis Singer
 Nad Lunch: The Restored Text By William Seward Burroughs II
 Naked Earth By Eileen Chang
@@ -2737,7 +2738,7 @@ No End Of Fun By Wislawa Szymborska
 No Good - Byes: The Mysterious Disappearance Of The McStay Family By Rick Baker
 Nokon Kjem Til a kKmme (NO) By Jon Fosse
 No Longer At Ease By Chinua Achebe
-No Longer Human By Osamu Dazai
+No Longer Human By Osamu Dazai (Read)
 No Love Lost By Alice Munro
 No Name By Wilkie Collins
 No - No Boy By John Okada
@@ -4794,6 +4795,7 @@ The Revolt Of The Angels By Anatole France
 The Revolution Of The Moon By Andrea Camilleri
 The Rice Sprout Song By Eileen Chang
 The Right Stuff By Tom Wolfe
+The Ring Of Solomon (Bartimaeus, #0.5) By Jonathan Stroud
 The Rise And Fall Of D.O.D.O. By Neal Stephenson
 The Rise Of Silas Lapham By William Dean Howells
 The Rise Of The Unmeltable Ethnics By Michael Novak
