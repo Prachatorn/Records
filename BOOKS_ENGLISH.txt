@@ -342,7 +342,7 @@ Anticipations By Herbert George Wells
 Anweisungen An Die Krokodile (DE) By Antonio Lobo Antunes
 A Painter Of Our Time By John Berger (Have)
 A Pair Of Blue Eyes By Thomas Hardy
-A Pale View Of Hills By Kazuo Ishiguro
+A Pale View Of Hills: A Novel By Kazuo Ishiguro (Read)
 Apartment In Athens By Glenway Wescott (Have)
 A Passage To India By Edward Morgan Forster (Read)
 A People's History Of The United States By Howard Zinn
@@ -3871,6 +3871,7 @@ The Chocolate War By Robert Cormier (Read)
 The Choice By Bob Woodward
 The Chosen By Chaim Potok (Have)
 The Chronicles Of Narnia (Chronicles Of Narnia, #1-7) By Clive Staples Lewis
+The Chrysanthemum And The Sword: Patterns Of Japanese Culture By Ruth Benedict
 The Circle By Dave Eggers (Have)
 The Circling Song By Nawal El Saadawi
 The Cleft (2007) By Doris May Lessing
