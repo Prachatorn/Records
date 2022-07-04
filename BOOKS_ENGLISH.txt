@@ -1443,6 +1443,7 @@ Flesh And Bone And Water By Luiza Sauma
 Fleurs De Ruine (FR) By Patrick Modiano
 Flight Behavior By Barbara Kingsolver (Have)
 Flight By Elephant By Andrew Martin (Have)
+Flight By Walter Francis White
 Flights By Olga Tokarczuk (Read)
 Float By Anne Carson
 Floor Games By Herbert George Wells
@@ -1847,6 +1848,7 @@ Imagine Me Gone By Adam Haslett
 Imani: Roman (DE) By Mia Couto
 Im Haarknoten Wohnt Eine Dame (DE) By Herta Muller
 Im Herzen Des Landes (DE) By John Maxwell Coetzee
+Imitation Of Life By Fannie Hurst
 Immer Derselbe Schnee Und Immer Derselbe Onkel (DE) By Herta Muller
 Immortality By Milan Kundera
 I'm Not Here To Give A Speech By Gabriel Garcia Marquez
@@ -2040,6 +2042,7 @@ Jusqu'au Bout De La Foi (FR) By Sir Vidiadhar Surajprasad Naipaul
 Kaddish For An Unborn Child By Imre Kertesz
 Kafka On The Shore By Haruki Murakami (Read)
 Kafka's Other Trial: The Letters To Felice By Elias Canetti
+Kafka Was The Rage: A Grrenwich Village Memoir By Anatole Broyard
 Kagero Nikki By Michitsuna's Mother
 Kalila And Dimna #1 - The Panchatantra Retold (Kalila And Dimna, #1) By Ramsay Wood
 Kalle Blomquist Meisterdetektiv By Astrid Lindgren
@@ -2240,6 +2243,7 @@ Life Before Man By Margarte Atwood
 Life Expectancy By Dean Koontz
 Life Is Elsewhere By Milan Kundera
 Life Of Pi By Yann Martel (Have) (Read)
+Life On The Color Line: The True Story Of A White Boy Who Discovered He Was Black By Gregory Howard Williams
 Life Plays With Me By David Grossman
 Life's Solution: Inevitable Humans In A Lonely Universe By Simon Conway Morris
 Life's Wisdom By Nagiub Mahfouz
@@ -2703,6 +2707,7 @@ Nice Guy Dinosaur Doesn't Pound Me In The Butt Because I'm Not Interested And He
 Nicholas Nickleby By Charles Dickens
 Nicht Zur Veroffentlichung. (DE) By Nadine Gordimer
 Nieobjeta Ziemia (POL) By Czeslaw Milosz
+Nigger Heaven By Carl Van Vechten
 Night (The Night Trilogy, #1) By Elie Wiesel (Read)
 Night And Day By Virginia Woolf (Have)
 Night And Day: A Play By Tom Stoppard (Have)
@@ -3000,6 +3005,7 @@ Playth A Tiger: A Play In Three Acts By Doris Lessing
 Please, Louise By Toni Morrison
 Plenty By Orison Swett Marden
 Ploughsharaes Fall 1996 By Richard Ford
+Plum Bun By Jessie Redmon Fauset
 Plutarch's Lives, Vol 1 By Plutarch
 Pnin By Vladimir Nabokov
 Po By Olga Tokarczuk
@@ -3103,6 +3109,7 @@ Queen Of Shadows (Throne Of Glass, #4) By Sarah Janet Maas
 Quentin Dumvard By Sir Waltor Scott (Have)
 Que Hareis Con Este Libro. Teatro Completo / What Will You Do with This Book. Complete Theater (ES) By Jose Saramago
 Quichotte By Salman Rushdie
+Quicksand By Nella Larsen
 Quite A Ride (Alex Rider, #2.5) By Anthony Horowitz
 Quotations From Chairman Mao Tse - Tung By Mao Zedong
 Quo Vadis By Henryk Sienkiewicz
@@ -3111,6 +3118,7 @@ Rabbit, Run (Rabbit Angstrom, #1) By John Updike
 Rabid Growth By James Arthur Moore
 Rabos De Lagartija (ES) / Lizard Tails By Juan Marse
 Race And Nationality In American Life By Oscar Handlin
+Race And National Solidarity By Charles Conant Josey
 Race - Ing Justice, En - Gendering Power: Essays On Anita Hill, Clarence Thomas, And The Construction Of Social Reality By Toni Morrison
 Race: Vintage Minis By Toni Morrison
 Radetzky March By Joseph Roth
@@ -3333,6 +3341,7 @@ Seventeen Poisoned Englishmen By Gabriel Garcia Marquez
 Seventeenth Century Poetry: The Schools Of Donne And Jonson By Hugh Kenner (Have)
 Sex And Rage By Eve Babitz
 Sexy By Joyce Carol Oates
+Shadow And Act By Ralph Ellison
 Shadow: Five Presidents And The Legacy Of Watergate By Bob Woodward
 Shadow Of The Shark (Magic Tree House, #53) By Mary Pope Osbourne
 Shadow On The Hudson By Isaac Bashevis Singer
@@ -3716,6 +3725,7 @@ The Assassin And The Pirate Lord (Throne Of Glass, #0.1) By Sarah Janet Maas
 Theatre Writings By Tom Stoppard
 The Attack (Animorphs, #26) By Katherine Applegate
 The August Sleepwalker By Bei Dao
+The Autobiography Of An Ex - Colored Man By James Weldon Johnson
 The Autobiography Of An Unknown Indian By Nirad Chandra Chaudhuri
 The Autobiography Of Malcolm X By Malcolm X
 The Autobiography Of Mark Twain By Mark Twain (Have)
@@ -3931,6 +3941,7 @@ The Count Of Monte Cristo By Alexandre Dumas (Read)
 The Country Of Ice Cream Star By Sandra Newman
 The Country Of The Blind By Herbert George Wells
 The Country Of The Pointed Firs By Sarah Orne Jewett
+The Coupling Convention: Sex, Text, And Tradition In Black Women's Fiction By Ann DuCille
 The Cow By Lydia Davis
 The Crime By Nagiub Mahfouz
 The Crimes Of The Borgias: And Others By Alexander Dumas
@@ -4584,6 +4595,7 @@ The New Jim Crow: Mass Incarceration In The Age Of Colrblindness By Michelle Ale
 The New Life By Dante Alighieri
 The New Life By Orphan Pamuk
 The New Machiavelli By Herbert George Wells
+The New Negro By Alain LeRoy Locke
 The Nice And The Good By Iris Murdoch
 The Nickel Boys By Colson Whitehead
 The Nigger Of The 'Narcissus' / Typhoon / And Other Stories By Joseph Conrad (Have)
@@ -4803,6 +4815,7 @@ The Reunion (Animorphs, #30) By Katherine Applegate
 The Revelation (Animorphs, #45) By Katherine Applegate
 The Revised Fundamentals Of Caregiving: A Novel By Jonathan Evison
 The Revival (Storycuts) By Julian Barnes
+The Revolt Against Civilization: The Menace Of The Under - Man By Lothrop Stoddard
 The Revolt Of The Angels By Anatole France
 The Revolution Of The Moon By Andrea Camilleri
 The Rice Sprout Song By Eileen Chang
@@ -4812,6 +4825,7 @@ The Rise And Fall Of D.O.D.O. By Neal Stephenson
 The Rise Of Silas Lapham By William Dean Howells
 The Rise Of The Unmeltable Ethnics By Michael Novak
 The Rise Of The Warrior Cop By Radley Balko
+The Rising Tide Of Color: The Threat Against White World - Supremacy (1920) By Lothrop Stoddard
 The River Between By Ngugi Wa Thiong'o (Read)
 The River Ki By Sawako Ariyoshi (Have)
 The River Where Blood Born By Sandra Jackson - Opoku (Have)
