@@ -4,6 +4,7 @@
 502 By Lucia Berlin (Read)
 A Bachelor's Confessions By Washington Irving
 Abandoned Apartment By Olga Tokarczuk (Read)
+A Biography Of Tadeo Isidoro Cruz By Jorge Luis Borges (Read)
 A Blind Horse By Robin Mullet (Have)
 About My Aunt By Joan Silber
 A Book And Some Chives By Wong Meng Voon (Read)
@@ -137,6 +138,7 @@ A Tree, A Rock, A Cloud By Carson McCullers (Read)
 Attempts At Travel Stereometry By Olga Tokarczuk (Read)
 At The Airport By Ryu Murakami (Read)
 At The Mountains Of Madness By Howard Phillips Lovecraft (Have)
+Averroes' Search By Jorge Luis Borges
 A Very Long Quarter Of An Hour By Olga Tokarczuk (Read)
 A Very Old Man With Enormous Wings By Gabriel Garcia Marquez (Read)
 A Very Strange, Enchanted Boy By Tsuhima Yuko
@@ -299,6 +301,7 @@ Departure By Donora Hillard
 Der Arme Dolmetscher By Kurt Vonnegut (Read)
 Desert Dolphin By Shimada Masahiko
 Desu Masuku / Death Mask (1932) By Yasunari Kawabata (Read)
+Deutsches Requiem By Jorge Luis Borges (Read)
 Dickie By Minter Krotzer
 Did Not Die Deported By Marguerite Duras (Read)
 Disappearance By Jahanara Siddique (Have) (Read)
@@ -342,6 +345,7 @@ Electric Car, El Paso By Lucia Berlin (Read)
 Eleonora By Edgar Allan Poe
 El Tim By Lucia Berlin (Read)
 Emergency Room Notebook, 1977 By Lucia Berlin (Read)
+Emma Zunz By Jorge Luis Borges (Read)
 Engagement By Tara Deal
 English Country Gentlemen By Washington Irving
 English Gravity By Washington Irving
@@ -505,6 +509,7 @@ Hunters In The Snow By Tobias Wolff (Have)
 Hurricane By Zora Neale Hurston
 Iain The Fisherman's Son By Elizabeth Wilson Grierson (Read)
 I Am A Novelist By Ryu Murakami (Read)
+Ibn - Hakam Al - Bokhari, Murdered In His Labyrinth By Jorge Luis Borges
 I, Buffalo By Vauhini Vara
 Ideal By Ha Jin
 If A Book Is Locked There's Probably A Good Reason For That Don't You Think By Helen Oyeyemi (Read)
@@ -1028,6 +1033,7 @@ Stars And Saints By Lucia Berlin (Read)
 Step By Lucia Berlin (Read)
 St. Mark's Eve By Washington Irving
 Story In Harlem Slang By Zora Neale Hurston
+Story Of The Warrior And The Captive Maiden By Jorge Luis Borges (Read)
 Storyteller By Anoud (Read)
 Story Telling By Washington Irving
 Strange Affair By Wong Meng Voon (Read)
@@ -1217,6 +1223,7 @@ The Dancing Kettle By Yoshiko Uchida (Read)
 The Date By Sarah Lyons
 The Day After By Brian Crawford
 The Dead By James Joyce
+The Dead Man By Jorge Luis Borges (Read)
 The Deal By Leonard Michaels (Have)
 The Death Trap By Jahanara Siddique (Have) (Read)
 The Debtor And His Sow By Aesop (Have) (Read)
@@ -1381,16 +1388,18 @@ The Horse - Dealer's Daughter By David Herbert Lawrence
 The Hound And The Fox By Aesop (Have) (Read)
 The Hound And The Hare By Aesop (Have) (Read)
 The House Guard By Shōtarō Yasuoka (Read)
+The House Of Asterion By Jorge Luis Borges (Read)
 The Human Nature By Marguerite Del Giudice (Have)
 The Hungry Stones By Rabindranath Tagore (Have) (Read)
-The Hunter By Edgar Lawrence Doctorow (Have)
 The Hunter And The Horseman By Aesop (Have) (Read)
 The Hunter And The Woodman By Aesop (Have) (Read)
+The Hunter By Edgar Lawrence Doctorow (Have)
 The Hyannis Port Story (1963) By Kurt Vonnegut (Read)
 The Ice Palace By Francis Scott Key Fitzgerald (Have) (Read)
 The Image Seller By Aesop (Have) (Read)
 The Imposter By Aesop (Have) (Read)
 The Inheritance By W. J. Glover (Read)
+The Immortal By Jorge Luis Borges (Read)
 The Impatient Billionaire And The Mirror For Earth By Benjamin Joseph Manaly Novak (Read)
 The Imp Of The Perverse By Edgar Allan Poe
 The Indian By Randall Silvis
@@ -1463,6 +1472,7 @@ The Lover's Regret By Tess Gerritsen
 The Lurking Fear By Howard Phillips Lovecraft (Have)
 The Magic Barrel By Bernard Malamud
 The Magic Purse Of The Swamp Maiden By Yoshiko Uchida (Read)
+The Maker by Jorge Luis Borges
 The Mall By Robley Wilson
 The Man And His Two Sweethearts By Aesop (Have) (Read)
 The Man And The Image By Aesop (Have) (Read)
@@ -1471,6 +1481,7 @@ The Man And The Satyr By Aesop (Have) (Read)
 The Manned Missiles (1958) By Kurt Vonnegut (Read)
 The Man Of The Crowd By Edgar Allan Poe
 The Man Of Tomorrow / Maybe You've Heard This Once Before, But You've Never Heard It Like This By Will Panzo
+The Man On The Threshold By Jorge Luis Borges
 The Mansion By Henry Van Dyke (Have) (Read)
 The Man That Was Used Up By Edgar Allan Poe (Read)
 The Man, The Horse, The Ox And The Dog By Aesop (Have) (Read)
@@ -1536,6 +1547,7 @@ The Ones Who Walk Away From Omelas By Ursula Kroeber Le Guin
 The Open Boat By Stephen Crane
 The Open Window By Hector Hugh Munro / Saki 
 The Original And The Copy By Olga Tokarczuk (Read)
+The Other Death By Jorge Luis Borges (Read)
 The Other Side Of The Door By Jessa Slade
 The Oval Portrait By Edgar Allan Poe
 The Overcoat By Nikolai Gogol
@@ -1703,6 +1715,7 @@ The Tengu's Magic Nose Fan By Yoshiko Uchida (Read)
 The Terrible Black Snake's Revenge By Yoshiko Uchida (Read)
 The Thak Man - Eater By Jim Corbett (Read)
 The Theatre By Marguerite Duras (Read)
+The Theologians By Jorge Luis Borges (Read)
 The Thief And The Innkeeper By Aesop (Have) (Read)
 The Thieves And The Cock By Aesop (Have) (Read)
 The Thing On The Doorstep By Howard Phillips Lovecraft (Have)
@@ -1735,6 +1748,7 @@ The Two Bags By Aesop (Have) (Read)
 The Two Faces By Henry James
 The Two Foolish Cats By Yoshiko Uchida (Read)
 The Two Frogs By Aesop (Have) (Read)
+The Two Kings And The Two Labyrinths By Jorge Luis Borges
 The Two Pots By Aesop (Have) (Read)
 The Two Soldiers And The Robber By Aesop (Have) (Read)
 The Ugly Little Boy By Isaac Asimov & Robert Silverberg
@@ -1752,6 +1766,7 @@ The Victory By Rabindranath Tagore (Have) (Read)
 The Viper And The File By Aesop (Have) (Read)
 The Voice In Navire Night By Marguerite Duras (Read)
 The Voter By Chinua Achebe
+The Wait By Jorge Luis Borges
 The Walk To School On The Day After Labor Day By Benjamin Joseph Manaly Novak (Read)
 The Walnut Tree By Aesop (Have) (Read)
 The Wandering Minstrel By Shōtarō Yasuoka (Read)
@@ -1794,12 +1809,14 @@ The Woman In Gaul By Zora Neale Hurston
 The Wonderful Talking Bowl By Yoshiko Uchida (Read)
 The World In Your Head By Olga Tokarczuk (Read)
 The World's Biggest Rip - Off By Benjamin Joseph Manaly Novak (Read)
+The Writing Of The God By Jorge Luis Borges
 They By Rudyard Kipling
 The Yakult Swallows Poetry Collection By Haruki Murakami (Read)
 The Yankee (1994) By John Updike (Have)
 The Yellow Wallpaper By Charlotte Perkins Gilman
 They Kept Driving Faster And Outran The Rain By Benjamin Joseph Manaly Novak (Read)
 The Young King By Oscar Wilde (Have) (Read)
+The Zahir By Jorge Luis Borges
 Things Not Made By Human Hands By Olga Tokarczuk (Read)
 Things You Know But Would Rather Not By Patricia Ann McNair (Have)
 This Book Helped Us Pass The Time By Marguerite Duras (Read)
