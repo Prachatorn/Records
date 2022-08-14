@@ -24,8 +24,8 @@ Adam (1954) By Kurt Vonnegut (Read)
 Adam And Eve And Pinch Me By Alfred Edgar Coppard
 A Dangerous State By Marguerite Duras (Read)
 A Descent Into The Maelstrom By Edgar Allan Poe (Read)
-A Dialog About A Dialog By Jorge Luis Borges
-A Dialog Between Dead Men By Jorge Luis Borges
+A Dialog About A Dialog By Jorge Luis Borges (Read)
+A Dialog Between Dead Men By Jorge Luis Borges (Read)
 A Diamond Guitar By Truman Capote (Read)
 A Dignified Purpose By Ty Miller
 A Distant Episode By Paul Bowles (Have)
@@ -107,12 +107,12 @@ Apple Tree In The Corridor By Can Xue (Read)
 A Predicament By Edgar Allan Poe
 A Present For Big Saint Nick By Kurt Vonnegut (Read)
 A Private Experience (2009) By Chimamanda Ngozi Adichie (Read)
-A Problem By Jorge Luis Borges
+A Problem By Jorge Luis Borges (Read)
 Apt Pupil By Stephen King (Read)
 Apuleius The Donkey By Olga Tokarczuk (Read)
 A Quiet American By Jess Row
 Araby By James Joyce
-Argumentum Ornithologicum By Jorge Luis Borges
+Argumentum Ornithologicum By Jorge Luis Borges (Read)
 A Ride Out Of Phrao By Dina Nayeri
 Arigato / Thank You (1925) By Yasunari Kawabata (Read)
 Armageddon In Retrospect By Kurt Vonnegut (Read)
@@ -142,7 +142,7 @@ A Tree, A Rock, A Cloud By Carson McCullers (Read)
 Attempts At Travel Stereometry By Olga Tokarczuk (Read)
 At The Airport By Ryu Murakami (Read)
 At The Mountains Of Madness By Howard Phillips Lovecraft (Have)
-Averroes' Search By Jorge Luis Borges
+Averroes' Search By Jorge Luis Borges (Read)
 A Very Long Quarter Of An Hour By Olga Tokarczuk (Read)
 A Very Old Man With Enormous Wings By Gabriel Garcia Marquez (Read)
 A Very Strange, Enchanted Boy By Tsuhima Yuko
@@ -198,7 +198,7 @@ Bonnard By Marguerite Duras (Read)
 Book Burning By Wong Meng Voon (Read)
 Book Of Harlem By Zora Neale Hurston
 Books And Roses By Helen Oyeyemi (Read)
-Borges And I By Jorge Luis Borges
+Borges And I By Jorge Luis Borges (Read)
 Boshi Jiken / The Hat Incident (1926) By Yasunari Kawabata (Read)
 Bound By Maurine Dallas Watkins
 Breakfast At Tiffany's By Truman Capote (Read)
@@ -275,7 +275,7 @@ Conversation With A Cupboard Man By Ian McEwan
 Cool Air By Howard Phillips Lovecraft (Have)
 Corrie By Alice Munro (Read)
 Cortes And Montezuma By Donald Barthelme (Have)
-Covered Mirrors By Jorge Luis Borges
+Covered Mirrors By Jorge Luis Borges (Read)
 Cowardice By Abdeslam Boulaich (Have)
 Crapy Cornelia By Henry James
 Cream By Haruki Murakami (Read)
@@ -301,7 +301,7 @@ Death In Midsummer By Yukio Mishima (Read)
 December Golf (1989) By John Updike (Have)
 De Daumier - Smith's Blue Period By Jerome David Salinger (Read)
 Deer In The Works (1955) By Kurt Vonnegut (Read)
-Delia Elena San Marco By Jorge Luis Borges
+Delia Elena San Marco By Jorge Luis Borges (Read)
 Delicate Edible Birds By Lauren Groff (Have)
 Demades And His Fable By Aesop (Have) (Read)
 Departure By Donora Hillard
@@ -333,7 +333,7 @@ Dr. Blau's Travels (I) By Olga Tokarczuk (Read)
 Dr. Blau's Travels (II) By Olga Tokarczuk (Read)
 Dr. H. A. Moynihan By Lucia Berlin (Read)
 Dreaming Of Kimchee By Yoshimoto Banana
-Dreamtigers By Jorge Luis Borges
+Dreamtigers By Jorge Luis Borges (Read)
 Drenched In Light By Zora Neale Hurston
 Drifter By Emily St. John Mandel
 Drifting By Patricia Grace (Have) (Read)
@@ -365,7 +365,7 @@ Even By Olga Tokarczuk (Read)
 Eventide By James Purdy (Have)
 Everyday Use By Alice Walker
 Everyone Was Singing The Same Song, The Duke Of Earl Recalls His Trip To America In June Of 1962 By Benjamin Joseph Manaly Novak (Read)
-Everything And Nothing By Jorge Luis Borges
+Everything And Nothing By Jorge Luis Borges (Read)
 Everything By Ingeborg Bachmann (Have)
 Everything Shining By Leigh Camacho Rourks (Have)
 Everything That Rises Must Converge By Flannery O'Connor
@@ -518,7 +518,7 @@ Hunters In The Snow By Tobias Wolff (Have)
 Hurricane By Zora Neale Hurston
 Iain The Fisherman's Son By Elizabeth Wilson Grierson (Read)
 I Am A Novelist By Ryu Murakami (Read)
-Ibn - Hakam Al - Bokhari, Murdered In His Labyrinth By Jorge Luis Borges
+Ibn - Hakam Al - Bokhari, Murdered In His Labyrinth By Jorge Luis Borges (Read)
 I, Buffalo By Vauhini Vara
 Ideal By Ha Jin
 If A Book Is Locked There's Probably A Good Reason For That Don't You Think By Helen Oyeyemi (Read)
@@ -537,9 +537,9 @@ In A Place Of Light And Reason By Charles Gramlich
 In Between The Sheets By Ian McEwan (Read)
 In Common By Min Jin Lee
 I Never Want To Walk On The Moon By Benjamin Joseph Manaly Novak (Read)
-Inferno By Jorge Luis Borges
+Inferno, I, 32 By Jorge Luis Borges (Read)
 Inkalamu's Place (1965) By Nadine Gordimer (Read)
-In Memoriam, J. F. K. By Jorge Luis Borges
+In Memoriam, J. F. K. By Jorge Luis Borges (Read)
 In Place Of An Epilogue By Svetlana Alexievich (Read)
 In Pursuit Of Night By Olga Tokarczuk (Read)
 In Sight Of The Lake By Alice Munro (Read)
@@ -682,7 +682,7 @@ Manor Di Costantino By Olga Tokarczuk (Read)
 Map Of Greece By Olga Tokarczuk (Read)
 Mapping The Void By Olga Tokarczuk (Read)
 Marie's Stupid Boyfriend By Benjamin Joseph Manaly Novak (Read)
-Martin Fierro By Jorge Luis Borges
+Martin Fierro By Jorge Luis Borges (Read)
 Maud - Evelyn By Henry James
 May Day By Francis Scott Key Fitzgerald (Have) (Read)
 May - Day By Washington Irving
@@ -772,7 +772,7 @@ MS Found In A Bottle By Edgar Allan Poe (Read)
 Mumu By Ivan Turgenev
 Murder By Jahanara Siddique (Have) (Read)
 Murder For Hire By Rose Rappoport Moss
-Mutations By Jorge Luis Borges
+Mutations By Jorge Luis Borges (Read)
 Muttsy By Zora Neale Hurston
 My Grandmother Tells Me This Story By Molly Antopol
 My Jockey By Lucia Berlin (Read)
@@ -836,7 +836,7 @@ One Month Too Soon By John Cashman
 One More Toast By Amber Whitley
 One Of These Days, We Have To Do Something About Willie By Benjamin Joseph Manaly Novak (Read)
 On Everything By Svetlana Alexievich (Read)
-On Exactitude And Science By Jorge Luis Borges
+On Exactitude And Science By Jorge Luis Borges (Read)
 On Falling In Love With Tanks Under Your Windows By Svetlana Alexievich (Read)
 On How Nothing Disgusts The Dead And The Silence Of Dust By Svetlana Alexievich (Read)
 On How We Fell In And Then Out Of Love With Gorby By Svetlana Alexievich (Read)
@@ -873,9 +873,9 @@ Painted Ocean, Painted Ship By Rebecca Makkai (Have)
 Panopticon By Olga Tokarczuk (Read)
 Panteon De Dolores By Lucia Berlin (Read)
 Papaya And Snail By Wong Meng Voon (Read)
-Parable Of Cervantes And The Quixote By Jorge Luis Borges
-Parable Of The Palace By Jorge Luis Borges
-Paradiso, XXXI, 108 By Jorge Luis Borges
+Parable Of Cervantes And The Quixote By Jorge Luis Borges (Read)
+Parable Of The Palace By Jorge Luis Borges (Read)
+Paradiso, XXXI, 108 By Jorge Luis Borges (Read)
 Paris By Marguerite Duras (Read)
 Paroling Charles Manson By David Hirsch
 Passenger: A Figure From The Thirties By Sir Vidiadhar Surajprasad Naipaul (Read)
@@ -933,7 +933,7 @@ Quarry By Micah Nathan
 Queenie By Alice Munro (Read)
 Quenby And Ola, Swede And Carl By Robert Coover (Have)
 Quillebeuf By Marguerite Duras (Read)
-Ragnarok By Jorge Luis Borges
+Ragnarok By Jorge Luis Borges (Read)
 Rain By Merce Rodoreda (Have)
 Racine's Forests By Marguerite Duras (Read)
 Ransom By Stuart Dybek
@@ -1098,7 +1098,7 @@ The Accordion And The Fish Town By Hayashi Fumiko
 The Achilles Tendon By Olga Tokarczuk (Read)
 The Adulterous Woman By Albert Camus (Have)
 The Adventure Of A Traveler By Italo Calvino (Have)
-The Aleph By Jorge Luis Borges (Have)
+The Aleph By Jorge Luis Borges (Have) (Read)
 The Ambulance Driver By Benjamin Joseph Manaly Novak (Read)
 The Amputee By Stephen Dunn
 The Angel Of The Odd By Edgar Allan Poe
@@ -1195,7 +1195,7 @@ The Call Of Cthulhu By Howard Phillips Lovecraft (Have)
 The Camaraderie Of Golf - I (1986) By John Updike (Have)
 The Camaraderie Of Golf - II (1987) By John Updike (Have)
 The Camel's Back By Francis Scott Key Fitzgerald (Have) (Read)
-The Captive By Jorge Luis Borges
+The Captive By Jorge Luis Borges (Read)
 The Case Of Charles Dexter Ward By Howard Phillips Lovecraft (Have)
 The Cask Of Amontillado By Edgar Allan Poe (Read)
 The Cat And The Birds By Aesop (Have) (Read)
@@ -1492,7 +1492,7 @@ The Lover's Regret By Tess Gerritsen
 The Lurking Fear By Howard Phillips Lovecraft (Have)
 The Magic Barrel By Bernard Malamud
 The Magic Purse Of The Swamp Maiden By Yoshiko Uchida (Read)
-The Maker by Jorge Luis Borges
+The Maker by Jorge Luis Borges (Read)
 The Mall By Robley Wilson
 The Man And His Two Sweethearts By Aesop (Have) (Read)
 The Man And The Image By Aesop (Have) (Read)
@@ -1501,7 +1501,7 @@ The Man And The Satyr By Aesop (Have) (Read)
 The Manned Missiles (1958) By Kurt Vonnegut (Read)
 The Man Of The Crowd By Edgar Allan Poe
 The Man Of Tomorrow / Maybe You've Heard This Once Before, But You've Never Heard It Like This By Will Panzo
-The Man On The Threshold By Jorge Luis Borges
+The Man On The Threshold By Jorge Luis Borges (Read)
 The Mansion By Henry Van Dyke (Have) (Read)
 The Man That Was Used Up By Edgar Allan Poe (Read)
 The Man, The Horse, The Ox And The Dog By Aesop (Have) (Read)
@@ -1534,7 +1534,7 @@ The Mother By Natalia Ginzburg (Have)
 The Motorway Of The Word By Marguerite Duras (Read)
 The Mouse And The Bull By Aesop (Have) (Read)
 The Mouse, The Frog And The Hawk By Aesop (Have) (Read)
-The Mountebank By Jorge Luis Borges
+The Mountebank By Jorge Luis Borges (Read)
 The Moving Hand By Cyril Swinson (Read)
 The Mule By Aesop (Have) (Read)
 The Murders In The Rue Morgue By Edgar Allan Poe (Read)
@@ -1596,7 +1596,7 @@ The Pilgrimage By William Maxwell (Have)
 The Pit And The Pendulum By Edgar Allan Poe (Read)
 The Pleasure Of Being Right By Benjamin Joseph Manaly Novak (Read)
 The Pleasures Of The 6th Arrondissement By Marguerite Duras (Read)
-The Plot By Jorge Luis Borges
+The Plot By Jorge Luis Borges (Read)
 The Ploughman And The Wolf By Aesop (Have) (Read)
 The Ploughman, The Ass And The Ox By Aesop (Have) (Read)
 The Polish Girl By Molly Power (Have)
@@ -1770,7 +1770,7 @@ The Two Bags By Aesop (Have) (Read)
 The Two Faces By Henry James
 The Two Foolish Cats By Yoshiko Uchida (Read)
 The Two Frogs By Aesop (Have) (Read)
-The Two Kings And The Two Labyrinths By Jorge Luis Borges
+The Two Kings And The Two Labyrinths By Jorge Luis Borges (Read)
 The Two Pots By Aesop (Have) (Read)
 The Two Soldiers And The Robber By Aesop (Have) (Read)
 The Ugly Little Boy By Isaac Asimov & Robert Silverberg
@@ -1788,7 +1788,7 @@ The Victory By Rabindranath Tagore (Have) (Read)
 The Viper And The File By Aesop (Have) (Read)
 The Voice In Navire Night By Marguerite Duras (Read)
 The Voter By Chinua Achebe
-The Wait By Jorge Luis Borges
+The Wait By Jorge Luis Borges (Read)
 The Walk To School On The Day After Labor Day By Benjamin Joseph Manaly Novak (Read)
 The Walnut Tree By Aesop (Have) (Read)
 The Wandering Minstrel By Shōtarō Yasuoka (Read)
@@ -1812,7 +1812,7 @@ The Wily Lion By Aesop (Have) (Read)
 The Wind - Up Bird And Tuesday's Women By Haruki Murakami (Read)
 The Wise Old Woman By Yoshiko Uchida (Read)
 The Witch By Aesop (Have) (Read)
-The Witness By Jorge Luis Borges
+The Witness By Jorge Luis Borges (Read)
 The Wolf And His Shadow By Aesop (Have) (Read)
 The Wolf And The Boy By Aesop (Have) (Read)
 The Wolf And The Crane By Aesop (Have) (Read)
@@ -1832,15 +1832,15 @@ The Woman In Gaul By Zora Neale Hurston
 The Wonderful Talking Bowl By Yoshiko Uchida (Read)
 The World In Your Head By Olga Tokarczuk (Read)
 The World's Biggest Rip - Off By Benjamin Joseph Manaly Novak (Read)
-The Writing Of The God By Jorge Luis Borges
+The Writing Of The God By Jorge Luis Borges (Read)
 They By Rudyard Kipling
 The Yakult Swallows Poetry Collection By Haruki Murakami (Read)
 The Yankee (1994) By John Updike (Have)
-The Yellow Rose By Jorge Luis Borges
+The Yellow Rose By Jorge Luis Borges (Read)
 The Yellow Wallpaper By Charlotte Perkins Gilman
 They Kept Driving Faster And Outran The Rain By Benjamin Joseph Manaly Novak (Read)
 The Young King By Oscar Wilde (Have) (Read)
-The Zahir By Jorge Luis Borges
+The Zahir By Jorge Luis Borges (Read)
 Things Not Made By Human Hands By Olga Tokarczuk (Read)
 Things You Know But Would Rather Not By Patricia Ann McNair (Have)
 This Book Helped Us Pass The Time By Marguerite Duras (Read)
@@ -1863,7 +1863,7 @@ Tips On A Trip (1973) By John Updike (Have)
 To And Fro By Ian McEwan (Read)
 Toddler - Hunting By Kono Taeko
 Todo Luna, Todo Ano By Lucia Berlin (Read)
-Toenails By Jorge Luis Borges
+Toenails By Jorge Luis Borges (Read)
 (Tofu) Worker Poet Bao I (1958) By Qiu Xiaolong (Read)
 (Tofu) Worker Poet Bao II (1996) By Qiu Xiaolong (Read)
 Tom Edison's Shaggy Dog (1953) By Kurt Vonnegut (Read)
