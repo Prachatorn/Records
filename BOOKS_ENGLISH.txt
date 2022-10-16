@@ -1242,6 +1242,7 @@ El Descubrimiento Del Grande, Rico Y Bello Imperio De Guayana (ES) By Walter Ral
 Electric Light By Seamus Heaney
 Electric Literature By Lydia Davis
 Eldre Kortare Prosa (NO) By Jon Fosse
+Elegies By Propertius
 Elegy For Iris By John Bayley (Have)
 Elegy For Kosovo: Stories By Ismail Kadare
 Elementary Mechanics Including Hydrostatics And Pneumatics By Alfred Lodge & Sir Oliver Joseph Lodge
@@ -3882,6 +3883,7 @@ The Calligraphy Of Dreams By Juan Marse
 The Call Of The Toad By Gunter Grass
 The Call Of The Wild By Jack London (Read)
 The Canterbury Tales By Geoffrey Chaucer
+The Captain's Daughter By Alexander Pushkin
 The Captive By Scott O'Dell
 The Captive Mind By Czeslaw Milosz
 The Capture (Animorphs, #6) By Katherine Applegate
