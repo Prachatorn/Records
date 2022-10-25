@@ -1062,7 +1062,7 @@ Del Miño Al Bidasoa (ES) By Camilo José Cela
 Delusions Of Grandma By Carrie Fisher
 Demasiada Nieve Alrededor (ES) By Javier Marías
 Demons By Fyodor Dostoevsky
-Demon Seed By Dean Koontz
+Demon Seed By Dean Koontz (Read)
 Demian By Hermann Hesse
 Democracy By Joan Didion
 Denton's Death By Martin Amis
@@ -4506,6 +4506,7 @@ The Lost Child By Caryl Phillips
 The Lost Daughter By Elena Ferrante
 The Lost Landscape: A Writer's Coming Of Age By Joyce Carol Oates
 The Lost Writings By Franz Kafka (Read)
+The Love Of A Bad Man: Stories By Laura Elizabeth Woollett
 The Love Of A Good Woman By Alice Munro
 The Love Of The Last Tycoon By Francis Scott Key Fitzgerald (Have)
 The Lover By Abraham B. Yehoshua
@@ -4514,7 +4515,6 @@ The Lucky Ones By Nicholas Sparks
 The Lusiads By Luís de Camões (Have)
 The Lying Days By Nadine Gordimer
 The Lying Life Of Adults By Elena Ferrante
-Them By Joyce Carol Oates
 The Magic Barrel By Bernard Malamud (Have)
 The Magic City By Edith Nesbit
 The Magician Of Lublin By Isaac Bashevis Singer
@@ -4550,6 +4550,7 @@ The Masque Of Africa: Glimpses Of African Belief By Sir Vidiadhar Surajprasad Na
 The Master And Margarita By Mikhail Bulgakov
 The Master Of Petersburg By John Maxwell Coetzee
 The Mayor Of Casterbridge By Thomas Hardy (Have)
+Them By Joyce Carol Oates
 The Meaning Of Relativity By Albert Einstein
 The Measure Of A Man: A Spiritual Autobiography By Sidney Poitier (Have)
 The Meeting At Telgte By Günter Grass
