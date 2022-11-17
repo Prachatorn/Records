@@ -13,6 +13,7 @@ A Dialogue Between The Soul And The Body By Andrew Marvell
 A Dialogue Between Thyrsis And Dorinda By Andrew Marvell
 A Foreshortened Journey By Louise Gluck (Read)
 After A Hangover By Ko Un (Read)
+After Building The Lego Stars Wars Ultimate Death Star By Sherman Alexie (Read)
 Afterlife By Ko Un (Read)
 After Long - Fingered Paganini By Vladimir Vysotsky
 After Stacking The Chopped Pines By Ko Un (Read)
@@ -33,6 +34,7 @@ A Night In Spring By Louise Gluck (Read)
 An Island In The Ocean Current By Haruki Murakami (Read)
 An Old Man Awake In His Own Death By Mark Strand (Read)
 Approach Of The Horizon By Louise Gluck (Read)
+A Psalm Of Life By Henry Wadsworth Longfellow
 Arboretum By Louise Gluck (Read)
 Arirang By Ko Un (Read)
 A Sharply Worded Silence By Louise Gluck (Read)
@@ -51,7 +53,7 @@ Aunt By Ko Un (Read)
 Aunt Jennifer's Tigers By Adrienne Rich
 A Village Life By Louise Gluck (Read)
 A Warm Day By Louise Gluck (Read)
-A Work Of FIction By Louise Gluck (Read)
+A Work Of Fiction By Louise Gluck (Read)
 Baby By Ko Un (Read)
 Back Home By Ko Un (Read)
 Balms By Amy Clampitt
@@ -95,6 +97,7 @@ Damon The Mower By Andrew Marvell
 David's Boyhood By Adrienne Rich
 Dawn By Louise Gluck (Read)
 Decade By Louise Gluck (Read)
+Desert Places By Robert Frost
 Dodona: Asked Of The Oracle By Amy Clampitt
 Dover Beach By Matthew Arnold (Read)
 Dream Of Lust By Louise Gluck (Read)
@@ -128,6 +131,7 @@ Fatigue By Louise Gluck (Read)
 Figs By Louise Gluck (Read)
 First By Ko Un (Read)
 First Snow By Louise Gluck (Read)
+Food Chain By Sherman Alexie (Read)
 Footnotes To Howl By Allen Ginsberg
 Forbidden Music By Louise Gluck (Read)
 Forgetting By Ko Un (Read)
@@ -136,6 +140,7 @@ From A Journal By Louise Gluck (Read)
 From Upon Appleton House, To My Lord Fairfax By Andrew Marvell
 Gooseberry Fool By Amy Clampitt
 Front Of A Tree By Ko Un (Read)
+Go, Ghost, Go By Sherman Alexie (Read)
 Going Over Ssari Hill By Ko Un (Read)
 Grace By Louise Gluck (Read)
 Grand Dame Choi Kumja By Ko Un (Read)
@@ -144,6 +149,7 @@ Green Frog By Ko Un (Read)
 Gymnopédies By Adrian Matejka
 Harvest By Louise Gluck (Read)
 Held In Your Arms By Ko Un (Read)
+Home Of The Braves By Sherman Alexie (Read)
 Hometown By Ko Un (Read)
 Homework By Allen Ginsberg
 House By Ko Un (Read)
@@ -198,17 +204,20 @@ Island By Louise Gluck (Read)
 Is My Team Plowing By Alfred Edward Housman
 I Wandered Lonely As A Cloud By William Wordsworth
 January Full Moon By Ko Un (Read)
+Jerusalem Delivered By Torquato Tasso
 Kaddish By Allen Ginsburg
 Kangaroo By Ko Un (Read)
 Kasame Salt Flats By Ko Un (Read)
 Lark By Ko Un (Read)
 Late, Late, So Late By Alfred Tennyson & 1st Baron Tennyson
 Late Summer By Ko Un (Read)
+Le Lac (FR) By Alphonse De Lamartine
 Letters By Ko Un (Read)
 Lion - To Haryong By Ko Un (Read)
 Living In Sin By Adrienne Rich
 Locksley Hall By Alfred Tennyson & 1st Baron Tennyson
 Looking Back By Ko Un (Read)
+Looking Glass By Sherman Alexie (Read)
 Lullaby By Ko Un (Read)
 Lullaby By Wystan Hugh Auden
 Majung Village By Ko Un (Read)
@@ -245,6 +254,7 @@ Mother's Dew By Ko Un (Read)
 Mountain Well By Ko Un (Read)
 Mugging (I) By Allen Ginsberg
 Mustard Flowers In April By Ko Un (Read)
+Mutually Assured Destruction By Sherman Alexie (Read)
 My Poems By Ko Un (Read)
 My Resume By Ko Un (Read)
 My Sad Self By Allen Ginsberg
@@ -253,30 +263,38 @@ New Stanzas For Amazing Grace By Allen Ginsberg
 Noon By Louise Gluck (Read)
 Northern Farmer - New Style By Alfred Tennyson & 1st Baron Tennyson
 Northern Farmer - Old Style By Alfred Tennyson & 1st Baron Tennyson
+Ode For Pay Phones By Sherman Alexie (Read)
 Ode On A Grecian Urn By John Keats
 Ode On Solitude By Alexander Pope
 Ode To A Nightingale By John Keats
+Ode To Mix Tapes By Sherman Alexie (Read)
+Ode To Small - Town Sweethearts By Sherman Alexie (Read)
 Oenone By Alfred Tennyson & 1st Baron Tennyson
 Of Old Sat Freedom On The Heights By Alfred Tennyson & 1st Baron Tennyson
 Olive Trees By Louise Gluck (Read)
 On A Drop Of Dew By Andrew Marvell
+On Airplanes By Sherman Alexie (Read)
 Outfielders' Butts By Haruki Murakami (Read)
 Owl By Ko Un (Read)
+Ozymandias By Percy Bysshe Shelley
 Parable By Louise Gluck (Read)
 Passing Through A Mountain Village By Ko Un (Read)
 Pastoral By Louise Gluck (Read)
 Peace By Ko Un (Read)
+Phenomenal Woman By Maya Angelou
 Planetarium By Adrienne Rich
 Planting Rice By Ko Un (Read)
 Poem By William Carlos Williams
 Poems Of The Peninsula By Ko Un (Read)
 Poetry, I By Adrienne Rich
+Poly - Olbion By Michael Drayton
 Primavera By Louise Gluck (Read)
 Providence By Natasha Trethewey
 Quince Tree By Louise Gluck (Read)
 Radium By Louise Gluck (Read)
 Rain In Summer By Louise Gluck (Read)
 Recollections Of The Arabian Nights By Alfred Tennyson & 1st Baron Tennyson
+Red Plum Flower By Su Shi
 Reunion By Louise Gluck (Read)
 Right Fielder By Haruki Murakami (Read)
 Ripe Peach By Louise Gluck (Read)
@@ -318,14 +336,18 @@ The Ballad Of Reading Gaol By Oscar Wilde
 The Bride Of Abydos By Lord Bryon
 The Character Of Holland By Andrew Marvell
 The Charge Of The Light Brigade By Alfred Tennyson & 1st Baron Tennyson
+The Cold Food Observance By Su Shi
+The Conference Of The Birds By Farid Ud - Din Attar / Attar Of Nishapur
 The Couple In The Park By Louise Gluck (Read)
 The Cow Is Laughing By Ko Un (Read)
 The Croaking Of Frogs By Ko Un (Read)
 The Declaration Of The Free By Robert Green Ingersoll
 The Destination By Louise Gluck (Read)
 The Eagle By Alfred Tennyson & 1st Baron Tennyson
+The Earth By Navarre Scott Momaday
 The Empty Glass By Louise Gluck (Read)
 The Explorer By Adrian Matejka
+The Fall Of Rome By Wystan Hugh Auden
 The Gaucho Martin Fierro By Jose Hernandez
 The Giaour By Lord Bryon
 The Higher Pantheism By Alfred Tennyson & 1st Baron Tennyson
@@ -335,7 +357,11 @@ The Iroha By Anonymous
 The Lady Of Shalott (1832) By Alfred Tennyson & 1st Baron Tennyson
 The Lady Of Shalott (1842) By Alfred Tennyson & 1st Baron Tennyson
 The Lady Of The Lake By Walter Alva Scott
+The Lake By Alphonse De Lamartine
+The Last Rose Of Summer By Thomas Moore
 The Lights At Carney's Point By Alice Moore Dunbar - Nelson
+The Limited By Sherman Alexie (Read)
+The Little Bird, The Bell, And I By Kaneko Misuzu (Read)
 The Lotos - Eaters By Alfred Tennyson & 1st Baron Tennyson
 The Melancholy Assistant By Louise Gluck (Read)
 The Mental Traveller By William Blake
@@ -344,7 +370,9 @@ The Muse Of Happiness By Louise Gluck (Read)
 The New Colossus By Emma Lazarus (Read)
 The Open Window By Louise Gluck (Read)
 Theory Of Memory By Louise Gluck (Read)
+The Owl And The Pussy - Cat By Edward Lear
 The Past By Louise Gluck (Read)
+The Past By Ralph Waldo Emerson
 The Poem In Last Night's Dream By Ko Un (Read)
 The Poet By Ko Un (Read)
 The Princess By Alfred Tennyson & 1st Baron Tennyson
@@ -360,6 +388,7 @@ The Solitary Reaper By William Wordsworth
 The Story Of A Day By Louise Gluck (Read)
 The Street Kids By Ko Un (Read)
 The Sword In The Stone By Louise Gluck (Read)
+The Theology Of Reptiles By Sherman Alexie (Read)
 The Three Way Tavern By Ko Un (Read)
 The Traveler By Louise Gluck (Read)
 The Universal Prayer By Alexander Pope
@@ -404,6 +433,7 @@ When I Was One - And - Twenty By Alfred Edward Housman
 Winds By Ko Un (Read)
 Witness By Amy Clampitt
 Women Of Sunjeri By Ko Un (Read)
+Works And Days By Hesiod
 Written In My Dream By W. C. Williams By Allen Ginsberg
 YH Kim Kyungsook By Ko Un (Read)
 Yom Kippur, 1984 By Adrienne Rich
