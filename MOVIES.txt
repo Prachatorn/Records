@@ -211,6 +211,7 @@ Batman: The Killing Joke (2016) By Sam Liu (Watched)
 Batman V Superman: Dawn Of Justice (2016) By Zack Snyder
 Battle Of The Sexes (2017) By Jonathan Dayton & Valerie Faris
 Battleship (2012) By Peter Berg
+Battleship Potemkin (1926) By Sergei Eisenstein
 Beaches (1988) By Gary Marshall
 Bean (1997) By Mel Smith
 Beat Street (1984) By Stan Lathan
@@ -314,7 +315,7 @@ Certified Copy (2010) By Abbas Kiarostami
 Changing Lanes (2002) By Roger Michell
 Chaos (2005) By Tony Giglio (Watched)
 Chappie (2015) By Neill Blomkamp (Watched)
-Charade (1963) By Stanley Donen
+Charade (FR) (1963) By Stanley Donen
 Chariots Of Fire (1981) By Hugh Hudson
 Charlie's Angels (2019) By Elizabeth Banks (Watched)
 Charlie's Angels: Full Throttle (2003) By Joseph McGinty Nichol
@@ -857,6 +858,7 @@ Lego DC Comics Super Heroes - Justice League Vs. Bizarro League (2015) By Bradon
 Le Navire Night (FR) (1979) By Marguerite Duras
 Les Miserables (2012) By Tom Hooper (Watched)
 Les Quatre Cents Coups (The 400 Blows) (FR) (1959) By Francois Truffaut
+Les Tontons Flingueurs (FR) (1963) By Georges Lautner
 Let The Right One In (2008) By Tomas Alfredson
 L'Homme Anlantique (FR) (1981) By Marguerite Duras
 Liar Liar (1997) By Tom Shadyac (Watched)
@@ -1058,6 +1060,7 @@ Paths Of Glory (1957) By Stanley Kubrick
 Path To War (2002) By John Frankenheimer
 Patti Cake$ (2017) By Geremy Jasper
 Pearl Harbor (2001) By Michael Bay
+Peau De Banane (FR) (1963) By Marcel Ophuls
 Pee - Wee's Big Holiday (2016) By John Lee
 Perfect Blue (1997) By Satoshi Kon
 Pen Pals (1992) By Mary Katzke
@@ -1663,6 +1666,7 @@ The Tree Of Life (2011) By Terrence Malick
 The Truth About Charlie (2002) By Jonathan Demme
 The Turning Point (1977) By Herbert Ross
 The Tuskegee Airman (1995) By Robert Markowitz
+The Umbrellas Of Cherbourg (1964) By Jacques Demy
 The Unforgiven (1960) By John Huston
 The Untouchables (1987) By Brian De Palma
 The Upside (2017) By Neil Burger
