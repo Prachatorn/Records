@@ -1704,7 +1704,8 @@ Hard - Boiled Wonderland And The End Of The World By Haruki Murakami (Read)
 Hard Times By Charles Dickens
 Harlequin And Columbine By Booth Tarkington
 Harold And The Purple Crayon By Crockett Johnson
-Haroun And Luka By Salman Rushdies
+Haroun And Luka By Salman Rushdie
+Haroun And The Sea Of Stories By Salman Rushdie (Read)
 Harriet The Spy By Louise Fitzhugh
 Harry Dernier By Derek Walcott
 Harry Potter And The Chamber of Secrets (Harry Potter, #2) By Joanne Rowling (Read)
@@ -2039,6 +2040,7 @@ Jack Of Spades By Joyce Carol Oates
 Jacko: The Great Intruder By Thomas Keneally
 Jacob's Ladder: A Novel By Lyudmila Ulitskaya
 Jacob's Room By Virginia Woolf (Have)
+Jaques The Fatalist By Denis Diderot
 Jailbird By Kurt Vonnegut (Have)
 Jakarta By Alice Munro
 Jane Eyre By Charlotte Brontë (Have)
@@ -2099,6 +2101,7 @@ Kafka Was The Rage: A Grrenwich Village Memoir By Anatole Broyard
 Kagerō Nikki By Michitsuna's Mother
 Kalila And Dimna #1 - The Panchatantra Retold (Kalila And Dimna, #1) By Ramsay Wood
 Kalle Blomquist Meisterdetektiv By Astrid Lindgren
+Kama Sutra For Couples: Everything You Need To Know About the Ancient Art Of Love Making With Beginner To Expert Techniques, Love Making, And Sex Positions By Anonymous
 Kanat Hiya Al - Ad'af (AR) By Nawal El Saadawi
 Käoraamat (ET) By Jaan Kaplinski
 Karaoke Culture By Dubravka Ugrešić
@@ -2195,6 +2198,7 @@ La Palabra Del Mudo (ES) By Julio Ramón Ribeyro
 La Place De L'Étoile (FR) By Patrick Modiano
 La Prière Et L'épée (FR) By Adunis
 La Princesa Primavera / The Spring Princess By César Aira
+La Prisonnière (FR) by Marcel Proust
 La Propia Muerte (FR) By Péter Nádas
 La Quarantaine (FR) By Jean - Marie Gustave Le Clézio
 L'Arc Et La Lyre (FR) By Octavio Paz
@@ -5188,6 +5192,7 @@ The Traps Of Faith By Octavio Paz
 The Traveller's Baggage By José Saramago
 The Travels Of Jaimie McPheeters By Robert Lewis Taylor
 The Treasure Of Topo - El - Bampo By Scott O'Dell
+The Treatise Of Caresses By Doctor Leleu
 The Trial And Other Stories (2005) By Ifeoma Okoye
 The Trial By Franz Kafka (Read)
 The Trial Of Dedan Kimathi By Ngũgĩ Wa Thiong'o
