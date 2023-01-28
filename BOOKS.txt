@@ -302,6 +302,7 @@ Analyzing Linguistic Data By R. Harald Baayen
 An American Family: The Baby With The Curious Markings By Harry Crews
 An American Marriage: A Novel By Tayari Jones
 An American Tragedy By Theodore Dreiser
+An Amorous History Of The Silver Screen By Zhen Zhang
 An Angel In Australia By Thomas Keneally
 An Angel Walks Through The Stage: And Other Essays By Jon Fosse
 An Angry Letter In January: Poems By Ama Ata Aidoo
@@ -784,6 +785,7 @@ Cards Of Identity By Nigel Dennis (Have)
 Career Move By Martin Amis
 Carlota By Scott O'Dell
 Carlota Fainberg (ES) By Antonio Muñoz Molina
+Carl Theodor Dreyer's Gertrud: The Moving Word By James Schamus
 Carmen And Other Stories By Prosper Mérimée (Have)
 Carnegie's Maid By Marie Benedict
 Carnival At Candlelight (Magic Tree House, #33) By Mary Pope Osborne
@@ -1326,6 +1328,8 @@ Enfances (FR) By Jean - Marie Gustave Le Clézio
 Enfermés Avec Un Seul Jouet By Juan Marsé
 England, England By Julian Barnes
 Enigma Variations: A Novel By André Aciman
+Enjoy Your Symptom!: Jacques Lacan In Hollywood And Out By 
+Slavoj Žižek
 Enough By Wisława Szymborska
 Enquête Sur Un Sabre (FR) By Claudio Magris
 Entertaining Satan: Witchcraft And The Culture Of Early New England By John Putnam Demos
@@ -2434,7 +2438,7 @@ Lulu: Roman By Mircea Cărtărescu
 Lunch In Paris: A Delicious Love Story, With Recipes By Elizabeth Bard
 Lunia: Triumph, Tragedy, And The End Of The Edwardian Age By Greg King
 Lust By Elfriede Jelinek
-Lust, Caution By Eileen Chang
+Lust, Caution: A Story By Eileen Chang (Read)
 Lying For A Living By Steve McCondichie
 Lying Under The Apple Tree By Alice Munro
 Lyrical And Critical Essays By Albert Camus
@@ -2655,6 +2659,7 @@ Morning And Evening Talk: A Novel By Naguib Mahfouz
 Morning In The Burned House By Margaret Atwood
 Morning, Paramin By Derek Walcott
 Moses The Lawgiver By Thomas Keneally
+Moshi Moshi By Banana Yoshimoto (Read)
 Mortality And Mercy In Vienna By Thomas Pynchon
 Most Dangerous Game By Richard Connell (Read)
 Mother Country By Marilynne Robinson
@@ -3124,6 +3129,7 @@ Poetry Pamphlets 1 - 12 By Lydia Davis
 Poetry: September 2012
 Point Blank (Alex Rider, #2) By Anthony Horowitz
 Point Omega By Don DeLillo
+Poisoner In Chief: Sidney Gottlieb And The CIA Search For Mind Control By Stephen Kinzer
 Poisson D'or (FR) By Jean - Marie Gustave Le Clézio
 Polar Bears Past Bedtime (Magic Tree House, #12) By Mary Pope Osborne
 Polish Writers On Writing By Adam Zagajewski
@@ -4075,7 +4081,8 @@ The Cruise Of The Arctic Star By Scott O'Dell
 The Crying Of Lot 49 By Thomas Pynchon (Read)
 The Cryptid Hunters (Marty And Grace, #1) By Roland Smith (Have)
 The Cubs By Mario Vargas Llosa
-The Cuckoo Clock Of Doom (Goosebumps, #28) By RObert Lawrence Stine
+The Cuckoo Clock Of Doom (Goosebumps, #28) By Robert Lawrence Stine
+The Cult Of Trump: A Leading Cult Expert Explains How The President Uses Mind Control By Steven Hassan
 The Cultural Revolution: A People's History, 1962 - 1976 (People's Trilogy, #3) By Frank Dikötter
 The Culture Of Democracy: Language, Literature, And The Arts And Politics In Malawi, 1992 - 1994 By Steven Bernard Miles Chimombo
 The Culture Of Lies By Dubravka Ugrešić
@@ -4701,6 +4708,7 @@ The Mothers By Brit Bennett
 The Mountain By Drusilla Modjeska
 The Mountain Between Us By Charles Martin
 The Mountains Of Parnassus By Czesław Miłosz
+The Mourner (Parker, #4) By Richard Stark
 The Mulching Of America By Harry Crews
 The Mummy Awakens By Nagiub Mahfouz
 The Mummy Walks (Goosebumps 2000, #16) By Robert Lawrence Stine
@@ -5078,7 +5086,7 @@ The Smoke Of Distant Fires By Eduardo Chirinos
 The Snares Of Memory By Juam Marse
 The Snow Child By Eowyn Ivey
 The Snowden Files: The Inside Story Of The World's Most Wanted Man By Luke Harding
-The Snow Goose: A Story By Paul Gallico (Read)
+The Snow Goose: A Story Of Dunkirk By Paul Gallico (Read)
 The Social Contract By Jean - Jacques Rousseau
 The Soft Voice Of The Serpent By Nadine Gordimer
 The Solitude Of Compassion By Jean Giono
