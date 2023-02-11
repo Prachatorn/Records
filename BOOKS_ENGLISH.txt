@@ -4697,7 +4697,7 @@ The Monkey Grammarian By Octavio Paz
 The Monogram By Odysseas Elytis
 The Moomins And The Great Flood (The Moomins, #1) By Tove Jansson
 The Moon Is A Harsh Mistress By Robert Anson Heinlein
-The Moon Is Down By John Steinbeck
+The Moon Is Down By John Steinbeck (Read) (Fav)
 The Moons Of Jupiter By Alice Munro
 The Moonstone By Wilkie Collins
 The Moor's Last Sigh By Salman Rushdie
@@ -5067,6 +5067,7 @@ The Short Stories By Ian McEwan
 The Sickness (Animorphs, #29) By Katherine Applegate
 The Siege By Ismail Kadare
 The Silence Of Heaven: Agnon's Fear Of God By Amos Oz
+The Silence Of The Sea By Jean Br
 The Silence Of Water By Jose Saramago
 The Silent Army: Seven Forges By James Arthur Moore
 The Silent Corner By Dean Koontz
