@@ -137,6 +137,7 @@ After Abel And Other Stories By Michal Lemberger
 After Dark By Haruki Murakami (Read)
 After Henry By Joan Didion
 Afterlives By Abdulrazak Gurnah (Read)
+After Midnight By Irmgard Kuen
 Afternoon On The Amazon (Magic Tree House, #6) By Mary Pope Osborne
 After The Banquet By Yukio Mishima
 After The Quake By Haruki Murakami (Read)
@@ -341,12 +342,14 @@ Anna Karenina By Leo Tolstoy
 Anna Karenina: The Screenplay Based On The Novel By Leo Tolstoy By Tom Stoppard
 Anne Of Green Gables (Anne Of Green Gables, #1) By Lucy Maud Montgomery (Read)
 Anne Of Windy Poplars (The Anne Of Green Gables Novels, #4) (Have) By Lucy Maud Montgomery
+Annie John By Jamaica Kincaid
 Ann Veronica By Herbert George Wells
 An Old Woman And Her Cat By Doris Lessing
 Another Beauty By Adam Zagajewski
 Another Brooklyn: A Novel By Jacqueline Woodson (Read)
 Another Country By James Baldwin
 Another Life By Derek Walcott
+Another Marvelous Thing By Laurie Colwin
 Another Pamela / Virtue Still Rewarded By Upton Sinclair (Have)
 Another Secret: Luuletusi By Doris Kareva
 Anselm Kiefer: Transition From Cool To Warm By Karl Ove Knausgård
@@ -610,6 +613,7 @@ Berlin Alexanderplatz By Alfred Doblin
 Berlin Game (Bernard Samson, #1) By Len Deighton
 Berryman's Shakespeare: Essays, Letters, And Other Writings By John Berryman
 Berta Isla: A Novel By Javier Marias
+Beside The Sea By Veronique Olmi
 Besties 2: More Than Just Friends (Tales From Erotically You) By Paul Sanders
 Best Lesbian Erotica Of The Year, Volume 2 By Sacchi Green (Read)
 Best Women's Erotica Of The Year, Volume 3 By Rachel Kramer Bussel (Read)
@@ -696,6 +700,7 @@ BODY By Harry Crews
 Bog Poems By Seamus Heaney
 Bomber By Len Deighton
 Bone: A Novel By Fae Myenne Ng (Have)
+Bonjour Tristesse By Francoise Sagan
 Bookclub In A Box Discusses The Novel Family Matters By Marilyn Herbert & Rohinton
 Boomtown By James Arthur Moore
 Border Districts: A Fiction By Gerald Murnane
@@ -742,6 +747,7 @@ Bud, Not Buddy By Christopher Paul Curtis (Have)
 Buenas Tardes A Las Cosas De Aqui (ES) By Antonio Lobo Antunes
 Buffalo Before Breakfast (Magic Tree House, #18) By Mary Pope Osborne
 Bukolit By Elfriede Jelinek
+Bullet Train: A Novel By Kotaro Isaka
 Burger's Daughter By Nadine Gordimer
 Burmese Days By George Orwell (Read)
 Burning Bright By John Steinbeck
@@ -964,6 +970,7 @@ Cossee Essay By David Grossman
 Countries Of The Mind: The Fiction Of J. M. Coetzee By David Guttman, Dick Penner & John Maxwell Coetzee
 Coup De Semonce (FR) By William Golding
 Course Of Empire: Paintings By Joan Didion
+Cousin Phillis By Elizabeth Gaskell
 Crabwalk By Gunter Grass
 Cramp (Fast Fiction) By Gao Xingjian
 Cranford By Elizabeth Gaskell
@@ -1066,6 +1073,7 @@ Death And The Maiden By Ariel Dorkman (Have) (Read)
 Death As A Way Of Life By David Grossman
 Death By Water By Kenzaburo Oe
 Death Comes For The Archbishop By Willa Cather
+Death Going Down By Maria Angelica Bosco
 Death In Midsummer And Other Stories By Yukio Mishima (Read)
 Death In The Afternoon By Ernest Hemingway
 Death In The Andes By Mario Vargas Llosa
@@ -2822,6 +2830,7 @@ Night Of The Ninjas (Magic Tree House, #5) By Mary Pope Osborne
 Night Of The Ninth Dragon (Magic Tree House, #55) By Mary Pope Osbourne
 Night Rounds By Patrick Modiano
 Nightshade (Alex Rider, #12) By Anthony Horowitz
+Nightshade: An Only In Tokyo Mystery By Jomelle Patrick
 Night Shift By Stephen King
 Nightsongs By Jon Fosse
 Night Train By Martin Amis
@@ -3844,6 +3853,7 @@ The Areas Of My Expertise By John Hodgman
 The Arkansas Testament By Derek Walcott
 The Armageddon Rag By George Raymond Richard Martin
 The Arrival (Animorphs, #38) By Katherine Applegate
+The Artificial Silk Girl By Irmgard Keun (Read)
 The Art Of Love By Ovid
 The Art Of The Novel By Milan Zundera
 The Art Of The Tale: An International Anthology Of Short Stories By Daniel Halpern (Have)
@@ -4566,6 +4576,7 @@ The Last Question By Isaac Asimov
 The Last Sacrifice: The Tides Of War By James Arthur Moore
 The Last Stand Of The DNA Cowboys By Mick Farren (Have)
 The Last Starfighter By Alan Dean Foster
+The Last Tea Bowl Thief By Jonelle Patrick
 The Last Thing He Wanted By Joan Didion
 The Last Train To Zona Verde: My Ultimate African Safari By Paul Theroux
 The Last Tycoon By Francis Scott Key Fitgerald
@@ -4601,6 +4612,7 @@ The Little Mariner By Odysseas Elytis
 The Little Old Lady Who Struck Again!: A Novel (League Of Persioners, #2) By Catharina Ingelman - Sundberg
 The Little Prince By Antoine De Saint - Exupery (Read)
 The Little Sister (Philip Marlower, #5) By Raymond Chandler
+The Little Teashop In Tokyo By Julie Caplin
 The Lives Of Animals By John Maxwell Coetzee
 The Lives Of Things: Stories By Jose Saramago (Read)
 The Living Infinite By Chantel Acevedo
@@ -4841,6 +4853,7 @@ The Perpetual Orgy: Flaubert And Madame Bovary By Mario Vargas Llosa
 The Perplexity Of Hariya Hercules By Manohar Shyam Joshi (Have)
 The Phantom Lover And Other Thrilling Tales Of Thailand By Jim Algie
 The Philosophy Of Money By George Simmel
+The Phonebooth At The End Of The World By Laura Imai Messina
 The Physics Of Sorrow By Georgi Gospodinov
 The Piano Teacher By Elfriede Jelinek
 The Piano Tuner By Daniel Mason
@@ -5515,6 +5528,7 @@ Toddler - Hunting & Other Stories By Taeko Kono (Have)
 To Forteljingar (NO) By Jon Fosse
 To Kill A Mockingbird By Harper Lee (Read)
 Tokyo Decadence: 15 Stories By Ryu Murakami (Read)
+Tokyo Every After By Emiko Jean
 Tokyo Vice: An American Reporter On The Police Beat In Japan By Jake Adelstein
 To Live By Yu Hua (Read)
 Tomas Jonsson, Bestseller By Guthbergur Bergsson
