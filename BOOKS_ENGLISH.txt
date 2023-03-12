@@ -416,6 +416,7 @@ Arther & George By Julian Barnes
 Artist Descending A Staircase, And, Where are They Now? Two Plays For Radio By Tom Stoppard
 A Russian Beauty And Other Stories By Vladimir Nabokov
 A Scanner Darkly By Philip Kindred Dick
+A Season In Hell By Arthur Rimbaud
 A Season In Rihata By Maryse Conde
 A Season On Earth By Gerlad Murnane
 A Secret History Of Witches By Louisa Morgan
@@ -2309,6 +2310,7 @@ Letters From London By Julian Barnes
 Letters From War By Mark Schultz & Travis Thrasher
 Letters Home: Correspondence, 1950 - 1963 By Sylvia Plath
 Letters To A Young Novelist By Mario Vargas Llosa
+Letters To A Young Poet By Rainer Maria Rilke
 Letters To Marina By Dacia Maraini
 Let The Great World Spin By Colum McCann
 Let The Old Dead Make Room For The Young Dead: Faber Stories By Milan Kundera
@@ -2892,6 +2894,7 @@ Not To Disturb By Dame Muriel Spark
 Not Without Laughter By Langston Hughes
 Novel 11, Book 18 By Dag Solstad
 Novels 1976 - 1985: Slapstick / Jailbird / Deadeye Dick / Galapagos By Kurt Vonnegut
+Novels And Stories: The Lottery, The Haunting Of Hill House, We Have Always Lived In The Castle, Other Stories And Sketches By Shirley Jackson (Read)
 Novye Stansy K. Avguste: Stikhotvoreniia K. M. B. By Joseph Brodsky
 Now And After: The ABC Of Communist Anarchism By Alexander Berkman
 Now And Forever: Somewhere A Band Is Playing & Leviathan '99 By Ray Bradbury (Read)
@@ -2943,6 +2946,7 @@ On A Slow Train Through Arkansaw By Thomas William Jackson
 On Boxing By Joyce Carol Oates
 On Chesil Beach By Ian McEwan
 On Contemporary Art By Cesar Aira
+On Earth We're Briefly Gorgeous By Ocean Vuong
 One Bad Week: A Jonathan Crowley Chronicle By James Arthur Moore
 One By One By Ruth Ware
 One Day At Horrorland (Goosebumps, #16) By Robert Lawrence Stine
@@ -3225,6 +3229,7 @@ Qashtamar By Nagiub Mahfouz
 Quatre Quatuors Pour Un Week - End (FR) By Gao Xingjian
 Queenie (Storycuts) By Alice Munro
 Queen Of Shadows (Throne Of Glass, #4) By Sarah Janet Maas
+Queer By William Seward Burroughs II
 Quentin Dumvard By Sir Waltor Scott (Have)
 Que Hareis Con Este Libro. Teatro Completo / What Will You Do with This Book. Complete Theater (ES) By Jose Saramago
 Querelle Of Roberval By Kevin Lambert
@@ -3545,7 +3550,7 @@ Sleep No More: Six Murderous Tales By Phyllis Dorothy James
 Sleep Of Memory By Patrick Modiano
 Sleepwalking Land By Mia Couto
 Slight Exaggeration: An Essay By Adam Zagajewski
-Slouching Towards Bethlehem By Joan Didion
+Slouching Towards Bethlehem: Essays By Joan Didion
 Slow Boat By Hideo Furukawa
 Slow Learner By Thomas Pynchon
 Slow Man By John Maxwell Coetzee
@@ -4519,7 +4524,7 @@ The Issa Valley By Czeslaw Milosz
 The It - Doesn't Matter Suit By Sylvia Plath
 The Jaguar Smile By Salman Rushdie
 The Janitor On Mars By Martin Amis
-The Japanese Lover: A Novel By Isabel Allende (Have)
+The Japanese Lover: A Novel By Isabel Allende (Have) (Read)
 The Jekyll Revelation By Robert Masello
 The Jewish Century By Yuri Slezhine (Have)
 The Job OF The Wasp: A  bY Colin Winnette
@@ -5113,6 +5118,7 @@ The Snow Child By Eowyn Ivey
 The Snowden Files: The Inside Story Of The World's Most Wanted Man By Luke Harding
 The Snow Goose: A Story Of Dunkirk By Paul Gallico (Read)
 The Social Contract By Jean - Jacques Rousseau
+The Society Of The Spectacle By Guy Debord
 The Soft Voice Of The Serpent By Nadine Gordimer
 The Solitude Of Compassion By Jean Giono
 The Solitude Of Latin America By Gabriel Garcia Marquez
@@ -5675,6 +5681,7 @@ Up A Road Slowly By Irene Hunt
 Up In The Old Hotel By Joseph Mitchell
 Up In The Tree By Margaret Atwood
 Uprooted By Naomi Novik
+Upstream: Selected Essays By Mary Oliver
 Uri's Special Language By David Grossman
 USA: The 42nd Parallel / 1919 / The Big Money By John Dos Passos
 Ute Av Verden (NO) BY Karl Ove Knausgard
