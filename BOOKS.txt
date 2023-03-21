@@ -14,6 +14,7 @@
 19th - Century American Women's Novels: Interpretive Strategies By Susan K. Harris
 1Q84 By Haruki Murakami (Read)
 1Q84 By Haruki Murakami (KR) (Have)
+2666 By Roberto Bolaño
 28 By Patrick Modiano
 2 By Crews By Harry Crews
 300 Days Of Sun: A Novel By Deborah Lawrenson
@@ -51,6 +52,7 @@ A Brick Wall By César Aira
 A Briefer History Of Time By Leonard Mlodinow & Stephen Hawking
 A Brief History Of Montmaray By Michelle Cooper
 A Brief History Of Steven Killings By Marlon James
+A Bright Ray Of Darkness By Ethan Hawke
 Absalom, Absalom! By William Faulkner
 Absence Of Mind: Dispelling Of Inwardness From The Modern Myth Of The Self By Marilynne Robinson
 Absolutely On Music: Conversations With Seiji Ozawa By Haruki Murakami
@@ -190,6 +192,7 @@ Airport In Amsterdam By Adam Zagajewski
 Airshipwreck By Len Deighton
 A Journal Of The Plague Year By Daniel Defoe
 A Journey To The End Of The Millennium By Abraham B. Yehoshua
+"Akahata" No Rokujunen (JP) By Anonymous
 A King Alone By Jean Giono (Read)
 A Knight Of The Seven Kingdoms By George Raymond Richard Martin
 A Land As God Made It: Jamestown And The Birth Of America By James Horn
@@ -431,6 +434,7 @@ Ashley Bell By Dean Koontz
 A Shocker On Shock Street (Goosebumps, #35) By Robert Lawrence Stine
 A Short History Of Chemistry By Isaac Asimov 
 A Short History Of Hairdressing (Storycuts) By Julian Barnes
+A Short History Of Nearly Everything By Bill Bryson
 As I Lay Dying By William Faulkner (Read)
 Asimov's Guide To The Bible By Isaac Asimov
 A Simple Story By Elizabeth Inchbald (Have)
@@ -458,6 +462,7 @@ A Strange Solitude By Philippe Sollers
 A Streetcar Named Desire By Tennessee Williams
 A Sudden Liberating Thought: Selected Stories By Kjell Askildsen
 A Summer Place By Sloan Wilson
+As We Are Now By May Sarton (Read)
 Asymmetry: Poems By Adam Zagajewski
 A Tale For The Time Being By Ruth Ozeki (Have)
 A Tale Of Flowering Fortunes: Annals Of Japanese Aristocratic Life In The Heian Period By Helen Craig McCullough & William H. McCullough
@@ -505,6 +510,7 @@ A Very Scandinavian Christmas: The Greatest Nordic Holiday Stories Of All Time B
 A Victim Of The Aurora By Thomas Keneally
 A View By The Sea By Shōtarō Yasuoka
 A Village Life: Poems By Louise Glück (Read)
+A Visit From The Goon Squad By Jennifer Egan
 A Walk In The Night And Other Stories (1962) By Alex La Guma
 A War Of Words By Yasir Suleiman
 A Way In The World By Sir Vidiadhar Surajprasad Naipaul (Read)
@@ -545,6 +551,7 @@ Bald Eagle Stew By Malcolm D. Magee, Michigan Authors Syndicate, Micki Magee & S
 Balikbayan: And, Muse: Two Plays By Francisco Sionil José
 Ballaciner (FR) By Jean - Marie Gustave Le Clézio
 Ballade Nocturne: Libretto For A Dance Performance By Gao Xingjian
+Ballad Of The Whiskey Robber: A Trob Story Of Bank Heists, Ice Hockey, Transylvanian Pelt Smuggling, Moonlighting Detectives, And Broken Hearts By Julian Rubinstein
 Baltasar And Blimunda By José Saramago
 Baltics By Tomas Tranströmer
 Balto Of The Blue Dawn (Magic Tree House, #54) By Mary Pope Osbourne
@@ -866,6 +873,7 @@ Christmas In Camelot (Magic Tree House, #29) By Mary Pope Osborne
 Christmas In July (Christmas, Colorado, #2) By Debbie Mason
 Christmas Lights By Travis Thrasher
 Christodora By Tim Murphy
+Christ Stopped At Eboli By Carlo Levi
 Christ Versus Arizona By Camilo José Cela
 Chronicle In Stone By Ismail Kadare
 Chronicle Of A Blood Merchant By Yu Hua
@@ -1188,6 +1196,7 @@ Dog Years By Günter Grass
 Dolores Claiborne By Stephen King
 Dom Dzienny, Dom Nocny (PL) By Olga Tokarczuk
 Donne Mie (IT) By Dacia Maraini
+Do No Harm By Henry Marsh
 Do Not Say We Have Nothing By Madeleine Thien
 Dolphins At Daybreak (Magic Tree House, #9) By Mary Pope Osborne
 Domingos De Agosto (FR) By Patrick Modiano
@@ -1586,6 +1595,7 @@ Full Moon Fever (Goosebumps 2000, #22) By Robert Lawrence Stine
 Funeral In Berlin By Len Deighton
 Further Tales Of The City (Tales Of The City, #3) By Armistead Maupin
 Fury By Salman Rushdie
+Future Shock By Alvin Toffler
 Gabriel García Márquez: The Last Interview: And Other Conversations By Gabriel García Márquez
 Gagamba By Francisco Sionil José
 Galeerentagebuch (DE) By Imre Kertész
@@ -1803,6 +1813,7 @@ Hinge Tagasitulek (ET) By Jaan Kaplinski
 Hingring By Doris Kareva
 Hint Fiction: An Anthrology Of Stories In 25 Words Or Fewer By Robert Swartwood
 Hiroshima Notes By Kenzaburō Ōe
+Hiroshima Peace Reader By Yoshiteru Kosakai
 His Bloody Project: Documents Relating To The Case Of Roderick MacRae By Graeme Macrae Burnet
 Historia Abreviada De La Literatura Portátil (ES) By Enrique Vila - Matas
 Historia De Detectives: Detective Story By Juan Marsé
@@ -1843,7 +1854,9 @@ Horse Under Water (Secret File, #2) By Len Deighton
 Hotel Savoy By Joseph Roth
 Hour Of The Olympics (Magic Tree House, #16) By Mary Pope Osborne
 Housekeeping By Marilynne Robinson
-House Of Gold Bud Macfarlane Jr.
+House Of Gold By Bud Macfarlane Jr.
+House Of Gold By Natasha Solomons
+House Of Leaves By Mark Z. Danielewski
 House Of Meetings By Martin Amis
 House Of Secrets By James Arthur Moore
 How I Became A North Korean By Krys Lee
@@ -2170,6 +2183,7 @@ Klara And The Sun: A Novel By Kazuo Ishiguro (Read)
 Knots By Nuruddin Farah
 Knowing French (Storycuts) By Julian Barnes
 Knowledge Of Hell By António Lobo Antunes
+Know My Name: A Memoir By Chanel Miller
 Knuckles The Hound Of Hanalei By Rick Dierker & Susan Dierker
 Koba The Dread By Martin Amis
 Kojiki By Anonymous
@@ -2194,6 +2208,7 @@ Ladera Este (ES) By Octavio Paz
 Lad Destruction De Kreshev (FR) By Isaac Bashevis Singer
 La Distancia Que Nos Separa (ES) By Renato Cisneros
 Lady Chatterley's Lover By David Herbert Richards Lawrence (Have)
+Lady Joker By Kaoru Takamura
 Lady Oracle By Margaret Atwood
 Lady With Lapdog And Other Stories By Anton Chekhov
 La Exposicion (FR) By Claudio Magris
@@ -2490,6 +2505,7 @@ Maisie Dobbs (Maisie Dobbs, #1) By Jacqueline Winspear
 Maison Dans La Derive (FR) By Marilynne Robinson
 Making The Arab World: Nasser, Qutb, And The Clash That Shaped The Middle East By Fawaz A. Gerges
 Making Waves (Beach Lane, #1) By Laura Moore
+Malgudi Days: Stories By Rasipuram Krishnaswami Iyer Narayanaswami
 Man And His Tools By William A. Burns
 Man - Eaters Of Kumaon By Jim Corbett
 Mangiami Pure By Dacia Maraini
@@ -2506,6 +2522,7 @@ Man Must Live: Stories (1947) By Ezekial 'Es'kia' Mphahlele
 Mano De Sombra (ES) By Javier Marias
 Manservant And Maidservant By Ivy Compton - Burnett
 Mansfield Park By Jane Austen
+Man's Search For Meaning By Viktor Frankl
 Manual Of Painting And Calligraphy By José Saramago
 Manual Of The Woodcraft Indians: The Fourteenth Birch - Bark Roll, Containing Their Constitution, Laws, And Deeds, And Much Additional Matter By Ernest Thompson Seton
 Man'yōshū By Anonymous
@@ -2839,6 +2856,7 @@ Night Rounds By Patrick Modiano
 Nightshade (Alex Rider, #12) By Anthony Horowitz
 Nightshade: An Only In Tokyo Mystery By Jomelle Patrick
 Night Shift By Stephen King
+Night Sky With Exit Wounds: Poems By Ocean Vuong
 Nightsongs By Jon Fosse
 Night Train By Martin Amis
 Nikolai Gogol By Vladimir Nabokov
@@ -2885,6 +2903,7 @@ Not All Bastards Are From Vienna By Andrea Molesini
 Not An Empty Promise By Joyce Anne Trbilco
 Notes D'Okinawa (FR) By Kenzaburō Ōe
 Notes From Underground By Fyodor Dostoevsky (Read)
+Notes Of A Crocodile By Qiu Miaojin
 Notes On A Scandal By Zoë Heller
 Notes On The Death Of Culture: Essays On Spectacle And Society By Mario Vargas Llosa
 No Te Vayas, No Me Olvides (ES) By Carrie Fisher
@@ -3288,6 +3307,7 @@ Red Mafiya: How The Russian Mob Has Invaded America By Robert I. Friedman
 Red Prophet (Tales of Alvin Maker, #2) By Orson Scott Card (Have)
 Red Sorghum By Mo Yan
 Red Sparrow (Red Sparrow Trilogy, #1) By Jason Matthews
+Reef By Romesh Gunesekera
 Rein Gold By Elfriede Jelinek
 Re - Membering Africa By Ngũgĩ Wa Thiong'o
 Remember: The Journey To School Integration By Toni Morrison
@@ -3380,13 +3400,14 @@ Same Kind Of Different As Me By Ron Hall
 Samuel Johnson Ia Meri Kaikissa Meissä (FI) By Jaan Kaplinski
 Sams Indignant: Stories By Lydia Davis
 San Camilo 1936 By Camilo José Cela
+Sancho The Bailiff By Ogai Mori
 Sanctuary By Nora Roberts
 Sanctuary By William Faulkner
 Sandalwood Death By Mo Yan
 Sandkings By George Raymond Richard Martin
 San Francisco Cry By Thomas Pynchon
 Sanningsbarriären (SV) By Tomas Tranströmer
-Sancho The Bailiff By Ogai Mori
+Sapiens: A Brief History Of Humankind By Yuval Noah Harari
 Sapphō (GRK) By Odysseas Elytis
 Sarah Bishop By Scott O'Dell
 Sardines By Nuruddin Farah
@@ -3678,6 +3699,7 @@ Step Across This Line By Salman Rushdie
 Stephen Hawking's A Brief History Of Time: A Reader's Companion By Stephen Hawking
 Step - Poems By Odysseas Elytis
 Still Life At Sunset (Three Roads Home, #3) By Travis Thrasher
+Stillness Speaks By Eckhart Tolle
 Stolen (Magic Thief, #1) By Sarah Prineas (Have)
 Storia Di Piera (IT) By Dacia Maraini
 Stories By Gabriel García Márquez
@@ -3783,6 +3805,7 @@ Tell Me A Story: Stories By Steven Bernard Miles Chimombo
 Temptation (Solitary Tales, #3) By Travis Thrasher
 Ten By Gretchen McNeil (Read)
 Tender Wings Of Desire By Harland Sanders
+Tender Is The Flesh By Austina Bazterrica
 Tender Is The Night By Francis Scott Key Fitzgerald
 Teniente Bravo (ES) By Juan Marsé
 Ten Thousand Lives By Ko Un
@@ -4091,6 +4114,7 @@ The Copycat Effect: How The Media And Popular Culture Trigger The Mayhem In Tomo
 The Corn Maiden And Other Nightmares By Joyce Carol Oates
 The Corrections By Jonathan Franzen
 The Counselor By Cormac McCarthy
+The Course Of Love By Alain De Botton
 The Counterfeiters By André Gide
 The Count Of Monte Cristo By Alexandre Dumas (Read)
 The Country Of Ice Cream Star By Sandra Newman
@@ -4391,6 +4415,7 @@ The Great Enigma By Tomas Tranströmer
 The Greatest Story Ever Told--So Far: Why Are We Here? By Lawrence Maxwell Krauss
 The Great Eurozone Disaster: From Crisis To Global New Deal By Keikki Patomaki (Have)
 The Great Fall By Peter Handke (Read)
+The Great Fires By Jack Gilbert
 The Great Gatsby By Francis Scott Key Fitzgerald (Read)
 The Great Winter By Ismail Kadare
 The Green House By Mario Vargas Llosa
@@ -4697,6 +4722,7 @@ The Melancholy Of Resistance By László Krasznahorkai
 The Member Of The Wedding By Carson McCullers (Read)
 The Memoirs Of A Survivor By Doris Lessing
 The Memoirs Of Elias Canetti: The Tongue Set Free, The Torch In My Ear, The Play Of The Eyes By Elias Canetti
+The Memory Police By Yoko Ogawa
 The Merry Adventures Of Robin Hood By Howard Pyle
 The Message (Animorphs, #4) By Katherine Applegate
 The Metamorphosis By Franz Kafka (Have) (Read)
@@ -5069,6 +5095,7 @@ The Secret (Animorphs, #9) By Katherine Applegate
 The Secret Diary Of Adrian Mole, Aged 13 3/4 By Sue Townsend
 The Secret Garden By Frances Hodgsun Burnett (Have)
 The Secret Heart Of The Clock: Notes, Aphorisms, Fragments, 1973 - 1985 By Elias Canetti
+The Secret History By Donna Tartt
 The Secret Integration By Thoams Pynchon
 The Secret Life Of Bees By Sue Monk Kidd (Have)
 The Secret Life Of France By Lucy Wadham
@@ -5873,6 +5900,7 @@ What They Don't Teach You At Harvard Business School By Mark McCormack
 What They Teach You At Harvard Business School By Mark McCormack
 What We Saw By Aaron Hartzler (Read)
 What Wives Wish Their Husbands Knew About Women By James Clayton "Jim" Dobson, Jr. (Have)
+When Breath Becomes Air By Paul Kalanithi
 When Cultures Meet: Remembering San Gabriel Del Yunge Oweenge: Papers From The October 20, 1984 Conference Held At San Juan Pueblo, New Mexico By Myra E. Jenkins & Richard Ford
 When It No Longer Matters Where You Live: Poems (1999) By Tanure Ojaide
 When I Was A Child I Read Books: Essays By Marilynne Robinson
