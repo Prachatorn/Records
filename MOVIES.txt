@@ -343,6 +343,7 @@ Cheaper By The Dozen (2003) By Shawn Levy (Watched)
 Chernobyl Diaries (2012) By Bradely Parker
 Chicken Run (2000) By Nick Park & Peter Lord
 Chicago (2002) By Rob Marshall
+Children Of Love (1953) By Leonide Moguy
 CHIPS (2017) By Dax Shepard
 Cirque Du Freak: The Vampire's Assistant (2009) By Paul Weitz
 Citizen Kane (1941) By Orson Welles
@@ -361,6 +362,7 @@ Collateral Beauty (2016) By David Frankel
 Collision (2013) By David Marconi (Watched)
 Collision Course (1989) By Lewis Teague
 Color Of Night (1994) By Richard Rush
+Companions Of The Night (1953) By Ralph Habib
 Comrades: Almost A Love Story (ZH) (1996) By Peter Chan (Watched)
 Concussion (2015) By Peter Landesman (Watched)
 Confirmation (2016) By Rick Famuyiwa
@@ -807,8 +809,8 @@ Jimmy Neutron: Boy Genius (2001) By John Alexander Davis (Watched)
 Jingle All The Way (1996) By Brian Levant
 Joe's Palace (2007) By Stephen Poliakoff
 Joe Versus The Volcano (1990) By John Patrick Shanley
-John Wick (2014) By Chad Stahelski & David Leitch
-John Wick: Chapter 2 (2017) By Chad Stahelski
+John Wick (2014) By Chad Stahelski & David Leitch (Watched)
+John Wick: Chapter 2 (2017) By Chad Stahelski (Watched)
 John Wick: Chapter 3 - Parabellum (2019) By Chad Stahelski
 Johnson Family Vacation (2004) By Christopher Erskin
 Jojo Rabbit (2019) By Taika Waititi (Watched)
@@ -864,6 +866,7 @@ Kung Fu Panda (2008) By John Stevenson & Mark Osborne (Watched)
 Kung Fu Panda 2 (2011) By Jennifer Yuh Nelson (Watched)
 Kung Fu Panda 3 (2016) By Alessandro Carloni & Jennifer Yuh Nelson (Watched)
 Kung Pow! Enter The Fist (2002) By Steve Oedeker
+La Belle De Cadix (The Beauty Of Cadiz) (FR) (1953) By Eusebio Fernandex Ardavin & Raymond Bernard
 La Boum (The Party) (1980) By Claude Pinoteau
 La Cara Oculta (The Hidden Face) (2011) By Andres Baiz
 La Casa De Beatriz (Beatriz's House) (2017) By Suzanne Andrews
@@ -1529,6 +1532,7 @@ The Florida Project (2017) By Sean Baker
 The Fourth Kind (2009) By Olatunde Osunsanmi
 The Fugitive (1993) By Andrew Davis
 The Full Monty (1997) By Peter Cattaneo
+The Game Of Love (1954) By Claude Autant - Lara
 The Gateaway (1972) By Sam Peckinpah
 The Gathering Storm (2002) By Richard Loncraine
 The Gene Generation (2007) By Pearry Reginald Teo
@@ -1553,6 +1557,8 @@ The Guru (2003) By Daisy Von Scherler Mayer
 The Hand That Rocks The Cradle (1992) By Curtis Hanson
 The Hangover (2009) By Todd Philips (Watched)
 The Hate U Give (2018) By George Tillman Jr. (Watched)
+The Haunting (1963) By Robert Wise
+The Haunting (1999) By Jan De Bont
 The Heiresses (2018) By Marcelo Martinessi
 The Help (2011) By Tate Taylor
 The Hidden Fortress (1958) By Akira Kurosawa
@@ -1618,6 +1624,7 @@ The Lion King (1994) By Rob Minkoff & Roger Allers (Watched)
 The Lives Of Others (2006) By Florian Henckel Von Donnersmarck (Watched)
 The Lizzie McGuire Movie (2003) By Jim Fall
 The Lobster (2015) By Yorgos Lanthimos (Watched)
+The Long Absence (1961) By Henri Colpi
 The Long, Hot Summer (1958) By Martin Ritt
 The Long Ships (1964) By Jack Cardiff
 The Lord Of The Rings: The Fellowship Of The Ring (2001) By Peter Jackson
@@ -1689,6 +1696,7 @@ The Purge (2013) By James DeMonaco
 The Purge: Election Year (2016) By James DeMonaco
 The Quiet American (2002) By Phillip Noyce
 The Quiet Man (1952) By John Ford
+The Rains Of Ranchipur (1955) By Jean Negulesco
 The Rape Of The Sabine Women (1962) By Alberto Gout
 The Rape Of The Sabine Women (2006) By Eve Sussman
 The Red Detachment Of Women (1961) By Xie Jin
@@ -1756,6 +1764,7 @@ The Turning Point (1977) By Herbert Ross
 The Tuskegee Airman (1995) By Robert Markowitz
 The Umbrellas Of Cherbourg (1964) By Jacques Demy
 The Unforgiven (1960) By John Huston
+The Unfrocked One (FR) (1954) By Leo Joannon
 The Untouchables (1987) By Brian De Palma
 The Upside (2017) By Neil Burger
 The Usual Suspects (1995) By Bryan Singer

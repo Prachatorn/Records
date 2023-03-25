@@ -128,6 +128,7 @@ A Farewell To Arms By Ernest Hemingway (Read)
 A Feast For Crows (A Song of Ice and Fire, #4) By George Raymond Richard Martin
 A Feast Of Snakes By Harry Crews
 A Fine Balance By Rohinton Mistry
+Afin Que Nul Ne Meure (FR) BY Frank Gill Slaughter
 A Fish In The Water By Mario Vargas Llosa
 A Flag On The Island By Sir Vidiadhar Surajprasad Naipaul
 Africa Dances: A Book About West African Negroes By Geoffrey Gorer
@@ -883,8 +884,9 @@ Chronicle Of The Murdered House By Lucio Cardoso
 Cienka Kreska (PO) By Adam Zagajewski
 Cincizeci De Sonete De Mircea Cartarescu Cu Cincizeci De Desene Originale De Tudor Jebeleanu (RU) By Mircea Cartarescu
 Cincuenta Poemas (ES) By Odysseas Elytis
-Citoyens By Tomas Transtromer
+Citadelle By Antoine De Saint - Exupery
 Cities Of The Plain By Cormac McCarthy
+Citoyens By Tomas Transtromer
 City Gate, Open Up By Bei Dao
 City Of Bones By Cassandra Clare (Read)
 City Of Fortune: How Venice Ruled The Seas By Roger Crowley
@@ -1733,6 +1735,7 @@ Halting Steps: Collected And New Poems By Claribel Alegria
 Hana Monogatari: Stories By Nobuko Yoshiya
 Hanan Qalil (AR) By Nawal El Saadawi
 Handling The Undead By John Ajvide Lindqvist
+Hangsaman By Shirley Jackson
 Hannibal (Hannibal Lecter, #3) By Thomas Harris (Have)
 Happening By Annie Ernaux (Read)
 Harald, Claudia, And Their Son Duncan By Nadine Gordimer
@@ -1812,7 +1815,7 @@ Hindoo Holiday: An Indian Journal By Joe Randolph Ackerley
 Hinge Tagasitulek (ET) By Jaan Kaplinski
 Hingring By Doris Kareva
 Hint Fiction: An Anthrology Of Stories In 25 Words Or Fewer By Robert Swartwood
-Hiroshima Notes By Kenzaburo Oe
+Hiroshima Notes: Essays By Kenzaburo Oe (Read)
 Hiroshima Peace Reader By Yoshiteru Kosakai
 His Bloody Project: Documents Relating To The Case Of Roderick MacRae By Graeme Macrae Burnet
 Historia Abreviada De La Literature Portatil (ES) By Enrique Vila - Matas
@@ -2351,6 +2354,7 @@ Libro De Cronicas (ES) By Antonio Lobo Antunes
 Licks Of Love: Short Stories And A Sequel, "Rabit Remembered" By John Updike (Have)
 Life 3.0: Being Human In The Age Of Artificial Intelligence By Max Tegmark
 Lies, First Person By Gail Hareven
+Life Among The Savages By Shirley Jackson
 Life And Death Are Wearing Me Out By Mo Yan
 Life And Fate By Vasily Grossman
 Life As We Know It By Susan Beth Pfeffer (Read)
@@ -2744,6 +2748,7 @@ My Brother, My Executioner By Francisco Sionil Jose
 My Century By Czeslaw Milosz
 My Century By Gunter Grass
 My Childhood By Maxim Gorky (Have)
+My Cousin Rachel By Daphne Du Maurier
 My Darling Clementine: The Story Of Lady Churchill By Jack Fishman
 Mydriase By Jean - Marie Gustave Le Clezio
 My Dog Tulip By Joe Randolph Ackerley (Have)
@@ -3216,6 +3221,7 @@ Princess Prunella And The Purple Peanut By Margaret Atwood
 Printemps Et Autres Saisons (FR) By Jean - Marie Gustave Le Clezio
 Prison Memoirs Of An Anarchist By Alexander Berkman
 Prisons We Choose To Live Inside By Doris Lessing
+Private Demons: The Life Of Shirley Jackson By Judy Oppenheimer
 Prize Stock By Kenzaburo Oe
 Probably Joy By Jose Saramago
 Pro Bono By Seicho Matsumoto
@@ -3278,6 +3284,7 @@ Raindance Writers' Lab: Write + Sell The Hot Screenplay By Elliot Grove (Have)
 Rain In The Wind: Stories By Saiichi Maruya (Have)
 Raise From The Ground By Jose Saramago
 Raise High The Roof Beam, Carpenters & Seymour: An Introduction By Jerome David Salinger (Have)
+Raising Demons By Shirley Jackson
 Raiz De Orvalho E Outros Poemas (PT) By Mia Couto
 Ramayana By Valmiki
 Ramsey Milholland By Booth Tarkington
@@ -3947,6 +3954,7 @@ The Bicentennial Man By Isaac Asimov
 The Big Box By Toni Morrison
 The Big Green Tent By Lyudmila Ulitskaya
 The Bill By Laszlo Krasznahorka
+The Bird's Nest By Shirley Jackson
 The Birthday Party & The Room: 2 Plays By Harold Pinter (Have) (Read)
 The Birth Of Korean Cool: How One Nation Is Conquering The World Through Pop Culture By Euny Hong (Have) (Read)
 The Bishop And The Actress: A Play By Tom Stoppard
