@@ -317,6 +317,7 @@ An Area Of Darkness By Sir Vidiadhar Surajprasad Naipaul
 A Narrow Margin Of Error By Faith Martin
 An Artist Of The Floating World By Kazuo Ishiguro (Read)
 Anathemas And Amirations By Emil Cioran
+Anatomy Of Love By Helen Fisher
 Ancillary Justice (Imperial Radch, #1) By Ann Leckie
 And Death His Legacy By George Raymond Richard Martin
 And Quiet Flows The Don By Mikhail Sholokhov
@@ -1257,6 +1258,7 @@ Dunbar By Richard Fortey
 Dune By Frank Herbert
 Dunkirk By Hugh Sebag - Montefiore (Have)
 Dusklands By John Maxwell Coetzee
+Dusty Answer By Rosamond Lehmann
 Dwa Miasta (PO) By Adam Zagajewski
 Dying Of The Light By George Raymond Richard Martin
 Dzikie Czeresnie (PO) By Adam Zagajewski
@@ -1312,6 +1314,7 @@ El Gallego Y Su Cuadrilla (ES) By Camilo Jose Cela
 El Hombre Sentimental By Javier Marias
 Elijah The Slave By Isaac Bashevis Singer
 El Invierno En Lisboa (ES) By Antonio Munoz Molina
+Elise, Or Real Life By Claire Etcherelli
 Elizabeth Costello By John Maxwell Coetzee
 Elizabeth Costello: Huit Lecons (FR) By John Maxwell Coetzee
 Elle By Douglas Glover
@@ -1392,6 +1395,7 @@ Eternal Enemies: Poems By Adam Zagajewski
 Eternal Life: A Novel By Dara Horn
 Ethan Frome By Edith Wharton (Read)
 Et Stort Ode Landskap (NO) By Kjell Askildsen
+Etudes Sur Le Temps Humain (FR) By Georges Poulet
 Eugene Onegin By Alexander Pushkin
 Eu Hei - De Amar Uma Pedra (ES) By Antonio Lobo Antunes
 Europe In Sepia By Debravka Ugresic
@@ -1427,10 +1431,11 @@ Fables: The Wolf Among Us Volume 1 By Dave Justus, Eric Nguyen, Lee Loughridge, 
 Fables: The Wolf Among Us Volume 2 By Andrew Pepoy, Christopher Mitten, Dave Justus, Eric Nguyen, Joelle Jones, Lee Loughridge, Matthew Sturges, Megan Levens, Shawn McManus, Steve Sadowski, Travis Moore (Read)
 Facing The Bridge By Yoko Tawada
 Fado Alexandrino By Antonio Lobo Antunes
-Fairy Tales for Computers By Leslie George Katz
 Fahrenheit 451 By Rad Bradbury (Read)
+Fairy Tales For Computers By Leslie George Katz
 Faith By Len Deighton
 Faithful And Virtuous Night: Poems By Louise Gluck (Read)
+Faithful Wife By Diana Hamilton
 Faith Versus Fact: Why Science And Religion Are Incompatible By Jerry A. Coyne (Read)
 Fallen Gods: Tides Of War By James Arthur Moore
 Falling Leaves: The Memoir Of An Unwanted Chinese Daughter By Adeline Yen Mah (Have)
@@ -2216,6 +2221,7 @@ Lady Oracle By Margaret Atwood
 Lady With Lapdog And Other Stories By Anton Chekhov
 La Exposicion (FR) By Claudio Magris
 La Fete Chantee Et Autres Essais De Theme Amerindien (FR) By Jean - Marie Gustave Le Clezio
+La Fidelite Et Le Couple (FR) By Gerard Leleu
 La Fievre (FR) By Jean - Marie Gustave Le Clezio
 La Flecha Del Tiempo (FR) By Martin Amis
 La Fuga Del Rio Lobo (FR) By Juan Marse
@@ -2316,6 +2322,8 @@ Lesley Castle By Jane Austen
 Les Miserables By Victor Hugo (Read)
 Les Miserables. Piano / Vocal Selections By Alain Boublil
 Les Nuits De Shanghai (FR) By Juan Marse
+Les Petits Enfants Du Siecle (FR) By Christiane Rochefort
+Les Plaideurs (FR) By Jean Racine
 Less By Andrew Sean Greer
 Les Sages De Chelm (FR) By Isaac Bashevis Singer
 Less Than One: Selected Essays By Joseph Brodsky
@@ -2373,7 +2381,8 @@ Light Is Like Water By Gabriel Garcia Marquez
 Light Lifting By Alexander Macleod (Have)
 Lightning By Dean Koontz
 Lightning Conductors And Lightning Guards: A Treatise On The Protection Of Buildings, Of Telegraph Instruments And Submarine Cables, And Of Electric Installations Generally, From Damage By Atmospheric Discharges By Sir Oliver Joseph Lodge
-Light Years (Light Years, #1)
+Light - Years By Sarge Rezvani
+Light Years (Light Years, #1) By Kass Morgan
 Like A Mule Bringing Ice Cream To The Sun By Sarah Ladipo Manyika
 Like A Fading Shadow: A Novel By Antonio Munoz Molina
 Like Family: A Novel By Paolo Giordano
@@ -3505,6 +3514,7 @@ Seventeen Syllables And Other Stories By Hisaye Yamamoto
 Seventeen Poisoned Englishmen By Gabriel Garcia Marquez
 Seventeenth Century Poetry: The Schools Of Donne And Jonson By Hugh Kenner (Have)
 Sex And Rage By Eve Babitz
+Sexual Politics By Kate Millett
 Sexy By Joyce Carol Oates
 Shadow And Act By Ralph Ellison
 Shadow: Five Presidents And The Legacy Of Watergate By Bob Woodward
@@ -3619,6 +3629,7 @@ Sol Primordi: The Silent Night And The Lioness Of The Sword By Mike Walker
 Somebody (Three Roads Home, #1) By Travis Thrasher
 Some Hell By Patrick Nathan
 Some Monday For Sure By Nadine Gordimer
+Someone By Robert Pinget
 Someone Talking To Sometime: Poems By Ama Ata Aidoo
 Someone To Run With By David Grossman
 Somersault By Kenzaburo Oe (Read)
@@ -4014,7 +4025,7 @@ The Brethen By Bob Woodward & Scott Armstrong
 The Bridegroom Was A Dog By Yoko Tawada
 The Bride Price By Buchi Emecheta (Have) (Read)
 The Bridge Of San Luis Rey By Thornton Wilder (Read)
-The Bridge Over The River Kwai By Pierre Boulle
+The Bridge On The River Kwai By Pierre Boulle
 The Brief Wondrous Life Of Oscar Wao By Junot Diaz
 The Bright Hour: A Memoir Of Living And Dying By Nina Riggs
 The Broken Wings By Kahlil Gibran (Have) (Read) (Fav)
@@ -4302,6 +4313,7 @@ The Feathered Serpent By Scott O'Dell
 The Federalist Papers By Alexander Hamilton (Have)
 The Feet Of Juan Bacnang: A Novel By Francisco Sionil Jose
 The Fellowship Of The Ring (The Lord Of The Rings, #1) By John Ronald Reuel Tolkien
+The Female Eunuch By Germaine Greer
 The Festival Of Insignificance By Milan Kundera
 The Fifth Child (1985) By Doris May Lessing
 The Fifth Risk By Michael Lewis
@@ -4534,6 +4546,7 @@ The Infatuations By Javier Marias
 The Information By Martin Amis
 The Information: A History, A Theory, A Flood By James Gleick
 The Inheritors By William Golding
+The Inheritors: French Students And Their Relations To Culture By Pierre Bourdieu
 The Innerworld Of The Outerworld Of The Innerworld By Peter Handke
 The Innocence Of Memories By Orhan Pamuk
 The Innocence Of Objects By Orhan Pamuk
@@ -4799,7 +4812,7 @@ The Natural Order Of Things By Antonio Lobo Antunes
 The Nawal El Saadawi Reader By Nawal El Saadawi
 The Neighborhood By Mario Vargas Llosa
 The Nest By Cynthia D'Aprix Sweeney (Have)
-The Net (Have)
+The Net By Anonymous (Have)
 The Neverending Story By Michael Ende (Read)
 The New Darkness (The Bluesuit Chronicles, #2) By John Hansen (Read)
 The New Dead By Aimee Bender, Brian Keene, David Liss, David Wellington, Derek Nikitas, James Arthur Moore, Joe R. Lansdale, John Connolly, Jonathan Maberry, Kelley Armstrong, Max Brooks, Mike Carey, Rick Hautala, Tad Williams & Tim Lebbon
@@ -5386,6 +5399,7 @@ The Waste Tide By Chen Qiufan
 The Water Knife By Paolo Bacigalupi
 The Water Mark By Travis Thrasher
 The Water - Method Man By John Irving
+The Waves By Virginia Woolf
 The Way Of All Women: A Psychological Interpretation By Mary Esther Harding
 The Way Of Life Should Be: A Novel By Christina Baker Kline (Have)
 The Way To Paradise By Mario Vargas Llosa

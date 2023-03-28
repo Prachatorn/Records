@@ -166,6 +166,7 @@ ARQ (2016) By Tony Elliott
 Arthur (1981) By Steve Gordon
 Arthur And The Invisibles (2006) By Luc Besson
 As Above / So Below (2014) By John Erick Dowdle
+A Simple Story (FR) (1978) By Claude Sautet
 A Sound Of Thunder (2005) By Peter Hyams
 Assa (RU) (1987) By Sergei Solovyov
 Assault On Precicnt 13 (1976) By John Carpenter
@@ -195,6 +196,7 @@ A Walk In The Clouds (1995) By Alfonso Arau
 Away We Go (2009) By Sam Mendes (Watched)
 A Weekend With The Family (2016) By Chris Stokes
 A Whisker Away (JP) (2020) By Junichi Sato & Tomotaka Shibayama (Watched)
+A Woman Under The Influence (1974) By John Cassavetes
 Bad Boys (1995) By Michael Bay
 Bad Boys II (2003) By Michael Bay
 Bad Times At The El Royale (2018) By Drew Goddard (Watched)
@@ -238,6 +240,7 @@ Berenice (1987) By Klaus - Michael Gruber
 Bernard And Doris (2006) By Bob Balaban
 Bessie (2015) By Dee Rees (Watched)
 Better Luck Tomorrow (2002) By Justin Lin
+Bewitched (2005) By Nora Ephron
 Beyond Borders (2003) By Martin Campbell
 Big (1988) By Penny Marshall
 Big Fish (2003) By Tim Burton (Watched)
@@ -352,6 +355,7 @@ Civil Brand (2002) By Neema Barnette
 Clash By Night (1952) By Fritz Lang
 Class Action (1991) By Michael Apted
 Clear History (2013) By Greg Mottola
+Cleo From 5 To 7 (1962) By Agnes Varda
 Cleopatra (1963) By Joseph Leo Mankiewicz
 Clinica De Migrantes (2016) By Maxim Pozdorovkin
 Clueless (1995) By Amy Heckerling
@@ -380,6 +384,7 @@ Cradle 2: The Grave (2003) By Andrzej Bartkowiak
 Crazy Heart (2009) By Scott Cooper
 Crazy Rich Asians (2018) By Jonathan Murray Chu (Watched)
 Creed (2015) By Ryan Coogler (Watched)
+Cria Cuervos (1976) By Carlos Saura
 Cries And Whispers (1972) By Ingmar Bergman
 Crimes And Misdemeanors (1989) By Woody Allen
 Crimes Of The Future (2022) By David Cronenberg
@@ -405,6 +410,7 @@ Deadpool (2016) By Tim Miller (Watched)
 Deadpool 2 (2018) By David Leitch (Watched)
 Dead Presidents (1995) By Albert Hughes & Allen Hughes
 Dead Silence (2007) By James Wan
+Dear Caroline (FR) (1968) By Denys De La Patelliere
 Dear Renzo (2016) By Agostina Galvez & Francisco Lezama
 Death In Venice (1971) By Luchino Visconti
 Death Race (2008) By Paul William Scott Anderson
@@ -504,6 +510,7 @@ El Diablo (1990) By Peter Markle
 El Futbol O Yo (My Love Or My Passion) (2017) By Marcos Carnevale
 El Hombre Que Cuida (The Watchman) By Alejandro Andujar
 El Hueco (The Hole) (2015) By Daniel Martin Rodriguez & German Tejada
+Elise, Or Real Life By Michel Drach
 El Peso De La Ley (The Weight Of The Law) (2017) By Fernan Miras
 El Techo (On The Roof) (2016) By Patricia Ramos
 Elizabeth 1 (Part 1) (2005) By Tom Hooper
@@ -631,6 +638,7 @@ Godzilla: King Of The Monsters (2019) By Michael Dougherty (Watched)
 Gog (1954) By Herbert L. Strock
 Going In Style (2017) By Zach Braff
 Going My Way (1944) By Leo McCarey
+Going Places (1974) By Bertrand Blier
 Goke, Body Snatcher From Hell (JP) (1968) By Hajime Sato
 Goldfinger (1964) By Guy Hamilton
 Gold Standard (2018) By Zac Goold
@@ -677,6 +685,7 @@ Happening (FR) (2022) By Audrey Diwan
 Happy Feet (2006) By George Miller
 Happy Tears (2009) By Mitchell Lichtenstein
 Happy Wedding (IN) (2016) By Omar Lulu
+Harakiri (JP) (1962) By Masaki Kobayashi
 Hard Candy (2005) By David Slade
 Harry Potter And The Chamber Of Secrets (2002) By Chris Columbus
 Harry Potter And The Deathly Hallows: Part 1 (2010) By David Yates
@@ -753,6 +762,7 @@ Ice Age: Collision Course (2016) By Galen T. Chu & Mike Thurmeier
 Ice Age: Dawn Of The Dinosaurs (2009) By Carlos Saldanha & Mike Thurmeier
 Ice Princess (2005) By Tim Fywell
 Ideal Home (2018) By Andrew Fleming
+Identification Of A Woman (1982) By Michelangelo Antonioni
 Identity (2003) By James Mangold
 If Anything Happens I Love You (2020) By Michael Govier & Will McCormack (Watched)
 If Beale Street Could Talk (2018) By Barry Jenkins
@@ -811,7 +821,8 @@ Joe's Palace (2007) By Stephen Poliakoff
 Joe Versus The Volcano (1990) By John Patrick Shanley
 John Wick (2014) By Chad Stahelski & David Leitch (Watched)
 John Wick: Chapter 2 (2017) By Chad Stahelski (Watched)
-John Wick: Chapter 3 - Parabellum (2019) By Chad Stahelski
+John Wick: Chapter 3 - Parabellum (2019) By Chad Stahelski (Watched)
+John Wick: Chapter 4 (2023) By Chad Stahelski (Watched)
 Johnson Family Vacation (2004) By Christopher Erskin
 Jojo Rabbit (2019) By Taika Waititi (Watched)
 Joker (2019) By Todd Phillips (Watched)
@@ -879,6 +890,7 @@ La Educacion Del Rey (Rey's Education) (ES) (2017) By Santiago Esteves
 La Familia (The Family) (ES) (2017) By Gustavo Rondon Cordova
 La Femme D'A Cote (FR) (1981) By Francois Truffaut
 La Gran Promesa (The Big Promise) (ES) (2017) By Jorge Ramirez Suarez
+La Gueule Ouverte (FR) By Maurice Pialat
 La Gunguna (2015) By Ernesto Alemany
 La Invitacion (Sleepover) (ES) (2016) By Susana Casares Domingo
 La La Land (2016) By Damien Chazelle
@@ -893,14 +905,18 @@ Las Grietas De Jara (Dark Buildings) (A Crack In The Wall) (2018) By Nicolas Gil
 Las Horas Contadas (The Numbered Hours) (ES) (2016) By Guido Jacome
 Last Days (2005) By Gus Van Sant
 La Strada (The Road) (IT) (1954) By Federico Fellini
+Last Tango In Paris (1972) By Bernardo Bertolucci
 Last Year At Marienbad (1961) By Alain Resnais
 Leap Year (2010) By Anand Tucker
 Leaves Of Grass (2009) By Tim Blake Nelson
 Leaving Las Vegas (1995) By Mike Figgis
+Le Bonheur (FR) (1965) By Agnes Varda
 L'Ecole De La Chair (FR) (1998) By Banoit Jacqout
 Legally Blonde (2001) By Robert Luketic
 Legend (2015) By Brian Helgeland
 Lego DC Comics Super Heroes - Justice League Vs. Bizarro League (2015) By Bradon Vietti (Watched)
+Le Grand Cirque (FR) (1949) By Georges Peclet
+Le Grand Cirque (FR) (2023) By Booder & Gaelle Falzerana
 Le Navire Night (FR) (1979) By Marguerite Duras
 Leon (1994) By Luc Besson
 Les Miserables (2012) By Tom Hooper (Watched)
@@ -957,10 +973,13 @@ Man On The Moon (1999) By Milos Forman
 Mandrake Telefilm: Part 1 (2013) By Jose Henrique Fonseca
 Mandrake Telefilm: Part 2 (2013) By Jose Henrique Fonseca
 Man Facing Southeast (1986) By Eliseo Subiela
+Manhattan (1979) By Woody Allen
+Manina, The Girl In The Bikini (1952) By Willy Rozier
 Maquinaria Panamericana (Panamerican Machinery) (2016) By Joaquin Del Paso
 Marauders (2016) By Steven C. Miller
 Marci X (2003) By Richard Benjamin
 Maria Full Of Grace (2004) By Joshua Marston
+Marianne Of My Youth (1955) By Julien Duvivier
 Maria (Y Los Demas) (Maria And Everyone Else) (ES) (2016) By Nely Reguera
 Marley & Me (2008) By David Frankel (Watched)
 Marmaduke (2010) By Tom Dey
@@ -1011,6 +1030,7 @@ Moana (2016) By John Musker & Ron Clements (Watched)
 Mom And Dad Save The World (1992) By Greg Beeman
 Monday (2000) By Sabu
 Money Plane (2020) By Andrew Lawrence
+Monsieur Vincent (1947) By Maurice Cloche
 Monster's Ball (2001) By Marc Forster
 Monsters Vs. Aliens (2009) By Conrad Vernon & Rob Letterman
 Monty Python And The Holy Grail (1975) By Terry Gilliam & Terry Jones (Watched)
@@ -1095,6 +1115,7 @@ Once Upon A Sesame Street Christmas (2016) By Matt Vogel
 Once Upon A Time In Mexico (2003) By Robert Rodriguez
 One Day (2011) By Lone Scherfig
 One Halloween (2017) By Rebecca Murga
+One Summer Of Happiness (1951) By Arne Mattsson
 Only Angels Have Wings (1939) By Howard Hawks
 On The Basis Of Sex (2018) By Mimi Leder
 On The Beach (1959) By Stanley Kramer
@@ -1296,6 +1317,7 @@ Sister Act (1992) By Emile Ardolino
 Sister Act 2: Back In The Habit (1993) By Bill Duke
 Sixteen Candles (1984) By John Hughes
 Sixty Glorious Years (1938) By Herbert Wilcox
+Sky Fighters (2005) By Gerard Pires
 Sky High (2005) By Mike Mitchell (Watched) (Fav)
 Skyscraper (2018) By Rawson Marshall Thurber (Watched)
 Sleepless In Seattle (1993) By Nora Ephron
@@ -1412,6 +1434,7 @@ Tank Girl (1995) By Rachel Talalay
 Taxi (2004) By Tim Story
 Terms Of Endearment (1983) By James Lawrence Brooks
 Teenage Mutant Ninja Turtles (1990) By Steve Barron
+Tempest In The Flesh (FR) (1954) By Ralph Habib
 Temple Grandin (2010) By Mick Jackson
 Tenacious D: Pick Of Destiny (2006) By Liam Lynch (Watched) (Fav)
 Tequila (2011) By Sergio Sanchez Suarez
@@ -1443,6 +1466,7 @@ The Avengers (2012) By Joss Whedon (Watched)
 The Aviator (2004) By Martin Scorsese
 The Babysitter (2017) By Joseph McGinty Nichol
 The Bad Batch (2017) By Ana Lily Amirpour
+The Battle Of The Rails (FR) (1946) By Rene Clement
 The Beach (2000) By Danny Boyle (Watched)
 The Beast With Five Fingers (1946) By Robert Florey
 The Bee Movie (2007) By Simon James Smith & Steve Hickner
@@ -1458,6 +1482,7 @@ The Birth Of A Nation (1915) By David Wark Griffith & Thomas Dixon, Jr.
 The Birth Of A Nation (2016) By Nate Parker (Watched)
 The Black Stallion (1979) By Carroll Ballard
 The Blind Side (2009) By John Lee Hnacock (Watched)
+The Blonde Witch (FR) (1956) By Andre Michel
 The Book Of Eli (2010) By Albert Hughes & Allen Hughes (Watched)
 The Bone Collector (1999) By Phillip Noyce
 The Borrowers (1998) By Peter Hewitt
@@ -1664,6 +1689,7 @@ The Night Of The Hunter (1955) By Charles Laughton
 The Ninth Gate (1999) By Roman Polanski
 The Normal Heart (2014) By Ryan Murphy
 The Notorious Bettie Page (2005) By Mary Harron
+The Nun (FR) (1966) By Jacques Rivette
 The Nutty Professor (1996) By Tom Shadyac
 The Old Man & The Gun (2018) By David Lowry (Watched)
 The Onion Movie (2008) By Mike Maguire & Tom Kuntz
