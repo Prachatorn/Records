@@ -229,6 +229,7 @@ Bean (1997) By Mel Smith
 Beat Street (1984) By Stan Lathan
 Beau Geste (1939) By William Augustus Wellman
 Beau Geste (1966) By Douglas Heyes
+Be Beautiful But Shut Up (1958) By Marc Allegret
 Beerfest (2006) By Jay Chandrasekhar
 Before Sunrise (1995) By Richard Linklater
 Before The Devil Knows You're Dead (2007) By Sidney Lumet
@@ -352,6 +353,7 @@ Cirque Du Freak: The Vampire's Assistant (2009) By Paul Weitz
 Citizen Kane (1941) By Orson Welles
 Citizen X (1995) By Chris Gerolmo (Watched)
 Civil Brand (2002) By Neema Barnette
+Claire Dolan (1998) By Lodge Kerrigan
 Clash By Night (1952) By Fritz Lang
 Class Action (1991) By Michael Apted
 Clear History (2013) By Greg Mottola
@@ -555,6 +557,7 @@ Fargo (1996) By Ethan Coen & Joel Coen
 Fast & Furious (2009) By Justin Lin
 Fast & Furious Presents: Hobbs & Shaw (2019) By David Leitch (Watched)
 Father Figures (2017) By Lawrence Sher
+Fear City: A Family - Style Comedy (1994) By Alain Berberian
 Fellow Traveler (1975) By Masud Asadollahi
 Ferdinand (2017) By Carlos Saldanha
 Ferris Bueller's Day Off (1986) By John Hughes
@@ -964,18 +967,19 @@ Make Believe Ballroom (1949) By Joseph Santley
 Mal De Ojo (2015) By Solange Morales
 Mamartuile (2017) By Alejandro Saevich
 Mama Se Fue De Viaje (Ten Days Without Mom) (2017) By Ariel Winograd
-Mannequin (1987) By Michael Gottlieb
-Mannequin Two: On The Move (1991) By Stewart Raffill
-Man Of La Mancha (1972) By Arthur Hiller
-Man On Fire (1987) By Elie Chouraqui
-Man On Fire (2004) By Tony Scott
-Man On The Moon (1999) By Milos Forman
+Man Bites Dog (FR) (1992) By Andre Bonzel, Benoit Poelvoorde & Remy Belvaux
 Mandrake Telefilm: Part 1 (2013) By Jose Henrique Fonseca
 Mandrake Telefilm: Part 2 (2013) By Jose Henrique Fonseca
 Man Facing Southeast (1986) By Eliseo Subiela
 Manhattan (1979) By Woody Allen
 Manina, The Girl In The Bikini (1952) By Willy Rozier
 Maquinaria Panamericana (Panamerican Machinery) (2016) By Joaquin Del Paso
+Mannequin (1987) By Michael Gottlieb
+Mannequin Two: On The Move (1991) By Stewart Raffill
+Man Of La Mancha (1972) By Arthur Hiller
+Man On Fire (1987) By Elie Chouraqui
+Man On Fire (2004) By Tony Scott
+Man On The Moon (1999) By Milos Forman
 Marauders (2016) By Steven C. Miller
 Marci X (2003) By Richard Benjamin
 Maria Full Of Grace (2004) By Joshua Marston
@@ -1040,6 +1044,7 @@ Morgan (2016) By Luke Scott
 Mortal Engines (2018) By Christian Rivers
 Mosca (Fly) (ES) (2016) By Lizette Barrera (Watched)
 Moulin Rouge! (2001) By Baz Luhrmann
+Mourir D'Aimer (FR) (1971) By Andre Cayatte
 Mr. 3000 (2004) By Charles Stone III
 Mr. Brooks (2007) By Bruce A. Evans
 Mr. Magoo (1997) By Stanley Tong
@@ -1147,6 +1152,7 @@ Patti Cake$ (2017) By Geremy Jasper
 Pearl Harbor (2001) By Michael Bay
 Peau De Banane (FR) (1963) By Marcel Ophuls
 Pee - Wee's Big Holiday (2016) By John Lee
+People Of No Importance (1956) By Henri Verneuil
 Perfect Blue (1997) By Satoshi Kon
 Pen Pals (1992) By Mary Katzke
 Persepolis (2007) By Marjane Satrapi & Winshluss
@@ -1215,6 +1221,7 @@ Renaissance Man (1994) By Penny Marshall
 Reno 911!: Miami (2007) By Robert Ben Garant
 Replicas (2018) By Jeffrey Nachmanoff
 Requiem For A Dream (2000) By Darren Aronofsky
+Reservoir Dogs (1992) By Quentin Tarantino
 Resident Evil (2022) By Paul William Scott Anderson
 Resurrect (2018) By Justin Floyd
 Revenge Of The Nerds (1984) By Jeff Kanew
@@ -1248,6 +1255,7 @@ Salome (1923) By Charles Bryant
 Samba (Sandbag) (2018) By Israel Cardenas & Laura Guzman
 Sancho The Bailiff (1954) By Kenji Mizoguchi
 Sandy Wexler (2017) By Steven Brill
+Saturday Night Fever (1977) By John Badham
 Sausage Party (2016) By Conrad Vernon & Greg Tiernan
 Saw (2004) By James Wan (Watched)
 Saw 2 (2005) By Darren Lynn Bousman (Watched)
@@ -1395,6 +1403,7 @@ Strip Search (2004) By Sidney Lumet
 Stuart: A Life Backwards (2007) By David Attwood
 Stuart Little 2 (2002) By Rob Minkoff
 Stuck On You (2003) By Bobby Farrelly & Peter Farrelly
+Sue (1997) By Amos Kollek
 Sugar (2009) By Anna Boden & Ryan Fleck
 Sugar Hill (1994) By Leon Ichaso
 Suicide Squad (2016) By David Ayer (Watched)
@@ -1722,6 +1731,7 @@ The Purge (2013) By James DeMonaco
 The Purge: Election Year (2016) By James DeMonaco
 The Quiet American (2002) By Phillip Noyce
 The Quiet Man (1952) By John Ford
+The Rainbow Warrior (1993) By Michael Tuchner
 The Rains Of Ranchipur (1955) By Jean Negulesco
 The Rape Of The Sabine Women (1962) By Alberto Gout
 The Rape Of The Sabine Women (2006) By Eve Sussman
@@ -1778,6 +1788,7 @@ The Temp (1993) By Tom Holland
 The Terminal (2004) By Steven Spielberg
 The Terminator (1984) By James Cameron
 The Thieves (2012) By Choi Dong - Hoon
+The Things Of Life (1970) By Claude Sautet
 The Thin Man (1934) By Woodbridge Strong Van Dyke II
 The Thin Red Line (1998) By Terrence Malick
 The Thomas Crown Affair (1968) By Norman Jewison
@@ -1841,6 +1852,7 @@ Tinker Tailor Soldier Spy (2011) By Tomas Alfredson
 Titan A.E. (2000) By Don Bluth & Gary Goldman
 TMNT (2007) By Kevin Munroe
 To Catch A Thief (1955) By Alfred Hitchcock
+To Die For (1995) By Gus Van Sant
 Todos Tenemos Un Plan (Everybody Has A Plan) (2012) By Ana Piterbarg
 Toenail (2017) By Jingyi Shao
 To Kill A Mockingbird (1962) By Robert Mulligan

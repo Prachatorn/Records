@@ -1995,6 +1995,7 @@ In Praise Of The Stepmother By Mario Vargas Llosa
 In Search Of A Homeland By Czesław Miłosz
 In Search Of Lost Time By Marcel Proust
 In Search Of The Word: Selected Essays Of F. Sionil José By Francisco Sionil José
+Inseparable: A Novel By Simone De Beauvoir
 Insignificant Others: A Novel By Stephen McCauley
 Insomnia By Stephen King
 Inspired Notes: Poems Of Tomas Tranströmer By Tomas Tranströmer
@@ -4863,6 +4864,7 @@ The Only Problem By Dame Muriel Spark
 The Only Story By Julian Barnes
 The Open Couple & An Ordinary Day By Dario Fo
 The Orchard Keeper By Cormac McCarthy (Read)
+The Order Of Things: An Archaeology Of The Human Sciences By Michel Foucault
 The Origin Of Others By Toni Morrison
 The Origin Of Species By Charles Darwin
 The Orphan Master's Son By Adam Johnson
@@ -5135,6 +5137,7 @@ The Seven Ages: Poems By Louise Glück (Read)
 The Seven Husbands Of Evelyn Hugo By Taylor Jenkins Reid
 The Seventh Day By Yu Hua (Have)
 The Several Lives Of Joseph Conrad By J.H. Stape
+The Sexual Life Of Catherine M. By Catherine Millet
 The Sexual Man By Kenzaburō Ōe
 The Shattered Crown (Steelhaven, #2) By Richard Ford
 The Shawl By Cynthia Ozick (Have) (Read)
@@ -5489,6 +5492,7 @@ The Year Of 1993 By José Saramago
 The Year Of Magical Thinking By Joan Didion
 The Year Of The Death Of Ricardo Reis By José Saramago
 The Year Of The Flood (MaddAddam, #2) By Margaret Atwood
+The Years By Annie Ernaux (Read)
 The Years, Months, Days By Yan Lianke
 The Yellow Wall - Paper And Other Stories By Charlotte Perkins Gilman
 The Yellow Wind By David Grossman
@@ -5715,6 +5719,7 @@ Underworld By Don DeLillo
 Undiscovered Country By Tom Stoppard
 Une Aventure De Choura (FR) By Patrick Modiano
 Une Fiancée Pour Choura (FR) By Patrick Modiano
+Une Vie (FR) By Guy De Maupassant
 Unforced Flourishing: Understanding Jaan Kaplinski By Thomas Salumets
 Unholy Loves By Joyce Carol Oates
 UN Invitado De Honor (FR) By Nadine Gordimer
