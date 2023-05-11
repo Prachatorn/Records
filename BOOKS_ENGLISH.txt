@@ -720,6 +720,7 @@ Bookclub In A Box Discusses The Novel Family Matters By Marilyn Herbert & Rohint
 Boomtown By James Arthur Moore
 Border Districts: A Fiction By Gerald Murnane
 Boredom: The Literary History Of A State Of Mind By Patricia Spacks
+Bossypants By Tina Fey
 Botchan By Natsume Soseki
 Born On The Fourth Of July By Ron Kovic
 Boulevard Du Guinardo By Juan Marse
@@ -1426,6 +1427,7 @@ Exit West By Mohsin Hamid
 Expensive People By Joyce Carol Oates
 Experience By Martin Amis
 Exploits And Adventures Of Brigadier Gerard By Sir Arthur Conan Doyle
+Exploring The Language Of Poems, Plays And Prose By Mick Short
 Exteriors By Annie Ernaux (Read)
 Extravagance And Three Other Plays By Dacia Maraini
 Extremely Loud & Incredibly Close By Jonaathan Safran Foer (Read)
@@ -1644,6 +1646,7 @@ Giono: Master Of Fictional Modes By Norma Lorre Goodrich
 Giovanni's Room By James Baldwin (Read)
 Girl In The Dark By Anna Lyndsey
 Girls At War And Other Stories By Chinua Achebe
+Girl, Woman, Other By Bernardine Evaristo
 Gitarmannen By Jon Fosse
 Giving Offense By John Maxwell Coetzee
 Glass, Irony, And God By Anne Carson
@@ -3279,6 +3282,7 @@ Putting The Boot In By Julian Barnes
 Psychopolis By Ian McEwan
 Qashtamar By Nagiub Mahfouz
 Quatre Quatuors Pour Un Week - End (FR) By Gao Xingjian
+Queenie By Candice Carty - Williams
 Queenie (Storycuts) By Alice Munro
 Queen Of Shadows (Throne Of Glass, #4) By Sarah Janet Maas
 Queer By William Seward Burroughs II
@@ -3857,6 +3861,7 @@ That's A Rap By Matthew David Morris & Travis Thrasher
 That's Not My Mother: Three One Act Plays By John Patrick & Tom Stoppard
 That's Why We Are Alive By Wislawa Szymborska
 Thaw (Seasons Of Live, #2) By Elyse Springer
+The 100 - Year - Old Man Who Climbed Out The Window And Disappeared By Jonas Jonasson
 The 158 - Pound Marraige By John Irving (Have)
 The 290 By Scott O'Dell
 The 42nd Parallel (U.S.A, #1) By John Dos Passos
@@ -4187,6 +4192,7 @@ The Dark By Sergio Chejfec
 The Dark Canoe By Scott O'Dell
 The Dark Half By Stephen King
 The Dark Horse (The Dark Horse, #1) By Josh Lanyon (Have)
+The Daughter Of Doctor Moreau By Silvia Moreno - Garcia
 The Daydreamer By Ian McEwan
 The Day He Himself Shall Wipe My Tears Away By Kenzaburo Oe
 The Day Of The Triffrids By John Wyndham
@@ -4238,6 +4244,7 @@ The Distance Between Us By Renato Cisneros
 The Distance From Normandy By Jonathan Hull (Have)
 The Diversion (Animorphs, #49) By Katherine Applegate
 The Divine Comedy Of Dante Alighieri: Inferno (Classic Reprint) By Warburton Pike (Have)
+The Diving Bell And The Butterfly By Jean - Dominique Bauby
 The Doctor's Wife By Mary Elizabeth Braddon
 The Doctor's Wife By Sawako Ariyoshi
 The Dodge City Trail (The Trail Drive, #08) By Ralph Compton (Have) (Read)
@@ -4783,6 +4790,7 @@ The Miionaire Next Door: The Surprising Secrets Of America's Wealthy By Thomas J
 The Mill On The Floss By George Eliot (Have)
 The Mimic Men By Sir Vidiadhar Surajprasad Naipaul
 The Miner's Canary By Gerald Torres & Lani Guiner
+The Miniaturist By Jessie Burton
 The Minister's Wooing By Harriet Beecher Stowe (Have) (Read)
 The Ministry Of Pain By Dubravka Ugresic
 The Miracle Cures Of Dr. Aira By Cesar Aira
@@ -4881,6 +4889,7 @@ The Old Curiosity Shop By Charles Dickens
 The Old Man And The Medal By Ferdinand Oyono (Have)
 The Old Man And The Sea By Ernest Hemingway (Read)
 The Once And Future King By Terence Hanbury "Tim" White (Have)
+The One Hundred Years Of Lenni And Margot: A Novel By Marianne Cronin (Read)
 The One That Got Away (2008) By Zoe Wicomb
 The Only Problem By Dame Muriel Spark
 The Only Story By Julian Barnes
@@ -5237,6 +5246,7 @@ The Stars My Destination By Alfred Bester (Have)
 The Stone - Country (1967) By Alex La Guma
 The Stone Raft By Jose Saramago
 The Stone Sky By Nora Keita Jemisin
+The Storied Life Of A. J. Fikry: A Novel By Gabrielle Zevin
 The Story Begins: Essays On Literature By Amos Oz
 The Story Of An African Farm By Olive Schreiner
 The Story Of A New Name (The Neapolitan Novels, #2) By Elena Ferrante
@@ -5382,6 +5392,7 @@ The Universe In A Single Atom: The Convergence Of Science And Spirituality By 14
 The University Encyclopedia Of Mathematics By Toni Morrison
 The Unknown (Animorphs, #14) By Katherine Applegate
 The Unknown Masterpiece And Gambara By Honore De Balzac
+The Unlikely Pilgrimage Of Harold Fry By Rachel Joyce
 The Unpublished Letters Of Charles Dickens To Mark Lemon By Charles Dickens
 The Unmade World: A Novel By Steve Yarbrough
 The Unseen By Katherine Webb
@@ -5424,6 +5435,7 @@ The War Of The Worlds By Herbert George Wells (Read)
 The War Within: A Secret White House History, 2006-2008 By Bob Woodward
 The Wasteland, Prufrock And Other Poems By Thomas Stearns Eliot
 The Waste Tide By Chen Qiufan
+The Watchmaker Of Filigree Street By Natasha Pulley
 The Water Knife By Paolo Bacigalupi
 The Water Mark By Travis Thrasher
 The Water - Method Man By John Irving
@@ -5530,6 +5542,7 @@ The Zone Of Interest By Martin Amis
 Things Fall Apart (The African Trilogy, #1) By Chinua Achebe (Read)
 Things We Lost In The Fire By Jesse Russell
 Thinking For Results By Christian Daa Larson
+Thinking In Pictures By Temple Grandin
 Thinks Out Loud: A Blog At First By Martin Perlman
 Thinner By Stephen King
 Thirteen Days: A Memoir Of The Cuban Missile Crisis By Robert Francis Kennedy (Have)
@@ -5916,7 +5929,7 @@ Well - Read Black Girl By Glory Edim
 We Need New Names By NoViolet Bulawayo
 Werewolf Skin (Goosebumps, #60) By Robert Lawrence Stine
 Werewolf Storyteller's Screen By James Arthur Moore
-Westward With Giraffes: A Novel By Lynda Rutledge
+West With Giraffes: A Novel By Lynda Rutledge
 We Tell Ourselves Stories In Order To Live By Joan Didion
 We Think The World Of You By Joe Randolph Ackerley
 We've Already Gone This Far: Stories By Patrick Dacey
