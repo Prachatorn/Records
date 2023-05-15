@@ -2735,6 +2735,7 @@ Mothers And Other Strangers By Gina Sorell
 Mothers Of Sparta: A Memoir In Pieces By Dawn Davies
 Mountain Boats By Wajdi Al - Ahdal
 Mount St. Helens: The Story Behind The Scenery By Thom Corcoran
+Mourning Dairy By Roland Barthes
 Mouth Full Of Blood: Essays, Speeches, Meditations By Toni Morrison
 Moving The Centre By Ngugi Wa Thiong'o
 Mr. Britling Sees It Through By Herbert George Wells
@@ -4514,6 +4515,7 @@ The High Mountains Of Portugal By Yann Martel
 The High Window (Philip Marlow, #3) By Raymond Chandler
 The Hill Of Evil Counsel By Amos Oz
 The History Of Rasselas, Prince Of Abissinia By Samuel Johnson
+The History Of Sexuality By Michel Foucault
 The History Of Sir Charles Grandison By Samuel Richardson
 The History Of The Siege Of Lisbon By Jose Saramago
 The History Of Tom Jones, A Foundling By Henry Fielding
@@ -5049,6 +5051,7 @@ The Reaction (Animorphs, #12) By Katherine Applegate
 The Real Benjamin Franklin (Vol. 2 Of The American Classic Series) By Andrew M. Allison, M. Richard Maxfield, Willard Cleon Skousen (Have)
 The Read Life Of Alejandro Mayta By Mario Vargas Llosa
 The Real Life Of Sebastian Knight By Vladimir Nabokov
+The Reason I Jump: The Inner Voice Of A Thirteen - Year - Old Boy With Autism
 The Rebels Of Ireland (The Dublin Saga, #2) By Edward Rutherfurd
 The Recognition of Sakuntala By Kalidasa
 The Red And The Black By Stendhal
@@ -5540,6 +5543,7 @@ They Poured Fire On Us From The Sky: The True Story Of Three Lost Boys From Suda
 The Zigzag Kid By David Grossman
 The Zone Of Interest By Martin Amis
 Things Fall Apart (The African Trilogy, #1) By Chinua Achebe (Read)
+Things Seen By Annie Ernaux (Read)
 Things We Lost In The Fire By Jesse Russell
 Thinking For Results By Christian Daa Larson
 Thinking In Pictures By Temple Grandin
@@ -5599,6 +5603,7 @@ Through The Forest By Jaan Kaplinski
 Through The Looking - Glass And What Alice Found There (Alice's Adventures In Wonderland, #2) By Lewis Carroll (Read)
 Through The Tunnel By Doris Lessing
 Through The Window: Seventeen Essays And A Short Story By Julian Barnes
+Thunder Cake By Patricia Polacco
 Thunder Rolling In The Mountains By Scott O'Dell
 Thus Bad Begins By Javier Marias
 Thus Spoke Zarathustra: A Book For All And None By Friedrich Nietzsche
