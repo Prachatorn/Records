@@ -206,6 +206,7 @@ Alaska: The Forty - Ninth State By Willis Lindquist
 A Late Divorce By Abraham B. Yehoshua
 Albert's Bridge & Other Plays By Tom Stoppard
 Alcatraz Versus The Evil Librarians (Alcatraz, #1) By Brandon Sanderson (Have)
+Alcools: Poemes, 1898 - 1913 By Guillaume Apollinaire
 A Lesson Before Dying By Ernest James Gaines
 Alexander's Bridge By Willa Cather
 Alexandra By Scott O'Dell
@@ -1690,6 +1691,7 @@ Goodbye Tsugumi By Banana Yoshimoto (Read)
 Goodbye, Vitamin By Rachel Khong
 Good Climate, Friendly Inhabitants By Nadine Gordimer
 Good Morning, Gorillas (Magic Tree House, #26) By Mary Pope Osborne
+Good Morning, Midnight By Jean Rhys
 Goodness And The Literary Imagination: Harvard's 95th Ingersoll Lecture With Essays On Morrison's Moral And Religious Vision By Toni Morrison
 Goodnight, Beautiful Women By Anna Noyes
 Goodnight Moon By Margaret Wise Brown
@@ -1721,6 +1723,7 @@ Greed By Elfriede Jelinek
 Greek Tragedies, Vol. 1: Aeschylus: Agamemnon, Prometheus Bound; Sophocles: Oedipus The King, Antigone; Euripides: Hippolytus By David Grene (Have)
 Greek Tragedies, Vol. 3: Aeschylus: The Eumenides, Sophocles: Philoctetes, Sophocles: Oedipus At Colonus, Euripides: The Bacchae, Euripides: Alcestis By David Greene & Richmond Lattimore (Have)
 Green: A Novel By Sam Graham - Felsen
+Greenbanks By Dorothy Whipple
 Green Eggs And Ham By Theodor Seuss Geisel
 Green Grass Of Wyoming By Mary O'Hara
 Green Henry By Gottfried Keller
@@ -2159,6 +2162,7 @@ Journey To The End Of The Night By Louis - Ferdinard Celine
 Joyland By Stephen King
 Judas By Amis Oz
 Jude The Obscure By Thomas Hardy
+Judgment Day (Stud Lonigan, #3) By James Thomas Farrell
 Julieta (Movie Tie - In Edition): Three Stories That Inspired The Movie By Alice Munro
 July's People By Nadine Gordimer (Read)
 Jump And Other Stories By Nadine Gordimer
@@ -2690,6 +2694,7 @@ Missing Soluch By Mohammed Dowlatabadi
 Miss Lonelyhearts & The Day Of The Locust By Nathanael West (Have)
 Miss Marjoribanks (Chronicles Of Carlingford, #5) By Margaret Oliphant Wilson Oliphant
 Miss Peregrine's Home For Peculiar Children (Miss Peregrin's Peculiar Children, #1) By Ransom Riggs
+Miss Pettigrew Lives For A Day By Winifred Watson
 Mixed Plate: Chronicles Of An All - Amerian Combo By Jo Koy
 Moby Dick By Herman Melville
 Moderato Cantabile By Marguerite Duras
@@ -2796,6 +2801,7 @@ My Favorite Animal Stories By Gerald Durrell (Read)
 My First Seven Years (Plus A Few More) By Dario Fo
 My Friends Call Me Monster (Goosebumps HorrorLand, #7) By Robert Lawrence Stine
 My Garden (Book) By Jamaica Kincaid
+My Good Goat By Bella Dawson & Katrina Streza
 My Grandmother Asked Me To Tell You She's Sorry By Fredrik Backman
 My Hairiest Adventure (Goosebumps, #26) By Robert Lawrence Stine
 My Heart Hemmed In By Marie Ndiaye
@@ -2856,6 +2862,7 @@ Nemesis By Philip Roth (Have) (Read) (Fav)
 Nentori I Nje Kryeqyteti (AB) By Ismail Kadare
 Neon In Daylight: A Novel By Hermione Hoby
 Nervous Conditions (Nervous Conditions, #1) By Tsitsi Dangarembga
+Nevada By Zane Grey
 Never Any End To Paris By Enrique Vila - Matas
 Never Let Go By John Baker, Mac Owen, Mary Owen & Travis Thrasher
 Never Let Me Go By Kazuo Ishiguro (Read)
@@ -3184,6 +3191,7 @@ Plants Today And Tomorrow By Margaret O. Hyde
 Players By Don DeLillo
 Playing In The Dark By Toni Morrison
 Playing In The Light (2006) By Zoe Wicomb
+Playing With Souls: A Novel By Clara Longworth De Chambrun
 Playing With Super Power: Nintendo Super NES Classics By Meagan Marie & Sebastian
 Play It As It Lays By Joan Didion
 Plays Five By Jon Fosse
@@ -3745,6 +3753,7 @@ Steelheart (The Reckoners, #1) By Brandon Sanderson (Read)
 Steffie Speck In The Jaws Of Life By Dubravka Ugresic
 StSted Gitar (NO) By Jon Fosse
 Stelfppenwo By Hermann Hesse
+Stella Maris (The Passenger, #2) By Cormac McCarthy (Read)
 Step Across This Line By Salman Rushdie
 Stephen Hawking's A Brief History Of Time: A Reader's Companion By Stephen Hawking
 Step - Poems By Odysseas Elytis
@@ -4221,6 +4230,7 @@ The Death Dealer's Manual By Bradley Steiner
 The Death Of Adam By Marilynne Robinson
 The Death Of Ivan Ilyich By Leo Tolstoy
 The Death Of Jesus By John Maxwell Coetzee
+The Death Of The Heart By Elizabeth Bowen
 The Decameath Of Methuselah And Other Stories By Isaac Bashevis Singer
 The Deerslayer By James Fenimore Cooper
 The Deron By Giovanni Boccaccio
@@ -4275,6 +4285,7 @@ The Double Flame: Love And Eroticism By Octavio Paz
 The Double Tongue By William Golding
 The Dragon Keeper (Rain Wild Chronicles, #1) By Robin Hobb
 The Dramatic Literature Of Nawal El Saadawi: God Resigns And Isis By Nawal El Saadawi
+The Dreamers By Karen Thompson Walker
 The Dream Maker By Monica Hannan
 The Dream Of The Celt By Mario Vargas Llosa
 The Dream Sleepers And Other Stories By Patricia Grace (Have) (Read)
@@ -4543,6 +4554,7 @@ The Hive By Camilo Jose Cela
 The Hobbit By John Ronald Reuel Tolkien (Read)
 The Holiday By Dacia Maraini
 The Holocaust As Culture By Imre Kertesz
+The Holy Innocents By Gilbert Adair
 The Homecoming: A Play By Harold Pinter (Have)
 The Honeymoon: Shahrel Assel By Nagiub Mahfouz
 The Honorable Picnic By Thomas Raucat (Have) (Read)
@@ -4603,6 +4615,7 @@ The Innocents Abroad: Or The New Pilgrim's Progress By Mark Twain (Have)
 The Inquisitors' Manual By António Lobo Antunes
 The Institute By Stephen King
 The Intelligent Man's Guide To Science By Isaac Asimov
+The Interesting Narrative Of The Life Of Olaudah Equiano Illustrated By Olaudah Equiano
 The Interrogation By Jean - Marie Gustave Le Clezio
 The Intuitionist By Colson Whitehead
 The Invasion (Animorphs, #1) By Katherine Applegate
@@ -4731,6 +4744,7 @@ The Long Goodbye (Philip Marlowe,#6) By Raymond Chandler
 The Long Public Life Of A Short Private Poem: Reading And Remembering Thomas Wyatt By Peter Murphy
 The Long Walk By Stephen King
 The Long Way To A Small, Angry Planet By Becky Chambers
+The Long Winter By Laura Ingalls Wilder
 The Looming Tower: Al Qaeda And The Road To 9 / 11 By Lawrence Wright
 The Loom Of Youth By Alec Waugh
 The Lorax By Theodor Seuss Geisel
@@ -4946,7 +4960,7 @@ The Paradise By Emile Zola
 The Paris Wakeet Named Dreidel: A Picture Book By Isaac Bashevis Singer
 The Parife By Paula McLain
 The Paris Review Interviews: Vol. 1 By Orhan Pamuk
-The Passenger By Cormac McCarthy (Read)
+The Passenger (The Passenger, #1) By Cormac McCarthy (Read)
 The Passionate Friends By Herbert George Wells
 The Passport By Herta Muller
 The Past And The Punishments By Yu Hua
@@ -5030,6 +5044,7 @@ The Princes Of Ireland (The Dublin Saga, #1) By Edward Rutherfurd
 The Princess And The Queen By George Raymond Richard Martin
 The Princess Bride By William Goldman
 The Princess Diarist By Carrie Fisher
+The Priory By Dorothy Whipple
 The Prisoner By Marcel Proust
 The Prisoner Of Zenda By Anthony Hope
 The Private Memoirs And Confessions Of A Justified Sinner By James Hogg
@@ -5560,6 +5575,7 @@ The Yellow Wind By David Grossman
 They Fought For Their Country By Mikhail Sholokhov
 They Fought For The Motherland By Laurie Stoff
 The Young Guard By Alexander Fedeyev
+The Young Manhood Of Studs Lonigan (Stud Lonigan, #2) By James Thomas Farrell
 They Poured Fire On Us From The Sky: The True Story Of Three Lost Boys From Sudan By Benson Deng
 The Zigzag Kid By David Grossman
 The Zone Of Interest By Martin Amis

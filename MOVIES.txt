@@ -2,6 +2,7 @@
 102 Dalmatians (2000) By Kevin Lima
 10 Things I Hate About You (1999) By Gil Junger
 12 Angry Men (1957) By Sidney Lumet (Watched)
+12 Monkets (1995) By Terry Gilliam
 12 Rounds (2009) By Renny Harlin (Watched)
 12 Years A Slave (2013) By Steve McQueen
 13 Sins (2014) By Daniel Stamm (Watched)
@@ -253,6 +254,7 @@ Big (1988) By Penny Marshall
 Big Fish (2003) By Tim Burton (Watched)
 Big Trouble (2002) By Barry Sonnenfeld
 Big Trouble In Little China (1986) By John Carpenter
+Billy Madison (1995) By Tamra Davis
 Bird Box (2018) By Susanne Bier
 Bird On A Wire (1990) By John Badham
 Birthday Boy (2015) By Andrew Saunderson
@@ -290,6 +292,7 @@ Boyhood (2014) By Richard Linklater
 Boys Don't Cry (1999) By Kimberly Peirce
 Brain Donors (1992) By Dennis Dugan
 Bratz: The Movie (2007) By Sean McNamara
+Braveheart (1995) By Mel Gibson
 Breakfast At Tiffany's (1961) By Blake Edwards
 Breaking In (2018) By James McTeigue (Watched)
 Breathless (1960) By Jean - Luc Godard
@@ -334,6 +337,7 @@ Cars 2 (2011) By John Lasseter (Watched)
 Cars 3 (2017) By Brian Fee
 Casablanca (1942) By Michael Curtiz
 Casanova (2005) By Lasse Hallstrom
+Casino (1995) By Martin Scorsese
 Cast A Deadly Spell (1991) By Martin Campbell
 Catch Me If You Can (2002) By Steven Spielberg (Watched)
 Catch That Kid (2004) By Bart Freundlich
@@ -563,6 +567,7 @@ Extreme Measures (1996) By Michael Apted
 Extreme Ops (2002) By Christian Duguay
 Fahrenheit 451 (2018) By Ramin Bahrani
 Fair Game (2010) By Doug Liman
+Fallen Angels (ZH) (1995) By Wong Kar - Wai
 Fantastic Beasts And Where To Find Them (2016) By David Yates
 Fantastic Mr. Fox (2009) By Wes Anderson
 Fantastic Voyage (1966) By Richard Fleischer
@@ -637,6 +642,8 @@ Ghost (1990) By Jerry Zucker
 Ghostbusters (1984) By Ivan Reitman
 Ghostbusters (2016) By Paul Feig (Watched)
 Ghostbusters II (1989) By Ivan Reitman
+Ghost In The Shell (2017) By Rupert Sanders
+Ghost In The Shell (JP) (1995) By Mamoru Oshii
 Ghost Rider (2007) By Mark Steven Johnson
 Ghost Rider: Spirit Of Vengeance (2011) By Brian Taylor & Mark Neveldine
 Ghosts Of Girlfriends Past (2009) By Mark Waters
@@ -658,6 +665,7 @@ Going In Style (2017) By Zach Braff
 Going My Way (1944) By Leo McCarey
 Going Places (1974) By Bertrand Blier
 Goke, Body Snatcher From Hell (JP) (1968) By Hajime Sato
+GoldenEye (1995) By Martin Campbell
 Goldfinger (1964) By Guy Hamilton
 Gold Standard (2018) By Zac Goold
 Gone In 60 Seconds (2000) By Dominic Sena
@@ -728,6 +736,7 @@ Head Office (1985) By Ken Finkleman
 Head Over Heels (2001) By Mark Waters
 Heartbreak Ridge (1986) By Clint Eastwood
 Hear The Song Of The Wind (JP) (1981) By Kazuki Omori
+Heat (1995) By Michael Mann
 Heaven Can Wait (1978) By Buck Henry & Warren Beatty
 Held Up (1999) By Steve Rash
 Helen Of Troy (1956) By Robert Wise
@@ -842,6 +851,7 @@ Jimmy Neutron: Boy Genius (2001) By John Alexander Davis (Watched)
 Jingle All The Way (1996) By Brian Levant
 Joe's Palace (2007) By Stephen Poliakoff
 Joe Versus The Volcano (1990) By John Patrick Shanley
+Johnny Mnemonic (1995) By Robert Longo
 John Wick (2014) By Chad Stahelski & David Leitch (Watched)
 John Wick: Chapter 2 (2017) By Chad Stahelski (Watched)
 John Wick: Chapter 3 - Parabellum (2019) By Chad Stahelski (Watched)
@@ -1066,6 +1076,7 @@ Moonlight (2016) By Barry Jenkins
 Moonstruck (1987) By Norman Jewison
 Morgan (2016) By Luke Scott
 Mortal Engines (2018) By Christian Rivers
+Mortal Kombat (1995) By Paul William Scott Anderson
 Mosca (Fly) (ES) (2016) By Lizette Barrera (Watched)
 Moulin Rouge! (2001) By Baz Luhrmann
 Mourir D'Aimer (FR) (1971) By Andre Cayatte
@@ -1320,6 +1331,7 @@ Sensum (2017) By Alexis O. Ostrander
 Seopyeonje (1993) By Im Kown - Taek
 Serendipity (2001) By Peter Chelsom
 Serenity (2019) By Steven Knight
+Seven (1995) By David Fincher
 Sex And The City (2008) By Michael Patrick King
 Sgt. Bilko (1996) By Jonathan Lynn
 Sgt. Will Gardner (2019) By Max Martini
@@ -1357,6 +1369,7 @@ Sixty Glorious Years (1938) By Herbert Wilcox
 Sky Fighters (2005) By Gerard Pires
 Sky High (2005) By Mike Mitchell (Watched) (Fav)
 Skyscraper (2018) By Rawson Marshall Thurber (Watched)
+Slam Dunk Ernest (1995) By John Robert Cherry III
 Sleepless In Seattle (1993) By Nora Ephron
 Sleepy Hollow (1999) By Tim Burton
 Sleight (2017) By Justin Dillard
@@ -1597,7 +1610,7 @@ The Favourite (2018) By Yorgos Lanthimos
 The Feels (2017) By Jenée LaMarque (Watched)
 The Fever (2004) By Carlo Gabriel Nero
 The Final (2010) By Joey Stewart
-The Flash (2023) By Andres Muschietti
+The Flash (2023) By Andres Muschietti (Watched) (Fav)
 The Florida Project (2017) By Sean Baker
 The Fourth Kind (2009) By Olatunde Osunsanmi
 The Fugitive (1993) By Andrew Davis
@@ -1855,6 +1868,7 @@ The Way Of The Dragon (1972) By Bruce Lee
 The Wicker Man (1975) By Robin Hardy
 The Wicker Man (2006) By Neil Labute
 The Wild Life (1984) By Art Linson
+The Wild One (1953) By Laszlo Benedek
 The Wild Pear Tree (2018) By Nuri Bilge Ceylan
 The Witch (2015) By Robert Eggers
 The Wizard Of Lies (2017) By Barry Levinson
@@ -1902,6 +1916,7 @@ Tokyo Project (2017) By Richard Shepard
 Tokyo Sonata (JP) (2008) By Kiyoshi Kurosawa
 Tokyo Story (JP) (1953) By Yasujiro Ozu
 Tomb Raider (2018) By Roar Uthaug (Watched)
+Tommy Boy (1995) By Peter Segal
 Tony Takitani (JP) (2004) By Jun Ichikawa
 Too Big To Fail (2011) By Curtis Hanson
 Tooth Fairy (2010) By Michael Lembeck
@@ -1990,6 +2005,7 @@ Weathering With You (JP) (2019) By Makoto Shinkai (Watched)
 Weekend At Bernie's (1989) By Ted Kotcheff
 We Love Moses (2016) By Dionne Edwards
 Welcome To Mooseport (2004) By Donald Petrie
+Welcome To The Dollhouse (1995) By Todd Solondz
 West Side Story (1961) By Jerome Robbins & Robert Wise
 We're Back! A Dinosaur's Story (1993) By Phil Nibbelink, Ralph Zondag & Simon Wells
 What If (2013) By Michael Dowse (Watched)
