@@ -241,6 +241,7 @@ All The President's Men By Bob Woodward & Carl Bernstein
 All The Pretty Horses (The Border Trilogy, #1) By Cormac McCarthy
 All The Single Ladies: Unmarried Women And The Rise Of An Independent Nation By Rebecca Traister
 All These Worlds (Bobiverse, #3) By Dennis E. Taylor
+All The Year Round By Charles Dickens
 All Thirteen: The Incredible Cave Rescue Of The Thai Boys' Soccer Team By Christina Soontornvat (Read)
 All We Need Of Hell By Harry Crews
 All's Well That Ends Well By William Shakespeare (Have)
@@ -849,6 +850,7 @@ Changes: A Love Story By Ama Ata Aidoo
 Chant And Be Happy: THe Power Of Mantra Meditation By Abhaya Caranaravinda Bhaktivedanta Svami Prabhupada (Have)
 Chaos Bleeds BY James Arthur Moore
 Charity (Bernard Samson, #9) By Len Deighton
+Charles Dickens And The Great Theatre Of The World By Simon Callow
 Charlie And The Chocolate Factory (Charlie Bucket, #1) By Roald Dahl
 Charlie Chaplin's Last Dance By Fabio Stassi
 Charlotte's Web By Elwyn Brooks White (Have)
@@ -921,6 +923,7 @@ Cœur Brûle Et Autres Romances (FR) By Jean - Marie Gustave Le Clézio
 Coin Locker Babies By Ryu Murakami
 Cold Comfort Farm By Stella Gibbons
 Cold Fire By Dean Koontz
+Cold Mountain: A Novel By Charles Frazier
 Collapse: How Societies Choose To Fail Or Succeed By Jared Diamond
 Collected Fictions By Jorge Luis Borges
 Collected Novellas By Gabriel García Márquez
@@ -2061,6 +2064,7 @@ Invasion Of The Body Snatchers By Jack Finney
 Invasion Of The Space Invaders By Martin Amis
 Invasion Of The Body Squeezers Part 1 (Goosebumps 2000, #4) By Robert Lawrence Stine
 Invasion Of The Body Squeezers Part 1 (Goosebumps 2000, #5) By Robert Lawrence Stine
+Inventing The Victorians By Matthew Sweet
 Inventory: Losing, Finding, Collecting By Joseph Brodsky
 Invisible Cities By Italo Calvino
 Invisible Man By Ralph Ellison (Read) (Fav)
@@ -2460,6 +2464,7 @@ Lolita By Vladimir Nabokov
 Lolita: A Screenplay By Vladimir Nabokov
 London By Edward Rutherfurd
 London Fields By Martin Amis
+London Labour And The London Poor By Henry Mayhew
 London Match (Bernard Samson, #3) By Len Deighton
 London Observed By Doris Lessing
 Lonesome Dove: A Novel By Larry McMurtry
@@ -4134,6 +4139,7 @@ The Circle By Dave Eggers (Have)
 The Circling Song By Nawal El Saadawi
 The Clan Of The Cave Bear By Jean M. Auel
 The Cleft (2007) By Doris May Lessing
+The Clockmaker's Daughter: A Novel By Kate Morton (Read)
 The Cloister And The Hearth By Charles Reade
 The Cockroach By Ian McEwan (Read)
 The Code Of The Woosters (Jeeves, #7) By Sir Pelham Grenville Wodehouse
@@ -5443,6 +5449,8 @@ The Varieties Of Scientific Experience: A Personal View Of The Search For God By
 The Very First Light: A Scientific Journey Back To The Dawn Of The Universe By John Boslough & John Cromwell Mather
 The Vicar Of Wakefield By Oliver Goldsmith
 The Vice - Consul By Marguerite Duras
+The Victorian City: Everday Life In Dickens' London By Judith Flanders
+The Victorians By Andrew Norman Wilson
 The View From Castle Rock By Alice Munro
 The Village Boy (1978) By Ifeoma Okoye
 The Village Of Stepanchikovo By Fyodor Dostoevsky
@@ -5860,6 +5868,7 @@ Viajero By Francisco Sionil José
 Vibora! By Francisco Sionil José
 Vicious Circle (1983) By Alexander Kanengoni
 Victoire: My Mother's Mother By Maryse Condé
+Victorian London: The Tale Of A City 1840 - 1870 By Liza Picard
 View Widas Escritas (ES) By Javier Marías
 View A Grain Of Sand By Wisława Szymborska
 Vigilance (Storycuts) By Julian Barnes
