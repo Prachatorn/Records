@@ -324,6 +324,8 @@ An Artist Of The Floating World By Kazuo Ishiguro (Read)
 Anathemas And Amirations By Emil Cioran
 Anatomy Of Love By Helen Fisher
 Ancillary Justice (Imperial Radch, #1) By Ann Leckie
+Ancillary Mercy (Imperial Radch, #3) By Ann Leckie
+Ancillary Sword (Imperial Radch, #2) By Ann Leckie
 And Death His Legacy By George Raymond Richard Martin
 And Quiet Flows The Don By Mikhail Sholokhov
 And The Dark Sacred Night By Julia Glass
@@ -356,6 +358,7 @@ Anna Karenina: The Screenplay Based On The Novel By Leo Tolstoy By Tom Stoppard
 Annals Of The Cakchiquels By Francisco Diaz Gebuto Quej and Francisco Hernandez Arana Xajila
 Anne Of Green Gables (Anne Of Green Gables, #1) By Lucy Maud Montgomery (Read)
 Anne Of Windy Poplars (The Anne Of Green Gables Novels, #4) (Have) By Lucy Maud Montgomery
+Anne Perry Presents Malice Domestic: Stories By Anne Perry
 Annie John By Jamaica Kincaid
 Ann Veronica By Herbert George Wells
 An Old Woman And Her Cat By Doris Lessing
@@ -529,6 +532,7 @@ A Visit From The Goon Squad By Jennifer Egan
 A Walk In The Night And Other Stories (1962) By Alex La Guma
 A War Of Words By Yasir Suleiman
 A Way In The World By Sir Vidiadhar Surajprasad Naipaul (Read)
+Away With The Fairies (Phryne Fisher, #11) By Kerry Greenwood
 Awe (The Books Of Marvella, #3) By Travis Thrasher
 A Widow's Story: A Memoir By Joyce Carol Oates
 A Wilderness Station: Selected Stories, 1968-1994 By Alice Munro
@@ -700,6 +704,7 @@ Blitzkrieg: From The Rise Of Hitler To The Fall Of Dunkirk By Len Deighton
 Blizzard Of The Blue Moon (Magic Tree House, #36) By Mary Pope Osborne
 Blockade Billy By Stephen King (Read)
 Blonde By Joyce Carol Oates
+Blood And Circuses (Phryne Fisher, #6) By Kerry Greenwood
 Blood And Grits By Harry Crews
 Blood Harvest By James Arthur Moore
 Bloodlines By James Arthur Moore
@@ -893,6 +898,7 @@ China From The 1911 Revolution To Liberation By Lydia Davis
 China In Ten Words By Yu Hua
 China Men By Maxine Hong Kingston (Have)
 Chirundu (1970) By Ezekial 'Es'kia' Mphahlele
+Chlorine: A Novel By Jade Song
 Choke: What the Secrets Of The Brain Reveal About Getting It Right When You Have To By Sian Beilock
 Christine By Stephen King (Read)
 Christmas At Gunpoint (Alex Rider, #0.5) By Anthony Horowitz
@@ -1097,7 +1103,7 @@ Das Lebewohl By Elfriede Jelinek
 Das Werk By Elfriede Jelinek
 Daughter Of Don Saturnino By Scott O'Dell
 Daughters Of The Twilight (1986) By Farida Karodia
-David And Goliath By Malcolm Gladwell
+David And Goliath: Underdogs, Misfits, And The Art Of Battling Giants By Malcolm Gladwell
 David Copperfield By Charles Dickens
 David's Story (2000) By Zoe Wicomb
 David Starr, Space Ranger (Lucky Starr, #1) By Isaac Asimov
@@ -1109,6 +1115,7 @@ Dead - End Memories: Stories By Banana Yoshimoto (Read)
 Deadeye Dick By Kurt Vonnegut (Read)
 Dead Girls And Other Stories By Emily Geminder
 Dead Lake By Darcy Coates
+Dead Man's Chest (Phryne Fisher, #18) By Kerry Greenwood
 Dead Souls By Nikolai Gogol
 Dead Weight: Based On A True Story By Batt Humphreys
 Dear Bunny, Dear Volodya: The Nabokov - Wilson Letters, 1940 - 1971
@@ -1118,9 +1125,13 @@ Dear Life: Stories By Alice Munro (Read)
 Dear Zealots: Letters From A Divided Land By Amos Oz
 Death And The Maiden By Ariel Dorkman (Have) (Read)
 Death As A Way Of Life By David Grossman
+Death At Victoria Dock (Phryne Fisher, #4) By Kerry Greenwood
+Death Before Wicket (Phryne Fisher, #10) By Kerry Greenwood
 Death By Water By Kenzaburo Oe
+Death By Water (Phryne Fisher, #15) By Kerry Greenwood
 Death Comes For The Archbishop By Willa Cather
 Death Going Down By Maria Angelica Bosco
+Death In Daylesford (Phryne Fisher, #21) By Kerry Greenwood
 Death In Midsummer And Other Stories By Yukio Mishima (Read)
 Death In The Afternoon By Ernest Hemingway
 Death In The Andes By Mario Vargas Llosa
@@ -1573,6 +1584,7 @@ Florida Frenzy By Harry Crews
 Flowers For Algernon By Daniel Keyes (Read) (Fav)
 Flowers Of A Moment: Poems By Ko Un
 Flying Hero Class By Thomas Keneally
+Flying Too High (Phryne Fisher, #2) By Kerry Greenwood
 Foe: A Novel By John Maxwell Coetzee (Read) (Fav)
 Forbidden Colors By Yukio Mishima
 Force Of Nature: A Novel (John Ryder Novels) By Christian James
@@ -1724,6 +1736,7 @@ Good Morning, Midnight By Jean Rhys
 Good Morning, Midnight By Lily Brooks - Dalton
 Goodness And The Literary Imagination: Harvard's 95th Ingersoll Lecture With Essays On Morrison's Moral And Religious Vision By Toni Morrison
 Goodnight, Beautiful Women By Anna Noyes
+Good Night, Irene: A Novel BY Luis Alberto Urrea
 Goodnight Moon By Margaret Wise Brown
 Good Raymond By Richard Ford
 Gorbunov And Gorchakov By Joseph Brodsky
@@ -2815,9 +2828,15 @@ Mudwoman By Joyce Carol Oates
 Multitude Of Sins Header By Richard Ford
 Mummies In The Morning (Magic Tree House, #3) By Mary Pope Osborne
 Murasaki Shikibu's The Tale Of Genji: Philosophical Perspectives By James McMullen
+Murder And Mendelssohn (Phryne Fisher, #20) By Kerry Greenwood
 Murder In Greenwich: Who Killed Martha Moxley? By Mark Fuhrman
+Murder In Montparnasse (Phryne Fisher, #12) By Kerry Greenwood
 Murder In The Cathedral: A Play By Thomas Stearns Eliot (Have)
 Murder In The Dark By Margaret Atwood
+Murder In The Dark (Phryne Fisher, #16) By Kerry Greenwood
+Murder In Williamstown (Phryne Fisher, #22) By Kerry Greenwood
+Murder On A Midsummer Night (Phryne Fisher, #17) By Kerry Greenwood
+Murder On The Ballarat Train (Phryne Fisher, #3) By Kerry Greenwood
 Murder On The Orient Express By Agatha Christie (Read)
 Murnane By Gerald Murnane
 Mutmabungen Uber Einen Sabel (DE) By Claudio Magris
@@ -2952,6 +2971,7 @@ Nightshade: An Only In Tokyo Mystery By Jomelle Patrick
 Night Shift By Stephen King
 Night Sky With Exit Wounds: Poems By Ocean Vuong
 Nightsongs By Jon Fosse
+Night's Slow Poison (Imperial Radch, #0.5) By Ann Leckie
 Night Train By Martin Amis
 Nikolai Gogol By Vladimir Nabokov
 Nine By Andrzej Stasiuk (Have)
@@ -3125,7 +3145,7 @@ Our Republic By Thomas Keneally
 Our Sister Killjoy By Ama Ata Aidoo
 Outback By Thomas Keneally
 Outer Dark By Cormac McCarthy (Read)
-Outliers By Malcolm Gladwell
+Outliers: The Story Of Success By Malcolm Gladwell
 Out Of Africa By Karen Blixen
 Out Of Darkness By Ashley Hope Prez
 Out Of The Blackout By Robert Barnard
@@ -3356,6 +3376,7 @@ Quatre Quatuors Pour Un Week - End (FR) By Gao Xingjian
 Queenie By Candice Carty - Williams
 Queenie (Storycuts) By Alice Munro
 Queen Of Shadows (Throne Of Glass, #4) By Sarah Janet Maas
+Queen Of The Flowers (Phryne Fisher, #14) By Kerry Greenwood
 Queer By William Seward Burroughs II
 Quentin Dumvard By Sir Waltor Scott (Have)
 Que Hareis Con Este Libro. Teatro Completo / What Will You Do with This Book. Complete Theater (ES) By Jose Saramago
@@ -3387,6 +3408,7 @@ Rain In The Wind: Stories By Saiichi Maruya (Have)
 Raise From The Ground By Jose Saramago
 Raise High The Roof Beam, Carpenters & Seymour: An Introduction By Jerome David Salinger (Have)
 Raising Demons By Shirley Jackson
+Raisins And Almonds (Phryne Fisher, #9) By Kerry Greenwood
 Raiz De Orvalho E Outros Poemas (PT) By Mia Couto
 Ramayana By Valmiki
 Ramsey Milholland By Booth Tarkington
@@ -3479,6 +3501,7 @@ Rosencrantz And Guildenstern Are Dead: A Play By Tom Stoppard
 Rose Of Time By Bei Dao
 Roughing It By Mark Twain (Have)
 Rouse Up O Young Men Of The New Age! By Kenzaburo Oe
+Ruddy Gore Blood And Circuses (Phryne Fisher, #7) By Kerry Greenwood
 Rudy Giuliani: Emperor Of The City By Andrew Kirtzman
 Ruletistul By Mircea Cartarescu
 Run: A Subject Seven Novel By James Arthur Moore
@@ -3628,6 +3651,7 @@ Shanghai Modern: The Flowering Of A New Urban Culture In China, 1930 - 1945 By L
 Shanghai Nights By Juan Marse
 Shantytown By Cesar Aira
 Shasekishu By Muju & Tsunaya Watanabe
+She Commands Me And I Obey (Imperial Radch, #0.6) By Ann Leckie
 She Has No Place In Paradise By Nawal El Saadawi
 Shelter In Place By Nora Roberts
 Sherds By Francisco Sionil Jose
@@ -4103,6 +4127,7 @@ The Blunder By Milan Kundera
 The Boat Runner By Devin Murphy
 The Body By Stephen King
 The Body Artist By Don DeLillo
+The Bomber Mafia: A Dream, A Temptation, And The longest ight Of The Second World War By Malcolm Gladwell
 The Bonesetter's Daughter By Amy Tan (Read)
 The Bones Of Paris (Harris Stuyvesant, #2) By Laurie R. King
 The Book Of Chilam Balam Of Chumayel By Anonymous
@@ -4119,6 +4144,7 @@ The Book Of Urizen By William Blake
 The Book Of Woodcraft And Indian Lore By Ernest Thompson Seton
 The Bookshop On The Corner By Jenny Colgan
 The Books Of Jacob By Olga Tokarczuk
+The Book That Wouldn't Burn By Mark Lawrence
 The Book Thief By Markus Zusak (Read)
 The Border Trilogy By Cormac McCarthy
 The Bostonians By Henry James (Have)
@@ -4163,6 +4189,7 @@ The Case For Literature By Gao Xingjian
 The Castaway, And Other Poems By Derek Walcott
 The Castle By Franz Kafka (Read)
 The Castle In The Sea By Scott O'Dell
+The Castlemaine Murders (Phryne Fisher, #13) By Kerry Greenwood
 The Castle Of Kings By Oliver Potzsch
 The Casual Vacancy By Joanne Rowling
 The Catcher Of The Rye By Jerome David Salinger (Read) (Fav)
@@ -4565,6 +4592,7 @@ The Great Gatsby By Francis Scott Key Fitzgerald (Read)
 The Great Winter By Ismail Kadare
 The Green House By Mario Vargas Llosa
 The Green Mile By Stephen King (Have)
+The Green Mill Murder (Phryne Fisher, #5) By Kerry Greenwood
 The Green Shame: And The Triumph Of The Irish In The English - Speaking World By Thomas Keneally
 The Ground Beneath Her Feet By Salman Rushdie
 The Grove Of Academe By Mary McCarthy
@@ -4603,6 +4631,7 @@ The Headless Ghost (Goosebumps, #37) By Robert Lawrence Stine
 The Heart Goes Last By Margaret Atwood
 The Heart Of The Matter By Graham Greene
 The Hearts Of Men: A Novel By Nickolas Butler
+The Heaven & Earth Grocery Store: A Novel By James McBride
 The Heaven Of Animals By David James Poissant
 The Hedge Knight By George Raymond Richard Martin
 The Help By Kathryn Stockett (Have)
@@ -5122,6 +5151,7 @@ The Prisoner By Marcel Proust
 The Prisoner Of Zenda By Anthony Hope
 The Private Memoirs And Confessions Of A Justified Sinner By James Hogg
 The Prodigal Son By Derek Walcott
+The Professor And The Madman: A Tale Of Murder, Insanity, And The Making Of The Oxford English Dictionary By Simon Winchester
 The Professor By Charlotte Bronte
 The Professor's House By Willa Cather (Have)
 The Program By Suzanne Young
@@ -5300,7 +5330,7 @@ The Silence Of The Sea By Jean Br
 The Silence Of Water By Jose Saramago
 The Silent Army: Seven Forges By James Arthur Moore
 The Silent Corner By Dean Koontz
-The Silent Cry By Kenzaburo Oe
+The Silent Cry: A Novel By Kenzaburo Oe (Read)
 The Silent Duchess By Dacia Maraini
 The Silver Music Box By Mina Baites
 The Sign Of The Beaver By Elizabeth George Speare (Have) (Read)
@@ -5398,6 +5428,7 @@ The Sun Betweem Their Feet By Doris Lessing
 The Sun Fairy By Fereshteh Molavi
 The Sun In Your Eyes By Deborah Shapiro
 The Sunset Limited: 'His Prose Bites' The Evening Standard By Cormac McCarthy
+The Surgeon Of Crowthorne By Simon Winchester
 The Survivor By Thomas Keneally
 The Suspect By John Lescroart (Have)
 The Suspicion (Animorphs, #24) By Katherine Applegate
@@ -5452,6 +5483,7 @@ The Time Machine By Herbert George Wells (Read)
 The Time Of The Hero By Mario Vargas Llosa
 The Tin Drum By Gunter Grass
 The Tin Flute By Gabrielle Roy (Have) (Read)
+The Tipping Point: How Little Things Can Make A Big Difference By Malcolm Gladwell
 The Tommyknockers By Stephen King
 The Tongue Set Free: Remembrance Of A European Childhood By Elias Canetti
 The Tortoise Or The Hare By Toni Morrison
@@ -5797,6 +5829,7 @@ Train To Budapest By Dacia Maraini
 Transcription By Kate Atkinson (Have)
 Transformations Of The Lover By Adunis
 Transformer: The Complete Lou Reed Story By Victor Bockris
+Translation State By Ann Leckie
 Transparent Things By Vladimir Nabokov
 Traplines By Eden Robinson
 Traps By Friedrich Duerrenmatt (Read)
@@ -5894,6 +5927,7 @@ Un Lento Aprendizaje (ES) By Thomas Pynchon
 Un Manual Para Ser Nino (ES) By Gabriel Garcia Marquez
 Un Monde Evanoui (FR) By Yu Hua
 Un Mundo Para Julius (ES) By Alfredo Bryce Echenique
+Unnatural Habits (Phryne Fisher, #19) By Kerry Greenwood
 Unseen Hand: Poems By Adam Zagajewski
 Until Stones Become Lighter Than Water By Antonio Lobo Antunes
 Untitled Novel: Rohinton Mistry BY Rohinton Mistry
@@ -5907,6 +5941,7 @@ Up In The Tree By Margaret Atwood
 Uprooted By Naomi Novik
 Upstream: Selected Essays By Mary Oliver
 Uri's Special Language By David Grossman
+Urn Burial (Phryne Fisher, #8) By Kerry Greenwood
 USA: The 42nd Parallel / 1919 / The Big Money By John Dos Passos
 Ute Av Verden (NO) BY Karl Ove Knausgard
 Utopia By Thomas More (Have)
@@ -6089,6 +6124,7 @@ What Must Be Said By Gunter Grass
 What Our Minds Do When We Read Novels By Orhan Pamuk 
 What Ours Is Not Yours: Stories By Helen Oyeyemi (Read)
 What's Your Creative Type? Harness The Power Of Your Artistic Personality By Meta Wagner
+What The Dog Saw And Other Adventures By Malcolm Gladwell
 What The Night Knows By Dean Koontz
 What The Twilight Says By Derek Walcott
 What They Don't Teach You At Harvard Business School By Mark McCormack
