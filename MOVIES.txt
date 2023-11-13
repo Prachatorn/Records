@@ -304,7 +304,7 @@ Bratz: The Movie (2007) By Sean McNamara
 Braveheart (1995) By Mel Gibson
 Breakfast At Tiffany's (1961) By Blake Edwards
 Breaking In (2018) By James McTeigue (Watched)
-Breathless (1960) By Jean - Luc Godard
+Breathless (FR) (1960) By Jean - Luc Godard
 Bride Of Chucky (1998) By Ronny Yu
 Bridesmaids (2011) By Paul Feig
 Bridge Of Spies (2015) By Steven Spielberg (Watched)
@@ -617,6 +617,7 @@ First Kill (2017) By Steven C. Miller
 First Knight (1995) By Jerry Zucker
 First Man (2018) By Damien Chazelle (Watched)
 Fist Fight (2017) By Richie Keen
+Five Nights At Freddy's (2023) By Emma Tammi (Watched)
 Flash Gordon (1980) By Mike Hodges
 Fletch (1985) By Michael Ritchie
 Fletch Lives (1989) By Michael Ritchie
@@ -664,7 +665,7 @@ Ghost (1990) By Jerry Zucker
 Ghostbusters (1984) By Ivan Reitman
 Ghostbusters (2016) By Paul Feig (Watched)
 Ghostbusters II (1989) By Ivan Reitman
-Ghost In The Shell (2017) By Rupert Sanders
+Ghost In The Shell (2017) By Rupert Sanders (Watched)
 Ghost In The Shell (JP) (1995) By Mamoru Oshii
 Ghost Rider (2007) By Mark Steven Johnson
 Ghost Rider: Spirit Of Vengeance (2011) By Brian Taylor & Mark Neveldine
@@ -825,6 +826,7 @@ Ikiru (To Live) (JP) (1956) By Akira Kurosawa
 I Know What You Did Last Summer (1997) By Jim Gillespie
 Illegal Tender (2007) By Franc. Reyes
 Il Posto (IL) (1963) By Ermanno Olmi
+I Married A Witch (1942) By Rene Clair
 In A Valley Of Violence (2016) By Ti West
 In America (2002) By Jim Sheridan
 Inception (2010) By Christopher Nolan (Watched)
@@ -1051,6 +1053,7 @@ Maria (Y Los Demas) (Maria And Everyone Else) (ES) (2016) By Nely Reguera
 Marley & Me (2008) By David Frankel (Watched)
 Marmaduke (2010) By Tom Dey
 Mary And Martha (2013) By Phillip Noyce
+Masculin Feminin (FR) (1966) By Jean - Luc Godard
 M*A*S*H (1970) By Robert Altman
 Masquerade (2012) By Choo Chang - Min
 Master And Commander: The Far Side Of The World (2003) By Peter Weir
@@ -2040,6 +2043,7 @@ Waitress (2007) By Adrienne Shelly
 Walkout (2006) By Edward James Olmos
 Wall Street: Money Never Sleeps (2010) By Oliver Stone
 Wanted (2008) By Timur Bekmambetov
+War Correspondent (1932) By Paul Sloane
 Warcraft (2016) By Duncan Jones (Watched)
 War For The Planet Of The Apes (2017) By Matt Reeves
 War Horse (2011) By Steven Spielberg
@@ -2051,6 +2055,7 @@ Waterloo Bridge (1940) By Mervyn LeRoy
 Waterworld (1995) By Kevin Reynolds
 We Are Your Friends (2015) By Max Joseph (Watched)
 Weathering With You (JP) (2019) By Makoto Shinkai (Watched)
+Weekend (FR) (1967) By Jean - Luc Godard
 Weekend At Bernie's (1989) By Ted Kotcheff
 We Love Moses (2016) By Dionne Edwards
 Welcome To Mooseport (2004) By Donald Petrie
