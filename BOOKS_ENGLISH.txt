@@ -23,7 +23,6 @@
 40 By Travis Thrasher
 4 3 2 1: A Novel By Paul Auster
 5 Days That Shook The World By Alexander Cockburn, Allan Sekula & Jeffrey St. Clair (Have)
-69 By Ryu Murakami
 76 Minutes: My Search For Andrew, Alexander And Tanner Skelton By Lynn Thompson
 77 Shadow Street By Dean Koontz
 7 Hours Omnibus By Mike Dellosso, Rene Gutteridge, Tom Parlick & Travis Thrasher
@@ -146,6 +145,7 @@ Afternoon On The Amazon (Magic Tree House, #6) By Mary Pope Osborne
 After The Banquet By Yukio Mishima
 After The Quake By Haruki Murakami (Read)
 Against An African Sky: Stories (1997) By Farida Karodia
+Against Nature By Joris - Karl Huysmans
 Against The Day By Thomas Pynchon
 Agamemnon's Daughter By Ismail Kadare
 A Game Of Thrones (A Song Of Ice And Fire, #1) By George Raymond Richard Martin
@@ -831,6 +831,7 @@ Cannery Row By John Steinbeck (Read)
 Can Onions Cure Ear - Ache?: Medical Advice From 1769 By William Buchan (Have)
 Can't And Won't: Stories By Lydia Davis
 Canvas By Adam Zagajewski
+Capital: A Critique Of Political Economy By Karl Marx
 Capital: The Eruption Of Delhi By Rana Dasgupta
 Captain Pantoja And The Special Service By Mario Vargas Llosa
 Captain Scott's Dairy By Robert Falcon Scott
@@ -1801,6 +1802,7 @@ Growth Of The Soil By Knut Hamsun
 Grrm: A Retrospective By George Raymond Richard Martin
 Guerrillas By Sir Vidiadhar Surajprasad Naipaul
 Guerrilla Warfare By Ernesto "Che" Guevara
+Guilty By Georges Bataille
 Gulliver's Travels By Jonathan Swift (Have)
 Gun Lake By Travis Thrasher
 Guns, Germs, And Steel: The Fates Of Human Societies By Jared Diamond
@@ -1914,6 +1916,7 @@ His Bloody Project: Documents Relating To The Case Of Roderick MacRae By Graeme 
 Historia Abreviada De La Literature Portatil (ES) By Enrique Vila - Matas
 Historia De Detectives: Detective Story By Juan Marse
 Histoire D'Un Baiser By Albert Cim
+History And Class Consciousness By Gyorgy Lukacs
 History Lessons (The Flash, Volume 5) By Brian Buccellato & Patrick Zircher (Read)
 History Of The Arabs: From The Earliest Times To The Present By Philip Khuri Hitti
 History Of The Conflict Between Religion And Science By John William Draper
@@ -2256,7 +2259,7 @@ Kafka Was The Rage: A Grrenwich Village Memoir By Anatole Broyard
 Kagero Nikki By Michitsuna's Mother
 Kalila And Dimna #1 - The Panchatantra Retold (Kalila And Dimna, #1) By Ramsay Wood
 Kalle Blomquist Meisterdetektiv By Astrid Lindgren
-Kama Sutra For Couples: Everything You Need To Know About the Ancient Art Of Love Making With Beginner To Expert Techniques, Love Making, And Sex Positions By Anonymous
+Kama Sutra For Couples: Everything You Need To Know About the Ancient Art Of Love Making With Beginner To Expert Techniques, Love Making, And Sex Positions By Vatsyayana
 Kanat Hiya Al - Ad'af (AR) By Nawal El Saadawi
 Kaoraamat (ET) By Jaan Kaplinski
 Karaoke Culture By Dubravka Ugresic
@@ -3564,6 +3567,7 @@ Sabers And Utopias: Visions Of Latin America: Essays By Mario Vargas Llosa
 Saca A Lam Jarni (HI) By Rohinton Mistry
 Sacre Bleu: A Comedy D'Art By Christopher Moore
 Sacred Hunger (Sacred Hunger, #1) By Barry Unsworth
+Sacred Texts Of The World: A Universal Anthology By Ninian Smart & Richard D. Heicht
 Sacrificing Families: Navigating Laws, Labor, And Love Across Borders By Leisy J. Abrego (Have)
 Safe Haven By Nicholas Sparks
 Saint Odd By Dean Koontz
@@ -3743,6 +3747,7 @@ Six Feet Of The Country By Nadine Gordimer
 Six Plus One Remorses For The Sky By Odysseas Elytis
 Six - Pointer Buck By David Stephen
 Six Shorts 2017: The Finalists For The 2017 Sunday Times EFG Short Story Award By Bret Anthony Johnston, Celeste Ng, Kathleen Alcott, Richard Lambert, Sally Rooney & Victor Lodato
+Sixty - Nine: A Novel By Ryu Murakami (Read)
 Sjunger Näktergalen  A I Dorpat? (ET) By Jaan Kaplinski
 Skeleton Crew By Stephen King
 Skeleton Key (Alex Rider, #3) By Anthony Horowitz
@@ -4293,6 +4298,7 @@ The Collected Poems Of Sylvia Plath
 The Collected Stories By Eudora Welty
 The Collected Stories Of Lydia Davis By Lydia Davis
 The Collected Stories Of Peter Taylor By Peter Taylor (Have)
+The Collected Writings By John Maynard Keynes
 The Collector By John Fowles
 The Collector Of Treasures And Other Botswana Village Tales By Bessie Amelia "Emery" Head
 The Colonel By Mohammed Dowlatabadi
@@ -5384,6 +5390,7 @@ The Short Plays Of Harold Pinter
 The Short Reign Of Pippin IV: A Fabrication By John Steinbeck
 The Short Stories By Ian McEwan
 The Sickness (Animorphs, #29) By Katherine Applegate
+The Sickness Unto Death By Soren Kierkegaard
 The Siege By Ismail Kadare
 The Silence: A Novel By Don DeLillo (Read)
 The Silence Of Heaven: Agnon's Fear Of God By Amos Oz
