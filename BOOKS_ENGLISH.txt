@@ -52,6 +52,7 @@ A Briefer History Of Time By Leonard Mlodinow & Stephen Hawking
 A Brief History Of Montmaray By Michelle Cooper
 A Brief History Of Steven Killings By Marlon James
 A Bright Ray Of Darkness By Ethan Hawke
+A Bright Shining Lie: John Paul Vann And America In Vietnam By Neil Sheehan
 Absalom, Absalom! By William Faulkner
 Absence Of Mind: Dispelling Of Inwardness From The Modern Myth Of The Self By Marilynne Robinson
 Absolutely On Music: Conversations With Seiji Ozawa By Haruki Murakami
@@ -160,6 +161,7 @@ Agnes Grey By Anne Bronte
 A Girl In Exile By Ismail Kadare
 A Good And Happy Child By Justin Evans
 A Good Day For Seppuku: Stories By Kate Braverman
+A Good Girl's Guide To Murder By Holly Jackson
 A Good Night For Ghosts (Magic Tree House, #42) By Mary Pope Osbourne
 A Good Scent From A Strange Mountain: Stories By Robert Olen Butler (Have)
 A Grain Of Wheat By Ngugi Wa Thiong'o
@@ -396,6 +398,7 @@ A Piece Of My Heart By Richard Ford
 A Piece Of The World: A Novel By Christina Baker Kline
 A Plan For Escape By Adolfo Bioy Casares
 A Platform With No Timetable By Huang Chun - Ming
+A Political Youth Dies By Kenzaburo Oe
 A Portrait Of The Artist As A Young Man By James Joyce
 Appaloosa By Robert Brown Parker
 Appetite (Storycuts) By Julian Barnes
@@ -665,6 +668,7 @@ Between Eternities: And Other Writings By Javier Marias
 Between Friends By Amos Oz
 Between Them: Remembering My Parents By Richard Ford
 Between The World And Me By Ta - Nehisi Coates
+Be Useful: Seven Tools For Life By Arnold Schwarzenegger
 Beware, The Snowman (Goosebumps, #51) By Robert Lawrence Stine
 Bewitched Crossroad: An African Saga By Bessie Amelia "Emery" Head
 Beyond Belief: Islamic Excursions Among The Converted Peoples By Sir Vidiadhar Surajprasad Naipaul
@@ -950,6 +954,7 @@ Close Sesame By Nuruddin Farah
 Close To Home By Harry Crews
 Close - Up By Len Deighton 
 Cloud Atlas By David Mitchell
+Cloud Cuckoo Land By Anthony Doerr
 Cocaine Blues (Phryne Fisher, #1) By Kerry Greenwood
 Coda (Alex Rider, #7.5) By Anthony Horowitz
 Coeur Brule Et Autres Romances (FR) By Jean - Marie Gustave Le Clezio
@@ -995,6 +1000,7 @@ Conquering Prayer / The Power Of Personality By L. Swetenham
 Consent: A Memoir By Vanessa Sprignora
 Conte Cruel By Maryse Conde
 Contemporary English Stories By Graham Swift, Ian McEwan & Martin Amis
+Contemporary Games By Kenzaburo Oe
 Continental Drift By Russell Banks (Have)
 Continent: Stories By Jim Crace
 Contos Do Nascer Da Terra (PT) By Mia Couto
@@ -1173,6 +1179,7 @@ Del Mino Al Bidasoa (ES) By Camilo Jose Cela
 Delusions Of Grandma By Carrie Fisher
 Demasiada Nieve Alrededor (ES) By Javier Marias
 Demon City By Shofu Muramatsu
+Demon Copperhead By Barbara Kingsolver
 Demons By Fyodor Dostoevsky
 Demon Seed By Dean Koontz (Read)
 Demian By Hermann Hesse
@@ -1500,8 +1507,10 @@ F By Daniel Kehlmann
 Fables: The Wolf Among Us Volume 1 By Dave Justus, Eric Nguyen, Lee Loughridge, Matthew Sturges, Shawn McManus, Steve Sadowski & Travis Moore (Read)
 Fables: The Wolf Among Us Volume 2 By Andrew Pepoy, Christopher Mitten, Dave Justus, Eric Nguyen, Joelle Jones, Lee Loughridge, Matthew Sturges, Megan Levens, Shawn McManus, Steve Sadowski, Travis Moore (Read)
 Facing The Bridge By Yoko Tawada
+Factfulness: Ten Reasons We're Wrong About The World - And Why Things Are Better Than You Think By Anna Rosling Ronnlund, Hans Rosling, Ola Rosling
 Fado Alexandrino By Antonio Lobo Antunes
 Fahrenheit 451 By Rad Bradbury (Read)
+Fairy Tale By Stephen King
 Fairy Tales For Computers By Leslie George Katz
 Faith By Len Deighton
 Faithful And Virtuous Night: Poems By Louise Gluck (Read)
@@ -1570,6 +1579,7 @@ Fire And Fury: Inside The Trump White House By Michael Wolff (Read)
 Fire And Knowledge By Peter Nadas
 Fire Down Below By William Golding
 Firefly: Big Damn Hero By Nancy Holder (Have)
+Fire In The Lake By Frances FitzGerald
 Fire On The Mountain: The True Story Of The South Canyon Fire By John N. Maclean
 Fire Sermon: A Novel By Jamie Quatro
 Fires: Essays, Poems, Stories By Raymond Carver
@@ -1844,7 +1854,7 @@ Harry Potter And The Goblet Of Fire (Harry Potter, #4) By Joanne Rowling
 Harry Potter And The Half - Blood Prince (Harry Potter, #6) By Joanne Rowling
 Harry Potter And The Order Of The Phoenix (Harry Potter, #5) By Joanne Rowling
 Harry Potter And The Prisoner Of Azkaban (Harry Potter, #3) By Joanne Rowling
-Harry Potter And The Sorcerer's Stone (Harry Potter, #1) By Joanne Rowling
+Harry Potter And The Sorcerer's Stone (Harry Potter, #1) By Joanne Rowling (Read)
 Harun Aur Kahaniyo Ka Samunder By Salman Rushdie
 Harvest Moon By James Arthur Moore
 Hasard Suivi De Angoli Malas (FR) By Jean - Marie Gustave Le Clezio
@@ -2193,6 +2203,7 @@ Jack Of Spades By Joyce Carol Oates
 Jacko: The Great Intruder By Thomas Keneally
 Jacob's Ladder: A Novel By Lyudmila Ulitskaya
 Jacob's Room By Virginia Woolf (Have)
+Japan, The Ambiguous, And Myself: The Nobel Prize Speech And Other Lectures By Kenzaburo Oe
 Jaques The Fatalist By Denis Diderot
 Jailbird By Kurt Vonnegut (Have)
 Jakarta By Alice Munro
@@ -2201,7 +2212,7 @@ Japanese Folk - Plays: The Ink - Smeared Lady And Other Kyogen By Shio Sakanishi
 Japan's High Schools By Thomas P. Rohlen (Have)
 Japan, The Ambiguous, And Myself: The Nobel Prize Speech And Other Lectures By Kenzaburo Oe
 Jase & The Deadliest Hunt By John Luke Robertson & Travis Thrasher
-Jazz By Toni Morrison
+Jazz By Toni Morrison (Have)
 Jean - Christophe By Romain Rolland
 Jechac Do Lwowa I Inne Wiersze (PO) By Adam Zagajewski
 Jeju Haenyeo: Stewards Of The Sea By Anne Hilty
@@ -2438,6 +2449,7 @@ Les Plaideurs (FR) By Jean Racine
 Less By Andrew Sean Greer
 Les Sages De Chelm (FR) By Isaac Bashevis Singer
 Less Than One: Selected Essays By Joseph Brodsky
+Lethal By Sandra Brown
 Let Me Be Frank With You By Richard Ford
 Let Me Tell You: New Stories, Essays, And Other Writings By Shirley Jackson
 Letourneau's Used Auto Parts By Carolyn Chute
@@ -3176,6 +3188,7 @@ Otherworld Secrets (Otherworld Stories, #4) By Kelley Armstrong
 Ourania By Jean - Marie Gustave Le Clezio
 Our Endless Numbered Days By Claire Fuller
 Our Lady Of The Flowers By Jean Genet
+Our Missing Hearts: A Novel By Celeste Ng
 Our Mutual Friend By Charles Dickens
 Our Republic By Thomas Keneally
 Our Sister Killjoy By Ama Ata Aidoo
@@ -3301,6 +3314,7 @@ Play It As It Lays: A Novel By Joan Didion (Read)
 Plays Five By Jon Fosse
 Plays Four By Jon Fosse
 Plays Three By Jon Fosse
+Plays Two: A Summer's Day, Dream Of Autumn, Winter By Jon Fosse (Read)
 Playth A Tiger: A Play In Three Acts By Doris Lessing
 Please, Louise By Toni Morrison
 Plenty By Orison Swett Marden
@@ -3477,6 +3491,7 @@ Red Sorghum By Mo Yan
 Red Sparrow (Red Sparrow Trilogy, #1) By Jason Matthews
 Reef By Romesh Gunesekera
 Rein Gold By Elfriede Jelinek
+Remarkably Bright Creatures By Shelby Van Pelt
 Re - Membering Africa By Ngugi Wa Thiong'o
 Remember: The Journey To School Integration By Toni Morrison
 Remembrance And Pantomime By Derek Walcott
@@ -3680,6 +3695,7 @@ Serve The People! By Yan Lianke
 Seven Forges (Seven Forges, #1) By James Arthur Moore
 Seven Interpretive Essays On Peruvian Reality By Jose Carlos Mariategui
 Seven Men By Max Beerbohm
+Seventeen And J: Two Novels By Kenzaburo Oe
 Seventeen By Booth Tarkington
 Seventeen Syllables And Other Stories By Hisaye Yamamoto
 Seventeen Poisoned Englishmen By Gabriel Garcia Marquez
@@ -3700,6 +3716,7 @@ Shame In The Blood By Tetsuo Miura
 Shane By Jack Schaefer (Read)
 Shanghai Modern: The Flowering Of A New Urban Culture In China, 1930 - 1945 By Leo Lee
 Shanghai Nights By Juan Marse
+Shantaram By Gregory David Roberts
 Shantytown By Cesar Aira
 Shasekishu By Muju & Tsunaya Watanabe
 She Commands Me And I Obey (Imperial Radch, #0.6) By Ann Leckie
@@ -4192,6 +4209,7 @@ The Book Of Chilam Balam Of Chumayel By Anonymous
 The Book Of Flights By Jean - Marie Gustave Le Clezio
 The Book Of Form And Emptiness By Ruth Ozeki
 The Book Of Intimate Grammar By David Grossman
+The Book Of Joe: Trying Not To Suck At Baseball And Life By Joe Maddon & Tom Verducci
 The Book Of Khartoum By Rania Mamoun
 The Book Of Laughter And Forgetting By Milan Kundera
 The Book Of Margery Kempe By Margery Kempe
@@ -5444,6 +5462,7 @@ The Spanish Smile By Scott O'Dell
 The Sparrow By Mary Doria Russell
 The Spinoza Of Market Street By Isaac Bashevis Singer
 The Spire By William Golding
+The Spirit Catches You And You Fall Down By Anne Fadiman
 The Spirit Level By Seamus Heaney
 The Spirit Of The Laws By Montesquieu
 The Splendor Of Longing In The Tale Of The Genji By Norma Field
@@ -5929,6 +5948,7 @@ True Grit By Charles Portis
 Truly Madly Guilty By Liane Moriarty
 TrumpNation: The Art Of Being The Donald By Timothy L. O'Brien
 Trump: The Art Of The Deal By Donald Trump & Tony Schwartz
+Trust By Herman Diaz
 Truth Barriers By Tomas Transtromer
 Truth In Autobiography By John Maxwell Coetzee
 Truth In History By Oscar Handlin
@@ -6205,9 +6225,11 @@ What We Saw By Aaron Hartzler (Read)
 What Wives Wish Their Husbands Knew About Women By James Clayton "Jim" Dobson, Jr. (Have)
 When Breath Becomes Air By Paul Kalanithi
 When Cultures Meet: Remembering San Gabriel Del Yunge Oweenge: Papers From The October 20, 1984 Conference Held At San Juan Pueblo, New Mexico By Myra E. Jenkins & Richard Ford
+When I Sing, Mountains Dance By Irene Sola
 When It No Longer Matters Where You Live: Poems (1999) By Tanure Ojaide
 When I Was A Child I Read Books: Essays By Marilynne Robinson
 When I Was Mortal By Javier Marias
+When McKinsey Comes To Town: The Hidden Influence Of The World's Most Powerful Consulting Firm By Michael Forsyth & Walt Bogdanich
 When Rain Clouds Gather By Bessie Amelia "Emery" Head
 When Rulers Quarrel By Ismail Kadare
 When Shlemiel Went To Warsaw & Other Stories By Isaac Bashevis Singer
