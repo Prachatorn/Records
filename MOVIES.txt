@@ -7,11 +7,11 @@
 12 Years A Slave (2013) By Steve McQueen
 13 Sins (2014) By Daniel Stamm (Watched)
 17 Again (2009) By Burr Steers (Watched)
-2 - Assa - 2 (RU) (2008) By Sergei Solovyov
-2 Fast 2 Furious (2003) By John Singleton
 2001: A Space Odyssey (1968) By Stanley Kubrick
 2012 (2009) By Roland Emmerich (Watched)
 2500 Km (ES) (2017) By Daniela Arguello (Watched)
+2 - Assa - 2 (RU) (2008) By Sergei Solovyov
+2 Fast 2 Furious (2003) By John Singleton
 300 (2006) By Zack Snyder
 35 Shots Of Rum (2008) By Claire Denis
 3 Idiots (2009) By Rajkumar Hirani
@@ -199,6 +199,7 @@ Atlantis: The Lost Empire (2001) By Gary Trousdale & Kirk Wise
 Atomic Blonde (2017) By David Leitch (Watched)
 Atonement (2007) By Joe Wright
 Attack On A Bakery (JP) (1982) By Naoto Yamakawa
+Attack The Block (2011) By Jon Cornish
 A United Kingdom (2016) By Amma Asante
 Aurora (2018) By Yam Laranas
 Austin Powers: The Spy Who Shagged Me (1999) By Jay Roach
@@ -686,7 +687,7 @@ Ghost Rider: Spirit Of Vengeance (2011) By Brian Taylor & Mark Neveldine
 Ghosts Of Girlfriends Past (2009) By Mark Waters
 Gia (1998) By Michael Cristofer
 Gifted (2017) By Marc Webb
-Gilberto Santa Rosa, 40...Y Contando (2017) By HBO
+Gilberto Santa Rosa, 40...Y Contando (ES) (2017) By HBO
 Girls In Uniform (1931) By Leontine Sagan
 Girl With A Pearl Earring (2003) By Peter Webber
 Gladiator (2000) By Ridley Scott
@@ -697,6 +698,7 @@ God's Not Dead 2 (2016) By Harold Cronk (Watched)
 God's Not Dead: A Light In Darkness (2018) By Michael Mason
 Godzilla (2014) By Gareth Edwards (Watched)
 Godzilla: King Of The Monsters (2019) By Michael Dougherty (Watched)
+Godzilla Minus One (JP) (2023) By Takashi Yamazaki (Watched)
 Gog (1954) By Herbert L. Strock
 Going In Style (2017) By Zach Braff
 Going My Way (1944) By Leo McCarey
@@ -1013,25 +1015,26 @@ Life Is Beautiful (1997) By Roberto Benigni
 Life Support (2007) By Nelson George
 Life With Mikey (1993) By James Lapine
 Lights Out (2016) By David Sandberg
+Lightyear (2022) By Angus MacLane (Watched)
 Lincoln (2012) By Steven Spielberg
 Little Fockers (2010) By Paul Weitz
 Little Vera (1988) By Vasili Pichul
 Little Women (2019) By Greta Gerwig
 Live Free Or Die Hard (2007) By Len Wiseman
-Locos De Amor (Crazy In Love) (2016) By Frank Perez - Garland
+Locos De Amor (ES) (Crazy In Love) (2016) By Frank Perez - Garland
 Logan (2017) By James Mangold (Watched) (Fav)
 Longford (2007) By Tom Hooper
 Looking: The Movie (2016) By Andrew Haigh
 Lord Of The Flies (1990) By Harry Hook
 Lorenzo's Oil (1992) By George Miller
-Los Buscadores (Gold Seekers) (2017) By Juan Carlos Maneglia & Tana Schembori
-Los Contreras Familia (The Contreras Family) (2014) By Alejandro Becerril Elias
+Los Buscadores (Gold Seekers) (ES) (2017) By Juan Carlos Maneglia & Tana Schembori
+Los Contreras Familia (The Contreras Family) (ES) (2014) By Alejandro Becerril Elias
 Lost Horizon (1937) By Frank Capra
 Loulou (FR) (1980) By Maurice Pialat
 Love Actually (2003) By Richard Curtis
 Love Don't Cost A Thing (2003) By Troy Beyer
 Love In Kashmir (1976) By By C. Arjun
-Love Live! The School Idol Movie (2015) By Takahiko Kyogoku
+Love Live! The School Idol Movie (JP) (2015) By Takahiko Kyogoku
 Love, Simon (2018) By Greg Berlanti (Watched)
 Loving (2016) By Jeff Nichols
 Lowriders (2017) By Ricardo De Montreuil
@@ -1045,9 +1048,9 @@ M (DE) (1931) By Fritz Lang (Watched)
 Madre (Mother) (2016) By Simon Mesa Soto
 Magic Mike (2012) By Steven Soderbergh (Watched)
 Make Believe Ballroom (1949) By Joseph Santley
-Mal De Ojo (2015) By Solange Morales
+Mal De Ojo (ES) (2015) By Solange Morales
 Mamartuile (2017) By Alejandro Saevich
-Mama Se Fue De Viaje (Ten Days Without Mom) (2017) By Ariel Winograd
+Mama Se Fue De Viaje (Ten Days Without Mom) (ES) (2017) By Ariel Winograd
 Mamma Roma (1962) By Pier Paolo Pasolini
 Man Bites Dog (FR) (1992) By Andre Bonzel, Benoit Poelvoorde & Remy Belvaux
 Mandrake Telefilm: Part 1 (2013) By Jose Henrique Fonseca
@@ -1055,7 +1058,7 @@ Mandrake Telefilm: Part 2 (2013) By Jose Henrique Fonseca
 Man Facing Southeast (1986) By Eliseo Subiela
 Manhattan (1979) By Woody Allen
 Manina, The Girl In The Bikini (1952) By Willy Rozier
-Maquinaria Panamericana (Panamerican Machinery) (2016) By Joaquin Del Paso
+Maquinaria Panamericana (Panamerican Machinery) (ES) (2016) By Joaquin Del Paso
 Mannequin (1987) By Michael Gottlieb
 Mannequin Two: On The Move (1991) By Stewart Raffill
 Man Of La Mancha (1972) By Arthur Hiller
@@ -1578,6 +1581,7 @@ The Amazing Spider - Man 2 (2014) By Marc Webb
 The American President (1995) By Rob Reiner (Watched)
 The American Sniper (2014) By Clint Eastwood (Watched)
 The Amityville Horror (2005) By Andrew Douglas
+The Animal (2001) By Luke Greenfield
 The Ant Bully (2006) By John Alexander Davis
 The Arrival (2016) By Denis Villeneuve
 The Aspern Papers (2019) By Julien Landais
@@ -1679,6 +1683,7 @@ The Fever (2004) By Carlo Gabriel Nero
 The Final (2010) By Joey Stewart
 The Flash (2023) By Andres Muschietti (Watched) (Fav)
 The Florida Project (2017) By Sean Baker
+The Fly (1986) By David Cronenberg
 The Fourth Kind (2009) By Olatunde Osunsanmi
 The Fugitive (1993) By Andrew Davis
 The Full Monty (1997) By Peter Cattaneo

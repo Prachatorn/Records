@@ -262,6 +262,7 @@ A Man In Love By Karl Ove Knausgard
 A Man Of The People By Chinua Achebe
 A Manual For Cleaning Women: Selected Stories By Lucia Berlin (Read)
 A Manuscript Of Ashes By Antonio Munoz
+Amateur By Thomas Page McBee
 Amazonia: Five Years At The Epicenter Of The Dot.Com Juggernaut By James Marcus
 Amazons By Don DeLillo
 Amelia By Henry Fielding
@@ -363,6 +364,7 @@ Anne Of Green Gables (Anne Of Green Gables, #1) By Lucy Maud Montgomery (Read)
 Anne Of Windy Poplars (The Anne Of Green Gables Novels, #4) (Have) By Lucy Maud Montgomery
 Anne Perry Presents Malice Domestic: Stories By Anne Perry
 Annie John By Jamaica Kincaid
+Annihilation (Southern Reach, #1) By Jeff VanderMeer
 Ann Veronica By Herbert George Wells
 An Obvious Fact (Walt Longmire, #12) By Craig Johnson
 An Old Woman And Her Cat By Doris Lessing
@@ -489,6 +491,7 @@ A Streetcar Named Desire By Tennessee Williams
 A Sudden Liberating Thought: Selected Stories By Kjell Askildsen
 A Summer Place By Sloan Wilson
 As We Are Now By May Sarton (Read)
+Asymmetry By Lisa Halliday
 Asymmetry: Poems By Adam Zagajewski
 A Tale For The Time Being By Ruth Ozeki (Have)
 A Tale Of Flowering Fortunes: Annals Of Japanese Aristocratic Life In The Heian Period By Helen Craig McCullough & William H. McCullough
@@ -614,6 +617,7 @@ Beasts By Joyce Carol Oates
 Beasts Of No Nation: A Novel By Uzodinma Iweala (Read)
 Beatrice And Virgil: A Novel By Yann Martel
 Beau Geste By Percival Christopher Wren
+Beautiful Star By Yukio Mishima
 Beautiful Strangers By Mircea Cartarescu
 Beauty's Punishment (Sleeping Beauty, #2) By Anne Rice
 Bebop Baby By Mircea Cartarescu
@@ -669,6 +673,7 @@ Between Friends By Amos Oz
 Between Them: Remembering My Parents By Richard Ford
 Between The World And Me By Ta - Nehisi Coates
 Be Useful: Seven Tools For Life By Arnold Schwarzenegger
+Beware Of Pity By Stefan Zweig
 Beware, The Snowman (Goosebumps, #51) By Robert Lawrence Stine
 Bewitched Crossroad: An African Saga By Bessie Amelia "Emery" Head
 Beyond Belief: Islamic Excursions Among The Converted Peoples By Sir Vidiadhar Surajprasad Naipaul
@@ -694,10 +699,11 @@ Black Dahlia & White Rose: Stories By Joyce Carol Oates
 Black Elk Speaks By John G. Neihardt (Have)
 Black Feeling, Black Talk, Black Judgement By Nikki Giovanni
 Black Girl / White Girl By Joyce Carol Oates
-Black Liberation And The American Dream: The Struggle For Racial And Ecomonic Justice By Paul Le Blanc
 Black Is The Body By Emily Bernard
+Black Liberation And The American Dream: The Struggle For Racial And Ecomonic Justice By Paul Le Blanc
 Black Linguistics: Langauge, Society And Politics In Africa And The Americas By Ngugi Wa Thiong'o
 Black No More By George Schuyler
+Black Skin, White Masks By Frantz Fanon
 Black Star, Bright Dawn By Scott O'Dell
 Black Water By Joyce Carol Oates
 Blameless By Claudio Magris
@@ -886,7 +892,8 @@ Charles Dickens And The Great Theatre Of The World By Simon Callow
 Charlie And The Chocolate Factory (Charlie Bucket, #1) By Roald Dahl
 Charlie Chaplin's Last Dance By Fabio Stassi
 Charlotte's Web By Elwyn Brooks White (Have)
-Chase Us: Stories BY Sean Ennis
+Chase Us: Stories By Sean Ennis
+Chatter: The Voice In Our Head By Ethan Kross
 Checkpoint By Nicholson Baker
 Chekhov: The Major Plays By Anton Chekhov (Have)
 Cherry Hill By James Arthur Moore
@@ -938,6 +945,7 @@ City Gate, Open Up By Bei Dao
 City Of Bones By Cassandra Clare (Read)
 City Of Fortune: How Venice Ruled The Seas By Roger Crowley
 City Of Gold By Len Deighton
+City Of Night By John Rechy
 City Of Wonders By James Arthur Moore
 City Without A Name By Czeslaw Milosz
 CivilWarLand In Bad Decline By George Saunders
@@ -1337,6 +1345,7 @@ Dwa Miasta (PO) By Adam Zagajewski
 Dying Of The Light By George Raymond Richard Martin
 Dzikie Czeresnie (PO) By Adam Zagajewski
 Eagle Strike (Alex Rider, #4) By Anthony Horowitz
+Early Autumn (Spenser, #7) By Robert Brown Parker
 Earth Abides By George Rippey Stewart
 Earth Geeks Must Go! (Goosebumps 2000, #24) By Robert Lawrence Stine
 Earth Is Room Enough By Isaac Asimov
@@ -1397,8 +1406,10 @@ El Monarca Del Tiempo (ES) By Javier Marias
 El Mundo Es Ancho Y Ajeno (ES) By Ciro Alegria
 El Nombre Y La Cosa (ES) By Jose Saramago
 El Ogro Filantropico (ES) By Octavio Paz
+Elon Musk By Walter Isaacson
 El Pequeno Monje Budista (ES) By Cesar Aira
 El Robinson Urbano (ES) By Antonio Munoz Molina
+Elsewhere: A Novel By Alexis Schaitkin
 Elsewhere, Perhaps By Amos Oz
 El Sexto (ES) By Jose Maria Arguedas
 El Siglo (ES) By Javier Marias
@@ -1414,6 +1425,7 @@ Emilia Galotti: The Original Classic Edition By Gotthold Ephraim Lessing
 Emma By Jane Austen (Have)
 Emperor Of The Air: Stories By Ethan Canin (Have)
 Emperor Of The Earth By Czeslaw Milosz
+Empire Of Pain: The Secret History Of The Sackler Dynasty By Patrick Radden Keefe
 Empress Orchid (Empress Orchid, #1) By Anchee Min (Have)
 Enantia Ste Mera: Mythistorema (GR) By Thomas Pynchon
 En Ausencia De Blanca (ES) By Antonio Munoz Molina
@@ -1612,6 +1624,7 @@ Florence Ki Jadugarni (HI) By Salman Rushdie
 Florida Frenzy By Harry Crews
 Flowers For Algernon By Daniel Keyes (Read) (Fav)
 Flowers Of A Moment: Poems By Ko Un
+Flow My Tears, The Policeman Said By Philip Kindred Dick
 Flying Hero Class By Thomas Keneally
 Flying Too High (Phryne Fisher, #2) By Kerry Greenwood
 Foe: A Novel By John Maxwell Coetzee (Read) (Fav)
@@ -1718,6 +1731,7 @@ Ghosts By Cesar Aira
 Ghost Town At Sundown (Magic Tree House, #10) By Mary Pope Osborne
 GhostWriter By Travis Thrasher
 Gier By Elfriede Jelinek
+Gift From The Sea By Anne Morrow Lindbergh
 Gifts By Nuruddin Farah
 Gilead (Gilead, #1) By Marilynne Robinson
 Giono: Master Of Fictional Modes By Norma Lorre Goodrich
@@ -1760,6 +1774,7 @@ Goodbye, Mickey Mouse By Len Deighton
 Goodbye Tsugumi By Banana Yoshimoto (Read)
 Goodbye, Vitamin By Rachel Khong
 Good Climate, Friendly Inhabitants By Nadine Gordimer
+Good Leaders Ask Great Questions: Your Foundation For Successful Leadership By John Calvin Maxwell
 Good Morning, Gorillas (Magic Tree House, #26) By Mary Pope Osborne
 Good Morning, Midnight By Jean Rhys
 Good Morning, Midnight By Lily Brooks - Dalton
@@ -2649,6 +2664,7 @@ Man - Eaters Of Kumaon By Jim Corbett
 Mangiami Pure By Dacia Maraini
 Mala Indole (ES) By Javier Marias
 Mamista By Len Deighton
+Man Alive By Thomas Page McBee
 Manazuru By Hiromi Kawakami (Have)
 Mandingo By Kyle Onslott
 Manhattan Beach By Jennifer Egan
@@ -2873,6 +2889,7 @@ Multitude Of Sins Header By Richard Ford
 Mummies In The Morning (Magic Tree House, #3) By Mary Pope Osborne
 Murasaki Shikibu's The Tale Of Genji: Philosophical Perspectives By James McMullen
 Murder And Mendelssohn (Phryne Fisher, #20) By Kerry Greenwood
+Murder Crossed Her Mind By Stephen Spotswood
 Murder In Greenwich: Who Killed Martha Moxley? By Mark Fuhrman
 Murder In Montparnasse (Phryne Fisher, #12) By Kerry Greenwood
 Murder In The Cathedral: A Play By Thomas Stearns Eliot (Have)
@@ -2883,6 +2900,7 @@ Murder On A Midsummer Night (Phryne Fisher, #17) By Kerry Greenwood
 Murder On The Ballarat Train (Phryne Fisher, #3) By Kerry Greenwood
 Murder On The Orient Express By Agatha Christie (Read)
 Murnane By Gerald Murnane
+Music For Chameleons By Truman Capote
 Mutmabungen Uber Einen Sabel (DE) By Claudio Magris
 My Absolute Darling By Gabriel Tallent
 My American Fictionary By Dubravka Ugresic
@@ -2898,6 +2916,7 @@ My Century By Gunter Grass
 My Childhood By Maxim Gorky (Have)
 My Cousin Rachel By Daphne Du Maurier
 My Darling Clementine: The Story Of Lady Churchill By Jack Fishman
+My Death By Lisa Tuttle
 Mydriase By Jean - Marie Gustave Le Clezio
 My Dog Tulip By Joe Randolph Ackerley (Have)
 My Family And Other Animals By Gerald Durrell (Have)
@@ -3349,6 +3368,7 @@ Political Fictions By Joan Didion
 Pond By Claire - Louise Bennett
 Pony By Raquel Jaramillo Palacio
 Po - On By Francisco Sionil Jose
+Popcorn Venus: Women, Movies & The American Dream By Marjorie Rosen
 Pop Goes Korea: Behind The Revolution In Movies, Music, And Internet Culture By Mark James Russell
 Poppy Or The Snake? By Toni Morrison
 Popular Hits Of The Showa Era By Ryu Murakami (Read)
@@ -3970,6 +3990,7 @@ Sunstone By Octavio Paz
 Super Extra Grande By Yoss
 Superman Doomed (The New 52) By Aaron Kuder, Charles Soule, Greg Pak, Ken Lashley, Scott Lobdell & Tony S. Daniel (Read)
 Supreme Courtship By Christopher Buckley
+Surface Detail By Iain M. Banks
 Surfacing By Margaret Atwood
 Surfing With Sartre: An Aquatic Inquiry Into A Life Of Meaning By Aaron James
 Surrendering To Her Mate: A Shapeshifter Paranormal Romance (My Wicked Mates, #2) By Erzabet Bishop
@@ -4095,6 +4116,7 @@ The Andalite's Gift (Animorphs, #7.5) By Katherine Applegate
 The Android (Animorphs, #10) By Katherine Applegate
 The Andromeda Strain By Michael Crichton
 The Angel Esmeralda By Don DeLillo
+The Angel Told Me To Tell You Good - Bye By Leia Stinnett
 The Animal Family By Randall Jarrell
 The Animals In That Country By Margaret Atwood
 The Annotated Alice: The Definitive Edition By Lewis Carroll
@@ -5048,6 +5070,7 @@ The Museum Of Unconditional Surrender By Dubravka Ugresic
 The Musical Brain: And Other Stories By Cesar Aira
 The Mutation (Animorphs, #36) By Katherine Applegate
 The Mystery Fancier (Vol. 7 No. 1) January - February 1983 By Charlotte MacLeod, Guy M. Townsend & Tom Stoppard
+The Mystery Guest By Nita Prose
 The Mystery Of The Holy Innocents And Other Poems By Charles Peguy
 The Mystic Masseur And Miguel Street By Sir Vidiadhar Surajprasad Naipaul
 The Myth Of Sisyphus And Other Essays By Alburt Camus (Read)
@@ -5216,6 +5239,7 @@ The Prairie By James Fenimore Cooper
 The Predator (Animorphs, #5) By Katherine Applegate
 The Predator: Hunters And Hunted: Official Movie Prequel By James Arthur Moore
 The Pregnant Widow By Marin Amis
+The Premonition By Banana Yoshimoto (Read)
 The Pretender (Animorphs, #23) By Katherine Applegate
 The Pretenders By Francisco Sionil Jose
 The Prey Of Gods By Nicky Drayden
@@ -5262,6 +5286,7 @@ The Quest Begins (Seekers #1) By Erin Hunter (Have)
 The Queue By Vladimir Sorokins
 The Quick & The Dead: A Novel By Jack Curtis (Have)
 The Qur'an By Muhammad (Have) (Read)
+The Race To Be Myself: A Memoir By Caster Semenya
 The Rachael Papers By Martin Amis
 The Radiance Of The King By Camara Laye
 The Radio Plays By Tom Stoppard
@@ -5349,6 +5374,7 @@ The Sacrifice By Joyce Carol Oates
 The Sacrifice (Animorphs, #52) By Katherine Applegate
 The Saga Of Tanya The Evil 1: Deus Lo Vuit By Carlo Zen (Have)
 The Sailor From Gibraltar By Marguerite Duras
+The Saint Of Bright Doors By Vajra Chandrasekera
 The Same River By Jaan Kaplinski
 The Same Sea By Amos Oz
 The Same Sea In Us All By Jaan Kaplinski
@@ -5638,6 +5664,7 @@ The Upright Revolution: Or Why Humans Walk Upright By Ngugi Wa Thiong'o
 The Vacationers By Emma Straub
 The Vagrants: A Novel By Yiyun Li (Have)
 The Varieties Of Scientific Experience: A Personal View Of The Search For God By Ann Druyan & Carl Sagan
+The Vaster Wilds: A Novel By Lauren Groff (Read)
 The Very First Light: A Scientific Journey Back To The Dawn Of The Universe By John Boslough & John Cromwell Mather
 The Vaster Wilds By Lauren Groff
 The Vicar Of Wakefield By Oliver Goldsmith
@@ -5799,6 +5826,7 @@ This House Of Sky By Ivan Doig
 This I Believe: Gleanings From A Life In Literature By Francisco Sionil José
 This Is A Photograph Of Me: Girl And Horse, 1928 By Margaret Atwood
 This Is Halloween By James Arthur Moore
+This Is How You Lose The Time War By Amal El - Mohtar & Max Gladstone
 This Is Not A Border: Reportage & Reflection From The Palestine Festival Of Literature By Alice Walker, China Mieville, Deborah Moggach, Henning Mankell, Jeremy Harding, John Maxwell Coetzee, Michael Ondaatje, Michael Palin, Teju Cole & William Sutcliffe
 This Side Of Paradise By Francis Scott Key Fitzgerald
 This Side Of Time: Poems By Ko Un
@@ -6161,6 +6189,7 @@ Waywaya, And Other Stories By Francisco Sionil Jose
 We A BaddDDD People: Poems By Sonia Sanchez
 We Are An Image From The Future: The Greek Revolt Of December 2008 By A.G. Schwarz, Tasos Sagris & Void Network (Have)
 We Are The Change We Seek: The Speeches Of Barack Obama By Eugene Joseph "E. J." Dionne, Jr. & Joy - Ann Reid
+We Are The Crisis By Cadwell Turnbull
 We Are What We Pretend To Be: The First And Last Works By Kurt Vonnegut (Read)
 Weariness By Jon Fosse
 Web Of The Witch World By Andre Norton (Have)
