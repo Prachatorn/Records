@@ -39,6 +39,7 @@ A Clockwork Orange (1971) By Stanley Kubrick
 Acts Of Vengeance (2017) By Isaac Florentine
 A Cure For Wellness (2016) By Gore Verbinski
 Adam (2009) By Max Mayer
+A Dangerous Method (2011) By David Cronenberg
 Adaptation (2002) By Spike Jonze (Watched)
 Addicted To Love (1997) By Griffin Dunne (Watched)
 A Dog's Way Home (2019) By Charles Martin Smith
@@ -202,6 +203,8 @@ Attack On A Bakery (JP) (1982) By Naoto Yamakawa
 Attack The Block (2011) By Jon Cornish
 A United Kingdom (2016) By Amma Asante
 Aurora (2018) By Yam Laranas
+Austin Powers In Goldmember (2002) By Jay Roach
+Austin Powers: International Man Of Mystery (1997) By Jay Roach
 Austin Powers: The Spy Who Shagged Me (1999) By Jay Roach
 Australia (2008) By Baz Luhrmann
 Auto Focus (2002) By Paul Schrader
@@ -217,16 +220,17 @@ Away We Go (2009) By Sam Mendes (Watched)
 A Weekend With The Family (2016) By Chris Stokes
 A Whisker Away (JP) (2020) By Junichi Sato & Tomotaka Shibayama (Watched)
 A Woman Under The Influence (1974) By John Cassavetes
-Bad Boys (1995) By Michael Bay
-Bad Boys II (2003) By Michael Bay
-Bad Times At The El Royale (2018) By Drew Goddard (Watched)
+Baby's Day Out (1994) By Patrick Reed Johnson
 Bachelor Party (1984) By Neal Israel
 Back To The Future (1985) By Robert Zemeckis
 Back To The Future Part II (1989) By Robert Zemeckis
 Back To The Future Part III (1990) By Robert Zemeckis
+Bad Boys (1995) By Michael Bay
+Bad Boys II (2003) By Michael Bay
 Bad Company (1999) By Joel Schumacher
 Badlands (1973) By Terrence Malick
 Bad Parents (2012) By Caytha Jentis (Watched)
+Bad Times At The El Royale (2018) By Drew Goddard (Watched)
 Barbarella (1968) By Roger Vadim
 Barbershop (2002) By Tim Story
 Barbershop 2: Back In Business (2004) By Kevin Rodney Sullivan
@@ -258,6 +262,7 @@ Before Sunrise (1995) By Richard Linklater
 Before The Devil Knows You're Dead (2007) By Sidney Lumet
 Behind The Candelabra (2013) By Steven Soderbergh
 Being John Malkovich (1999) By Spike Jonze (Watched)
+Bend It Like Beckham (2002) By Gurinder Chadha
 Ben - Hur (1959) By William Wyler
 Ben - Hur (2016) By Timur Bekmambetov
 Berenice (1987) By Klaus - Michael Gruber
@@ -507,6 +512,7 @@ Dolores Claiborne (1995) By Taylor Hackford
 Dolphin Tale (2011) By Charles Martin Smith (Watched)
 Dolphin Tale 2 (2014) By Charles Martin Smith (Watched)
 Domestic Disturbance (2001) By Harold Becker (Watched)
+Domino (2005) By Tony Scott
 Don't Look Now (1973) By Nicolas Roeg
 Don't Tell Mom The Babysitter's Dead (1991) By Stephen Herek
 Dope (2015) By Rick Famuyiwa (Watched)
@@ -546,6 +552,7 @@ Dunkirk (2017) By Christopher Nolan
 Duplicity (2009) By Tony Gilroy
 Dutch (1991) By Peter Faiman
 Early Man (2018) By Nick Park
+Earth Girls Are Easy (1988) By Julien Temple
 East Side Sushi (2014) By Anthony Lucero
 Easy Rider (1969) By Dennis Hopper
 Edge Of Darkness (2010) By Martin Campbell
@@ -887,9 +894,10 @@ It's Complicated (2009) By Nancy Meyers
 It's Kind Of A Funny Story (2010) By Anna Boden & Ryan Fleck
 Ivan's Childhood (1962) by Andrei Tarkovsky
 Jack And Jill (2011) By Dennis Dugan
-Jack Frost (1998) By Troy Miller (Watched)
 Jackass: The Movie (2002) By Jeff Tremaine
+Jack Frost (1998) By Troy Miller (Watched)
 Jackie (2016) By Pablo Larrain
+Jackie Brown (1997) By Quentin Tarantino
 Jason And The Argonauts (1963) By Don Chaffey
 Jennifer's Body (2009) By Karyn Kusama
 Jersey Boys (2014) By Clint Eastwood
@@ -954,6 +962,7 @@ Kissing Jessica Stein (2001) By Charles Herman - Wurmfeld
 Kiss Of Death (1947) By Henry Hathaway
 Kiss Of Death (1995) By Barbet Schroeder
 Knight And Day (2010) By James Mangold
+Knives Out (2019) By Rian Johnson
 Kong: Skull Island (2017) By Jordan Vogt - Roberts (Watched)
 K - PAX (2001) By Iain Softley
 Kubo And The Two Strings (2016) By Travis Knight (Watched)
@@ -1010,6 +1019,7 @@ Les Miserables (2012) By Tom Hooper (Watched)
 Les Quatre Cents Coups (The 400 Blows) (FR) (1959) By Francois Truffaut
 Les Tontons Flingueurs (FR) (1963) By Georges Lautner
 Les Valseuses (Going Places) (FR) (1974) By Bertrand Blier
+Lethal Weapon (1987) By Richard Donner
 Let The Right One In (2008) By Tomas Alfredson
 L'Homme Anlantique (FR) (1981) By Marguerite Duras
 Liar Liar (1997) By Tom Shadyac (Watched)
@@ -1222,6 +1232,7 @@ Once Upon A Time In Mexico (2003) By Robert Rodriguez
 One Day (2011) By Lone Scherfig
 One Halloween (2017) By Rebecca Murga
 One Summer Of Happiness (1951) By Arne Mattsson
+On Golden Pond (1981) By Mark Rydell
 Only Angels Have Wings (1939) By Howard Hawks
 On The Basis Of Sex (2018) By Mimi Leder
 On The Beach (1959) By Stanley Kramer
@@ -1299,7 +1310,8 @@ Pretty Woman (1990) By Garry Marshall
 Pride And Glory (2008) By Gavin O'Connor
 Primo (2005) By Antony Sher
 Private Benjamin (1980) By Howard Zieff
-Promocion Fantasma (Ghost Graduation) (2012) By Javier Ruiz Caldera
+Promising Young Woman (2020) By Emerald Fennell
+Promocion Fantasma (Ghost Graduation) (ES) (2012) By Javier Ruiz Caldera
 Proof (2005) By John Madden
 Psycho (1960) By Alfred Hitchcock
 Pu - 239 (2006) By Scott Z. Burns
@@ -1317,10 +1329,12 @@ Rara (2018) By María José San Martín
 Ratatouille (2007) By Brad Bird (Watched)
 Ratchet & Clank (2016) By Jericca Cleland & Kevin Munroe (Watched)
 Rat Race (2001) By Jerry Zucker
-Real Women Have Curves (2002) By Patricia Cardoso
+Real Women Have Curves (2002) By Patricia 
+Rear Window (1954) By Alfred Hitchcock
 Rear Window (1998) By Jeff Bleckner
 Recount (2008) By Jay Roach
 Red Notice (2021) By Rawson Marshall Thurber (Watched)
+Red Tails (2012) By Anthony Hemingway & George Lucas
 Reign Of Fire (2002) By Rob Bowman
 Reinbou (Rainbow) (2017) By Andrés Curbelo & David Maler
 Remittance (2015) By Joel Pendelman & Patrick Daly
@@ -1718,6 +1732,7 @@ The Green Mile (1999) By Frank Darabont
 The Grey (2011) By Joe Carnahan
 The Grifter (1990) By Stephen Frears
 The Guru (2003) By Daisy Von Scherler Mayer
+The Half Of It (2020) By Alice Wu
 The Hand That Rocks The Cradle (1992) By Curtis Hanson
 The Hangover (2009) By Todd Philips (Watched)
 The Hate U Give (2018) By George Tillman Jr. (Watched)

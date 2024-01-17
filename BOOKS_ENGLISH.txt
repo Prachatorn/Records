@@ -47,6 +47,7 @@ A Book Of Bosh By Edward Lear (Have)
 A Book Of Common Prayer By Joan Didion
 A Book Of Mediterranean Food By Elizabeth David
 A Book Of Memories By Peter Nadas
+About Looking By John Berger
 Abraham Lincoln By Thomas Keneally
 A Brick Wall By Cesar Aira
 A Briefer History Of Time By Leonard Mlodinow & Stephen Hawking
@@ -104,6 +105,7 @@ A Dictionary Of Thoughts By Tryon Edwards
 Adieu La Vie, Adieu L'Amour (FR) By Juan Marse
 A Different Sea By Claudio Magris
 A Dinner At Poplar Walk By Charles Dickens
+A Distant Mirror: The Calamitous 14th Century By Barbara Tuchman
 Admiring Silence By Abdulrazak Gurnah (Read)
 Admission By Travis Thrasher
 A Doll's House And Other Plays By Henrik Ibsen
@@ -180,6 +182,7 @@ A High Wind In Jamaica By Richard Hughes
 A Historia Do Hidroaviao (PT) By Antonio Lobo Antunes
 A History Of Books By Gerald Murnane
 A History Of Fear By Like Dumas
+A History Of Food In 100 Recipes By William Sitwell
 A History Of Modern Chinese Fiction By Hsia Chih - Tsing
 A History Of The Warfare Of Science With Theology In Christendom By Andrew Dickson White
 A History Of The World In 10.5 Chapters By Julian Barnes
@@ -212,6 +215,7 @@ Albert's Bridge & Other Plays By Tom Stoppard
 Alcatraz Versus The Evil Librarians (Alcatraz, #1) By Brandon Sanderson (Have)
 Alcools: Poemes, 1898 - 1913 By Guillaume Apollinaire
 A Lesson Before Dying By Ernest James Gaines
+Alexander Ogston, K. C. V. O.: Memories And Tributes Of Relatives, Colleagues And Students, With Some Autobiographical Writings By Alexander Ogaton & Walter Ogston
 Alexander's Bridge By Willa Cather
 Alexandra By Scott O'Dell
 Alex Rider: Mission Files By Anthony Horowitz
@@ -274,9 +278,11 @@ Americana By Don DeLillo
 Americanah By Chimamanda Ngozi Adichie
 American Appetites By Joyce Carol Oates
 American Assassin By Vince Flynn
-Amerian Buffalo: In Search Of A Lost Icon By Steven Rinella
+American Buffalo: In Search Of A Lost Icon By Steven Rinella
+American Dirt: A Novel By Jeanine Cummins
 American Fiction: Volume 13 By Bruce Pratt & Michael White (Have)
 American Gods By Neil Gaiman
+American Green: The Obsessive Quest For The Perfect Lawn By Ted Steinberg
 American Omens: The Coming Fight Of Faith By Travis Thrasher
 American Originality: Essays On Poetry By Louise Gluck
 American Phycho By Bret Easton Ellis
@@ -527,6 +533,7 @@ At The Sky's Edge By Bei Dao
 A Turn In The South By Sir Vidiadhar Surajprasad Naipaul
 Audition By Ryu Murakami (Read)
 Auge I Vind (NO) By Jon Fosse
+August Sander By Susanne Lange
 Aunt Julia And The Scriptwriter By Mario Vargas Llosa
 Aunt Suni By Hyun Ki - Young
 Austerlitz By Winfried Georg Sebald
@@ -642,6 +649,7 @@ Behind The Clouds (1983) By Ifeoma Okoye
 Behind The Scenes At The Museum By Kate Atkinson
 Behold The Dreamers By Imbolo Mbuc
 Being And Nothingness By Jean - Paul Sartre
+Bel Canto By Ann Patchett
 Belinda By Maria Edgeworth
 Belle De Jour (FR) By Joseph Kessel
 Bellefleur By Joyce Carol Oates
@@ -728,6 +736,7 @@ Blockade Billy By Stephen King (Read)
 Blonde By Joyce Carol Oates
 Blood And Circuses (Phryne Fisher, #6) By Kerry Greenwood
 Blood And Grits By Harry Crews
+Blood And Smoke: A True Tale Of Mystery, Mayhem, Amd The Birth Of The Indy 500 By Charles Leerhsen
 Blood Harvest By James Arthur Moore
 Bloodlines By James Arthur Moore
 Blood Meridian (Or, The Evening Redness In The West) By Cormac McCarthy (Read)
@@ -762,9 +771,10 @@ Book Lovers By Emily Henry
 Boomtown By James Arthur Moore
 Border Districts: A Fiction By Gerald Murnane
 Boredom: The Literary History Of A State Of Mind By Patricia Spacks
+Born On The Fourth Of July By Ron Kovic
 Bossypants By Tina Fey
 Botchan By Natsume Soseki
-Born On The Fourth Of July By Ron Kovic
+Boulder By Eva Baltasar
 Boulevard Du Guinardo By Juan Marse
 Boundaries (2003) By Farida Karodia
 Bound In Wedlock: Slave And Free Black Marriage In The Nineteenth Century By Tera W. Hunter
@@ -822,6 +832,7 @@ By The North Gate By Joyce Carol Oates
 By The Sea By Abdulrazak Gurnah (Read)
 Cahier D'Un Retour Au Pays Natal (FR) By Aime Cesaire
 Cain By Jose Saramago
+Calling A Wolf A Wolf: Poems By Kaveh Akbar
 Call Of The White Fox By Willis Lindquist
 Cario Modern By Naguib Mahfouz
 Cairo Trilogy By Naguib Mahfouz
@@ -860,6 +871,7 @@ Carmen And Other Stories By Prosper Merimee (Have)
 Carnegie's Maid By Marie Benedict
 Carnival At Candlelight (Magic Tree House, #33) By Mary Pope Osborne
 Carousel Court: A Novel By Joe McGinniss Jr.
+Carra: My Autobiography By Jamie Carragher
 Carrie By Stephen King (Read)
 Carried Away: A Selection of Stories By Alice Munro
 Carrie Fisher Reads Her Novel Postcards from the Edge By Carrie Fisher
@@ -924,6 +936,8 @@ China Men By Maxine Hong Kingston (Have)
 Chirundu (1970) By Ezekial 'Es'kia' Mphahlele
 Chlorine: A Novel By Jade Song
 Choke: What the Secrets Of The Brain Reveal About Getting It Right When You Have To By Sian Beilock
+Cholera: The Biography By Christopher Hamlin
+Cholera: The Victorian Plague By Amanda Thomas
 Christine By Stephen King (Read)
 Christmas At Gunpoint (Alex Rider, #0.5) By Anthony Horowitz
 Christmas In Absaroka County (Walt Longmire, #8.1) By Craig Johnson
@@ -956,6 +970,7 @@ CivilWarLand In Bad Decline By George Saunders
 Civil War On Sunday (Magic Tree House, #21) By Mary Pope Osborne
 Clandestine In Chile By Gabriel Garcia Marquez
 Clara S, Musikalische Tragodie By Elfriede Jelinek
+Clarence Saunders And The Founding Of Piggly Wiggly: The Rise & Fall Of A Memphis Maverick By Mike Freeman
 Classical Love By Yu Hua
 Classic Crews: A Harry Crews Reader By Harry Crews
 Cleaned Out By Annie Ernaux
@@ -1369,6 +1384,7 @@ Echoing Silences (1997) By Alexander Kanengoni
 Economy Of The Unlost By Anne Carson
 Ecrits Et Propos Sur L'Art (FR) By Henri Matisse
 Ecstasy By Ryu Murakami
+Edible Estates: Attack On The Front Lawn By Diana Balmori & Fritz Haeg
 Education For A National Culture By Ngugi Wa Thiong'o
 Education In Movement Spaces: Standing Rock To Chicago Freedom Square By Multiple Editors
 Effortless Tears: Stories (1993) By Alexander Kanengoni
@@ -1436,6 +1452,7 @@ Enantia Ste Mera: Mythistorema (GR) By Thomas Pynchon
 En Ausencia De Blanca (ES) By Antonio Munoz Molina
 Encounter By Milan Kundera
 Encyclopedia Of An Ordinary Life By Amy Krouse Rosenthal
+Encyclopedia Of The Black Death By Joseph Byrne
 Ende Eines Familienromans. Roman (DE) By Peter Nadas
 Ender's Game By Orson Scott Card (Read)
 End Of Watch By Stephen King
@@ -1547,6 +1564,7 @@ Family Affair By Debbie Macomber (Read)
 Family Furnishings: Selected Stories, 1995 - 2014 By Alice Munro
 Family Matters By Rohinton Mistry
 Family Secrets: Risking Reproduction In Central Mozambique By Rachel R. Chapman (Have)
+Famous Nathan By Gil Reavill & Lloyd Handwerker
 Fangirl By Cath Avery
 Fantastic Voyage (Fantastic Voyage, #1) By Isaac Asimov
 Fantastic Voyage II: Destination Brain (Fantastic Voyage, #2) By Isaac Asimov
@@ -2008,6 +2026,7 @@ How To Avoid A Climate Disaster: The Solutions We Have And The Breakthroughs We 
 How To Be An Antiracist By Ibram Xolani Kendi
 How To Be Happy Though Married By Edward John Hardy
 How To Behave In A Crowd By Camille Bordas
+How To Build A Boat By Elaine Feeney (Read)
 How To Cure A Fanatic By Amos Oz
 How To Eat A Cupcake By Meg Donohue
 How To Get Filthy Rich In Rising Asia By Mohsin Hamid
@@ -2025,6 +2044,7 @@ Humiliated And Insulted By Fyodor Dostoevsky
 Hunger Games By Suzanne Collins (Read)
 Hunger Und Seide (DE) By Herta Muller
 Hungry Stones And Other Stories By Rabindranath Tagore (Have) (Read)
+Huntsman, What Quarry?: Poems By Edna St. Vincent Millay
 Huo Zhe (ZH) By Yu Hua
 Hurricane Heroes In Texas (Magic Tree House, #30) By Mary Pope Osborne
 Hurry Up, Houdini! (Magic Tree House, #50) By Mary Pope Osbourne
@@ -2050,6 +2070,7 @@ Ich, Ein Anderer (DE) By Imre Kertesz
 Ich Schwebe Uber Krakau. Erinnerungsbilder (PO) By Adam Zagajewski
 I, Claudius (Claudius, #1) By Robert Graves
 Ico: Castle In The Mist By Miyuki Miaybe (Read)
+I Contain Multitudes By Ed Yong
 Ideal Marriage: Its Physiology And Technique By Theodoor Hendrik Van De Velde
 Ideas And Opinions By Albert Einstein
 Identity By Milan Kundera
@@ -2069,6 +2090,7 @@ Il Bambino Alberto (IT) By Dacia Maraini
 Il Gioco Dell'Universo (IT) By Dacia Maraini
 I Live In The Slums By Can Xue
 I Live In Your Basement! (Goosebumps, #61) By Robert Lawrence Stine
+Illness As Metaphor By Susan Sontag
 Illness Or Modern Women By Elfriede Jelinek
 Illusions Perdues By Honore de Balzac
 Il Mito Absburgico Nella Letteratura Austriaca Moderna (IT) By Claudio Magris
@@ -2190,6 +2212,7 @@ I, Robot By Isaac Asimov
 I, Robot: To Protect (I, Robot: Reichert, #1) By Mickey Zucker Reichert (Have)
 Ironweed By William Kennedy
 Irr! Gront (NO) By Dag Solstad
+Isaac And The Egg By Bobby Palmer
 Isabella, Three Sailing Ships And A Con Man By Dario Fo
 Isabelle Huppert: Woman Of Many Faces Elfriede Jelinek & Susan Sontag 
 I See By My Outfit By Peter Soyer Beagle
@@ -2596,6 +2619,7 @@ Lord Jim By Joseph Conrad (Have)
 Lord Malquist And Mr. Moon: A Novel By Tom Stoppard
 Lord Of Ashes (Steelhaven, #3) By Richard Ford
 Lord Of The Flies By William Golding (Read)
+Lord Of The Isles By Walter Scott
 Los Cachorros (ES) By Mario Vargas Llosa
 Los Dominios De Lobo (ES) By Javier Marias
 Los Dos Payasos / The Two Clown By Cesar Aira
@@ -2870,6 +2894,7 @@ Moshi Moshi By Banana Yoshimoto (Read)
 Mortality And Mercy In Vienna By Thomas Pynchon
 Most Dangerous Game By Richard Connell (Read)
 Mother Country By Marilynne Robinson
+Mothering Sunday By Graham Swift
 MotherKind By Jayne Anne Phillips (Have)
 Mother Night By Kurt Vonnegut (Read)
 Mothers And Other Strangers By Gina Sorell
@@ -2967,6 +2992,7 @@ Mythology By Edith Hamilton
 My Travels Around The World By Nawal El Saadawi
 My Twentieth Century Evening And Other Small Breakthroughs: The Nobel Lecture By Kazuo Ishiguro (Read)
 My Two Worlds By Sergio Chejfec
+My Year Abroad By Chang - Rae Lee
 My Year In The No - Man's - Bay By Peter Handke
 Mzalendo Kimathi By Ngugi Wa Thiong'o
 Na Berma De Nenhuma Estrada E Outros Contos (PT) By Mia Couto
@@ -2979,6 +3005,7 @@ Nakeftali The Storyteller And His Horse, Sus: And Other Stories By Isaac Bashevi
 Nad Lunch: The Restored Text By William Seward Burroughs II
 Naked Earth By Eileen Chang
 Nao Entres Tao Depressa Nessa Noite Escura (ES) By Antonio Lobo Antunes
+Nathan's Famous: The First 100 Years By Jayne Pearl & William Handweker
 Nation By Terry Pratchett (Read)
 National Geographic Tales Of The Weird: Unbelievable True Stories By David Braun
 Nation - Building In Turkey And Morocco: Governing Kurdish And Berber Dissent By Senem Aslan
@@ -3011,6 +3038,7 @@ New Book By Rohinton Mistry
 New Essays On F. Scott Fitzgerald's Neglected Stories By Jackson R. Bryer
 New Feminist Criticism: Essays On Women, Literature, Theory By Elaine Showalter
 News, A Consumer's Guide By Ivan Doig
+New Scientist: The Origin Of (Almost) Everything By Graham Lawton
 New Selected Poems, 1966 - 1987 By Seamus Heaney
 New Selected Stories By Alice Munro
 News Of A Kidnapping By Gabriel Garcia Marquez
@@ -3079,7 +3107,7 @@ Nonsense And Happiness: Poems By Peter Handke (Read)
 No One Can Pronounce My Name: A Novel By Rakesh Satyal
 No One Writes To The Colonel, And Other Stories By Gabriel Garcia Marquez
 No Place Like: Selected Stories By Nadine Gordimer
-Normal People By Sally Rooney
+Normal People: A Novel By Sally Rooney (Read)
 North By Seamus Heaney
 North And South By Elizabeth Gaskell
 Northanger Abbey, Lady Susan, The Watsons, And Sandition By Jane Austen
@@ -3179,7 +3207,9 @@ One Man's Bible By Gao Xingjian (Read)
 One More Thing - Stories And Other Stories By Bejamin Joseph Manaly Novak (Read)
 One Night In Brazil By Isaac Bashevis Singer
 One Of These Days By Gabriel Garcia Marquez
+Ongoingness By Sarah Manguso
 On Grief And Reason: Essays By Joseph Brodsky
+On Immunity By Eula Biss
 Onitsha By Jean - Marie Gustave Le Clezio
 On Keeping A Notebook: Photographs And Drawings With An Essay By Jamie Hawkesworth & Joan Didion
 Only Bread For Eze (1980) By Ifeoma Okoye
@@ -3246,6 +3276,7 @@ Palace Of Treason: A Novel (Red Sparrow Trilogy, #2) By Jason Matthews
 Palace Walk By Naguib Mahfouz
 Pale Fire By Vladimir Nabokov
 Palm - Of - The - Hand: Stories By Yasunari Kawabata (Read)
+Palm Sunday By Kurt Vonnegut
 Pamela; Or, Virtue Rewarded By Samuel Richardson
 Pan By Knut Hamsun (Read)
 Panadora's Seed: Why The Hunter - Gatherer Holds The Key To Our Survival By Spencer Wells (Have)
@@ -3521,6 +3552,7 @@ Re: Creation: Poems By Nikki Giovanni
 Red Doc> By Anne Carson
 Redeployment By Phil Klay
 Red Mafiya: How The Russian Mob Has Invaded America By Robert I. Friedman
+Red: Passion And Patience In The Desert By Terry Tempest Williams
 Red Prophet (Tales of Alvin Maker, #2) By Orson Scott Card (Have)
 Red Sorghum By Mo Yan
 Red Sparrow (Red Sparrow Trilogy, #1) By Jason Matthews
@@ -3929,6 +3961,7 @@ SS - GB By Len Deighton
 Stage Fright On Summer Night (Magic Tree House, #25) By Mary Pope Osborne
 Stalking Jack The Ripper (Stalking Jack The Ripper, #1) By Kerri Maniscalco
 Stallion By Starlight (Magic Tree House, #49) By Mary Pope Osbourne
+Standing Heavy By Armand Patrick Gbaka - Brede
 Stand On Zanziber By John Brunner
 Star Apple Kingdom By Derek Walcott
 Star By Yukio Mishima
@@ -3950,6 +3983,7 @@ Stella Maris (The Passenger, #2) By Cormac McCarthy (Read)
 Step Across This Line By Salman Rushdie
 Stephen Hawking's A Brief History Of Time: A Reader's Companion By Stephen Hawking
 Step - Poems By Odysseas Elytis
+Still Born By Guadalupe Nettel
 Still Life At Sunset (Three Roads Home, #3) By Travis Thrasher
 Stillness Speaks By Eckhart Tolle
 Stolen (Magic Thief, #1) By Sarah Prineas (Have)
@@ -4145,7 +4179,7 @@ The Answer Is Never: A Skateboarder's History Of The World By Jocko Weyland
 The Antichrist By Friedrich Nietzsche
 The Anti - Federalist Papers And The Constitutional Convention Debates By Ralph Louis Ketcham
 The Antilles: Fragments Of Epic Memory: The Nobel Lecture By Derek Walcott
-The Anthropocene Reviewed: Essays On A Human - Centered Planet By John Green
+The Anthropocene Reviewed: Essays On A Human - Centered Planet By John Green (Read)
 The Apology Of Socrates By Plato
 The Appointment By Herta Muller
 The Arabian Nights By Unknown
@@ -4224,6 +4258,7 @@ The Bishop And The Actress: A Play By Tom Stoppard
 The Black Arrow By Robert Louis Stevenson
 The Black Auxiliary: The Untold Sotry Of 18 African Americans Who Defied Jim Crow And Adolf Hitler To Compete In The 1936 Berlin Olympics By Blair Underwood, Deborah Riley Draper & Travis Thrasher
 The Black Book By Orphan Pamuk
+The Black Death By Rosemary Horrox
 The Black Heralds By Cesar Vallejo
 The Black Madonna By Doris Lessing
 The Black Obelisk By Erich Maria Remarque
@@ -4437,6 +4472,7 @@ The Dark Half By Stephen King
 The Dark Horse (The Dark Horse, #1) By Josh Lanyon (Have)
 The Dark Horse (Walt Longmire, #5) By Craig Johnson
 The Daughter Of Doctor Moreau By Silvia Moreno - Garcia
+The Dawn Watch By Maya Jasanoff
 The Daydreamer By Ian McEwan
 The Day He Himself Shall Wipe My Tears Away By Kenzaburo Oe
 The Day Of The Triffrids By John Wyndham
@@ -4650,6 +4686,7 @@ The General Of The Dead Army By Ismail Kadare
 The Gentleman: A Novel By Forrest Leo
 The Gentleman From Indiana By Booth Tarkington
 The Geography Of Genius: A Search For The World's Most Creative Places From Ancient Athens To Silicon Valley By Eric Weiner
+The Ghost Map By Steven Johnson
 The Ghost Next Door (Goosebumps, #10) By Robert Lawrence Stine
 The Ghosts Of August By Gabriel Garcia Marquez
 The Ghost Writer By Philip Roth (Read)
@@ -4691,6 +4728,7 @@ The Golden Bough By James George Frazer
 The Golden House By Salman Rushdie
 The Golden Notebook (1962) By Doris May Lessing
 The Goldfinch By Donna Tartt
+The Good Earth By Pearl Comfort Sydenstricker Buck
 The Good Elem By Isaac Bashevis Singer
 The Good Guy By Dean Koontz
 The Good Lord Bird By James McBride
@@ -4701,6 +4739,7 @@ The Good Story: Exchanges On Truth, Fiction And Psychotherapy By John Maxwell Co
 The Good Terrorist By Doris Lessing
 The Goonies By James Kahn
 The Gospel According To Jesus Christ By Jose Saramago
+The Gospel According To The New World By Maryse Condé
 The Government Of The Tongue By Seamus Heaney
 The Graduate (1980) By Grace Ogot
 The Grand Design By Leonard Mlodinow & Stephen Hawking
@@ -4818,6 +4857,7 @@ The Husband By Dean Kootz
 The Hyena Wears Darkness: Stories By Steven Bernard Miles Chimombo
 The Ice Dragon By George Raymond Richard Martin
 The Ides Of March By Thornton Wilder
+The Idiot By Elif Batuman
 The Illegal By Lawrence Hill
 The Illiad By Homer
 The Illogic Of Kassel By Enrique Vila - Matas
@@ -4934,6 +4974,7 @@ The Last Wolf: & Herman: The Game Warden & The Death Of A Craft By Laszlo Kraszn
 The Last Writings By Franz Kafka
 The Late Americans: A Novel By Brandon Taylor
 The Late Bourgeois World By Nadine Gordimer
+The Lawn: A History Of An American Obsession By Virginia Scott Jenkins
 The Laying On Of Hands: Stories By Alan Bennett (Have) (Read)
 The Lay Of The Land By Richard Ford
 The Left - Handed Woman By Peter Handke
@@ -5023,6 +5064,7 @@ The Man Who Died Twice (Thursday Murder Club, #2) By Richard Osman
 The Man Who Forgot How To Poop By Genghis Swan
 The Man Who Killed The Deer By Frank Waters (Have)
 The Man Who Planted Trees By Jean Giono (Have) (Read)
+The Man Who Spoke Snakish By Andrus Kivirahk
 The Man Without A Shadow: A Novel By Joyce Carol Oates
 The Man Without Qualities By Robert Musil
 The Mapmaker's Children By Sarah McCoy
@@ -5044,6 +5086,7 @@ The Member Of The Wedding By Carson McCullers (Read)
 The Memoirs Of A Survivor By Doris Lessing
 The Memoirs Of Elias Canetti: The Tongue Set Free, The Torch In My Ear, The Play Of The Eyes By Elias Canetti
 The Memory Police By Yoko Ogawa
+The Mermaid And Mrs. Hancock: A Novel By Imogen Hermes Gowar
 The Merry Adventures Of Robin Hood By Howard Pyle
 The Message (Animorphs, #4) By Katherine Applegate
 The Metamorphosis By Franz Kafka (Have) (Read)
@@ -5073,6 +5116,7 @@ The Mitford Murders: A Mystery (Mitford Murders, #1) By Jessica Fellowes
 The Molave And The Orchid, And Other Children's Stories By Francisco Sionil Jose
 The Monkey Grammarian By Octavio Paz
 The Monogram By Odysseas Elytis
+The Monopolists By Mary Pilon
 The Moomins And The Great Flood (The Moomins, #1) By Tove Jansson
 The Moon Is A Harsh Mistress By Robert Anson Heinlein
 The Moon Is Down By John Steinbeck (Read) (Fav)
@@ -5221,6 +5265,7 @@ The Periodic Table By Primo Levi
 The Perpetual Orgy: Flaubert And Madame Bovary By Mario Vargas Llosa
 The Perplexity Of Hariya Hercules By Manohar Shyam Joshi (Have)
 The Phantom Lover And Other Thrilling Tales Of Thailand By Jim Algie
+The Phenomenon: Pressure, The Yips, And The Pitch That Changed My Life By Tim Brown
 The Philosophy Of Money By George Simmel
 The Phonebooth At The End Of The World By Laura Imai Messina
 The Physics Of Sorrow By Georgi Gospodinov
@@ -5463,6 +5508,7 @@ The Shattered Crown (Steelhaven, #2) By Richard Ford
 The Shawl By Cynthia Ozick (Have) (Read)
 The Sheltering Sky By Paul Bowles
 The Shining By Stephen King
+The Shipping News By Annie Proulx
 The Short Plays Of Harold Pinter
 The Short Reign Of Pippin IV: A Fabrication By John Steinbeck
 The Short Stories By Ian McEwan
@@ -5646,6 +5692,7 @@ The Translator By Leila Aboulela
 The Transmigration Of Timothy Archer (VALIS Trilogy, #3) By Philip Kindred Dick
 The Traps Of Faith By Octavio Paz
 The Traveller's Baggage By Jose Saramago
+The Travels Of Ibn Battuta By Ibn Battuta
 The Travels Of Jaimie McPheeters By Robert Lewis Taylor
 The Treasure Of Topo - El - Bampo By Scott O'Dell
 The Treatise Of Caresses By Doctor Leleu
@@ -5802,6 +5849,7 @@ The Woman Who Stole My Life By Marian Keyes
 The Women In The Castle By Jessica Shattuck
 The Wonderful Visit By Herbert George Wells
 The Wonderful Wizard Of Oz (Oz, #1) By Lyman Frank Baum (Read)
+The Wondreful Writing Machine By Bruce Bliven
 The Wondrous And Tragic Life Of Ivan And Ivana By Maryse Conde
 The Wooden Shepherdess (The Human Predicament, Vol.2) By Richard Hughes
 The Woodlanders By Thomas Hardy
@@ -5928,6 +5976,7 @@ Time For Me To Come Home By Dorothy Shackleford & Travis Thrasher
 Time Of The Butcherbird (1979) By Alex La Guma
 Timequake By  Vonnegut (Read)
 Time's Arrow By Martin Amis
+Time Shelter By Georgi Gospodinov
 Time To Go House By Walter "Walt" Dumaux Edmonds (Have)
 Tirza By Arnon Grunberg (Have)
 Titanic By Jaan Kaplinski
@@ -6260,6 +6309,7 @@ We Think The World Of You By Joe Randolph Ackerley
 We've Already Gone This Far: Stories By Patrick Dacey
 We Were The Mulvaneys By Joyce Carol Oates
 We Won't Pay! We Won't Pay! And Other Plays: The Collected Plays Of Dario Fo By Dario Fo
+Whale By Cheon Myeong - Kwan
 What! 108 Zen Poems By Ko Un
 What Are We Doing Here? Essays By Marilynne Robinson
 What Belongs To You By Garth Greenwell
@@ -6268,6 +6318,7 @@ What Dare I Think? By Julian Huxley
 What Gods Demand: A Blasted Lands Tale By James Arthur Moore
 What Happened By Hillary Rodham Clinton
 What Happened To Burger's Daughter Or How South African Censorship Works By Nadine Gordimer
+What Happened To Goodbye By Sarah Dessen
 What I Like About You By Marisa Kanter
 What I Lived For By Joyce Carol Oates
 What I Love By Odysseas Elytis
@@ -6352,11 +6403,13 @@ Why I'm Afraid Of Bees (Goosebumps, #17) By Robert Lawrence Stine
 Why Noah Chose The Dove By Isaac Bashevis Singer
 Why We Are Hungry: Rats In The Kitchen, Carabaos In The Closet By Francisco Sionil Jose
 Why We Love Women By Mircea Cartarescu
+Wide Sargasso Sea By Jean Rhys
 Wie Eine Nackte Nadel (DE) By Nuruddin Farah
 Wild Cards: Aces High By George Raymond Richard Martin
 Wild Cards: Juego Sucio (Wild Cards, #5) By George Raymond Richard Martin
 Wilderness Tips By Margaret Atwood
 Wildlife By Richard Ford
+Wild Ones: A Sometimes Dismaying, Weirdly Reassuring Stiry About Looking At People Looking At Animals In America By Jon Mooallem
 Wild Workshop By Anne Carson
 Willa Cather: A Literary Life By James Woodress
 Willa Cather: A Memoir By Elizabeth Shepley Sergeant
@@ -6367,6 +6420,7 @@ Willa Cather: The Emerging Voice By Sharon O'Brien
 Will Grayson, Will Grayson (Will Grayson, Will Grayson, #1) By John Green (Read)
 William Blake By Gilbert Keith Chesterton (Have)
 Willie's Redneck Time Machine By John Luke Robertson & Travis Thrasher
+Willis Haviland Carrier: Father Of Air Conditioning By Margaret Ingel
 Windhaven By George Raymond Richard Martin
 Windows & Stones By Tomas Transtromer
 Wind / Pinball: Two Novels By Haruki Murakami (Read)
@@ -6443,7 +6497,7 @@ Yakusha Rongo / The Actors' Analects By Fukuoka Yagoshiro, Kaneko Kichizaemon, S
 Years Of Infamy: The Untold Story Of America's Concentration Camps By Michi Nishiura Weglyn
 Years Of Red Dust: Stories Of Shanghai By Qiu Xiaolong (Read)
 Yellow Dog By Martin Amis
-Yellowface By Rebecca F. Kaung
+Yellowface By Rebecca F. Kaung (Read)
 Yesterday's Spy By Len Deighton
 Yesterday, Tomorrow By Nuruddin Farah
 Yoko Tawada In Dialogue By Yoko Tawada
