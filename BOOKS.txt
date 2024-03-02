@@ -106,6 +106,7 @@ A Dictionary Of Thoughts By Tryon Edwards
 Adieu La Vie, Adieu L'Amour By Juan Marsé
 A Different Sea By Claudio Magris
 A Dinner At Poplar Walk By Charles Dickens
+A Dissertion On The Duty Of Mercy And Sin Of Cruely To Brute Animals BY Humphrey Primatt
 A Distant Mirror: The Calamitous 14th Century By Barbara Tuchman
 Admiring Silence By Abdulrazak Gurnah (Read)
 Admission By Travis Thrasher
@@ -271,6 +272,7 @@ A Man Of The People By Chinua Achebe
 A Manual For Cleaning Women: Selected Stories By Lucia Berlin (Read)
 A Manuscipt Of Ashes By Antonio Muñoz Molina
 Amateur By Thomas Page McBee
+A Mathematician's Lament: How School Cheats Us Out Of Our Most Fascinating And Imaginative Art Form By Paul Lockhart
 Amazonia: Five Years At The Epicenter Of The Dot.Com Juggernaut By James Marcus
 Amazons By Don DeLillo
 Amelia By Henry Fielding
@@ -294,6 +296,7 @@ American Scoundel: The Life Of The Notorious Civil War General Dan Sickles By Th
 American Speeches: Political Oratory From Patrick Henry To Barack Obama By Ted Widmer (Have)
 American War: A Novel By Omar El Akkad
 America's First Daughter By Laura Kamoie & Stephanie Dray
+America The Ingenious: How A Nation Of Dreamers, Immigrants, And Tinkerers Changed The World By Kevin Baker
 Američki Fikcionar (RS) By Dubravka Ugrešić
 Amerika: The Man Who Disappeared By Franz Kafka (Read)
 A Mild Attack Of Locusts By Doris Lessing
@@ -398,6 +401,7 @@ Anthology Of Japanese Literature By Donald Keene
 Anthology Of Mexican Poetry By Octavio Paz
 Anticipations By Herbert George Wells
 Anweisungen An Die Krokodile (DE) By António Lobo Antunes
+Anxious: Using The Brain To Understand And Treat Fear And Anxiety By Joseph LeDoux
 Any Other Name (Walt Longmire, #10) By Craig Johnson
 A Painter Of Our Time By John Berger (Have)
 A Pair Of Blue Eyes By Thomas Hardy
@@ -431,6 +435,7 @@ Arafat: From Defender To Dictator By Said K. Aburish
 Arbol Adentro By Octavio Paz
 Archaic Utopia: José María Arguedas And The Fictions Of Indigenismo By Mario Vargas Llosa
 Archangels Don't Play Pinball By Dario Fo
+Architect And Engineer: A Study In Sibling Rivalry By Andrew Saint
 Are You Gonna Kiss Me Or Not? By Thompson Square & Travis Thrasher
 Are You Terrified Yet? (Goosebumps 2000, #9) By Robert Lawrence Stine
 Are You There God? It's Me, Margaret By Judy Blume
@@ -471,6 +476,7 @@ Asesinaato Del Perdedor, El (ES) By Camilo José Cela
 A Severed Head By Iris Murdoch
 As Ever, Scott Fitz: Letters Between F. Scott Fitzgerald And His Literary Agent Harold Ober, 1919 - 1940 By Francis Scott Key Fitzgerald
 A Shattering Of Silence: Stories (1993) By Farida Karodia
+A Shining By Jon Fosse (Read)
 Ashley Bell By Dean Koontz
 A Shocker On Shock Street (Goosebumps, #35) By Robert Lawrence Stine
 A Short History Of Chemistry By Isaac Asimov 
@@ -517,6 +523,7 @@ A Tale Of Two Cities By Charles Dickens
 A Tale Of Two Gardens By Octavio Paz
 A Taste Of Death (Alex Rider, #2.25) By Anthony Horowitz
 At First Sight By Nicholas Sparks
+A Thorn In My Pocket: Temple Grandin's Mother Tells The Family Story By Eustacia Cutler
 A Thread Of Grace By Mary Doria Russell
 A Thurber Carnival By James Thurber
 A Tidewater Morning By William Styron (Have)
@@ -527,6 +534,7 @@ Atlantic Hotel By João Gilberto Noll
 Atlas Shrugged By Ayn Rand (Have)
 Atonement By Ian McEwan (Read)
 A Trace Of Malice By Patrick Modiano
+A Traitor To His Species: Henry Bergh And The Birth Of The Animal Rights Movement By Ernest Freeberg
 A Treatise On Poetry By Czesław Miłosz
 A Tree Grows In Brooklyn By Betty Smith
 A Trio Of Tolerable Tales By Margaret Atwood
@@ -928,17 +936,18 @@ Chicken Chicken (Goosebumps, #53) By Robert Lawrence Stine
 Chien Bleu (FR) By Nadja
 Chien De Printemps (FR) By Patrick Modiano
 Chika's House (1995) By Ifeoma Okoye
+Childhood, Boyhood, Youth By Count Leo Nikolayevich Tolstoy (Have)
+Childhood's End By Arthur Charles Clarke
+Child Of Fire By Scott O'Dell
+Child Of God By Cormac McCarthy (Read)
 Children Of Gebelawi By Naguib Mahfouz
+Children Of God By Mary Doria Russell
 Children Of God (The Sparrow, #2) By Mary Doria Russell
 Children Of Ironko And Other Poems By Tanure Ojaide
 Children Of The Arbat By Anatoly Rybakov
 Children Of The Mire By Octavio Paz
 Children Of Time (Children of Time, #1) By Adrian Tchaikovsky
-Childhood, Boyhood, Youth By Count Leo Nikolayevich Tolstoy (Have)
-Childhood's End By Arthur Charles Clarke
-Child Of Fire By Scott O'Dell
-Child Of God By Cormac McCarthy (Read)
-Children Of God By Mary Doria Russell
+Children's Minds By Margaret Donaldson
 Chimere (1992) By Ifeoma Okoye
 China From The 1911 Revolution To Liberation By Lydia Davis
 China In Ten Words By Yu Hua
@@ -995,11 +1004,13 @@ Cloud Atlas By David Mitchell
 Cloud Cuckoo Land By Anthony Doerr
 Cocaine Blues (Phryne Fisher, #1) By Kerry Greenwood
 Coda (Alex Rider, #7.5) By Anthony Horowitz
+Coders: The Making Of A New Tribe And The Remaking Of The World By Clive Thompson
 Cœur Brûle Et Autres Romances (FR) By Jean - Marie Gustave Le Clézio
 Coin Locker Babies By Ryu Murakami (Have)
 Cold Comfort Farm By Stella Gibbons
 Cold Fire By Dean Koontz
 Cold Mountain: A Novel By Charles Frazier
+Collaborations In Architecture And Engineering By Clare Olsen & Sinead Caitriona Mac Namara
 Collapse: How Societies Choose To Fail Or Succeed By Jared Diamond
 Collected Fictions By Jorge Luis Borges
 Collected Novellas By Gabriel García Márquez
@@ -1080,6 +1091,8 @@ Cramp (Fast Fiction) By Gao Xingjian
 Cranford By Elizabeth Gaskell
 Craving Her Mates: A Shapeshifter Paranormal Romance (My Wicked Mates, #1) By Erzabet Bishop
 Crazy Rich Asians (Crazy Rich Asians, #1) By Kevin Kwan
+Creating Minds: An Anatomy Of Creativity Seen Through The Lives Of Freud, Einstein, Picasso, Stravinsky, Eliot, Graham, And Ghandi By Howard E. Gardner
+Creativity: The Human Brain In The Age Of Innovation By Elkhonon Goldberg
 Creature Teacher (Goosebumps 2000, #3) By Robert Lawrence Stine
 Crediting Poetry By Seamus Heaney
 Creep From The Deep (Goosebumps HorrorLand, #2) By Robert Lawrence Stine (Read)
@@ -1669,6 +1682,7 @@ Florida Frenzy By Harry Crews
 Flowers For Algernon By Daniel Keyes (Read) (Fav)
 Flowers Of A Moment: Poems By Ko Un
 Flow My Tears, The Policeman Said By Philip Kindred Dick
+Flying Blind: The 737 MAX Tragedy And The Fall Of Boeing By Peter Robison
 Flying Hero Class By Thomas Keneally
 Flying Too High (Phryne Fisher, #2) By Kerry Greenwood
 Foe: A Novel By John Maxwell Coetzee (Read) (Fav)
@@ -1702,6 +1716,7 @@ Fox 8: A Story By George Saunders (Read)
 Foxfire: Confessions Of A Girl Gang By Joyce Carol Oates
 Fragments By Elena Ferrante
 Fragments: Memories Of A Wartime Childhood By Binjamin Wilkomirski (Have)
+Frames Of Mind: The Theory Of Multiple Intelligences By Howard Gardner
 Francis, The Holy Jester: A Novel About St. Francis By Dario Fo
 Frank By Richard Ford
 Frankenstein By Mary Wollstonecraft Shelley (Read)
@@ -2059,6 +2074,7 @@ How To Get Filthy Rich In Rising Asia By Mohsin Hamid
 How To Get What You Want, Vol. 1 By Orison Swett Marden
 How To Kill A Monster (Goosebumps, #46) By Robert
 How To Make Money: Three Lectures On "The Laws Of Financial Success" By Benjamin Fish Austin
+How To Raise An Adult: Break Free Of The Overparenting Trap And Prepare Your Kid For Success By Julie Lythcott - Haims
 How To Stop Time: A Novel By Matt Haig
 How To Win Friends & Influence People By Dale Carnegie (Have)
 Huai Bao Xian Hua Di Nu Ren By Mo Yan
@@ -2204,6 +2220,7 @@ In The House Of The Worm By George Raymond Richard Martin
 In The Land Of Israel By Amos Oz
 In The Land Of The Cyclops: Essays By Karl Ove Knausgård
 In The Midst Of Winter By Isabel Allende
+In The Mind's Eye: Visual Thinkers, Gifted People With Dyslexia And Other Learning Difficulties, Computer Images And The Ironies Of Creativity By Thomas G. West
 In The Miso Soup By Ryu Murakami (Read)
 In The Name Of The Mother: Reflections On Writers & Empire By Ngũgĩ Wa Thiong'o
 In The Native State By Tom Stoppard
@@ -2379,6 +2396,7 @@ Kingdom Cons By Yuri Herrera
 Kingdom Hearts: 358 / 2 Days: The Novel By Tomoco Hanemaki (Have)
 King, Queen, Knave By Vladimir Nabokov
 King Solomon's Mines By Sir Henry Rider Haggard
+King Solomon's Ring By Konrad Lorenz
 King: The Bullitts Of Seattle And THeir Communications Empire By O. Casey Corr (Have)
 Kintu By Jennifer Nansubuga Makumbi
 Kipps By Herbert George Wells
@@ -2731,6 +2749,7 @@ Man And His Tools By William A. Burns
 Man - Eaters Of Kumaon By Jim Corbett
 Mangiami Pure By Dacia Maraini
 Mala Indole (ES) By Javier Marías
+Mama's Last Hug: Animal Emotions And What They Tell Us About Ourselves By Frans De Waal
 Mamista By Len Deighton
 Man Alive By Thomas Page McBee
 Manazuru By Hiromi Kawakami (Have)
@@ -2828,6 +2847,7 @@ Men In The Off Hours By Anne Carson
 Men Without Ears (1984) By Ifeoma Okoye
 Men Without Women: Stories By Haruki Murakami (Read)
 Mere Christianity By Clive Staples Lewis
+Merle's Door: Lessons From A Freethinking Dog By Ted Kerasote
 Meshugah By Isaac Bashevis Singer
 Mes Mauvaises Pensees By Nina Bouraoui
 Messenger (Walt Longmire, #8.2) By Craig Johnson
@@ -2857,6 +2877,7 @@ Milczenie Roślin By Wisława Szymborska
 Mildred Pierce By James M. Cain
 Miles City, Montana By Alice Munro
 Milk And Honey By Rupi Kaur
+Milk Fed By Melissa Broder
 Miller's Valley By Anna Quindlen
 Milosz's ABC's By Czesław Miłosz
 Mi Madre, In Memorian (ES) By Ricahrd Ford
@@ -3046,6 +3067,7 @@ Native Realm By Czesław Miłosz
 Native Son By Richard Wright (Read)
 Nativity Poems By Joseph Brodsky
 Nausea By Jean - Paul Sartre
+Navigating Autism: 9 Mindsets For Helping Kids On The Spectrum By Debra Moore & Temple Grandin
 Nay Rather By Anne Carson
 Nectar In A Sieve By Kamala Markandaya (Have)
 Ned Kelly And The City Of Bees By Thomas Keneally
@@ -3737,7 +3759,9 @@ Scenes From A Childhood By Jon Fosse
 Scenes From A Village Life By Amos Oz
 Schindler's List By Thomas Keneally (Read) (Fav)
 Schoolgirl By Osamu Dazai (Read)
+Schools On Trial: How Freedom And Creativity Can Fix Our Educational Malpractice By Nikhil Goyal
 Schwarze Hunde. (DE) By Ian McEwan
+Science And Human Behavior By Burrhus Frederic Skinner
 Science: Vintage Minis By Ian McEwan
 Scorpia (Alex Rider, #5) By Anthony Horowitz (Have)
 Scorpia Rising (Alex Rider, #9) By Anthony Horowitz
@@ -3865,6 +3889,7 @@ Sin By Francisco Sionil José
 Sing Down The Moon By Scott O'Dell
 Sing, Unburied, Sing By Jesmyn Ward
 Sip By Brian Allen Carr
+Siren Queen By Nghi Vo
 Sir George Tressady By Mary Augusta Ward
 Sister Carrie By Theodore Dreiser
 Sisters By Raina Telgemeier
@@ -3982,6 +4007,7 @@ Spätzünder. Frühe Erzählungen (DE) By Thomas Pynchon
 Speak, Memory: An Autobiography Revisited By Vladimir Nabokov
 Speak: The Graphic Novel By Laurie Halse Anderson
 Special Edward By Eric Walters (Read)
+Species Of Mind: The Philosophy And Biology Of Cognitive Ethology By Colin Allen & Marc Bekoff
 Spider Boy: A Scenario For A Moving Picture By Carl Van Vechten
 Spider Woman's Daughter: A Leaphorn Chee Novel (Leaphorn & Chee, #19) By Anne Hillerman
 Spill Simmer Falter Wither By Sara Baume
@@ -4280,6 +4306,7 @@ The Beggar By Naguib Mahfouz
 The Beginning (Animorphs, #54) By Katherine Applegate
 The Beginning And The End By Naguib Mahfouz
 The Beginning Of Spring: A Novel By Penelope Fitzgerald (Read)
+The Behavior Of Organisms By Burrhus Frederic Skinner
 The Belle Créole By Maryse Condé
 The Bell Jar By Sylvia Plath (Read)
 The Best American Short Stories 2010 By Richard Russo (Have)
@@ -4617,6 +4644,7 @@ The Eleventh Man By Ivan Doig
 The Ellimist Chronicles (Animorphs, #47.5) By Katherine Applegate
 The Embroidered Shoes: Stories By Can Xue (Read)
 The Emissary / The Last Children Of Tokyo By Yoko Tawada (Read)
+The Emotional Brain: The Mysterious Underpinnings Of Emotional Life By Joseph Ledoux
 The Emperor Of Any Place By Tim Wynne - Jones
 The Emperor Wears No Clothes By Jack Herer
 The Enchanter By Vladimir Nabokov
@@ -4652,6 +4680,7 @@ The Eye In The Pyramid (Illuminatus, #1) By Robert Shea
 The Eyes Of Darkness By Dean Koontz
 The Eyes Of The World By Harold Bell Wright
 The Face By Dean Koontz
+The Failure Of Risk Management: Why It's Broken And How To Fix It By Douglas W. Hubbard
 The Fallen By Juan Marsé
 The Fall Of The House Of Usher And Other Tales By Edgar Allan Poe (Have)
 The Fall Of The Imam By Nawal El Saadawi
@@ -4662,6 +4691,7 @@ The Familiar (Animorphs, #41) By Katherine Applegate
 The Family Moskat By Isaac Bashevis Singer
 The Family Of Pascual Duarte By Camilo José Cela
 The Farewell Waltz By Milan Kundera
+The Farm By Joanne Ramos
 The Far Pavilions By Mary Margaret Kaye
 The Fascinating Stranger And Other Stories By Booth Tarkington
 The Fat Man And Infinity: And Other Writings By António Lobo Antunes
@@ -4696,6 +4726,7 @@ The Flood Invades My Spirit By Kenzaburō Ōe
 The Flounder By Günter Grass
 The Flowers Of Buffoonery By Osamu Dazai (Read)
 The Folly Of Fools: The Logic Of Deceit And Self - Deception In Human Life By Robert Trivers
+The Food Explorer: The True Adventures Of The Globe - Trotting Botanist Who Transformed What America Eats By Daniel Stone
 The Food Of The Gods By Herbert George Wells
 The Foreboding (The Remaining, #0.5) By Travis Thrasher
 The Forever War (The Forever War, #1) By Joe Haldeman
@@ -4860,6 +4891,7 @@ The Henry Williamson Animal Saga By Henry Williamson
 The Heroes, Or, Greek Fairy Tales For My Children By Charles Kingsley
 The Hidden (Animorphs, #39) By Katherine Applegate
 The Hidden Face Of Eve By Sawal El Saadawi
+The Hidden Life Of Dogs By Elizabeth Marshall Thomas
 The High Mountains Of Portugal By Yann Martel
 The Highwayman (Walt Longmire, #11.5) By Craig Johnson
 The High Window (Philip Marlow, #3) By Raymond Chandler
@@ -5218,6 +5250,7 @@ The Neighborhood By Mario Vargas Llosa
 The Nest By Cynthia D'Aprix Sweeney (Have)
 The Netanyahus By Joshua Cohen
 The Net By Anonymous (Have)
+The Neuroscience Of Creativity By Anna Abraham
 The Neverending Story By Michael Ende (Read)
 The New Darkness (The Bluesuit Chronicles, #2) By John Hansen (Read)
 The New Dead By Aimee Bender, Brian Keene, David Liss, David Wellington, Derek Nikitas, James Arthur Moore, Joe R. Lansdale, John Connolly, Jonathan Maberry, Kelley Armstrong, Max Brooks, Mike Carey, Rick Hautala, Tad Williams & Tim Lebbon
@@ -5715,6 +5748,7 @@ The Testament By John Grisham
 The Testament Of Gideon Mack By James Robertson
 The Testaments By Margaret Atwood
 The Testing By Joelle Charbonneau (Read)
+The Testing Charade: Pretending To Make Schools Better By Daniel Koretz
 The Thaw By Ilya Ehrenburg
 The Theory Of Everything By Prince Gomolvilas (Read)
 The Thief By Fuminori Nakamura (Read)
@@ -5941,8 +5975,9 @@ The Wrath Of Napolo By Steven Bernard Miles Chimombo
 The Wreath Of Dionysus: A Novel By Evdokia Nagrodskaia (Have)
 The Wretched Of The Earth By Frantz Fanon
 The Writer And The World: Essays By Sir Vidiadhar Surajprasad Naipaul
-The Yearlings By Marjorie Kinnan Rawlings (Have)
+The Writing Of The Gods: The Race To Decode The Rosetta Stone By Edward Dolnick
 They Can't Kill Us All: Ferguson, Baltimore, And A New Era In America's Racial Justice Movement By Wesley Lowrey
+The Yearlings By Marjorie Kinnan Rawlings (Have)
 The Year Of 1993 By José Saramago
 The Year Of Magical Thinking By Joan Didion
 The Year Of The Death Of Ricardo Reis By José Saramago
@@ -6000,7 +6035,8 @@ Three Elegies For Kosovo By Ismail Kadare
 Three Famines: Starvation And Politics By Thomas Keneally
 Three Farmers On Their Way To A Dance By Richard Powers
 Three Filipino Women By Francisco Sionil José
-Three In A Bed: FIction, Morals, And Politics By Nadine Gordimer
+Three In A Bed: Fiction, Morals, And Politics By Nadine Gordimer
+Three Mile Island: A Nuclear Crisis In Historical Perspective By J. Samuel Walker
 Three Novels By César Aira By César Aira
 Three Novels By Sir Vidiadhar Surajprasad Naipaul
 Three Novels Of Ancient Egypt: Khufu's Wisdom; Rhadopis Of Nubia; Thebes At War By Nagiub Mahfouz
@@ -6282,9 +6318,10 @@ Violência E Islão (ES) By Adunis
 Violent Ward By Len Deighton
 V Is For Vengeance (Kinsey Millhone, #22) By Sue Grafton
 Visions From San Francisco Bay By Czesław Miłosz
+Visites / Variations Sur La Mort (FR) By Jon Fosse
 Visiting Mrs. Nabokov By Martin Amis
-ViVises - Variations Sur La Mort (FR) By Jon Fosse
-Visniser (Amorphs, #35.5) By Katherine Applegate
+Visser (Animorphs, #35.5) By Katherine Applegate
+Visual Thinking: The Hidden Gifts Of People Who Think In Pictures, Patterns, And Abstractions By Betsy Lerner & Temple Grandin (Read)
 Viva Sandino (ES) By Gabriel García Márquez
 Vladimir Nabokov: Selected Letters, 1940 - 1977 By Vladimir Nabokov
 Voice Of America: Stories By E. C. Osondu
@@ -6382,6 +6419,7 @@ Whale By Cheon Myeong - Kwan
 What! 108 Zen Poems By Ko Un
 What Are We Doing Here? Essays By Marilynne Robinson
 What Belongs To You By Garth Greenwell
+What Can A Body Do?: How We Meet The Built World By Sara Hendren
 What Can I Do When Everything's On Fire? By António Lobo Antunes
 What Dare I Think? By Julian Huxley
 What Gods Demand: A Blasted Lands Tale By James Arthur Moore
