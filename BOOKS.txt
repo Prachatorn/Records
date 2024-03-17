@@ -31,6 +31,7 @@ Abahn Sabana David By Marguerite Duras
 A Banquet Of Consequences By Elizabeth George
 ABC Of French Food By Len Deighton
 Abducting Diana By Dario Fo
+A Beautiful Mind By Sylvia Nasar
 A Bed Of Scorpions By Judith Flanders
 Abe Lincoln At Last! (Magic Tree House, #47) By Mary Pope Osbourne
 A Bend In The River By Sir Vidiadhar Surajprasad Naipaul
@@ -464,6 +465,7 @@ Artificial Condition By Martha Wells
 Artist Descending A Staircase, And, Where are They Now? Two Plays For Radio By Tom Stoppard
 A Russian Beauty And Other Stories By Vladimir Nabokov
 A Scanner Darkly By Philip Kindred Dick
+A School Compendiu, Of Natural And Experimental Philosophy...: Wirg A Description Of The Steam And Locomotive Engines By Richard Green Parker
 A Season In Hell By Arthur Rimbaud
 A Season In Rihata By Maryse Condé
 A Season On Earth By Gerlad Murnane
@@ -636,6 +638,7 @@ Battle Of Britain By Len Deighton
 Beach Read By Emily Henry
 Be Afraid -- Be Very Afraid! (Goosebumps 2000, #20) By Robert Lawrence Stine
 Bealby By Herbert George Wells
+Bear: A Novel By Julia Phillips
 Bear To The Bone (Bear Claw Security, #1) By Terry Bolryder
 Beartown: A Novel (Beartown, #1) By Fredrik Backman
 Beasley's Christmas Party By Booth Tarkington
@@ -754,6 +757,7 @@ Blonde By Joyce Carol Oates
 Blood And Circuses (Phryne Fisher, #6) By Kerry Greenwood
 Blood And Grits By Harry Crews
 Blood And Smoke: A True Tale Of Mystery, Mayhem, Amd The Birth Of The Indy 500 By Charles Leerhsen
+Bloodchild And Other Stories By Octavia Estelle Butler
 Blood Harvest By James Arthur Moore
 Bloodlines By James Arthur Moore
 Blood Meridian (Or, The Evening Redness In The West) By Cormac McCarthy (Read)
@@ -1087,6 +1091,7 @@ Coup De Semonce (FR) By William Golding
 Course Of Empire: Paintings By Joan Didion
 Cousin Phillis By Elizabeth Gaskell
 Crabwalk By Günter Grass
+Cracking India By Bapsi Sidhwa
 Cramp (Fast Fiction) By Gao Xingjian
 Cranford By Elizabeth Gaskell
 Craving Her Mates: A Shapeshifter Paranormal Romance (My Wicked Mates, #1) By Erzabet Bishop
@@ -1620,6 +1625,7 @@ Fear: Trump In The White House By Bob Woodward (Read)
 Fearless (Fearless, #1) By Francine Pascal (Have)
 Feminist Accused Of Sexual Harassment By Jane Gallop
 Feminist Spirituality And The Feminine Divine: An Annotated Bibliograhy By Anne Carson
+Feral Creatures (Hollow Kingdom, #2) By Kira Jane Buxton
 Ferocity By Stephen Laws
 Fevre Dream By George Raymond Richard Martin
 Fiction By Alice Munro
@@ -1668,7 +1674,7 @@ Fixed Ideas By Joan Didion
 Flappers And Philosophers By Francis Scott Key Fitzgerald
 Flaskesamlaren (NO) By Jon Fosse
 Flaubert's Parrot By Julian Barnes
-Fledgling: A Novel By Octavia E. Butler
+Fledgling: A Novel By Octavia Estelle Butler
 Flesh And Bone And Water By Luiza Sauma
 Fleurs De Ruine (FR) By Patrick Modiano
 Flight Behavior By Barbara Kingsolver (Have)
@@ -2016,6 +2022,7 @@ Hitchhiker Guide's To The Galaxy By Douglas Adams (Read)
 Hocus Pocus By Kurt Vonnegut
 Ho Dromos: Mythistorēma (GR) By Cormac McCarthy
 Holler, Child: Stories By LaToya Watkins
+Hollow Kingdom (Hollow Kingdom, #1) By Kira Jane Buxton
 Holly: A Novel By Stephen King
 Hollywood Lovers: Roman By Carrie Fisher
 Ho Louka Kai Hē Phōtia Tvs Zōēs: Mythistorēma (GR) By Salman Rushdie
@@ -2077,10 +2084,11 @@ How To Make Money: Three Lectures On "The Laws Of Financial Success" By Benjamin
 How To Raise An Adult: Break Free Of The Overparenting Trap And Prepare Your Kid For Success By Julie Lythcott - Haims
 How To Stop Time: A Novel By Matt Haig
 How To Win Friends & Influence People By Dale Carnegie (Have)
-Huai Bao Xian Hua Di Nu Ren By Mo Yan
-Hui Chang Ge De Qiang By Mo Yan
+Huai Bao Xian Hua Di Nu Ren (ZH) By Mo Yan
+Hui Chang Ge De Qiang (ZH) By Mo Yan
 Human Chain By Seamus Heaney
 Humani Generis By Pope Plus XII
+Humankind: A Hopeful History By Rutger Bregman
 Human Voices By Penelope Fitzgerald (Have)
 Humiliated And Insulted By Fyodor Dostoevsky
 Hunger Games By Suzanne Collins (Read)
@@ -2298,6 +2306,7 @@ Jack Of Spades By Joyce Carol Oates
 Jacko: The Great Intruder By Thomas Keneally
 Jacob's Ladder: A Novel By Lyudmila Ulitskaya
 Jacob's Room By Virginia Woolf (Have)
+JAMES By Percival Everett
 Japan, The Ambiguous, And Myself: The Nobel Prize Speech And Other Lectures By Kenzaburō Ōe
 Jaques The Fatalist By Denis Diderot
 Jailbird By Kurt Vonnegut (Have)
@@ -2904,6 +2913,7 @@ Moby Dick By Herman Melville
 Moderato Cantabile By Marguerite Duras
 Modern Critical Views Series 1, 115 Vol By William Golding
 Modern One - Act Plays By Harold Pinter, Horst Buss, James Saunders & Tom Stoppard
+Modern Practice Of The Electric Telegraph: A Handbook For Electricians And Operators By Franklin Leonard Pope
 Modern Romance: An Investigation By Aziz Ansari & Eric Klinenberg
 Modern Views Of Electricity By Sir Oliver Joseph Lodge
 Modern Views On Matter By Sir Oliver Joseph Lodge
@@ -3081,6 +3091,7 @@ Nemesis By Philip Roth (Have) (Read) (Fav)
 Nëntori I Një Kryeqyteti (AB) By Ismail Kadare
 Neon In Daylight: A Novel By Hermione Hoby
 Nervous Conditions (Nervous Conditions, #1) By Tsitsi Dangarembga
+NeuroTribes: The Legacy Of Autism And The Future Of Neurodiversity By Steve Silberman
 Nevada By Zane Grey
 Never Any End To Paris By Enrique Vila - Matas
 Never Let Go By John Baker, Mac Owen, Mary Owen & Travis Thrasher
@@ -3162,6 +3173,7 @@ Nonsense And Happiness: Poems By Peter Handke (Read)
 No One Can Pronounce My Name: A Novel By Rakesh Satyal
 No One Writes To The Colonel, And Other Stories By Gabriel García Márquez
 No Place Like: Selected Stories By Nadine Gordimer
+Normal Accidents: Living With High - Risk Technologies By Charles Perrow
 Normal People: A Novel By Sally Rooney (Read)
 North By Seamus Heaney
 North And South By Elizabeth Gaskell
@@ -3232,6 +3244,7 @@ Olav's Dreams By Jon Fosse
 Old Bones (Gideon Oliver, #4) By Aaron Elkins
 Older Than Time: A Grandmother's Search For Wisdom By Allegra Taylor
 Old Floating Cloud By Can Xue
+Old God's Time By Sebastian Barry (Read)
 Old Man's War By John Scalzi
 Old Yeller By Fred Gipson
 Olgas Haus (FR) By Lyudmila Ulitskaya
@@ -3324,6 +3337,7 @@ Out Of The Howling Storm: The New Chinese Poetry: Poems by Bei Dao ... [Et Al.]
 Out Of The Shadow Of A giant: Hooke, Halley, And The Birth Of Science By John Gribbin & Mary Gribbin
 Overground Railroad: The Green Book And The Roots Of Black Travel In America By Candacy A. Taylor
 Overlord 1: The Undead King By Kugane Maruyama (Have)
+Over The Top: A Raw Journey To Self - Love By Jonathan Van Ness
 Oxygen - Important Global Resource Or Problem To Be Solved By Doris Kareva
 Pabellón De Reposo (ES) By Camilo José Cela
 Pachinko By Min Jin Lee (Read)
@@ -3528,6 +3542,7 @@ Profession BY Isaaac Asimov
 Professor Andersens Natt: Roman (NO) By Dag Solstad
 Promise Me, Dad: A Year Of Hope, Hardship, And Purpose By Joe Biden
 Proper Marriage By Doris Lessing
+Prophet Song By Paul Lynch
 Prosa Frå Ein Oppvekst (NO) By Jon Fosse
 Prostitute Laundry By Charlotte Shane
 Proud To Be A Mammal: Essays On War, Faith, And Memory By Czesław Miłosz
@@ -3614,6 +3629,7 @@ Red Clocks: A Novel By Leni Zumas
 Red Doc> By Anne Carson
 Redeployment By Phil Klay
 Red Mafiya: How The Russian Mob Has Invaded America By Robert I. Friedman
+Red Paint: The Ancestral Autobiography Of A Coast Salish Punk By Sasha Taqwšeblu LaPointe
 Red: Passion And Patience In The Desert By Terry Tempest Williams
 Red Prophet (Tales of Alvin Maker, #2) By Orson Scott Card (Have)
 Red Sorghum By Mo Yan
@@ -3824,6 +3840,7 @@ Seraphina (Seraphina, #1) By Rachel Hartman (Read)
 Serenity Falls By James Arthur Moore
 Serowe: Village Of The Rain Wind By Bessie Amelia "Emery" Head
 Serve The People! By Yan Lianke
+Sevastopol Sketches By Leo Tolstoy
 Seven Forges (Seven Forges, #1) By James Arthur Moore
 Seven Interpretive Essays On Peruvian Reality By José Carlos Mariátegui
 Seven Men By Max Beerbohm
@@ -4439,6 +4456,7 @@ The Childhood Of Jesus: A Novel By John Maxwell Coetzee
 The Child In Time By Ian McEwan
 The Children Act By Ian McEwan
 The Children Of 200 Years By Kenzaburō Ōe
+The Children Of Captain Grant By Jules Verne
 The Children Of Segu By Maryse Condé
 The Children Of The Dead By Elfriede Jelinek
 The Children's Boat By Mario Vargas Llosa
@@ -4583,6 +4601,7 @@ The Devil In The Shape Of A Woman By Carol F. Karlsen
 The Devil's Bargain By Joshua Green
 The Devil Wears Prada: A Novel By Lauren Weisberger
 The Devil With Boobs By Dario Fo
+The Diamond Eye: A Novel By Kate Quinn (Read)
 The Diary Of Alice James By Alice James (Have)
 The Diary Of A Country Priest By Georges Bernanos
 The Diary Of A Good Neighbour By Doris Lessing
@@ -4925,6 +4944,7 @@ The Hours Before Dawn By Celia Fremilin
 The House At The Edge Of Night By Catherine Banner
 The House Gun By Nadine Gordimer
 The House Of Cloud By Fereshteh Molavi
+The House Of Doors By Twan Eng Tan
 The House Of Mirth By Edith Wharton
 The House Of The Seven Gables By Nathaniel Hawthorne
 The House Of The Spirits By Isabel Allende
@@ -5051,10 +5071,12 @@ The Last Orphan (Orphan X, #8) By Gregg Andrew Hurwitz
 The Last Poems By Czesław Miłosz
 The Last Question By Isaac Asimov
 The Last Sacrifice: The Tides Of War By James Arthur Moore
+The Last Samurai By Helen DeWitt
 The Last Stand Of The DNA Cowboys By Mick Farren (Have)
 The Last Starfighter By Alan Dean Foster
 The Last Tea Bowl Thief By Jonelle Patrick
 The Last Thing He Wanted By Joan Didion
+The Last Thing You Surrender By Leonard Pitts
 The Last Train To Zona Verde: My Ultimate African Safari By Paul Theroux
 The Last Tycoon By Francis Scott Key Fitgerald
 The Last Wolf: & Herman: The Game Warden & The Death Of A Craft By László Krasznahorka
@@ -5117,6 +5139,7 @@ The Lost City Of The Monkey God: A True Story By Douglas Preston (Read)
 The Lost Daughter By Elena Ferrante
 The Lost Landscape: A Writer's Coming Of Age By Joyce Carol Oates
 The Lost Writings By Franz Kafka (Read)
+The Lovely Bones By Alice Sebold
 The Love Of A Bad Man: Stories By Laura Elizabeth Woollett
 The Love Of A Good Woman By Alice Munro
 The Love Of The Last Tycoon By Francis Scott Key Fitzgerald (Have)
@@ -5466,7 +5489,8 @@ The Reaction (Animorphs, #12) By Katherine Applegate
 The Real Benjamin Franklin (Vol. 2 Of The American Classic Series) By Andrew M. Allison, M. Richard Maxfield, Willard Cleon Skousen (Have)
 The Read Life Of Alejandro Mayta By Mario Vargas Llosa
 The Real Life Of Sebastian Knight By Vladimir Nabokov
-The Reason I Jump: The Inner Voice Of A Thirteen - Year - Old Boy With Autism (Read)
+The Reapers Are The Angels (Reapers, #1) By Alden Bell
+The Reason I Jump: The Inner Voice Of A Thirteen - Year - Old Boy With Autism By Naoki Higashida (Read)
 The Rebels Of Ireland (The Dublin Saga, #2) By Edward Rutherfurd
 The Recital (Orphan X, #8.5) By Gregg Andrew Hurwitz
 The Recognition of Sakuntala By Kalidasa
@@ -5566,6 +5590,7 @@ The Sea Of Gold And Other Tales From Japan By Yoshiko Uchida (Read)
 The Sea Runners By Ivan Doig
 The Sea Wall By Marguerite Duras
 The Second Book Of Moses, Called Exodus By David Grossman
+The Second Life Of Mirielle West By Amanda Skenandore
 The Second Plane By Martin Amis
 The Second Sex By Simone De Beauvoir
 The Second Son (Berlin Trilogy, #3) By Jonathan Rabb
@@ -5656,7 +5681,8 @@ The Sound Of Waves By Yukio Mishima (Read)
 The Source Of Self - Regard: Selected Essays, Speeches, And Meditations By Toni Morrison
 The South African Question By An English South African By Olive Schreiner
 The Sovereign Sun By Odysseas Elytis
-The Space Merchants (The Space Merchants, #1)
+The Space Between Worlds By Micaiah Johnson
+The Space Merchants (The Space Merchants, #1) By Cyril M. Kornbluth & Frederik Pohl
 The Spanish Smile By Scott O'Dell
 The Sparrow By Mary Doria Russell
 The Spinoza Of Market Street By Isaac Bashevis Singer
@@ -5726,6 +5752,7 @@ The Swiss Family Robinson By Johann David Wyss
 The Sword In The Stone By Terence Hanbury White
 The Sworn Sword By George Raymond Richard Martin
 The Sympathizer By Viet Thanh Nguyen
+The Tainted Cup By Robert Jackson Bennett
 The Takeover By Dame Muriel Spark
 The Taker And Other Stories By Rubem Fonseca
 The Taking By Dean Koontz
@@ -6117,6 +6144,7 @@ Too Much Happiness By Alice Munro
 Torikaebaya Monogatari / If Only I Could Exchange Them By Anonymous
 Tormenting Her Mate: A Shapeshifter Paranormal Romance (My Wicked Mates, #3) By Erzabet Bishop
 Tortilla Flat By John Steinbeck (Read)
+To Say Nothing Of The Dog By Connie Willis
 To Stir The Heart By Ngũgĩ Wa Thiong'o
 Totenauberg By Elfriede Jelinek
 To The Bright Edge Of The World By Eowyn Ivey
