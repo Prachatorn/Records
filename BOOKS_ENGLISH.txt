@@ -186,6 +186,7 @@ A Historia Do Hidroaviao (PT) By Antonio Lobo Antunes
 A History Of Books By Gerald Murnane
 A History Of Fear By Like Dumas
 A History Of Food In 100 Recipes By William Sitwell
+A History Of Greece By George Grote
 A History Of Modern Chinese Fiction By Hsia Chih - Tsing
 A History Of The Warfare Of Science With Theology In Christendom By Andrew Dickson White
 A History Of The World In 10.5 Chapters By Julian Barnes
@@ -572,6 +573,7 @@ A View By The Sea By Shotaro Yasuoka
 A Village Life: Poems By Louise Gluck (Read)
 A Visit From The Goon Squad By Jennifer Egan
 A Walk In The Night And Other Stories (1962) By Alex La Guma
+A Walk On The Wide Side By Nelson Algren
 A War Of Words By Yasir Suleiman
 A Way In The World By Sir Vidiadhar Surajprasad Naipaul (Read)
 Away With The Fairies (Phryne Fisher, #11) By Kerry Greenwood
@@ -2330,6 +2332,7 @@ Jailbird By Kurt Vonnegut (Have)
 Jakarta By Alice Munro
 JAMES By Percival Everett
 Jane Eyre By Charlotte Bronte (Have)
+Japan As Number One: Lessons For America By Ezra Feival Vogel
 Japanese Folk - Plays: The Ink - Smeared Lady And Other Kyogen By Shio Sakanishi (Read)
 Japan's High Schools By Thomas P. Rohlen (Have)
 Japan, The Ambiguous, And Myself: The Nobel Prize Speech And Other Lectures By Kenzaburo Oe
@@ -3230,6 +3233,7 @@ Notre Amie Judith By Doris Lessing
 Not To Disturb By Dame Muriel Spark
 Not Without Laughter By Langston Hughes
 Novel 11, Book 18 By Dag Solstad
+Novelist As A Vocation: Essays By Haruki Murakami (Read)
 Novels 1976 - 1985: Slapstick / Jailbird / Deadeye Dick / Galapagos By Kurt Vonnegut
 Novels And Stories: The Lottery, The Haunting Of Hill House, We Have Always Lived In The Castle, Other Stories And Sketches By Shirley Jackson (Read)
 Novye Stansy K. Avguste: Stikhotvoreniia K. M. B. By Joseph Brodsky
@@ -5228,6 +5232,7 @@ The Man Who Planted Trees By Jean Giono (Have) (Read)
 The Man Who Spoke Snakish By Andrus Kivirahk (Read)
 The Man Without A Shadow: A Novel By Joyce Carol Oates
 The Man Without Qualities By Robert Musil
+The Man With The Golden Arm By Nelson Algren
 The Many Daughters Of Afong Moy By Jamie Ford
 The Mapmaker's Children By Sarah McCoy
 The Marriages Between Zones Three, Four And Five By Doris Lessing
@@ -5739,7 +5744,7 @@ The Space Between Worlds By Micaiah Johnson
 The Space Merchants (The Space Merchants, #1) By Cyril M. Kornbluth & Frederik Pohl
 The Spanish Smile By Scott O'Dell
 The Sparrow By Mary Doria Russell
-The Spear Cuts Through Water: A Novel By Simon Jimenez
+The Spear Cuts Through Water: A Novel By Simon Jimenez (Read)
 The Spinoza Of Market Street By Isaac Bashevis Singer
 The Spire By William Golding
 The Spirit Catches You And You Fall Down By Anne Fadiman
