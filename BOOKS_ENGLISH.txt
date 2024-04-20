@@ -431,6 +431,7 @@ A Prayer For The City By Buzz Bissinger (Have)
 April Twilights By Willa Cather
 A Psalm For The Wild - Built By Becky Chambers
 Aquarium By David Vann
+A Question Of Belief By Donna Leon
 A Question Of Power By Bessie Amelia "Emery" Head
 A Question Of Upbringing (A Dance To The Music Of Time, #1) By Anthony Powell
 Arabian Nights And Days By Naguib Mahfouz
@@ -657,6 +658,7 @@ Bebop Baby By Mircea Cartarescu
 Be Careful What You Wish For... (Goosebumps, #12) By Robert Lawrence Stine
 Because It Is Bitter, And Because It Is My Heart By Joyce Carol Oates
 Becoming A Heroine By Rachel M. Brownstein
+Becoming Human: A Theory Of Ontogeny By Michael Tomasello
 Bednye Rodstvenniki. Rasskazy (CCCP) By Lyudmila Ulitskaya
 Bedtime Stories: The Junior Novel By Helena Mayer (Have)
 Beethoven Was One - Sixteenth Black By Nadine Gordimer
@@ -809,6 +811,7 @@ Boyhood Island: My Struggle Book 3 By Karl Ove Knausgard
 Boyhood: Scenes From Provincial Life By John Maxwell Coetzee
 Boy Missing: The Search For Kyron Horman By Rebecca Morris
 Boys And Girls By Alice Munro
+Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge, And The Teachings Of Plants By Robin Wall Kimmerer
 Brain Juice (Goosebumps 2000, #12) By Robert Lawrence Stine
 Brass By Xhenet Aliu
 Braveheart By Randall Wallace (Have)
@@ -1083,6 +1086,7 @@ Conversations With Skeletons By Adunis
 Conversations with Stoppard By Tom Stoppard
 Conversations With Toni Morrison By Toni Morrison
 Conversations With V. S. Naipaul By Sir Vidiadhar Surajprasad Naipaul
+Coolie Woman: The Odyssey Of Indenture By Gaiutra Bahadur
 Coraline By Neil Gaiman (Have) (Read)
 Cormac McCarthy: A Descriptive Bibliography By Cormac McCarthy
 Corner Boy: A Novel By Herbert Simmons
@@ -1428,6 +1432,7 @@ Economy Of The Unlost By Anne Carson
 Ecrits Et Propos Sur L'Art (FR) By Henri Matisse
 Ecstasy By Ryu Murakami
 Edible Estates: Attack On The Front Lawn By Diana Balmori & Fritz Haeg
+Educated: A Memoir By Tara Westover
 Education For A National Culture By Ngugi Wa Thiong'o
 Education In Movement Spaces: Standing Rock To Chicago Freedom Square By Multiple Editors
 Education Of A Wandering Man By Louis L'Amour
@@ -1664,6 +1669,7 @@ Fire And Fury: Inside The Trump White House By Michael Wolff (Read)
 Fire And Knowledge By Peter Nadas
 Fire Down Below By William Golding
 Firefly: Big Damn Hero By Nancy Holder (Have)
+Firekeeper's Daughter By Angeline Boulley
 Fire In The Lake By Frances FitzGerald
 Fire On The Mountain: The True Story Of The South Canyon Fire By John N. Maclean
 Fire Sermon: A Novel By Jamie Quatro
@@ -1729,6 +1735,7 @@ Fountain And Tomb By Nagiub Mahfouz
 Four Play By Maya Banks
 Four Plays For Radio By Tom Stoppard
 Four Plays: The Clouds / The Birds / Lysistrata / The Frogs By Aristophanes
+Fourth Wing By Rebecca Yarros
 Fox By Dubravka Ugresic
 Fox 8: A Story By George Saunders (Read)
 Foxfire: Confessions Of A Girl Gang By Joyce Carol Oates
@@ -1755,6 +1762,7 @@ Freya Stark: The Greatest Woman Explorer And Travel Writer Of Her Age By Jane Fl
 Friday's Footprints And Other Stories By Nadine Gordimer
 Friend Of My Youth By Alice Munro
 Friendship By Emily Gould
+Friends, Lovers, And The Big Terrible Thing: A Memoir By Matthew Perry
 Fright Camp (Goosebumps 2000, #8) By Robert Lawrence Stine
 Frog By Mo Yan (Read)
 From A Crooked Rib By Nuruddin Farah
@@ -2004,6 +2012,7 @@ Hidden Figures: The Untold True Story Of Four African - American Women Who Helpe
 Hideaway By Dean Koontz
 Hiding In Plain Sight By Nuruddin Farah
 Hier, Demain (FR) By Nuruddin Farah
+Higher Is Waiting By Tyler Perry
 High Lonesome: New & Selected Stories, 1966 - 2006 By Joyce Carol Oates
 High Profile (Jesse Stone, #6) By Robert Brown Parker
 High Tide By Inga Abele
@@ -2021,6 +2030,7 @@ Hint Fiction: An Anthrology Of Stories In 25 Words Or Fewer By Robert Swartwood
 Hiroshima Notes: Essays By Kenzaburo Oe (Read)
 Hiroshima Peace Reader By Yoshiteru Kosakai
 His Bloody Project: Documents Relating To The Case Of Roderick MacRae By Graeme Macrae Burnet
+H Is For Hawk By Helen Macdonald
 Historia Abreviada De La Literature Portatil (ES) By Enrique Vila - Matas
 Historia De Detectives: Detective Story By Juan Marse
 Histoire D'Un Baiser By Albert Cim
@@ -2418,6 +2428,7 @@ Kevin By Paul Kupperberg (Read)
 Khan Al - Khalili: A Modern Arabic Novel By Nagiub Mahfouz
 Kidnapped (David Balfour, #1) By Robert Louis Stevenson (Have) (Read)
 Kidnapped: The Tragic Life Of J. Paul Getty III By Charles Fox
+Killers Of The Flower Moon: The Osage Murders And The Birth Of The FBI By David Grann
 Kill Me Now By Timmy Reed
 Killing The Messenger: The Right - Wing Plot To Derail Hilliary And Hijack Your Government By David Brock (Have)
 Kill Without Joy!: The Complete How To Kill Book By John Minnery
@@ -2436,6 +2447,7 @@ Kipps By Herbert George Wells
 Kitchen: Two Stories By Banana Yoshimoto (Read)
 Klanger Och Spar (SV) By Tomas Transtromer
 Klara And The Sun: A Novel By Kazuo Ishiguro (Read)
+Kleptopia: How Dirty Money Is Conquering The World By Tom Burgis
 Knots By Nuruddin Farah
 Knowing French (Storycuts) By Julian Barnes
 Knowledge Of Hell By Antonio Lobo Antunes
@@ -3579,6 +3591,7 @@ Prodigy (Legend, #2) By Marie Lu (Read)
 Profession BY Isaaac Asimov
 Professor Andersens Natt: Roman (NO) By Dag Solstad
 Promise Me, Dad: A Year Of Hope, Hardship, And Purpose By Joe Biden
+Proof Of Heaven: A Neaurosurgeon's Journey Into THe Afterlife By Eben Alexander
 Proper Marriage By Doris Lessing
 Prophet Song: A Novel By Paul Lynch (Read)
 Prosa Fra Ein Oppvekst (NO) By Jon Fosse
@@ -3657,6 +3670,7 @@ Reading Women By Stefan Bollmann
 Read This And Tell Me What It Says: Stories By A. Manette Ansay (Have)
 Ready Player One By Ernest Cline
 Reality And Dreams By Dame Muriel Spark
+Reality Check: Making The Best Of The Situation: How I Overcame Addiction, Loss, And Prison By Mike Sorrentino
 Real Life By Brandon Taylor
 Reason By Isaac Asimov
 Rebecca By Daohne Du Maurier
@@ -3923,6 +3937,7 @@ Shizuko's Daughter By Kyoko Mori (Read)
 Shockaholic By Carrie Fisher
 Short Friday By Isaac Bashevis Singer
 Short Letter, Long Farewell By Peter Handke (Read)
+Short Nights Of The Shadow Catcher: The Epic Life And Immortal Photographs Of Edward Curtis By Timothy Egan
 Short Stories By Francisco Sionil Jose
 Short Talks By Anne Carson
 Shosha By Isaac Bashevis Singer
@@ -4021,6 +4036,7 @@ Someone Talking To Sometime: Poems By Ama Ata Aidoo
 Someone To Run With By David Grossman
 Somersault By Kenzaburo Oe (Read)
 Some Sort Of Epic Grandeur: The Life Of F. Scott Fitzgerald By Matthew J. Bruccoli
+Something Beautiful Happened: A Story Of Survival And Courage In The Face Of Evil By Yvette Manessis Corporon
 Something For The Pain: A Memoir Of The Turf By Gerald Murnane
 Something I Can Never Have (Solitary Tales, #0.5) By Travis Thrasher
 Something I've Been Meaning To Tell You By Alice Munro
@@ -4390,6 +4406,7 @@ The Bishop And The Actress: A Play By Tom Stoppard
 The Black Arrow By Robert Louis Stevenson
 The Black Auxiliary: The Untold Sotry Of 18 African Americans Who Defied Jim Crow And Adolf Hitler To Compete In The 1936 Berlin Olympics By Blair Underwood, Deborah Riley Draper & Travis Thrasher
 The Black Book By Orphan Pamuk
+The Black Box: Writing The Race By Henry Louis Gates
 The Black Death By Rosemary Horrox
 The Black Heralds By Cesar Vallejo
 The Black Madonna By Doris Lessing
@@ -4542,6 +4559,7 @@ The Collector By John Fowles
 The Collector Of Treasures And Other Botswana Village Tales By Bessie Amelia "Emery" Head
 The Collectors (The Camel Club, #2) By David Baldacci
 The Colonel By Mohammed Dowlatabadi
+The Color Of Water: A Black Man's Tribute To His White Mother By James McBride
 The Color Purple By Alice Walker (Read)
 The Colossus By Syvia Plath
 The Colour Of Democracy: Racism In Canadian Society By Frances Henry
@@ -4550,6 +4568,7 @@ The Columbia Anthology Of Modern Chinese Literature By Howard Goldblatt & Joseph
 The Comedy Of Errors By William Shakespeare
 The Comedy Of Vanity By Elias Canetti
 The Comforters By Dame Muriel Spark
+The Comfort Of Crows: A Backyard Year By Margaret Renki
 The Comfort Of Strangers By Ian McEwan
 The Commanders By Bob Woodward
 The Commonwealth Of Thieves: The Improbable Birth Of Australia By Thomas Keneally
@@ -4869,6 +4888,8 @@ The Giver (The Giver, #1) By Lois Lowry (Read)
 The Giving Tree By Shel Silverstein
 The Glass Bead Game By Hermann Hesse
 The Glass Bees By Ernst Junger
+The Glass Books Of The Dream Eaters By Gordon Dahlquist
+The Glass Castle: A Memoir By Jeannette Walls
 The Glass Slipper And Other Stories By Shotaro Yasuoka (Read)
 The Goalie's Anxiety At The Penalty Kick By Peter Handke (Read)
 The Go - Between By Leslie Poles Hartley
@@ -5080,6 +5101,7 @@ The Journeyman Years: Occasional Prose 1957 - 1974 By Derek Walcott
 The Journey Of A Caribbean Writer By Maryse Conde
 The Joy Luck Club By Amy Tan (Read) (Fav)
 The Jungle Book By Rudyard Kipling (Read)
+The Kamogawa Food Detectives: Stories By Hisashi Kashiwai (Have) (Read)
 The Keepsake (Rizzoi & Isles, #7) By Tess Gerritsen (Have) (Read)
 The Kid Who Ran For President (Kid President, #1) By Dan Gutman (Have)
 The Killer Angels By Michael Shaara
@@ -5237,6 +5259,7 @@ The Man Without Qualities By Robert Musil
 The Man With The Golden Arm By Nelson Algren
 The Many Daughters Of Afong Moy By Jamie Ford
 The Mapmaker's Children By Sarah McCoy
+The Map Of Salt And Stars By Zeyn Joukhader
 The Marriages Between Zones Three, Four And Five By Doris Lessing
 The Marrow Thieves By Cherie Dimaline
 The Marquise Of O - And Other Stories By Heinrich Von Kleist (Have)
@@ -5915,6 +5938,7 @@ The Undertaking Of Lily Chen By Danica Novgorodoff
 The Undying Fire: A Contemporary Novel By Herbert George Wells (Read)
 The Unexpected (Animorphs, #44) By Katherine Applegate
 The Unfortunate Side Effects Of Heartbreak And Magic: A Novel By Breanne Randall
+The Unhoneymooners By Christina Lauren
 The Union Kack By Imre Kertesz
 The Unit By Ninni Holmqvist
 The Universe In A Nutshell By Stephen Hawking
@@ -6102,6 +6126,7 @@ This I Believe: Gleanings From A Life In Literature By Francisco Sionil José
 This Is A Photograph Of Me: Girl And Horse, 1928 By Margaret Atwood
 This Is Halloween By James Arthur Moore
 This Is How You Lose The Time War By Amal El - Mohtar & Max Gladstone
+This Is Me: Loving The Person You Are Today By Chrissy Metz
 This Is Not A Border: Reportage & Reflection From The Palestine Festival Of Literature By Alice Walker, China Mieville, Deborah Moggach, Henning Mankell, Jeremy Harding, John Maxwell Coetzee, Michael Ondaatje, Michael Palin, Teju Cole & William Sutcliffe
 This Side Of Paradise By Francis Scott Key Fitzgerald
 This Side Of Time: Poems By Ko Un
@@ -6382,6 +6407,7 @@ Ver's Hat: The Seventeenth Century And The Dawn Of The Global World By Timothy B
 Verses On The Winter Campaign 1980 By Joseph Brodsky
 Versiones Y Diversiones (ES) By Octavio Paz
 Vertical Motion By Can Xue
+Vesper Flights: New And Collected Essays By Helen Macdonald
 Vestiaire De L'Enfance (FR) By Patrick Modiano
 Viaje A La Alcarria (ES) By Camilo Jose Cela
 Viajero By Francisco Sionil Jose
@@ -6473,6 +6499,7 @@ Watermark By Joseph Brodsky (Have) (Read)
 Watership Down By Richard Adams (Read)
 Waverly By Sir Walter Scott
 Waves: Stories By Bei Dao
+Wavewalker: Breaking Free By Suzanne Heywood
 Way Of The Peaceful Warrior: A Book That Changes Lives By Dan Millman (Have)
 Waywaya, And Other Stories By Francisco Sionil Jose
 We A BaddDDD People: Poems By Sonia Sanchez
