@@ -538,6 +538,7 @@ A Time To Kill By John Grisham
 Atlantic Hotel By João Gilberto Noll
 Atlas Shrugged By Ayn Rand (Have)
 Atonement By Ian McEwan (Read)
+At Night All Blood Is Black By David Diop
 A Trace Of Malice By Patrick Modiano
 A Traitor To His Species: Henry Bergh And The Birth Of The Animal Rights Movement By Ernest Freeberg
 A Treatise On Poetry By Czesław Miłosz
@@ -1504,6 +1505,7 @@ Encyclopedia Of An Ordinary Life By Amy Krouse Rosenthal
 Encyclopedia Of The Black Death By Joseph Byrne
 Ende Eines Familienromans. Roman (DE) By Péter Nádas
 Ender's Game By Orson Scott Card (Read)
+End Game In Paris: A Novel BY Ian Adams
 End Of Watch By Stephen King
 Endure: Poems By Bei Dao
 Enduring Lilacs By Gerald Murnane
@@ -2270,6 +2272,7 @@ In The South By Salman Rushdie
 In The Stacks: Short Stories About Libraries And Librarians By Michael Cart (Read)
 In The Tall Grass By Joe Hill & Stephen King
 In The Time Of Dinosaurs (Animorphs, #18.5) By Katherine Applegate
+In The Time Of The Butterflies By Julia Alvarez
 Intimate Matters: A History Of Sexuality In America By Estelle B. Freedman & John D'Emilio
 Into The Drowning Deep (Rolling In The Deep, #1) By Mira Grant
 Into The Fire (Orphan X, #5) By Gregg Andrew Hurwitz
@@ -4603,6 +4606,7 @@ The Coupling Convention: Sex, Text, And Tradition In Black Women's Fiction By An
 The Covenant Of Water By Abraham Verghese
 The Cow By Lydia Davis
 The Crack - Up: Essays By Francis Key Scott Fitgerald
+The Cradle Will Fall By Mary Higgins Clark
 The Crime By Nagiub Mahfouz
 The Crimes Of The Borgias: And Others By Alexander Dumas
 The Crimson Cord: Rahab's Story (Daughters Of The Promisd Land, #1) By Jill Eileen Smith
@@ -5236,6 +5240,7 @@ The Magic Strings Of Frankie Presto: A Novel By Mitch Albom
 The Magnificent Ambersons By Booth Tarkington
 The Magus By John Fowles
 The Maids By Jun'ichiro Tanizaki (Read)
+The Making Of Another Major Motion Picture Masterpiece: A Novel By Ton Hanks (Read)
 The Making Of Asian America: A History By Erika Lee
 The Making Of Dr. Phil: The Straight - Talking True Story Of Everyone's Favorite Therapist By Lisa Gutierrez & Sophia Dembling
 The Making Of The Representative For Planet 8 By Doris Lessing
@@ -5705,6 +5710,7 @@ The Seventh Day By Yu Hua (Have)
 The Several Lives Of Joseph Conrad By J.H. Stape
 The Sexual Life Of Catherine M. By Catherine Millet
 The Sexual Man By Kenzaburō Ōe
+The Shadow Of The Wind By Carlos Ruiz Zafón
 The Shattered Crown (Steelhaven, #2) By Richard Ford
 The Shawl By Cynthia Ozick (Have) (Read)
 The Sheltering Sky By Paul Bowles
@@ -5920,7 +5926,7 @@ The Turn Of The Screw And The Aspern Papers By Henry James
 The Twilight Years By Sawako Ariyoshi (Have)
 The Two Kinds Of Decay By Sarah Manguso
 The Two Towers (The Lord Of The Rings, #2) By John Ronald Reuel Tolkien
-The Two World Wards By Thoams Pynchon
+The Two World Wards By Thomas Pynchon
 The Tyrant's Daughter By J.C. Carleson
 The Tyrant's Novel By Thomas Keneally
 The Ultimate (Animorphs, #50) By Katherine Applegate
@@ -5933,7 +5939,7 @@ The Unbearable Lightness Of Being By Milan Kundera (Read)
 The Unconsoled By Kazuo Ishiguro
 The Under Dog And Other Stories By Agatha Christie (Read)
 The Underground (Animorphs, #17) By Katherine Applegate
-The Underground Railroad By Colson Whitehead
+The Underground Railroad By Colson Whitehead (Read)
 The Undertaking Of Lily Chen By Danica Novgorodoff
 The Undying Fire: A Contemporary Novel By Herbert George Wells (Read)
 The Unexpected (Animorphs, #44) By Katherine Applegate

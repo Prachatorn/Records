@@ -96,6 +96,7 @@ Aliens In The Attic (2009) By John Schultz (Watched)
 Aliens: Zone In Silence (2017) By Andy Fowler
 A Little Chaos (2015) By Alan Rickman
 Alive (1993) By Frank Marshall
+All About Eve (1950) By Joseph L. Mankiewicz
 All About Steve (2009) By Phil Traill
 All About The Money (2017) By Blake Freeman
 All Eyez On Me (2017) By Benny Boom
@@ -388,6 +389,8 @@ Cast A Deadly Spell (1991) By Martin Campbell
 Catch Me If You Can (2002) By Steven Spielberg (Watched)
 Catch That Kid (2004) By Bart Freundlich
 Catfish (2010) By Ariel Schulman & Henry Joost
+Cat People (1942) By Jacques Tourneur
+Cat People (1982) By Paul Schrader
 Cats & Dogs: The Revenge Of Kitty Galore (2010) By Brad Peyton
 Center Stage (1991) By Stanley Kwan
 Certified Copy (2010) By Abbas Kiarostami
@@ -485,6 +488,7 @@ Dead Silence (2007) By James Wan
 Dear Caroline (FR) (1968) By Denys De La Patelliere
 Dear Renzo (2016) By Agostina Galvez & Francisco Lezama
 Death In Venice (1971) By Luchino Visconti
+Death Of A Salesman (1985) By Volker Scholondorff
 Death Race (2008) By Paul William Scott Anderson
 Death Wish (1974) By Michael Winner
 Death Wish II (1982) By Michael Winner
@@ -687,6 +691,7 @@ Freedom Writers (2007) By Richard LaGravenese
 Free Guy (2021) By Shawn Levy (Read)
 Freelance (2023) By Pierre Morel
 Free Willy (1993) By Simon Wincer
+French Connection II (1975) By John Frankenheimer
 Frequency (2000) By Gregory Hoblit
 Frequently Asked Questions About Time Travel (2009) By Gareth Carrivick
 Fried Green Tomatoes (1991) By Jon Avnet
@@ -938,6 +943,7 @@ It's A Wonderful Life (1946) By Frank Capra
 It's Complicated (2009) By Nancy Meyers
 It's Kind Of A Funny Story (2010) By Anna Boden & Ryan Fleck
 Ivan's Childhood (1962) by Andrei Tarkovsky
+I Walked With A Zombie (1943) By Jacques Tourneur
 Jack And Jill (2011) By Dennis Dugan
 Jackass: The Movie (2002) By Jeff Tremaine
 Jack Frost (1998) By Troy Miller (Watched)
@@ -946,6 +952,7 @@ Jackie Brown (1997) By Quentin Tarantino
 Jason And The Argonauts (1963) By Don Chaffey
 Jennifer's Body (2009) By Karyn Kusama
 Jersey Boys (2014) By Clint Eastwood
+Jezebel (1938) By William Wyler
 Jie Jie (2017) By Feng - I Fiona Roan
 Jigsaw (2017) By Michael Spierig & Peter Spierig
 Jimmy Neutron: Boy Genius (2001) By John Alexander Davis (Watched)
@@ -1052,6 +1059,7 @@ Last Year At Marienbad (1961) By Alain Resnais
 Leap Year (2010) By Anand Tucker
 Leaves Of Grass (2009) By Tim Blake Nelson
 Leaving Las Vegas (1995) By Mike Figgis
+Le Balloon Rouge (The Red Balloon) (FR) (1957) By Albert Lamorisse
 Le Bonheur (FR) (1965) By Agnes Varda
 L'Ecole De La Chair (FR) (1998) By Banoit Jacqout
 Legally Blonde (2001) By Robert Luketic
@@ -1590,6 +1598,7 @@ Stir Of Echoes: The Homecoming (2007) By Ernie Barbarash
 Stoker (2013) By Park Chan - Wook
 Storks (2016) By Doug Sweetland & Nicholas Stoller
 Strange Days (1995) By Kathryn Bigelow
+Strangers On A Train (1951) By Alfred Hitchcock
 Street Angel (ZH) (1937) By Yuan Muzhi
 Street Fighter: The Legend Of Chun-Li (2009) By Andrzej Bartkowiak
 Street Smart (1987) By Jerry Schatzberg
@@ -1654,6 +1663,7 @@ Thank You For Smoking (2006) By Jason Reitman
 That Day, On The Beach (ZH) (1983) By Edward Yang
 The 15:17 To Paris (2018) By Clint Eastwood (Watched)
 The 33 (2015) By Patricia Riggen
+The 39 Steps (1935) By Alfred Hitchcock
 The 400 Blows (1959) By Fracois Truffaut
 The 9th Life Of Louis Drax (2016) By Max Minghella (Watched)
 The Abandoned (2016) By Eytan Rockaway
@@ -1778,6 +1788,7 @@ The Flash (2023) By Andres Muschietti (Watched) (Fav)
 The Florida Project (2017) By Sean Baker
 The Fly (1986) By David Cronenberg
 The Fourth Kind (2009) By Olatunde Osunsanmi
+The French Connection (1971) By William Friedkin
 The Fugitive (1993) By Andrew Davis
 The Full Monty (1997) By Peter Cattaneo
 The Game Of Love (1954) By Claude Autant - Lara
@@ -1983,6 +1994,7 @@ The Searchers (1956) By John Ford
 The Second Arrival / Arrival II (1998) By Kenny S. Tenney
 The Secret Garden (1993) By Agnieszka Holland
 The Sentence (2018) By Rudy Valdez
+The Seventh Victim (1943) By Mark Robson
 The Shack (2017) By Stuart Hazeldine
 The Shadow (1994) By Russell Mulcahy
 The Shaggy Dog (2006) By Brian Robbins
