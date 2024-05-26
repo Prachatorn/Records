@@ -248,6 +248,7 @@ All Systems Red: The Murderbot Diaries By Martha Wells
 All That Man Is By David Szalay
 All The Light We Cannot See By Anthony Doerr
 All The Little Bird - Hearts: A Novel By Viktoria Lloyd - Barlow (Read)
+All The Livelong Day And Other Stories By Mick Herron
 All The Lovely Bad Ones By Mary Downing Hahn (Have)
 All The Lovers In The Night By Mieko Kawakami
 All The Names By Jose Saramago
@@ -515,6 +516,7 @@ A Strangeness In My Mind By Orhan Pamuk
 A Strange Solitude By Philippe Sollers
 A Strange Tale From East Of The River And Other Stories By Kafu Nagai
 A Streetcar Named Desire By Tennessee Williams
+A Sudden Country: A Novel By Karen Fisher
 A Sudden Liberating Thought: Selected Stories By Kjell Askildsen
 A Summer Place By Sloan Wilson
 As We Are Now By May Sarton (Read)
@@ -538,7 +540,7 @@ A Time To Kill By John Grisham
 Atlantic Hotel By Joao Gilberto Noll
 Atlas Shrugged By Ayn Rand (Have)
 Atonement By Ian McEwan (Read)
-At Night All Blood Is Black By David Diop
+At Night All Blood Is Black By David Diop (Read)
 A Trace Of Malice By Patrick Modiano
 A Traitor To His Species: Henry Bergh And The Birth Of The Animal Rights Movement By Ernest Freeberg
 A Treatise On Poetry By Czeslaw Milosz
@@ -551,6 +553,7 @@ Attack Of The Mutant (Goosebumps, #25) By Robert Lawrence Stine
 At The Bottom Of The River: Stories By Jamaica Kincaid (Read)
 At The Dark End Of The Street: Black Women, Rape, And Resistance -- A New History Of The Rights Movement From Rosa Parks To The Rise Of Black Power By Danielle L. McGuire
 At The Sky's Edge By Bei Dao
+Attuned: Practicing Interdependence To Heal Our Trauma - And Our World By Thomas Hubl
 A Turn In The South By Sir Vidiadhar Surajprasad Naipaul
 Audition By Ryu Murakami (Read)
 Auge I Vind (NO) By Jon Fosse
@@ -603,6 +606,7 @@ Baby Don't Hurt Me: Stories And Scars From Saturday Night Live By Chris Kattan, 
 Back To Before (Animorphs, #40.5) By Katherine Applegate
 Backyards To Ballparks: More Personal Baseball Stories From The Stands And Beyond By Eric C. Gray
 Bacon: Portraits and Self - Portraits By Milan Kundera
+Bad Actors (Slough House, #8) By Mick Herron
 Bad For Democracy: How The Presidency Undermines The Power Of The People By Dana D. Nelson
 Bad Hare Day (Goosebumps, #41) By Robert Lawrence Stine
 Bad Monkey By Carl Hiaasen (Have)
@@ -820,6 +824,7 @@ Brave New World By Aldous Huxley (Have) (Read)
 Braving The Wilderness By Brene Brown
 Breakfast At Tiffany's: A Short Novel And Three Stories By Truman Capote (Read)
 Breakfast Of Champions By Kurt Vonnegut
+Breakfast With Buddha (Breakfast With Buddha, #1) By Roland Meurllo
 Breakfast with Socrates: An Extraordinary (Philosophical) Journey Through Your Ordinary Day By Robert Rowland Smith
 Break It Down: Stories By Lydia Davis
 Breaking The Spell: Religion As A Natural Phenomenon By Daniel Dennett
@@ -1021,6 +1026,7 @@ Coin Locker Babies By Ryu Murakami (Have)
 Cold Comfort Farm By Stella Gibbons
 Cold Fire By Dean Koontz
 Cold Mountain: A Novel By Charles Frazier
+Cold Victory: A Novel By Karl Marlantes
 Collaborations In Architecture And Engineering By Clare Olsen & Sinead Caitriona Mac Namara
 Collapse: How Societies Choose To Fail Or Succeed By Jared Diamond
 Collected Fictions By Jorge Luis Borges
@@ -1205,6 +1211,7 @@ Dead - End Memories: Stories By Banana Yoshimoto (Read)
 Deadeye Dick By Kurt Vonnegut (Read)
 Dead Girls And Other Stories By Emily Geminder
 Dead Lake By Darcy Coates
+Dead Lions (Slough House, #2) By Mick Herron
 Dead Man's Chest (Phryne Fisher, #18) By Kerry Greenwood
 Dead Souls By Nikolai Gogol
 Dead Weight: Based On A True Story By Batt Humphreys
@@ -1241,7 +1248,7 @@ Decolonising The Mind: The Politics Of Language In African Language (1986) By Ng
 Decreation: Poetry, Essays, Opera By Anne Carson
 Deeper By James Arthur Moore
 Deeply Odd By Dean Koontz
-Deep River By Karl Marlantes
+Deep River: A Novel By Karl Marlantes
 Deep Trouble (Goosebumps, #19) By Robert Lawrence Stine
 Deep Trouble II (Goosebumps, #58) By Robert Lawrence Stine
 De La Mort Sans Exagerer (FR) By Wislawa Szymborska
@@ -1279,6 +1286,7 @@ Desirable Daughters By Bharati Mukherjee (Have)
 Desirada: A Novel By Maryse Conde
 Despair By Vladimir Nabokov
 Desperation By Stephen King
+Dessert With Buddha (Breakfast With Buddha, #4) By Roland Merullo
 D'este Viver Aqui Neste Papel Descripto (PT) By Antonio Lobo Antunes
 Destruction And Sorrow Beneath The Heavens By Laszlo Krasznahorka
 Details Of A Sunset And Other Stories By Vladimir Nabokov
@@ -1320,10 +1328,12 @@ Difficult Daughters By Manju Kapur (Have)
 Difficult Loves By Italo Calvino
 Dingoes At Dinnertime (Magic Tree House, #20) By Mary Pope Osborne
 Dinner By Cesar Aira
+Dinner With Buddha (Breakfast With Buddha, #3) By Roland Merullo
 Dinosaurs Before Dark (Magic Tree House, #1) By Mary Pope Osborne
 Disappearance At Devil's Rock By Paul Tremblay
 Discourses On Livy By Niccolo Machiavelli
 Disgrace By John Maxwell Coetzee
+Disillusioned: Five Familes And The Unraveling Of America's Suburbs By Benjamin Herold
 Disney After Dark (Kingdom Keepers, #1) By Ridley Pearson (Have) (Read)
 Dissolving Classroom: Story Collection By Junji Ito (Have)
 District And Circle By Seamus Heaney
@@ -1342,6 +1352,7 @@ Dog It Was That Died, And Other Plays BY Tom Stoppard
 Dogs In The Dead Of Night (Magic Tree House, #46) By Mary Pope Osbourne
 Dog Years By Gunter Grass
 Dolores Claiborne By Stephen King
+Dolphin Junction: Stories By Mick Herron
 Dolphins At Daybreak (Magic Tree House, #9) By Mary Pope Osborne
 Dom Dzienny, Dom Nocny (PL) By Olga Tokarczuk
 Domingos De Agosto (FR) By Patrick Modiano
@@ -1373,6 +1384,7 @@ Double Persephone By Margaret Atwood
 Double Star By Robert Anson Heinlein
 Doubling The Point By John Maxwell Coetzee
 Do What They Say Or Else By Annie Ernaux (Read)
+Down Cemetery Road (The Oxford Investigations, #1) By Mick Herron
 Down Second Avenue (1959) By Ezekial 'Es'kia' Mphahlele
 Do You Believe? By Travis Thrasher
 Dracula By Bram Stoker (Have)
@@ -1826,6 +1838,7 @@ Giono: Master Of Fictional Modes By Norma Lorre Goodrich
 Giovanni's Room By James Baldwin (Read)
 Girl In The Dark By Anna Lyndsey
 Girls At War And Other Stories By Chinua Achebe
+Girl Waits With Gun By Amy Stewart
 Girl, Woman, Other By Bernardine Evaristo
 Gitarmannen By Jon Fosse
 Giving Offense By John Maxwell Coetzee
@@ -2369,6 +2382,7 @@ Jim Shaw: The Rinse Cycle By Anne Carson
 Jim The Boy By Tony Earley
 Joan And Peter By Herbert George Wells
 Joan Didion: Essays & Conversations By Joan Didion
+Joe Country (Slough House, #6) By Mick Herron
 Joheved (Rashi's Daughters Book I) By Maggie Anton (Have)
 John Brown's Body By Audrey Lilian Barker
 Johnny Got His Gun By Dalton Trumbo
@@ -2411,6 +2425,7 @@ Kafka On The Shore By Haruki Murakami (Read)
 Kafka's Other Trial: The Letters To Felice By Elias Canetti
 Kafka Was The Rage: A Grrenwich Village Memoir By Anatole Broyard
 Kagero Nikki By Michitsuna's Mother
+Kairos By Jenny Erpenbeck
 Kalila And Dimna #1 - The Panchatantra Retold (Kalila And Dimna, #1) By Ramsay Wood
 Kalle Blomquist Meisterdetektiv By Astrid Lindgren
 Kama Sutra For Couples: Everything You Need To Know About the Ancient Art Of Love Making With Beginner To Expert Techniques, Love Making, And Sex Positions By Vatsyayana
@@ -2710,6 +2725,7 @@ London Fields By Martin Amis
 London Labour And The London Poor By Henry Mayhew
 London Match (Bernard Samson, #3) By Len Deighton
 London Observed By Doris Lessing
+London Rules (Slough House, #5) By Mick Herron
 Lonesome Dove: A Novel By Larry McMurtry
 Lone Wolf (Orphan X, #9) By Gregg Andrew Hurwitz
 Look At The Birdie: Unpublished Short Fiction By Kurt Vonnegut
@@ -2760,6 +2776,7 @@ Luka And The Fire Of Life By Salman Rushdie
 Lullaby By Jean - Marie Gustave Le Clezio
 Lulu: Roman By Mircea Cartarescu
 Lunch In Paris: A Delicious Love Story, With Recipes By Elizabeth Bard
+Lunch With Buddha (Breakfast With Buddha, #2) By Roland Merullo
 Lunia: Triumph, Tragedy, And The End Of The Edwardian Age By Greg King
 Lusitalu By Mircea Cartarescu
 Lust By Elfriede Jelinek
@@ -2936,6 +2953,7 @@ Miller's Valley By Anna Quindlen
 Milosz's ABC's By Czeslaw Milosz
 Mi Madre, In Memorian (ES) By Ricahrd Ford
 Minaret By Leila Aboulela
+Mind Your Manners: How To Be Your Best Self In Any Situation By Sara Jane Ho
 Mine Boy By Peter Abrahams
 Mink River: A Novel By Brian Doyle (Read)
 Minnena Ser Mig (SV) By Tomas Transtromer
@@ -3542,6 +3560,7 @@ Political Fictions By Joan Didion
 Pond By Claire - Louise Bennett
 Pony By Raquel Jaramillo Palacio
 Po - On By Francisco Sionil Jose
+Poor Charlie's Almanack: The Wit And Wisdom Of Charles T. Munger
 Popcorn Venus: Women, Movies & The American Dream By Marjorie Rosen
 Pop Goes Korea: Behind The Revolution In Movies, Music, And Internet Culture By Mark James Russell
 Poppy Or The Snake? By Toni Morrison
@@ -3677,12 +3696,13 @@ Ready Player One By Ernest Cline
 Reality And Dreams By Dame Muriel Spark
 Reality Check: Making The Best Of The Situation: How I Overcame Addiction, Loss, And Prison By Mike Sorrentino
 Real Life By Brandon Taylor
+Real Tigers (Slough House, #3) By Mick Herron
 Reason By Isaac Asimov
 Rebecca By Daohne Du Maurier
 Rechnitz And The Merchant's Contracts By Elfriede Jelinek
 Record Of A Night Too Brief: Stories By Hiromi Kawakami (Read)
-Red Clocks: A Novel By Leni Zumas
 Re: Creation: Poems By Nikki Giovanni
+Red Clocks: A Novel By Leni Zumas
 Red Doc> By Anne Carson
 Redeployment By Phil Klay
 Red Mafiya: How The Russian Mob Has Invaded America By Robert I. Friedman
@@ -3728,6 +3748,7 @@ Rin, Tongue And Dorner: A Novel By Rich Shapero (Have)
 Rising Strong By Brene Brown
 Rites Of Passage By William Golding
 Ritournelle De La Faim (FR) By Jean - Marie Gustave Le Clezio
+River Sing Me Home By Eleanor Shearer
 Road - Side Dog By Czeslaw Milosz
 Robert B. Parker's Blind Spot (Jesse Stone, #13) By Reed Farrel Coleman
 Robert B. Parker's Colorblind (Jesse Stone, #17) By Reed Farrel Coleman
@@ -3845,6 +3866,7 @@ Scorpia Rising (Alex Rider, #9) By Anthony Horowitz
 Scott Fitzgerald And His World By Arthur Mizener
 Scrappy Little Nobody By Anna Kendrick
 Scream School (Goosebumps 2000, #15) By Robert Lawrence Stine
+Scrublands: A Novel By Chris Hammer
 Sea Change (Jesse Stone, #5) By Robert Brown Stone
 Sea Grapes By Derek Walcott
 Sea Of Cortez: A Leisurely Journal Of Travel And Research By John Steinbeck & Edward Flanders Robb Ricketts
@@ -3961,6 +3983,7 @@ Si In Space By Travis Thrasher
 Silas Marner By George Eliot
 Silence By Shusaku Endo (Have) (Read)
 Silence House By Orphan Pamuk
+Silver By Chris Hammer
 Simone: A Novel By Eduardo Lalo
 Simon Vs. The Homo Sapiens Agenda (Creekwood, #1) By Becky Albertalli
 Simple Passion By Annie Ernaux (Read)
@@ -3999,6 +4022,8 @@ Sleep Of Memory By Patrick Modiano
 Sleepwalking Land By Mia Couto
 Slight Exaggeration: An Essay By Adam Zagajewski
 Slouching Towards Bethlehem: Essays By Joan Didion
+Slough House (Slough House, #7) By Mick Herron
+Slow Horses (Slough House, #1) By Mick Herron
 Slow Boat By Hideo Furukawa
 Slow Learner By Thomas Pynchon
 Slow Man By John Maxwell Coetzee
@@ -4010,6 +4035,7 @@ Small Memories By Jose Saramago
 Small Things LIke These By Claire Keegan
 Small Wonder: Essays By Barbara Kingsolver (Have)
 Smile No More By James Arthur Moore
+Smoke And Whispers (The Oxford Investigations, #4) By Mick Herron
 Snakehead (Alex Rider, #7) By Anthony Horowitz
 Snakelust By Kenji Nakagami
 Snapshots By Claudio Magris
@@ -4098,6 +4124,7 @@ Spirit Of Steamboat (Walt Longmire, #9.1) By Craig Johnson
 Splickety Prime 3.3 By Arpit Mehta, Charis Ditamore, Sarah Grimmm & Travis Thrasher
 Split Image (Jesse Stone, #9) By Robert Brown Parker
 Spoiler Alert: The Hero Dies By Michael Ausiello
+Spook Street (Slough House, #4) By Mick Herron
 Sports Play By Elfriede Jelinek
 Spring By Karl Ove Knausgard
 Spring Flowers, Spring Frost By Ismail Kadare
@@ -4112,6 +4139,7 @@ SS - GB By Len Deighton
 Stage Fright On Summer Night (Magic Tree House, #25) By Mary Pope Osborne
 Stalking Jack The Ripper (Stalking Jack The Ripper, #1) By Kerri Maniscalco
 Stallion By Starlight (Magic Tree House, #49) By Mary Pope Osbourne
+Standing By The Wall (Slough House, #8.5) By Mick Herron
 Standing Heavy By Armand Patrick Gbaka - Brede
 Stand On Zanziber By John Brunner
 Star Apple Kingdom By Derek Walcott
@@ -4173,6 +4201,7 @@ Such A Long Journey By Rohinton Mistry
 Such Fine Boys By Patrick Modiano
 Suddenly In The Depth Of The Forest By Amos Oz
 Sufism And Surrealism By Adunis
+Sugar Birds By Cheryl Bostrom
 Sugar Street By Naguib Mahfouz
 Suicide Blonde By Darcey Steinke
 Suitcase: A Journal Of Transcultural Traffic By Amos Oz, Harold Pinter, Jacques Derrida, Jessica Hagedorn, Nuruddin Farah, Paul Celan, Saul Friedlander & Seydou Keita
@@ -4470,7 +4499,7 @@ The Box: Tales From The Darkroom By Gunter Grass
 The Box Man By Kobo Abe
 The Boy From Clearwater By Pelyun You
 The Boy In The Suit Case (Nina Borg, #1) By Lene Kaaberbol (Have)
-The Boys In The Boat: Nine Americans And Their Epic Quest For Gold At The 1936 Berlin Olympics By Daniel James Brown
+The Boys In The Boat: Nine Americans And Their Epic Quest For Gold At The 1936 Berlin Olympics By Daniel James Brown (Read)
 The Boy Who Dared By Susan Campbell Bartoletti (Have)
 The Brass Butterfly By William Golding
 The Brethen By Bob Woodward & Scott Armstrong
@@ -4509,6 +4538,7 @@ The Castle In The Sea By Scott O'Dell
 The Castlemaine Murders (Phryne Fisher, #13) By Kerry Greenwood
 The Castle Of Kings By Oliver Potzsch
 The Casual Vacancy By Joanne Rowling
+The Catch (Slough House, #6.5) By Mick Herron
 The Catcher Of The Rye By Jerome David Salinger (Read) (Fav)
 The Cave By Jose Saramago
 The Caves Of Steel By Isaac Asimov
@@ -4720,6 +4750,7 @@ The Dream Sleepers And Other Stories By Patricia Grace (Have) (Read)
 The Dressmaker: A Novel By Kate Alcott (Read)
 The Dressmaker Of Khair Khana: Five Sisters, One Remarkable Family, And The Woman Who Risked Everything To Keep Them Safe By Gayle Tzemach Lemmon
 The Driver's Seat By Dame Muriel Spark
+The Drop (Slough House, #5.5) By Mick Herron
 The Drowned Life By Jeffrey Ford (Have)
 The Druggist Of Auschwitz: A Documentary Novel By Dieter Schlesak
 The Dry: A Novel By Jane Harper
@@ -4801,6 +4832,7 @@ The Federalist Papers By Alexander Hamilton (Have)
 The Feet Of Juan Bacnang: A Novel By Francisco Sionil Jose
 The Fellowship Of The Ring (The Lord Of The Rings, #1) By John Ronald Reuel Tolkien
 The Female Eunuch By Germaine Greer
+The Ferryman By Justin Cronin
 The Festival Of Insignificance By Milan Kundera
 The Fifth Child (1985) By Doris May Lessing
 The Fifth Risk By Michael Lewis
@@ -5080,6 +5112,7 @@ The Invented Part By Rodrigo Fresan
 The Invention Of Hugo Cabret: A Novel In Words And Pictures By Brian Selznick
 The Invention Of Morel By Adolfo Bioy Casares (Read)
 The Invincible Iron Man: The Future By Matt Fraction & Salvador Larroca (Read)
+The Invisible Life Of Addie LaRue By Victoria Schwab
 The Invisible Man By Herbert George Wells (Read)
 The Invisible Orientation: An Introduction To Asexuality By Julie Sondra Decker
 The Ipcress File (Secret File, #1) By Len Deighton
@@ -5163,6 +5196,7 @@ The Last Thing He Wanted By Joan Didion
 The Last Thing You Surrender By Leonard Pitts
 The Last Train To Zona Verde: My Ultimate African Safari By Paul Theroux
 The Last Tycoon By Francis Scott Key Fitgerald
+The Last Voice You Hear (The Oxford Investigations, #2) By Mick Herron
 The Last Wolf: & Herman: The Game Warden & The Death Of A Craft By Laszlo Krasznahorka
 The Last Writings By Franz Kafka
 The Late Americans: A Novel By Brandon Taylor
@@ -5191,6 +5225,7 @@ The Line Of Beauty By Alan Hollinghurst
 The Lion Or The Mouse? By Toni Morrison
 The Lion, The Witch, And The Wardrobe (Chronicles Of Narnia, #1) By Clive Staples Lewis
 The List (Orphan X, #5.5) By Gregg Andrew Hurwitz
+The List (Slough House, #2.5) By Mick Herron
 The Literary Conference By Cesar Aira
 The Little Buddhist Monk By Cesar Aira
 The Little Engine That Could By Watty Piper
@@ -5341,6 +5376,7 @@ The Mummy Walks (Goosebumps 2000, #16) By Robert Lawrence Stine
 The Museum Of Eterna's Novel By Macedonio Fernandez
 The Museum Of Innocence By Orphan Pamuk
 The Museum Of Unconditional Surrender By Dubravka Ugresic
+The Mushroom Hunters: On The Trail Of An Underground America By Langdon Cook
 The Musical Brain: And Other Stories By Cesar Aira
 The Mutation (Animorphs, #36) By Katherine Applegate
 The Mystery Fancier (Vol. 7 No. 1) January - February 1983 By Charlotte MacLeod, Guy M. Townsend & Tom Stoppard
@@ -5378,6 +5414,7 @@ The New Negro By Alain LeRoy Locke
 The Nice And The Good By Iris Murdoch
 The Nickel Boys By Colson Whitehead
 The Nigger Of The 'Narcissus' / Typhoon / And Other Stories By Joseph Conrad (Have)
+The Night House By Jo Nesbo
 The Nightingale By Kristin Hannah
 The Night Manager By John le Carre
 The Nights Of Flores By Cesar Aira
@@ -5456,6 +5493,7 @@ The Pathseeker By Imre Kertesz
 The Pattern Seekers: How Autism Drives Human Invention By Simon Baron - Cohen
 The Pearl By John Steinbeck (Read) (Fav)
 The Pedant In The Kitchen By Julian Barnes
+The Pegan Diet: 21 Practical Principles For Reclaiming Your Health In A Nutritionally Confusing World By Mark Hyman
 The Penelopiad By Margaret Atwood
 The Penguin Dictionary Of Classical Mythology By Pierre Grimal
 The Penitent By Isaac Bashevis Singer
@@ -5495,6 +5533,7 @@ The Plea (Eddie Flynn, #2) By Steve Cavanagh
 The Ploughman's Lunch By Ian McEwan
 The Poems Of Emily Dickinson By Emily Dickinson
 The Poetry Of Derek Walcott, 1948 - 2013 By Derek Walcott
+The Poet X By Elizabeth Acevedo
 The Poisonwood Bible By Barbara Kinsolver (Have)
 The Polish Rider By Antonio Munoz Molina
 The Polygamist's Daughter By Anna LeBaron
@@ -5736,6 +5775,7 @@ The Silent Cry: A Novel By Kenzaburo Oe (Read)
 The Silent Duchess By Dacia Maraini
 The Silver Music Box By Mina Baites
 The Sign Of The Beaver By Elizabeth George Speare (Have) (Read)
+The Singers Talk: The Greatest Singers Of Our Time Discuss The One Thing They're Never Asked About: Their Voice By Jason THomas Gordon
 The Sirens Of Titan By Kurt Vonnegut
 The Sirian Experiments By Doris Lessing
 The Six Companions And The Man With The Glove By Paul - Jacques Bonzon
@@ -5827,6 +5867,7 @@ The Striker (Isaac Bell, #6) By Clive Cussler & Justin Scott (Read)
 The Studio By John Gregory Dunne
 The Suburban Strange By Nathan Kotecki
 The Successor By Ismail Kadare
+The Sudden Appearance Of Hope By Claire North
 The Suffrage Of Elvira By Sir Vidiadhar Surajprasad Naipaul
 The Sugar Frosted Nutsack By Mark Leyner
 The Summer Before The Dark (1973) By Doris May Lessing
@@ -5917,6 +5958,7 @@ The Trial And Other Stories (2005) By Ifeoma Okoye
 The Trial By Franz Kafka (Read)
 The Trial Of Dedan Kimathi By Ngugi Wa Thiong'o
 The Train By Dacia Maraini
+The Train To Crystal City: FDR's Secret Prisoner Exchange Program And America's Only Family Internment Camp During World War II By Jan Jarboe Russell
 The Tricks Of The Trade By Dario Fo
 The Trills Of Love By Odysseas Elytis
 The Trouble With Goats And Sheep: A Novel By Joanna Cannon
@@ -6138,6 +6180,7 @@ This Is Halloween By James Arthur Moore
 This Is How You Lose The Time War By Amal El - Mohtar & Max Gladstone
 This Is Me: Loving The Person You Are Today By Chrissy Metz
 This Is Not A Border: Reportage & Reflection From The Palestine Festival Of Literature By Alice Walker, China Mieville, Deborah Moggach, Henning Mankell, Jeremy Harding, John Maxwell Coetzee, Michael Ondaatje, Michael Palin, Teju Cole & William Sutcliffe
+This Other Eden: A Novel By Paul Harding (Read)
 This Side Of Paradise By Francis Scott Key Fitzgerald
 This Side Of Time: Poems By Ko Un
 This Tender Land By Kent William Krueger
@@ -6263,6 +6306,7 @@ To Your Scattered Bodies Go By Philip José Farmer
 Traces Of Love And Other Stories By Eileen Chang
 Tradiciones Peruanas (ES) By Ricardo Palma
 Train To Budapest By Dacia Maraini
+Trancending Trauma: Healing Complex PTSD With Internal Family Systems By Frank G. Anderson
 Transcription By Kate Atkinson (Have)
 Transformations Of The Lover By Adunis
 Transformer: The Complete Lou Reed Story By Victor Bockris
@@ -6574,6 +6618,7 @@ What Is To Be Done? By Nikolay Chernyshevsky
 What I Talk About When I Talk About Running By Haruki Murakami (Read) (Fav)
 What Moves At The Margin: Selected Nonfiction By Toni Morrison
 What Must Be Said By Gunter Grass
+What My Bones Know: A Memoir Of Healing From Complex Trauma By Stephanie Foo
 What Our Minds Do When We Read Novels By Orhan Pamuk 
 What Ours Is Not Yours: Stories By Helen Oyeyemi (Read)
 What's Your Creative Type? Harness The Power Of Your Artistic Personality By Meta Wagner
@@ -6613,6 +6658,7 @@ Where Is Here By Joyce Carol Oates
 Where I Was From By Joan Didion
 Where The Bird Sings Best By Alejandro Jodorowsky
 Where The Body Meets Memory By David Mura
+Where The Crawdads Sing By Delia Owens
 Where The Jackals Howl By Amos Oz
 Where The Red Fern Grows By Wilson Rawls
 Where The Sun Rises And Where It Sets By Czeslaw Milosz
@@ -6646,6 +6692,7 @@ Why Haven't You Written? Selected Stories, 1950 - 1972 By Nadine Gordimer
 Why I'm Afraid Of Bees (Goosebumps, #17) By Robert Lawrence Stine
 Why Noah Chose The Dove By Isaac Bashevis Singer
 Why We Are Hungry: Rats In The Kitchen, Carabaos In The Closet By Francisco Sionil Jose
+Why We Die (The Oxford Investigations, #3) By Mick Herron
 Why We Love Women By Mircea Cartarescu
 Wide Sargasso Sea By Jean Rhys
 Wie Eine Nackte Nadel (DE) By Nuruddin Farah
