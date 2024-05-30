@@ -539,8 +539,8 @@ A Time For Everything By Karl Ove Knausgård
 A Time To Kill By John Grisham
 Atlantic Hotel By João Gilberto Noll
 Atlas Shrugged By Ayn Rand (Have)
-Atonement By Ian McEwan (Read)
 At Night All Blood Is Black By David Diop (Read)
+Atonement By Ian McEwan (Read)
 A Trace Of Malice By Patrick Modiano
 A Traitor To His Species: Henry Bergh And The Birth Of The Animal Rights Movement By Ernest Freeberg
 A Treatise On Poetry By Czesław Miłosz
@@ -2815,15 +2815,15 @@ Maison Dans La Derive (FR) By Marilynne Robinson
 Making The Arab World: Nasser, Qutb, And The Clash That Shaped The Middle East By Fawaz A. Gerges
 Making Waves (Beach Lane, #1) By Laura Moore
 Malgudi Days: Stories By Rasipuram Krishnaswami Iyer Narayanaswami
-Man And His Tools By William A. Burns
-Man - Eaters Of Kumaon By Jim Corbett
-Mangiami Pure By Dacia Maraini
 Mala Indole (ES) By Javier Marías
 Mama's Last Hug: Animal Emotions And What They Tell Us About Ourselves By Frans De Waal
 Mamista By Len Deighton
 Man Alive By Thomas Page McBee
+Man And His Tools By William A. Burns
 Manazuru By Hiromi Kawakami (Have)
 Mandingo By Kyle Onslott
+Man - Eaters Of Kumaon By Jim Corbett
+Mangiami Pure By Dacia Maraini
 Manhattan Beach By Jennifer Egan
 Manhood: The Masculine Virtues America Needs By John Hawley
 Maniac Magee By Jerry Spinelli (Read)
@@ -2835,6 +2835,7 @@ Mano De Sombra (ES) By Javier Marias
 Manservant And Maidservant By Ivy Compton - Burnett
 Mansfield Park By Jane Austen
 Man's Search For Meaning By Viktor Frankl
+Man, The Unknown By Alexis Carrel
 Manual Of Painting And Calligraphy By José Saramago
 Manual Of The Woodcraft Indians: The Fourteenth Birch - Bark Roll, Containing Their Constitution, Laws, And Deeds, And Much Additional Matter By Ernest Thompson Seton
 Man'yōshū By Anonymous
@@ -5497,7 +5498,7 @@ The Pegan Diet: 21 Practical Principles For Reclaiming Your Health In A Nutritio
 The Penelopiad By Margaret Atwood
 The Penguin Dictionary Of Classical Mythology By Pierre Grimal
 The Penitent By Isaac Bashevis Singer
-The People's Republic Of Walmart: How The World's Biggest Corporations Are Laying The Foundation For Socialism BY Leigh Phillips & Michal Rozworski
+The People's Republic Of Walmart: How The World's Biggest Corporations Are Laying The Foundation For Socialism By Leigh Phillips & Michal Rozworski
 The People's Train By Thomas Keneally
 The Perfect Nanny: A Novel By Leïla Slimani
 The Perfect Nine By Ngũgĩ Wa Thiong'o
@@ -5543,7 +5544,7 @@ The Pope And The Witch By Dario Fo
 The Pope's Daughter By Dario Fo
 The Porcupine By Julian Barnes
 The Portrait Of A Lady By Henry James (Have)
-The Positronic Man By Isac Asimov
+The Positronic Man By Isaac Asimov
 The Possession By Annie Ernaux (Read)
 The Postman Always Rings Twice By James Mallahan Cain (Read)
 The Postman's Fiancée By Denis Thériault
@@ -5850,6 +5851,7 @@ The Story Of Hong Gildong By Unknown
 The Story Of King Arthur And His Knights By Howard Pyle (Read)
 The Story Of Mats Israelson (Storycuts) By Julian Barnes
 The Story Of My Experiments With Truth By Mahatma Gandhi
+The Story Of San Michele By Axel Munthe
 The Story Of The Cannibal Woman By Maryse Condé
 The Story Of The Lost Child (The Neapolitan Novels, #4) By Elena Ferrante
 The Story Of The Other Wise Man By Henry Van Dyke (Have)
