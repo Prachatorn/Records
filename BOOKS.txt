@@ -61,6 +61,7 @@ Absence Of Mind: Dispelling Of Inwardness From The Modern Myth Of The Self By Ma
 Absolutely On Music: Conversations With Seiji Ozawa By Haruki Murakami
 Absolute Signal By Gao Xingjian
 A Canticle For Leibowitz By Walter Michael Miller Jr.
+A Captive Of Time: My Years With Pasternak By Olga Ivinskaya
 A Catalog Of Birds By Laura Harrington
 A Cat, A Man, And Two Women By Jun'ichiro Tanizaki
 Accident Nocturne By Patrick Modiano
@@ -102,7 +103,7 @@ A Deadly Cliche (A Books By The Bay Mystery, #2) By Ellery Adams
 A Defense For Ardor By Adam Zagajewski
 Ademe Deve Henawa (HI) By Salman Rushdie
 A Dialogue By James Baldwin & Nikki Giovanni
-A Dictator Calls By Ismail Kadare
+A Dictator Calls: A Novel By Ismail Kadare (Read)
 A Dictionary Of Borges By Evelyn Fishburn
 A Dictionary Of Thoughts By Tryon Edwards
 Adieu La Vie, Adieu L'Amour By Juan Marsé
@@ -134,6 +135,7 @@ A Far Cry From Kensington By Dame Muriel Spark
 A Farewell To Arms By Ernest Hemingway (Read)
 A Feast For Crows (A Song of Ice and Fire #4) By George Raymond Richard Martin
 A Feast Of Snakes By Harry Crews
+A Fever In The Heartland By Timothy Egan
 A Fine Balance By Rohinton Mistry
 Afin Que Nul Ne Meure (FR) BY Frank Gill Slaughter
 A Fish In The Water By Mario Vargas Llosa
@@ -494,6 +496,8 @@ As I Lay Dying By William Faulkner (Read)
 Asimov's Guide To The Bible By Isaac Asimov
 A Simple Heart By Gustave Flaubert (Read)
 A Simple Story By Elizabeth Inchbald (Have)
+As I Remember: An Autobiography By Lillian Moller Gilbreth
+As I Remember Them By Galina Nikolaevna Von Meck
 Ask Suze: Updated Edition By Suze Orman
 Asleep In The Sun By Adolfo Bioy Casares
 Asleep: Stories By Banana Yoshimoto (Read)
@@ -796,6 +800,7 @@ Bluthunde By Don DeLillo
 Błysk Rewolwru (PL) By Wisława Szymborska
 Boa Tarde Á̀s Coisas Aqui Em Baixo (PT) By António Lobo Antunes
 Boathouse By Jon Fosse
+Boating For Beginners By Jeanette Winterson
 Bob Honey Who Just Do Stuff By Sean Penn
 Bodily Harm By Margaret Atwood
 BODY By Harry Crews
@@ -953,6 +958,7 @@ Chase Us: Stories By Sean Ennis
 Chatter: The Voice In Our Head By Ethan Kross
 Checkpoint By Nicholson Baker
 Chekhov: The Major Plays By Anton Chekhov (Have)
+Chéri By Colette
 Cherry Hill By James Arthur Moore
 Chess Story By Stefan Zweig (Read)
 Chicken Chicken (Goosebumps, #53) By Robert Lawrence Stine
@@ -1348,6 +1354,7 @@ Disgrace By John Maxwell Coetzee
 Disillusioned: Five Familes And The Unraveling Of America's Suburbs By Benjamin Herold
 Disney After Dark (Kingdom Keepers, #1) By Ridley Pearson (Have) (Read)
 Dissolving Classroom: Story Collection By Junji Ito (Have)
+Distant Star By Roberto Bolaño
 District And Circle By Seamus Heaney
 Divergent (Divergent, #1) By Veronica Roth (Read)
 Divided Sisters By Kathy Russell & Midge Wilson
@@ -1775,6 +1782,7 @@ Francis, The Holy Jester: A Novel About St. Francis By Dario Fo
 Frank By Richard Ford
 Frankenstein By Mary Wollstonecraft Shelley (Read)
 Frankenstein: Story Collection By Juni Ito (Have)
+Frankissstein By Jeanette Winterson
 Franny And Zooey By Jerome David Salinger (Have)
 Frantumagalia: A Writer's Journey By Elena Ferrante
 Franz Kafka, Die Verwandlung By Elisabeth Becker & Franz Kafka (Have)
@@ -2215,6 +2223,7 @@ Imaginary Homelands By Salman Rushdie
 Imagine Africa By Mia Couto
 Imagine Me Gone By Adam Haslett
 Imani: Roman (DE) By Mia Couto
+I'm Glad My Mom Died By Jennette McCurdy (Have)
 Im Haarknoten Wohnt Eine Dame (DE) By Herta Müller
 Im Herzen Des Landes (DE) By John Maxwell Coetzee
 Imitation Of Life By Fannie Hurst
@@ -2292,6 +2301,7 @@ In The Fourth Year By Herbert George Wells
 In The Heart Of The Country By John Maxwell Coetzee
 In The House Of The Interpreter: A Memoir By Ngũgĩ Wa Thiong'o
 In The House Of The Worm By George Raymond Richard Martin
+In The Lake Of The Woods By Tim O'Brien
 In The Land Of Israel By Amos Oz
 In The Land Of The Cyclops: Essays By Karl Ove Knausgård
 In The Midst Of Winter By Isabel Allende
@@ -2625,6 +2635,7 @@ Les Evengiles Du Crime (FR) By Linda Le (Have)
 Les Geants (FR) By Jean - Marie Gustave Le Clezio
 Les Impudents (FR) By Marguerite Duras
 Lesley Castle By Jane Austen
+Leslie F*cking Jones By Leslie Jones
 Les Miserables By Victor Hugo (Read)
 Les Misérables. Piano / Vocal Selections By Alain Boublil
 Les Nuits De Shanghai (FR) By Juan Marsé
@@ -2785,7 +2796,7 @@ Love In Jeopardy (Mystique, #113) By Madeleine Magali
 Love In The Kingdom Of Oil By Nawal El Saadawi
 Love In The New Millennium By Can Xue
 Love In The Rain By Nagiub Mahfouz
-Love In The Time Of Cholera By Gabriel García Márquez (Have)
+Love In The Time Of Cholera By Gabriel García Márquez (Have) (Read)
 LOVELESS FABLES By Camilo José Cela
 Lovely, Dark, Deep: Stories By Joyce Carol Oates
 Lovers Are Never Losers By Jean Giono
@@ -3170,6 +3181,7 @@ Nativity Poems By Joseph Brodsky
 Nausea By Jean - Paul Sartre
 Navigating Autism: 9 Mindsets For Helping Kids On The Spectrum By Debra Moore & Temple Grandin
 Nay Rather By Anne Carson
+Nazi Literature In The Americas By Roberto Bolaño
 Nectar In A Sieve By Kamala Markandaya (Have)
 Ned Kelly And The City Of Bees By Thomas Keneally
 Needful Things By Stephen King
@@ -3395,6 +3407,7 @@ On The Rum In Tijuana By Hernan Diaz
 On The Yard By Malcolm Braly
 Onward: How Starbucks Fought For Its Life Without Losing Its Soul By Howard Schultz
 On Writing: A Memoir Of The Craft By Stephen King
+Open Book By Jessica Simpson
 Opened Ground: Selected Poems, 1966 - 1996 By Seamus Heaney
 Open Papers By Odysseas Elytis
 Open Secrets By Alice Munro
@@ -3402,6 +3415,7 @@ Open To The Public: New And Collected Stories By Dame Muriel Spark
 Operation Mincemeat: How A Dead Man And A Bizarre Plan Fooled The Nazis And Assured An Allied Victory By Ben Macintyre (Have)
 Opinion That DL Had By José Saramago
 O Pioneers! (Great Plains Trilogy, #1) By Willa Cather (Read)
+Oranges Are Not The Only Fruit By Jeanette Winterson
 Orientations By Odysseas Elytis
 Orlando By Virginia Woolf
 Orphan Train By Christina Baker Kline
@@ -3727,6 +3741,7 @@ Reading Women By Stefan Bollmann
 Reading & Writing: A Personal Account By Sir Vidiadhar Surajprasad Naipaul (Read)
 Read This And Tell Me What It Says: Stories By A. Manette Ansay (Have)
 Ready Player One By Ernest Cline
+Real Americans: A Novel By Rachel Khong
 Reality And Dreams By Dame Muriel Spark
 Reality Check: Making The Best Of The Situation: How I Overcame Addiction, Loss, And Prison By Mike Sorrentino
 Real Life By Brandon Taylor
@@ -4069,7 +4084,8 @@ Slumdog Mllionaire By Simon Beaufoy (Have)
 Small As A Elephant By Jennifer Richard Jacobson (Read)
 Small Avalanches And Other Stories By Joyce Carol Oates
 Small Memories By José Saramago
-Small Things LIke These By Claire Keegan
+Small Mercies By Dennis Lehane
+Small Things Like These By Claire Keegan
 Small Wonder: Essays By Barbara Kingsolver (Have)
 Smile No More By James Arthur Moore
 Smoke And Whispers (The Oxford Investigations, #4) By Mick Herron
@@ -4352,6 +4368,7 @@ The Accidental Billionaires By Ben Mezrich
 The Accursed By Joyce Carol Oates
 The Activist (2006) By Tanure Ojaide
 The Acts Of King Arther And His Noble Knights By John Steinbeck (Have)
+The Adventures Of Amina Al - Sirafi By Shannon Chakraborty
 The Adventures Of A Photographer In La Plata By Adolfo Boiy Casares
 The Adventures Of Augie March By Saul Bellow
 The Adventures Of Baron Münchausen By Rudolf Erich Raspe
@@ -4585,6 +4602,7 @@ The Caves Of Steel By Isaac Asimov
 The Celebrants By Steven Rowley
 The Celebration Of Insignificance By Milan Kundera
 The Celestial Plot: Stories By Adolfo Bioy Casares
+The Cementery Of Untold Stories By Julia Alvarez
 The Cement Garden By Ian McEwan
 The Chalk Man: A Novel By C.J. Tudor
 The Change (Animorphs, #13) By Katherine Applegate
@@ -4795,6 +4813,7 @@ The Dressmaker Of Khair Khana: Five Sisters, One Remarkable Family, And The Woma
 The Driver's Seat By Dame Muriel Spark
 The Drop (Slough House, #5.5) By Mick Herron
 The Drowned Life By Jeffrey Ford (Have)
+The Drowned World By James Graham Ballard
 The Druggist Of Auschwitz: A Documentary Novel By Dieter Schlesak
 The Dry: A Novel By Jane Harper
 The Duel And Selected Stories By Alexander Kuprin (Have)
@@ -4877,6 +4896,7 @@ The Fellowship Of The Ring (The Lord Of The Rings, #1) By John Ronald Reuel Tolk
 The Female Eunuch By Germaine Greer
 The Ferryman By Justin Cronin
 The Festival Of Insignificance By Milan Kundera
+The Fetishist By Katherine Min
 The Fifth Child (1985) By Doris May Lessing
 The Fifth Risk By Michael Lewis
 The Fifth Season (The Broken Earth, #1) By N. K. Jemisin
@@ -5908,6 +5928,7 @@ The Story Of San Michele By Axel Munthe
 The Story Of The Cannibal Woman By Maryse Condé
 The Story Of The Lost Child (The Neapolitan Novels, #4) By Elena Ferrante
 The Story Of The Other Wise Man By Henry Van Dyke (Have)
+The Storyteller By Dave Grohl
 The Storyteller By Mario Vargas Llosa
 The Storyteller By Pierre Jarawan
 The Stowaway: A Young Man's Extraordinary Adventure To Antarctica By Laurie Gwen Shapiro
@@ -6137,6 +6158,7 @@ The William Hurt Collection By Aleksandar Hemon, Richard Ford, Ron Carlson & Tob
 The Willow King By Meelis Friedenthal
 The Will To Die: Stories (1972) By Daniel Canodoce Themba
 The Wind Blows Away Our Words By Doris Lessing
+The Wind From Nowhere By James Graham Ballard
 The Wind Has Risen By Tatsuo Hori
 The Wind In The Willows By Kenneth Grahame (Read)
 The Winds Of Winter (A Song Of Ice And Fire, #6) By George Raymond Richard Martin
@@ -6156,6 +6178,7 @@ The Wizard Of Oz By Salman Rushdie
 The Wolves Of Winter: A Novel By Tyrell Johnson
 The Woman And The Puppet By Pierre Louÿs
 The Woman In Cabin 10 By Ruth Ware
+The Woman In Me By Britney Spears
 The Woman In The Dune By Kobo Abe (Read)
 The Woman In The Purple Skirt: A Novel By Natsuko Imamura (Read)
 The Woman In The Window: A Novel By Daniel Mallory / A. J. Finn
@@ -6213,6 +6236,7 @@ The Yellow Wind By David Grossman
 They Fought For Their Country By Mikhail Sholokhov
 They Fought For The Motherland By Laurie Stoff
 The Young Guard By Alexander Fedeyev
+The Young Man By Annie Ernaux (Read)
 The Young Manhood Of Studs Lonigan (Stud Lonigan, #2) By James Thomas Farrell
 They Poured Fire On Us From The Sky: The True Story Of Three Lost Boys From Sudan By Benson Deng
 The Zigzag Kid By David Grossman
@@ -6365,6 +6389,7 @@ Traces Of Love And Other Stories By Eileen Chang
 Tradiciones Peruanas (ES) By Ricardo Palma
 Train To Budapest By Dacia Maraini
 Trancending Trauma: Healing Complex PTSD With Internal Family Systems By Frank G. Anderson
+Transcendent Kingdom By Yaa Gyasi
 Transcription By Kate Atkinson (Have)
 Transformations Of The Lover By Adunis
 Transformer: The Complete Lou Reed Story By Victor Bockris
@@ -6596,8 +6621,9 @@ Walking In The Shade: Volume Two Of My Autobiography, 1949 - 1962 By Doris Lessi
 Walking Still (1997) By Charles Mungoshi
 Walking Through Fire By Nawal El Saadawi
 Walls Of A Mind: An Aiette Nouvelle Mystery (Aliette Nouvelle, #5) By John Brooke
-Wanda Hickey's Night Of Golden Memories: ANd Other Disasters By Jean Shepherd (Have)
+Wanda Hickey's Night Of Golden Memories: And Other Disasters By Jean Shepherd (Have)
 Wandering Star By Jean - Marie Gustave Le Clézio
+Wandering Stars: A Novel By Tommy Orange
 War And Peace By Leo Tolstoy
 War And The Future By Herbert George Wells
 War And Turpentine By Stefan Hertmans
