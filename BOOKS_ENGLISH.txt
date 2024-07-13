@@ -297,6 +297,7 @@ American Dirt: A Novel By Jeanine Cummins
 American Fiction: Volume 13 By Bruce Pratt & Michael White (Have)
 American Gods By Neil Gaiman
 American Green: The Obsessive Quest For The Perfect Lawn By Ted Steinberg
+American Individualism By Herbert Hoover
 American Omens: The Coming Fight Of Faith By Travis Thrasher
 American Originality: Essays On Poetry By Louise Gluck
 American Pastoral By Philip Roth
@@ -573,6 +574,7 @@ Aunt Suni By Hyun Ki - Young
 Austerlitz By Winfried Georg Sebald
 Aus Tiefstem Vergessen (DE) By Patrick Modiano
 Australians By Thomas Keneally
+Authenticity: Reclaiming Reality In A Counterfeit Culture By Alice Sherwood
 Autobiography And Other Writings By Benjamin Franklin
 Autobiography Of Red By Anne Carson
 Auto - Da - Fe By Elias Canetti
@@ -618,6 +620,7 @@ Backyards To Ballparks: More Personal Baseball Stories From The Stands And Beyon
 Bacon: Portraits and Self - Portraits By Milan Kundera
 Bad Actors (Slough House, #8) By Mick Herron
 Bad For Democracy: How The Presidency Undermines The Power Of The People By Dana D. Nelson
+Bad Girl By Vina Delmar
 Bad Hare Day (Goosebumps, #41) By Robert Lawrence Stine
 Bad Monkey By Carl Hiaasen (Have)
 Bagheria By Dacia Maraini
@@ -868,6 +871,7 @@ Buenas Tardes A Las Cosas De Aqui (ES) By Antonio Lobo Antunes
 Buffalo Before Breakfast (Magic Tree House, #18) By Mary Pope Osborne
 Bukolit By Elfriede Jelinek
 Bullet Train: A Novel By Kotaro Isaka
+Bunte Steine By Adalbert Stifter
 Burger's Daughter By Nadine Gordimer
 Burmese Days By George Orwell (Read)
 Burning Bright By John Steinbeck
@@ -1596,6 +1600,7 @@ Estorias Abensonhadas (PT) By Mia Couto
 Eternal Enemies: Poems By Adam Zagajewski
 Eternal Life: A Novel By Dara Horn
 Ethan Frome By Edith Wharton (Read)
+Etiquette In Society, In Business, In Politics, And At Home By Emily Post
 Et Stort Ode Landskap (NO) By Kjell Askildsen
 Etudes Sur Le Temps Humain (FR) By Georges Poulet
 Eugene Onegin By Alexander Pushkin
@@ -1749,6 +1754,7 @@ Florida Frenzy By Harry Crews
 Flowers For Algernon By Daniel Keyes (Read) (Fav)
 Flowers Of A Moment: Poems By Ko Un
 Flow My Tears, The Policeman Said By Philip Kindred Dick
+Flush: A Biography By Virginia Woolf
 Flying Blind: The 737 MAX Tragedy And The Fall Of Boeing By Peter Robison
 Flying Hero Class By Thomas Keneally
 Flying Too High (Phryne Fisher, #2) By Kerry Greenwood
@@ -3164,6 +3170,7 @@ My Sister, My Love By Joyce Carol Oates
 My Sister's Keeper By Jodi Picoult
 My Son's Story By Nadine Gordimer
 Mysteries Of Winterthurn By Joyce Carol Oates
+Mystery Men Of Wall Street: The Power Behind The Market By Earl Sparling
 Mysticism For Beginners By Adam Zagajewski
 My Struggle: Book One By Karl Ove Knausgard
 My Struggle: Book Two: A Man In Love By Karl Ove Knausgard
@@ -3313,6 +3320,7 @@ Notes From Underground By Fyodor Dostoevsky (Read)
 Notes Of A Crocodile By Qiu Miaojin
 Notes On A Scandal By Zoe Heller
 Notes On The Death Of Culture: Essays On Spectacle And Society By Mario Vargas Llosa
+Notes On The Writings Of James Howell By William Harvey Vann
 No Te Vayas, No Me Olvides (ES) By Carrie Fisher
 Nothing's A Gift By Wislawa Szymborska
 Nothing Special: A Novel By Nicole Flattery
@@ -4853,6 +4861,7 @@ The Eden Express: A Memoir By Mark Vonnegut
 The Edge Of Justice By Clinton McKinzie
 The Edge Of Sadness By Edwin O'Connor
 The Edible Woman By Margaret Atwood
+The Education Of Henry Adams By Henry Brooks Adams
 The Elected Member By Bernice Rubens
 The Elegies Of Oxopetra By Odysseas Elytis
 The Elementary Particles By Michel Houellebecq (Read)
@@ -4933,6 +4942,7 @@ The Fight For Fifteen: The Right Wage For A Working America By David Rolf
 The File On H. By Ismail Kadare
 The Final Days By Bob Woodward & Carl Bernstein
 The Final Hour By Nagiub Mahfouz
+The Financier (Trilogy of Desire, #1) By Theodore Dreiser
 The Fire In The Flint By Walter Francis White
 The Fire Next Time By James Baldwin
 The First Men In The Moon By Herbert George Wells
@@ -5454,6 +5464,7 @@ The Misadventures Of Awkward Black Girl By Issa Rae
 The Mist By Stephen King (Have) (Read)
 The Mitford Murders: A Mystery (Mitford Murders, #1) By Jessica Fellowes
 The Molave And The Orchid, And Other Children's Stories By Francisco Sionil Jose
+The Moneychangers By Upton Sinclair
 The Monkey Grammarian By Octavio Paz
 The Monogram By Odysseas Elytis
 The Monopolists By Mary Pilon
@@ -5954,6 +5965,7 @@ The Stand By Stephen King (Have)
 The Star Diaries: Further Reminiscences Of Lijon Tichy By Stanislaw Lem
 The Starless Sea By Erin Mordenstern
 The Stars My Destination By Alfred Bester (Have)
+The Stoic (Theodore Of Desire, #3) By Theodore Dreiser
 The Stone - Country (1967) By Alex La Guma
 The Stone Raft By Jose Saramago
 The Stone Sky By Nora Keita Jemisin
@@ -6059,6 +6071,7 @@ The Time Of The Hero By Mario Vargas Llosa
 The Tin Drum By Gunter Grass
 The Tin Flute By Gabrielle Roy (Have) (Read)
 The Tipping Point: How Little Things Can Make A Big Difference By Malcolm Gladwell
+The Titan (Trilogy Of Desire, #2) By Theodore Dreiser
 The Tommyknockers By Stephen King
 The Tongue Set Free: Remembrance Of A European Childhood By Elias Canetti
 The Tortoise Or The Hare By Toni Morrison
@@ -6474,7 +6487,7 @@ True Grit By Charles Portis
 Truly Madly Guilty By Liane Moriarty
 TrumpNation: The Art Of Being The Donald By Timothy L. O'Brien
 Trump: The Art Of The Deal By Donald Trump & Tony Schwartz
-Trust By Herman Diaz
+Trust By Herman Diaz (Read)
 Trust Exercise: A Novel By Susan Choi
 Truth Barriers By Tomas Transtromer
 Truth In Autobiography By John Maxwell Coetzee
@@ -6649,9 +6662,10 @@ Voices: Three Plays : To Have Been, Stadelmann, Voices By Claudio Magris
 Voices Made Night By Mia Couto
 Voimaluste Voimalikkus (ET) By Jaan Kaplinski
 Von Der Himmlischen Und Der Irdischen Liebe (DE) By Peter Nadas
-Voyage a Rodrigues (FR) By Jean - Marie Gustave Le Clezio
+Voyage A Rodrigues (FR) By Jean - Marie Gustave Le Clezio
 Voyage Around My Room By Xavier De Maistre
 Voyage Au Pays Des Arbres (FR) By Jean - Marie Gustave Le Clezio
+Voyage In The Dark By Jean Rhys
 Voyage Of Mercy: The USS Jamestown, The Irish Famine, And The Remarkable Story Of America's First Humanitarian Mission By Stephen Puleo
 Voyages De L'Autre Cote (FR) By Jean - Marie Gustave Le Clezio
 Voyage: The Coast Of Utopia Play 1 By Tom Stoppard
