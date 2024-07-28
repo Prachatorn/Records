@@ -137,13 +137,14 @@ A Far Cry From Kensington By Dame Muriel Spark
 A Farewell To Arms By Ernest Hemingway (Read)
 A Feast For Crows (A Song of Ice and Fire, #4) By George Raymond Richard Martin
 A Feast Of Snakes By Harry Crews
-A Fever In The Heartland By Timothy Egan
+A Fever In The Heartland: The Ku Klux Klan's Plot To Take Over America, And The Woman Who Stopped Them By Timothy Egan
 A Fine Balance By Rohinton Mistry
 Afin Que Nul Ne Meure (FR) BY Frank Gill Slaughter
 A Fish In The Water By Mario Vargas Llosa
 A Flag For Sunrise By Robert Stone
 A Flag On The Island By Sir Vidiadhar Surajprasad Naipaul
 Africa Dances: A Book About West African Negroes By Geoffrey Gorer
+A Foray Into The Worlds Of Animals And Humans: With A Theory Of Meaning By Jakob Johann Von Uexkull
 Africa Dream By Eloise Greenfield
 African Game Trails: An Account Of The African Wanderings Of An American Hunter - Naturalist By Theodore Roosevelt
 African Laghter: Four Visits To Zimbabwe By Doris Lessing
@@ -247,6 +248,7 @@ A Life With Books: An Autobiography By Julian Barnes
 Aliss At The Fire (Norwegian Literature Series) By Jon Fosse
 A Little Life By Hanya Yanagihara
 All Days Are Night By Peter Stamm
+All Fours By Miranda July
 All My Puny Sorrows By Miriam Toews
 All Out War: The Full Story Of How Brexit Sank Britain's Political Class By Tim Shipman
 All Quiet On The Western Front By Erich Maria Remarque (Read)
@@ -501,6 +503,7 @@ A Short History Of Chemistry By Isaac Asimov
 A Short History Of Hairdressing (Storycuts) By Julian Barnes
 A Short History Of Nearly Everything By Bill Bryson
 As I Lay Dying By William Faulkner (Read)
+Asimov's Guide To Shakspeare By Isaac Asimov
 Asimov's Guide To The Bible By Isaac Asimov
 A Simple Heart By Gustave Flaubert (Read)
 A Simple Story By Elizabeth Inchbald (Have)
@@ -1082,6 +1085,7 @@ Come Rain Or Come Shine: Faber Stories By Kazuo Ishiguro
 Coming Home: Stories (1988) By Farida Karodia
 Commander In Cheat: How Golf Explains Trump By Rick Reilly
 Commission Of Tears By Antonio Lobo Antunes
+Common Ground: A Turbulent Decade In The Lives Of Three American Families By Jay Anthony Lukas
 Commonwealth By Ann Patchett
 Communicate To Influence: How To Inspire Your Audience To Action By Ben Decker & Kelly Decker
 Communion: A True Story By Whiteley Strieber
@@ -1135,6 +1139,7 @@ Corespondence, Writings & Speeches By Elizabeth Cadt Stanton & Susan B. Anthony
 Corrigan By Caroline Blackwood
 Cosmopolis By Don DeLillo
 Cossee Essay By David Grossman
+Count The Ways: A Novel By Joyce Maynard
 Countries Of The Mind: The Fiction Of J. M. Coetzee By David Guttman, Dick Penner & John Maxwell Coetzee
 Coup De Semonce (FR) By William Golding
 Course Of Empire: Paintings By Joan Didion
@@ -1251,6 +1256,7 @@ Dead Girls And Other Stories By Emily Geminder
 Dead Lake By Darcy Coates
 Dead Lions (Slough House, #2) By Mick Herron
 Dead Man's Chest (Phryne Fisher, #18) By Kerry Greenwood
+Dead Man's Grip By Peter James
 Deadpan: The Aesthetics Of Black Inexpression By Tina Post
 Dead Souls By Nikolai Gogol
 Dead Weight: Based On A True Story By Batt Humphreys
@@ -1752,6 +1758,7 @@ Five Short Novels By Doris Lessing
 Five Spice Street By Can Xue
 Fixed Ideas By Joan Didion
 Flappers And Philosophers By Francis Scott Key Fitzgerald
+Flash Boys: A Wall Street Revolt By Michael Lewis
 Flaskesamlaren (NO) By Jon Fosse
 Flaubert's Parrot By Julian Barnes
 Fledgling: A Novel By Octavia Estelle Butler
@@ -2186,6 +2193,7 @@ How To Get What You Want, Vol. 1 By Orison Swett Marden
 How To Kill A Monster (Goosebumps, #46) By Robert
 How To Make Money: Three Lectures On "The Laws Of Financial Success" By Benjamin Fish Austin
 How To Raise An Adult: Break Free Of The Overparenting Trap And Prepare Your Kid For Success By Julie Lythcott - Haims
+How To Read A Book Mortimer Jerome Alder
 How To Say Babylon: A Memoir By Safiya Sinclair
 How To Stop Time: A Novel By Matt Haig
 How To Win Friends & Influence People By Dale Carnegie (Have)
@@ -2271,6 +2279,7 @@ I'm Not Scared By Niccolo Ammaniti
 Improvement Of The Mind By Isaac Watts
 I'm Starved for You By Margaret Atwood
 I'm Supposed To Protect You From All This By Nadja Spiegelman
+I'm Thinking Of Ending Things By Iain Reid
 Inadvertent By Karl Ove Knausgard
 In A Free State By Sir Vidiadhar Surajprasad Naipaul
 In A Green Night By Derek Walcott
@@ -2927,6 +2936,7 @@ Marcel Duchamp, Appearance Stripped Bare By Octavio Paz
 March By Geraldine Brooks
 Marching Toward Hell: America And Islam After Iraq By Michael Scheuer
 March Violets (Bernie Gunther, #1) By Philip Kerr
+Margo's Got Money Troubles: A Novel By Rufi Thorpe
 Maria Nefeli By Odysseas Elytis
 Marie Clare By Marguerite Audoux
 Marie LaVeau And Steel: Plays By Derek Walcott
@@ -2960,6 +2970,7 @@ Matterhorn: A Novel Of The Vietnam War By Karl Marlantes
 Matters Of Moment (2009) By Tanure Ojaide
 Maurice: A Novel By Edward Morgan Forster (Read)
 Maurka For Two Dead Men By Camilo Jose Cela
+Maus: A Survivor's Tale By Art Spiegelman
 Mazx, Der Schlawiner: Roman (DE) By Isaac Bashevis Singer
 Me Alquilo Para Sonar (ES) By Gabriel Garcia Marquez
 ME: A Novel By Tomoyuki Hoshino
@@ -3180,6 +3191,7 @@ My Hairiest Adventure (Goosebumps, #26) By Robert Lawrence Stine
 My Heart Hemmed In By Marie Ndiaye
 My Heart Laid Bare By Joyce Carol Oates
 My Husband By Dacia Maraini
+My Italian Bulldozer (Paul Stuart, #1) By Alexander McCall Smith
 My Jim By Nancy Rawles
 My Life As A Rat: A Novel By Joyce Carol Oates
 My Man Jeeves (Jeeves, #1) By Sir Pelham Grenville Wodehouse
@@ -3845,7 +3857,7 @@ Rhyming Life And Death By Amos Oz
 Rich And Pretty By Rumaan Alam
 Riders Of The Purple Sage By Zane Grey
 Ride With Me, Mariah Montana By Ivan Doig
-Rifqa: Poems By Mohammed El - Kurd
+Rifqa: Poems By Mohammed El - Kurd (Read)
 Right Text Wrong Number (Offsides, #1) By Natalie Decker
 Ring Roads By Patrick Modiano
 Rin, Tongue And Dorner: A Novel By Rich Shapero (Have)
@@ -3881,6 +3893,7 @@ Rock Paper Scissors By Alice Feeney
 Rock, Paper, Scissors By Naja Marie Aidt
 Rock Springs By Richard Ford
 Rock With Wings (Leaphorn & Chee, #20) By Anne Hillerman
+Rogue Heroes: The History Of The SAS, Britain's Secret Special Forces Unit That Sabotaged The Nazis And Changed The Nature Of The War By Ben Macintyre
 Roll Of Thunder, Hear Me Cry (Logans, #4) By Mildred DeLois Taylor (Have) (Read)
 Roman 1987 (NO) By Dag Solstad
 Romancinin Romani By John Maxwell Coetzee
@@ -4051,6 +4064,7 @@ Shadow On The Hudson By Isaac Bashevis Singer
 Shadow Players Guide By James Arthur Moore
 Shadows Lengthen: The Story Of My Life By Clara Longworth De Chambrun
 Shakespeare's Spy (Shakespeare Steeler, #3) By Gary L. Blackwood (Have)
+Shakespeare, The Word And The Action By Peter Saccio
 Shalimar The Clown By Salman Rushdie
 Shame By Salman Rushdie
 Shame In The Blood By Tetsuo Miura
@@ -4675,6 +4689,7 @@ The Castle Of Kings By Oliver Potzsch
 The Casual Vacancy By Joanne Rowling
 The Catch (Slough House, #6.5) By Mick Herron
 The Catcher Of The Rye By Jerome David Salinger (Read) (Fav)
+The Cats In Krasinki Square By Karen Hesse
 The Cave By Jose Saramago
 The Caves Of Steel By Isaac Asimov
 The Celebrants By Steven Rowley
@@ -4717,6 +4732,7 @@ The Cockroach By Ian McEwan (Read)
 The Code Of The Woosters (Jeeves, #7) By Sir Pelham Grenville Wodehouse
 The Coincidence Of The Arts By Martin Amis
 The Cold Dish (Walt Longmire, #1) By Craig Johnson
+The Coldest Girl In Coldtown By Holly Black
 The Collected Novels Of Jose Saramago By Jose Saramago
 The Collected Novels Of Toni Morrison By Toni Morrison
 The Collected Poems, 1931 - 1987 By Czeslaw Milosz
@@ -4762,6 +4778,11 @@ The Consequences Of Revenge (Consequence, #2) By Aleatha Romig
 The Conservationist By Nadine Gordimer
 The Conspiracy (Animorphs, #31) By Katherine Applegate
 The Continuing Silence Of A Poet: The Collected Stories Of Abraham B. Yehoshua By Abraham B. Yehoshua
+The Convoluted Universe, Book 1 (Convoluted Universe, #1) By Dolores Cannon
+The Convoluted Universe - Book Five (Convoluted Universe, #5) By Dolores Cannon
+The Convoluted Universe - Book Four (Convoluted Universe, #4) By Dolores Cannon
+The Convoluted Universe - Book Three (Convoluted Universe, #3) By Dolores Cannon
+The Convoluted Universe - Book Two (Convoluted Universe, #2) By Dolores Cannon
 The Copycat Effect: How The Media And Popular Culture Trigger The Mayhem In Tomorrow's Headlines By Loren Coleman
 The Corn Maiden And Other Nightmares By Joyce Carol Oates
 The Corrections By Jonathan Franzen
@@ -5228,7 +5249,7 @@ The Hunger Angel By Herta Muller
 The Hunger Games (The Hunger Games, #1) By Suzanne Collins (Read)
 The Hunting Of The Snark By Lewis Carroll
 The Husband By Dean Kootz
-The Husbands By Holly Gramazio
+The Husbands: A Novel By Holly Gramazio
 The Hyena Wears Darkness: Stories By Steven Bernard Miles Chimombo
 The Ice Dragon By George Raymond Richard Martin
 The Ides Of March By Thornton Wilder
@@ -5460,6 +5481,7 @@ The Man Who Died Twice (Thursday Murder Club, #2) By Richard Osman
 The Man Who Forgot How To Poop By Genghis Swan
 The Man Who Killed The Deer By Frank Waters (Have)
 The Man Who Planted Trees By Jean Giono (Have) (Read)
+The Man Who Saw Seconds By Alexander Boldizar
 The Man Who Spoke Snakish By Andrus Kivirahk (Read)
 The Man Without A Shadow: A Novel By Joyce Carol Oates
 The Man Without Qualities By Robert Musil
@@ -5678,6 +5700,7 @@ The Periodic Table By Primo Levi
 The Perpetual Orgy: Flaubert And Madame Bovary By Mario Vargas Llosa
 The Perplexity Of Hariya Hercules By Manohar Shyam Joshi (Have)
 The Phantom Lover And Other Thrilling Tales Of Thailand By Jim Algie
+The Phenomenology Of Spirit By Georg Wilhelm Friedrich Hegel
 The Phenomenon: Pressure, The Yips, And The Pitch That Changed My Life By Tim Brown
 The Philosophy Of Money By George Simmel
 The Phonebooth At The End Of The World By Laura Imai Messina
@@ -5906,6 +5929,7 @@ The Second Plane By Martin Amis
 The Second Sex By Simone De Beauvoir
 The Second Son (Berlin Trilogy, #3) By Jonathan Rabb
 The Second Thief By Travis Thrasher
+The Second - Worst Restaurant In Fance (Paul Stuart, #2) By Alexander McCall Smith
 The Secret (Animorphs, #9) By Katherine Applegate
 The Secret Diary Of Adrian Mole, Aged 13 3/4 By Sue Townsend
 The Secret Garden By Frances Hodgsun Burnett (Have)
@@ -6303,6 +6327,7 @@ The Womanizer By Richard Ford
 The Woman Of The Copper Country: A Novel By Mary Doria Russell
 The Woman's Bible By Elizabeth Cady Stanton
 The Woman Who Stole My Life By Marian Keyes
+The Women By Kristin Hannah
 The Women In The Castle By Jessica Shattuck
 The Women Of The Copper Country: A Novel By Mary Doria Russell
 The Wonderful Visit By Herbert George Wells
@@ -6342,6 +6367,8 @@ They Can't Kill Us All: Ferguson, Baltimore, And A New Era In America's Racial J
 They Can't Kill Us Until They Kill Us By Hanif Abdurraqib
 The Yearlings By Marjorie Kinnan Rawlings (Have)
 The Year Of 1993 By Jose Saramago
+The Year Of Living Biblically: One Man's Humble Quest To Follow The Bible As Literally As Possible By Arnold Stephen Jacobs Jr.
+The Year Of Living Constitutionally: One Man's Humble Quest To Follow The Constitution's Original Meaning By Arnold Stephen Jacobs Jr.
 The Year Of Magical Thinking By Joan Didion
 The Year Of The Death Of Ricardo Reis By Jose Saramago
 The Year Of The Flood (MaddAddam, #2) By Margaret Atwood
@@ -6378,7 +6405,8 @@ This Is Halloween By James Arthur Moore
 This Is How You Lose The Time War By Amal El - Mohtar & Max Gladstone
 This Is Me: Loving The Person You Are Today By Chrissy Metz
 This Is Not A Border: Reportage & Reflection From The Palestine Festival Of Literature By Alice Walker, China Mieville, Deborah Moggach, Henning Mankell, Jeremy Harding, John Maxwell Coetzee, Michael Ondaatje, Michael Palin, Teju Cole & William Sutcliffe
-This Other Eden: A Novel By Paul Harding (Read)
+This Is What It Sounds Like: What The Music You Love Says About You By Susan Rogers
+This Other Eden: A Novel By Paul Harding (Read) (Fav)
 This Side Of Paradise By Francis Scott Key Fitzgerald
 This Side Of Time: Poems By Ko Un
 This Tender Land By Kent William Krueger
@@ -6482,6 +6510,7 @@ Tom Stoppard Plays 4: Dalliance; Undiscovered Country; Rough Crossing; On the Ra
 Tom Stoppard Plays 5: Arcadia, The Real Thing, Night & Day, Indian Ink, Hapgood By Tom Stoppard
 Tonight On The Titanic (Magic Tree House, #17) By Mary Pope Osborne
 Tono Bungay By Herbert George Wells
+Tony And Susan By Austin Wright
 Too Far Afield By Gunter Grass
 To Know A Woman By Amos Oz
 Too Much And Never Enough: How My Family Created The World's Most Dangerous Man By Mary Lea Trump
@@ -6504,6 +6533,7 @@ Towards The Forest: Knausgard On Munch By Karl Ove Knausgard
 Town And Country Lovers By Nadine Gordimer
 To Your Scattered Bodies Go By Philip José Farmer
 Traces Of Love And Other Stories By Eileen Chang
+Tractatus Logico - Philosophicus By Ludwig Wittgenstein
 Tradiciones Peruanas (ES) By Ricardo Palma
 Train To Budapest By Dacia Maraini
 Trancending Trauma: Healing Complex PTSD With Internal Family Systems By Frank G. Anderson
@@ -6563,6 +6593,7 @@ Twice Born: A Novel (Movie Tie - In) By Margaret Mazzantini
 Twice The Work Of Free Labor By Alex Lichtenstein
 Twilight Eyes By Dean Koontz
 Twilight Of The Eastern Gods By Ismail Kadare
+Twilight Territory: A Novel By Andrew X. Pham
 Twin Flower: A Story Of Bali By G.E.P. Collins (Have)
 Twisted Hate (Twisted, #3) By Ana Huang
 Twister On Tuesday (Magic Tree House, #23) By Mary Pope Osborne
@@ -6824,6 +6855,7 @@ What I Like About You By Marisa Kanter
 What I Lived For By Joyce Carol Oates
 What I Love By Odysseas Elytis
 What Is Africa To Me? Fragments Of A True - To - Life Autobiography By Maryse Conde
+What Is Cinema? By Andre Bazin
 What Is Coming? By Herbert George Wells
 What Is Hell, What Heaven, Cont'd By Olga Tokarczuk
 What Is Realism By John Maxwell Coetzee
@@ -6915,6 +6947,7 @@ Wie Eine Nackte Nadel (DE) By Nuruddin Farah
 Wiersze By Czeslaw Milosz
 Wild Cards: Aces High By George Raymond Richard Martin
 Wild Cards: Juego Sucio (Wild Cards, #5) By George Raymond Richard Martin
+Wilderness Tales: Forty Stories Of The North America Wild By Diana Fuss
 Wilderness Tips By Margaret Atwood
 Wildlife By Richard Ford
 Wild Ones: A Sometimes Dismaying, Weirdly Reassuring Stiry About Looking At People Looking At Animals In America By Jon Mooallem
