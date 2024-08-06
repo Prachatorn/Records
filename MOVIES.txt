@@ -24,6 +24,7 @@
 6 Underground (2019) By Michael Bay (Watched)
 8 1 / 2 (1963) By Federico Fellini
 A 2nd Chance (2011) By Clay Glen
+Aar - Paar (IN) (1954) By Guru Dutt
 Abandon (2002) By Stephen Gaghan (Watched)
 A Borrowed Life (ZH) (1994) By Nien - Chen Wu
 About A Boy (2002) By Chris Weitz & Paul Weitz (Watched)
@@ -137,6 +138,7 @@ American Pie Present: Band Camp (2005) By Steve Rash
 American Pie Present: The Book Of Love (2009) By John Putch
 American Pie Present: The Naked Mile (2006) By Joe Nussbaum
 American Splendor (2003) By Robert Pulcini & Shari Springer Berman (Watched)
+American Ultra (2015) By Nima Nourizadeh
 American Violence (2017) By Timothy Woodward Jr.
 America's Sweethearts (2001) By Joe Roth
 A Monster Calls (2016) By Juan Antonio Garcia Bayona
@@ -233,6 +235,7 @@ Away We Go (2009) By Sam Mendes (Watched)
 A Weekend With The Family (2016) By Chris Stokes
 A Whisker Away (JP) (2020) By Junichi Sato & Tomotaka Shibayama (Watched)
 A Woman Under The Influence (1974) By John Cassavetes
+Baazi (IN) (1951) By Guru Dutt
 Baby's Day Out (1994) By Patrick Reed Johnson
 Bachelor Party (1984) By Neal Israel
 Back To The Future (1985) By Robert Zemeckis
@@ -356,6 +359,7 @@ Brothers (2009) By Jim Sheridan
 Bruno (2009) By Larry Charles (Watched)
 Bubble Boy (2001) By Blair Hayes
 Bug (2006) By William Friedkin
+Burn After Reading (2008) By Ethan Coen
 Burning (KR) (2018) By Lee Chang - Dong
 Bury My Heart At Wounded Knee (2007) By Yves Simoneau
 Butch Cassidy And The Sundance Kid (1969) By George Roy Hill (Watched)
@@ -428,6 +432,9 @@ Class Action (1991) By Michael Apted
 Clear History (2013) By Greg Mottola
 Cleo From 5 To 7 (1962) By Agnes Varda
 Cleopatra (1963) By Joseph Leo Mankiewicz
+Clerks (1994) By Kevin Smith
+Clerks II (2006) By Kevin Smith
+Clerks III (2022) By Kevin Smith
 Clinica De Migrantes (2016) By Maxim Pozdorovkin
 Clueless (1995) By Amy Heckerling
 Coal Miner's Daughter (1980) By Michael Apted
@@ -449,6 +456,7 @@ Conspiracy (2001) By Frank Pierson
 Constantine (2005) By Francis Lawrence
 Contagion (2011) By Steven Soderbergh (Watched)
 Cool Runnings (1993) By Jon Turtleltaub
+Con Air (1997) By Simon West
 Cooties (2014) By Cary Murnion & Jonathan Milott
 Cop And A Half: New Recruit (2017) By Jonathan A. Rosenbaum
 Cop Car (2015) By Jon Watts
@@ -487,6 +495,7 @@ Dead Calm (1989) By Phillip Noyce
 Dead Poets Society (1989) By Peter Weir (Watched)
 Deadpool (2016) By Tim Miller (Watched)
 Deadpool 2 (2018) By David Leitch (Watched)
+Deadpool & Wolverine (2024) By Shawn Levy (Watched)
 Dead Presidents (1995) By Albert Hughes & Allen Hughes
 Dead Silence (2007) By James Wan
 Dear Caroline (FR) (1968) By Denys De La Patelliere
@@ -524,7 +533,9 @@ Dick Tracy (1990) By Warren Beatty
 Die Hard (1988) By John McTiernan (Watched)
 Die Hard 2 (1990) By Renny Harlin
 Die Hard With A Vengeance (1995) By John McTiernan
-Diez Minutos Antes (2017) By Juan Carlos Vasquez
+Diez Minutos Antes (ES) (2017) By Juan Carlos Vasquez
+Dil To Pagal Hai (IN) (1997) By Yash Chopra
+Dilwale Dulhania Le Jayenge (IN) (1995) By Aditya Chopra
 Diner (1982) By Barry Levinson
 Dinner With Friends (2001) By Norman Jewison
 Dinosaur (2000) By Ralph Zondag
@@ -532,6 +543,7 @@ Dirty Dancing (1987) By Emile Ardolino
 Dirty War (2004) By Daniel Percival
 Disclosure (1994) By Barry Levinson (Watched)
 Divergent (2014) By Neil Burger (Watched)
+Do Bigha Zamin (IN) (1953) By Bimal Roy
 Doc Hollywood (1991) By Michael Caton - Jones
 Doctor Detroit (1983) By Michael Pressman
 Doctor Strange (2016) By Scott Derrickson (Watched)
@@ -642,6 +654,7 @@ Evita (1996) By Alan Parker
 Expend4bles (2023) By Scott Waugh
 Extreme Measures (1996) By Michael Apted
 Extreme Ops (2002) By Christian Duguay
+Face / Off (1997) By John Woo
 Fahrenheit 451 (2018) By Ramin Bahrani
 Fair Game (2010) By Doug Liman
 Fallen Angels (ZH) (1995) By Wong Kar - Wai
@@ -680,7 +693,7 @@ Five Nights At Freddy's (2023) By Emma Tammi (Watched)
 Flash Gordon (1980) By Mike Hodges
 Fletch (1985) By Michael Ritchie
 Fletch Lives (1989) By Michael Ritchie
-Flight Of The Re Belloon (ZH) (2007) By Hou Hsiao - Hsien
+Flight Of The Red Balloon (ZH) (2007) By Hou Hsiao - Hsien
 Flipped (2010) By Rob Reiner
 Flowers Of Shanghai (1998) By Hou Hsiao - Hsien
 Flying Colors (JP) (2015) By Nobuhiro Doi
@@ -694,7 +707,7 @@ Four Rooms (1995) By Allison Anders
 Freaky Friday (2003) By Mark Waters
 Fred Claus (2007) By David Dobkin
 Freedom Writers (2007) By Richard LaGravenese
-Free Guy (2021) By Shawn Levy (Read)
+Free Guy (2021) By Shawn Levy (Watched)
 Freelance (2023) By Pierre Morel
 Free Willy (1993) By Simon Wincer
 French Connection II (1975) By John Frankenheimer
@@ -774,6 +787,7 @@ Gone Men, Good Women (ZH) (1995) By Hou Hsiao - Hsien
 Good Morning (1959) By Yasujiro Ozu
 Good Morning, Vietnam (1987) By Barry Levinson
 Goodnight Moon & Other Sleepytime Tales (1999) By Amy Schatz
+Good Time (2017) By Benny Safdie & Josh Safdie
 Good Will Hunting (1997) By Gus Van Sant
 Gotcha! (1985) By Jeff Kanew
 Grandma Got Ran Over By A Reindeer (2000) By Phil Roman (Watched)
@@ -791,6 +805,7 @@ Growing Up (ZH) (1983) By Chen Kun - Hou
 Guardians Of The Galaxy (2014) By James Gunn (Watched)
 Guardians Of The Galaxy Vol. 2 (2017) By James Gunn (Watched)
 Guardians Of The Galaxy Vol. 3 (2023) By James Gunn (Watched)
+Guide (IN) (1965) By Vijay Anand
 Gulliver's Travels (2010) By Rob Letterman
 Guns Akimbo (2019) By Jason Lei Howden (Watched)
 Gyo: Tokyo Fish Attack (2012) By Takayuki Hirao
@@ -908,6 +923,7 @@ Il Posto (IL) (1963) By Ermanno Olmi
 I Married A Witch (1942) By Rene Clair
 In A Valley Of Violence (2016) By Ti West
 In America (2002) By Jim Sheridan
+In Bruges (2008) By Martin McDonagh
 Inception (2010) By Christopher Nolan (Watched)
 In Cold Blood (1967) By Richard Brooks
 Indiana Jones And The Dial Of Destiny (2023) By James Mangold
@@ -958,6 +974,8 @@ Jack Frost (1998) By Troy Miller (Watched)
 Jackie (2016) By Pablo Larrain
 Jackie Brown (1997) By Quentin Tarantino
 Jason And The Argonauts (1963) By Don Chaffey
+Jay And Silent Bob Reboot (2019) By Kevin Smith
+Jay And Silent Bob Strike Back (2001) By Kevin Smith
 Jennifer's Body (2009) By Karyn Kusama
 Jersey Boys (2014) By Clint Eastwood
 Jezebel (1938) By William Wyler
@@ -998,6 +1016,7 @@ Juwanna Mann (2002) By Jesse Vaughan
 K - 9 (1989) By Rod Daniel
 K - 911 (1999) By Charles T. Kanganis
 K - 9: P.I. (2002) By Richard J. Lewis
+Kaagaz Ke Phool (IN) (1959) By Guru Dutt
 Kamisama No Iu Tori / As The Gods Will (JP) (2014) By Takashi Miike
 Kanat (1957) By Andrzej Wajda
 Kane (2023) By Blair Moore
@@ -1021,6 +1040,7 @@ King Solomon's Mines (1985) By John Lee Thompson
 Kinsey (2004) By Bill Condon
 Kiss Kiss, Bang Bang (2005) By Shane Black
 Kissing Jessica Stein (2001) By Charles Herman - Wurmfeld
+Kiss Kiss Bang Bang (2005) By Shane Black
 Kiss Of Death (1947) By Henry Hathaway
 Kiss Of Death (1995) By Barbet Schroeder
 Knight And Day (2010) By James Mangold
@@ -1029,6 +1049,7 @@ Knock At The Cabin (2023) By M. Night Shyamalan
 Kong: Skull Island (2017) By Jordan Vogt - Roberts (Watched)
 K - PAX (2001) By Iain Softley
 Kubo And The Two Strings (2016) By Travis Knight (Watched)
+Kuch Kuch Hota Hai (IN) (1998) By Karan Johar
 Kundun (1997) By Martin Scorsese
 Kung Fu Panda (2008) By John Stevenson & Mark Osborne (Watched)
 Kung Fu Panda 2 (2011) By Jennifer Yuh Nelson (Watched)
@@ -1127,6 +1148,7 @@ Luna (1979) By Bernardo Bertolucci
 Luna's Revenge (2017) By Khaled Kaissar
 Lust, Caution (2007) By Ang Lee
 M (DE) (1931) By Fritz Lang (Watched)
+Madhumtai (IN) (1958) By Bimal Roy
 Madre (Mother) (2016) By Simon Mesa Soto
 Magic Mike (2012) By Steven Soderbergh (Watched)
 Make Believe Ballroom (1949) By Joseph Santley
@@ -1206,6 +1228,7 @@ Miss Evers' Boys (1997) By Joseph Sargent
 Missing Johnny (ZH) (2017) By Xi Huang
 Miss March (2009) By Trevor Moore & Zach Cregger
 Moana (2016) By John Musker & Ron Clements (Watched)
+Mohabbatein (IN) (2000) By Aditya Chopra
 Mom And Dad Save The World (1992) By Greg Beeman
 Monday (2000) By Sabu
 Money Plane (2020) By Andrew Lawrence
@@ -1219,9 +1242,10 @@ Moonstruck (1987) By Norman Jewison
 Morgan (2016) By Luke Scott
 Mortal Engines (2018) By Christian Rivers
 Mortal Kombat (1995) By Paul William Scott Anderson
+Mortdecai (2015) By David Koepp
 Mosca (Fly) (ES) (2016) By Lizette Barrera (Watched)
 Mother! (2017) By Darren Aronofsky
-Mother India (1957) By Mehboob Khan
+Mother India (IN) (1957) By Mehboob Khan
 Mother Joan Of The Angels (1961) By Jerzy Kawalerowicz
 Moulin Rouge! (2001) By Baz Luhrmann
 Mourir D'Aimer (FR) (1971) By Andre Cayatte
@@ -1266,6 +1290,7 @@ National Lampoon's Van Wilder 2: The Rise Of Taj (2006) By Mort Nathan
 National Security (2003) By Dennis Dugan
 National Treasure (2004) By Jon Turteltaub (Watched)
 National Treasure 2 (2007) By Jon Turteltaub (Watched)
+Naya Daur (IN) (1957) By Baldev Raj Chopra
 Nell (1994) By Michael Apted
 Neon Lights (1992) By George T. Nierenberg
 Never Die Alone (2004) By Ernest R. Dickerson
@@ -1332,6 +1357,7 @@ Pacific Rim (2013) By Guillermo Del Toro
 Pacific Rim: Uprising (2018) By Steven S. DeKnight
 Paddington 2 (2017) By Paul King
 Paint (2023) By Brit McAdams
+Pakeezah (IN) (1972) By Kamal Amrohi
 Pale Rider (1985) By Clint Eastwood
 Panic Room (2002) By David Fincher
 Paparazzi (2004) By Paul Abascal
@@ -1344,6 +1370,7 @@ Passenger 57 (1992) By Kevin Hooks
 Paterno (2018) By Barry Levinson
 Paths Of Glory (1957) By Stanley Kubrick
 Path To War (2002) By John Frankenheimer
+Patita (IN) (1953) By Amiya Chakrabarty
 Patti Cake$ (2017) By Geremy Jasper
 Paycheck (2003) By John Woo
 Pearl Harbor (2001) By Michael Bay
@@ -1364,6 +1391,8 @@ Phenomenon (1996) By Jon Turteltaub
 Phil Spector (2013) By David Mamet
 Phone Booth (2002) By Joel Schumacher
 Piercing (2019) By Nicolas Pesce
+Pig (2021) By Michael Sarnoski
+Pinapple Express (2008) By David Gordon Green
 Pinochet's Last Stand (2006) By Richard Curson Smith
 Pirates Of The Caribbean (2003) By Gore Verbinski (Watched)
 Pirates Of The Caribbean: At World's End (2007) By Gore Verbinski
@@ -1403,12 +1432,14 @@ Pu - 239 (2006) By Scott Z. Burns
 Public Enemies (2009) By Michael Mann
 Pursuit Of Happiness (2006) By Gabriele Muccino (Watched) (Fav)
 Puss In Boots: The Last Wish (2022) By Joel Crawford
+Pyaasa (IN) (1957) By Guru Dutt
 Pyar Kiya To Darna Kya (IN) (1998) By Sohail Khan
 Que Dios Nos Perdone (May God Save Us) (2016) By Rodrigo Sorogoyen
 Quiero Ser Fiel (2014) By Joe Menendez
 Quo Vadis (FR) (1951) By Mervyn LeRoy
 Radio (2003) By Mike Tollin
 Rain Man (1988) By Barry Levinson
+Raising Arizona (1987) By Ethan Coen
 Rampage (2018) By Brad Peyton (Watched)
 Ran (1985) By Akira Kurosawa
 Rara (2018) By María José San Martín
@@ -1426,6 +1457,7 @@ Reign Of Fire (2002) By Rob Bowman
 Reinbou (Rainbow) (2017) By Andrés Curbelo & David Maler
 Remittance (2015) By Joel Pendelman & Patrick Daly
 Renaissance Man (1994) By Penny Marshall
+Renfield (2023) By Chris McKay
 Reno 911!: Miami (2007) By Robert Ben Garant
 Replicas (2018) By Jeffrey Nachmanoff
 Requiem For A Dream (2000) By Darren Aronofsky
@@ -1447,6 +1479,7 @@ RoboCop (1987) By Paul Verhoeven (Watched)
 Rock Dog (2016) By Ash Brannon
 Rocketman (2019) By Dexter Fletcher
 Rocket Science (2007) By Jeffrey Blitz
+RocknRolla (2008) By Guy Ritchie
 Rogue One: A Star Wars Story (2016) By Gareth Edwards (Watched)
 Role Models (2008) By David Wain
 Roman Holiday (1953) By William Wyler
@@ -1461,6 +1494,7 @@ Rules Don't Apply (2016) By Warren Beatty
 Run Fatboy Run (2008) By David Schwimmer
 Rupture (2017) By Steven Shainberg
 Ruthless People (1986) By David Zucker, Jerry Zucker & Jim Abrahams
+Sahib Bibi Aur Ghulam (IN) (1962) By Abrar Alvi
 Salome (1923) By Charles Bryant
 Samba (Sandbag) (2018) By Israel Cardenas & Laura Guzman
 Sancho The Bailiff (1954) By Kenji Mizoguchi
@@ -1504,6 +1538,7 @@ Seopyeonje (1993) By Im Kown - Taek
 Serendipity (2001) By Peter Chelsom
 Serenity (2019) By Steven Knight
 Seven (1995) By David Fincher
+Seven Psychopaths (2012) By Martin McDonagh
 Seven Samurai (JP) (1954) By Akira Kurosawa
 Sex And The City (2008) By Michael Patrick King
 Sgt. Bilko (1996) By Jonathan Lynn
@@ -1528,7 +1563,7 @@ Shooting Stars (2023) By Chris Robinson
 Shoot The Piano Player (1960) By Fracois Truffaut
 Short Time (1990) By Gregg Champion
 Show Boat (1951) By George Sidney
-Shree 420 (1955) By Raj Kapoor
+Shree 420 (IN) (1955) By Raj Kapoor
 Shrek (2001) By Andrew Adamson & Vicky Jenson (Watched)
 Shrek 2 (2004) By Andrew Adamson, Conrad Vernon & Kelly Asbury
 Shrek Forever After (2010) By Mike Mitchell
@@ -1554,6 +1589,7 @@ Sleight (2017) By Justin Dillard
 Slotherhouse (2023) By Matthew Goodhue
 Slumdog Millionaire (2008) By Danny Boyle (Watched)
 Smultronstallet (Wild Strawberries) (SE) (1957) By Ingmar Bergman
+Snatch (2000) By Guy Ritchie
 Snatched (2017) By Jonathan Levine
 Snow Buddies (2008) By Robert Vince
 Snow Dogs (2002) By Brian Levant
@@ -1582,6 +1618,7 @@ Species III (2004) By Brad Turner
 Species: The Awakening (2007) By Nick Lyon
 Speed (1994) By Jan De Bont
 Speed 2: Cruise Control (1997) By Jan De Bont
+Spenser Confidential (2020) By Peter Berg
 Spice World (1997) By Bob Spiers
 Spider - Man (2002) By Sam Raimi (Watched)
 Spider - Man 2 (2004) By Sam Raimi (Watched)
@@ -1668,8 +1705,8 @@ Tank Girl (1995) By Rachel Talalay
 Tarzan The Ape Man (1932) By Woodbridge Strong Van Dyke II
 Taxi (2004) By Tim Story
 Taxi Driver (1976) By Martin Scorsese
-Terms Of Endearment (1983) By James Lawrence Brooks
 Teenage Mutant Ninja Turtles (1990) By Steve Barron
+Teesri Kasam (IN) (1966) By Basu Bhattacharya
 Tempest In The Flesh (FR) (1954) By Ralph Habib
 Temple Grandin (2010) By Mick Jackson
 Tenacious D: Pick Of Destiny (2006) By Liam Lynch (Watched) (Fav)
@@ -1710,6 +1747,7 @@ The Aviator (2004) By Martin Scorsese
 The Babysitter (2017) By Joseph McGinty Nichol
 The Bad Batch (2017) By Ana Lily Amirpour
 The Bad News Bears (1976) By Michael Ritchie
+The Banshees Of Inisherin (2022) By Martin McDonagh
 The Batman (2022) By Matt Reeves (Watched)
 The Battle Of The Rails (FR) (1946) By Rene Clement
 The Bay (2012) By Barry Levinson
@@ -1778,6 +1816,7 @@ The Day After Tomorrow (2004) By Roland Emmerich (Watched)
 The Day The Earth Stood Still (1951) By Robert Wise
 The Deadly Art Of Survival (1979) By Charlie Ahearn
 The Deer Hunter (1978) By Michael Cimino
+The Departed (2006) By Martin Scorsese
 The Descent (2006) By Neil Marshall
 The Descent: Part 2 (2009) By Jon Harris
 The Devil's Rejects (2005) By Rob Zombie
@@ -1838,6 +1877,7 @@ The Green, Green Grass Of Home (ZH) (1982) By Hou Hsiao - Hsien
 The Green Mile (1999) By Frank Darabont
 The Grey (2011) By Joe Carnahan
 The Grifter (1990) By Stephen Frears
+The Guard (2011) By John Michael McDonagh
 The Guns Of Navarone (1961) By John Lee Thompson
 The Guru (2003) By Daisy Von Scherler Mayer
 The Half Of It (2020) By Alice Wu
@@ -1878,6 +1918,7 @@ The Judge (2014) By David Dobkin (Watched)
 The Kentucky Fried Movie (1977) By John Landis
 The Kid Who Would Be King (2019) By Joe Cornish
 The Killing Fields (1985) By Roland Joffe
+The Kill Room (2023) By Nicol Paone
 The King And I (1956) By Walter Lang (Watched)
 The King And The Clown (2005) By Lee Joon - Ik
 The King Of Comedy (1982) By Martin Scorsese
@@ -1929,6 +1970,7 @@ The Magic Flute (SE) (1975) By Ingmar Bergman
 The Magnificent Seven (1960) By John Sturges
 The Magnificent Seven (2016) By Antoine Fuqua (Watched)
 The Manchurian Candidate (2004) By Jonathan Demme
+The Man From Toronto (2022) By Patrick Hughes
 The Man From U. N. C. L. E (2015) By Guy Ritchie 
 The Man Who Came To Dinner (1942) By William Keighley (Watched)
 The Man With The Golden Arm (1955) By Otto Preminger
@@ -1952,6 +1994,7 @@ The Naked Gun: From The Files Of Police Squad! (1988) By David Zucker
 The Naked Gun 2.5: The Smell Of Fear (1991) By David Zucker
 The Naked Gun 33.3: The Final Insult (1994) By Peter Segal
 The Newton Boys (1998) By Richard Linklater
+The Nice Guys (2016) By Shane Black
 The Night Is Short, Walk On Girl (2017) By Masaaki Yuasa
 The Night Of The Hunter (1955) By Charles Laughton
 The Ninth Gate (1999) By Roman Polanski
@@ -1962,6 +2005,7 @@ The Nutty Professor (1996) By Tom Shadyac
 The Old Man & The Gun (2018) By David Lowry (Watched)
 The Onion Movie (2008) By Mike Maguire & Tom Kuntz
 Theorem (1968) By Pier Paolo Pasolini
+The Other Guys (2010) By Adam McKay
 The Outcasts (2017) By Peter Hutchings
 The Package (2018) By Jake Szymanski (Watched)
 The Parallax View (1974) By Alan Jay Pakula
@@ -2002,6 +2046,7 @@ The Remains Of The Day (1993) By James Ivory
 The Rescue (2020) By Dante Lam
 There's Something About Mary (1998) By Bobby Farrelly & Peter Farrelly
 The Resurrection Of Gavin Stone (2016) By Dallas Jenkins
+The Retirement Plan (2023) By Tim J. Brown
 The Ridiculous 6 (2015) By Frank Coraci
 The Ringer (2005) By Barry W. Blaustein
 The Ring Two (2005) By Hideo Nakata
@@ -2070,6 +2115,7 @@ The Truth About Charlie (2002) By Jonathan Demme
 The Turning Point (1977) By Herbert Ross
 The Tuskegee Airman (1995) By Robert Markowitz
 The Umbrellas Of Cherbourg (1964) By Jacques Demy
+The Unbearable Weight Of Massive Talent (2022) By Tom Gormican
 The Unforgiven (1960) By John Huston
 The Unfrocked One (FR) (1954) By Leo Joannon
 The Untouchables (1987) By Brian De Palma
@@ -2224,6 +2270,7 @@ Warlock (1989) By Steve Miner
 Warlock III: The End Of Innocence (1999) By Eric Freiser
 Warlock: The Armageddon (1993) By Anthony Hickox
 Warm Springs (2005) By Joseph Sargent
+War On Everyone (2016) By John Michael McDonagh
 Warriors Of The Rainbow: Seediq Bale (2011) By Wei Te - Sheng
 Waterloo Bridge (1940) By Mervyn LeRoy
 Waterworld (1995) By Kevin Reynolds
