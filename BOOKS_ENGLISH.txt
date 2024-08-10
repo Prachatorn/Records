@@ -522,6 +522,7 @@ A Sprak Of Death: A Professor Bradshaw Mystery By Bernadette Pajer
 Aspects Of The Novel By Edward Morgan Forster
 A Sport Of Nature By Nadine Gordimer
 A Sportsman's Sketches By Ivan Turgenev
+Assassin's Apprentice (Farseer Trilogy, #1) By Robin Hobb
 Assholes * *A Theory By Aaron James (Have)
 A Star Is Born: A New Novel By Joan Didion
 As The Crow Flies (Walt Longmire, #8) By Craig Johnson
@@ -1856,6 +1857,7 @@ Fuego En Las Entranas (ES) By William Golding
 Fukuzawa Yukichi On Women And The Family: The Thought Of Fukuzawa By Fukuzawa Yukichi
 Full Moon Fever (Goosebumps 2000, #22) By Robert Lawrence Stine
 Funeral In Berlin By Len Deighton
+Funny Boy By Shyam Sekvadyrai
 Funny Story By Emily Henry
 Further Tales Of The City (Tales Of The City, #3) By Armistead Maupin
 Fury By Salman Rushdie
@@ -2117,6 +2119,7 @@ H Is For Hawk By Helen Macdonald
 Historia Abreviada De La Literature Portatil (ES) By Enrique Vila - Matas
 Historia De Detectives: Detective Story By Juan Marse
 Histoire D'Un Baiser By Albert Cim
+Histories Of Alexander The Great By Quintus Curtius Rufus
 History Afield By Robert C. Willging
 History And Class Consciousness By Gyorgy Lukacs
 History Lessons (The Flash, Volume 5) By Brian Buccellato & Patrick Zircher (Read)
@@ -2179,6 +2182,7 @@ How I Became A Nun By Cesar Aira
 How I Got My Shrunken Head (Goosebumps, #39) By Robert Lawrence Stine
 How I Learned To Fly (Goosebumps, #52) By Robert Lawrence Stine
 How Much Of These Hills Is Gold By C Pam Zhang
+How The King Of Elfhame Learned To Hate: Stories (The Folk Of The Air, #3.5) By Holly Black
 How The Steel Was Tempered By Nikolai Ostrovsky
 How To Avoid A Climate Disaster: The Solutions We Have And The Breakthroughs We Need By Bill Gates
 How To Be An Antiracist By Ibram Xolani Kendi
@@ -2565,6 +2569,7 @@ Kust Tuli Oo (ET) By Jaan Kaplinski
 Kyoko By Ryu Murakami
 L. A. Alka I Perla (PL) By Olga Tokarczuk
 La Belle Sauvage (The Book Of Dust, #1) By Philip Pullman
+La Bonne Chanson: Poems By Paul Verlaine
 Labor Day By Joyce Maynard
 Labors Of Love: A Screenplay By Lydia Davis & Pete Osterhaus
 La Ciasa De Jampol (FR) By Isaac Bashevis Singer
@@ -2798,6 +2803,7 @@ Living In Hope And History By Nadine Gordimer
 Livingstone's Companions: Stories By Nadine Gordimer
 Living To Tell The Tale By Gabriel Garcia Marquez
 Livret De Famille (FR) By Patrick Modiano
+Liza Of Lambeth By William Somerset Maugham
 Local Anaesthetic By Gunter Grass
 Locking Up Our Own: Crime And Punishment In Black America By James Forman Jr.
 Logical Family: A Memoir By Armistead Maupin
@@ -3423,6 +3429,7 @@ Oliver Twist By Charles Dickens (Read)
 Olvidon And Other Stories By Francisco Sionil Jose
 Omen's Daughters By Richard Gustave Stern
 Omeros By Derek Walcott
+On A Chinese Screen By William Somerset Maugham
 On A Dark Night I Left My Silent House By Peter Handke
 On Anarchism By Noam Chomsky
 On A Slow Train Through Arkansaw By Thomas William Jackson
@@ -3619,6 +3626,7 @@ Pinchon By Thomas Pynchon
 Pinter Plays By Harold Pinter
 Piandello's Henry IV By Tom Stoppard
 Pines (Wayward Pines, #1) By Blake Crouch
+Piranesi By Susanna Clarke
 Pirate King (Mary Russell, #11) By Laurie R. King
 Pirates Past Noon (Magic Tree House, #4) By Mary Pope Osborne
 Pit Lullabies: Poems By Jessica Traynor
@@ -3898,6 +3906,7 @@ Rock With Wings (Leaphorn & Chee, #20) By Anne Hillerman
 Rogue Heroes: The History Of The SAS, Britain's Secret Special Forces Unit That Sabotaged The Nazis And Changed The Nature Of The War By Ben Macintyre
 Roll Of Thunder, Hear Me Cry (Logans, #4) By Mildred DeLois Taylor (Have) (Read)
 Roman 1987 (NO) By Dag Solstad
+Romance Of The Three Kingdoms By Luo Guanzhong
 Romancinin Romani By John Maxwell Coetzee
 Roman Elegies By Joseph Brodsky
 Romans By Patrick Modiano
@@ -3994,7 +4003,7 @@ Sea Change (Jesse Stone, #5) By Robert Brown Stone
 Sea Grapes By Derek Walcott
 Sea Of Cortez: A Leisurely Journal Of Travel And Research By John Steinbeck & Edward Flanders Robb Ricketts
 Sea Of Poppies (Ibis Trilogy, #1) By Amitav Ghosh
-Sea Of Tranquility By Emily St. John Mandel
+Sea Of Tranquility By Emily St. John Mandel (Read)
 Searching By Nawal El Saadawi
 Searching For Schindler: A Memoir By Thomas Keneally
 Season In Purgatory By Thomas Keneally
@@ -4228,6 +4237,7 @@ Sons And Lovers By David Herbert Richards Lawrence
 Sophie's Choice By William Styron
 Sophocles II: Ajax / Women Of Trachis / Electra / Philoctetes (Complete Greek Tragedies 4) By Sophocles
 Sophocles: The Complete Plays By Sophocles (Have)
+Sorcerer To The Crown (Sorcerer Royal, #1) By Zen Cho
 Sor Juana (ES) By Octavio Paz
 Sorry For Your Trouble: Stories By Richard Ford
 Soul Mountain By Gao Xingjian
@@ -4688,6 +4698,7 @@ The Castle By Franz Kafka (Read)
 The Castle In The Sea By Scott O'Dell
 The Castlemaine Murders (Phryne Fisher, #13) By Kerry Greenwood
 The Castle Of Kings By Oliver Potzsch
+The Casuarina Tree By William Somerset Maugham
 The Casual Vacancy By Joanne Rowling
 The Catch (Slough House, #6.5) By Mick Herron
 The Catcher Of The Rye By Jerome David Salinger (Read) (Fav)
@@ -4807,6 +4818,7 @@ The Crimson Cord: Rahab's Story (Daughters Of The Promisd Land, #1) By Jill Eile
 The Crooked Staircase By Dean Koontz
 The Crossing By Cormac McCarthy
 The Crucible By Aruther Miller (Have)
+The Cruel Prince (The Folk Of The Air, #1) By Holly Black
 The Cruise Of The Arctic Star By Scott O'Dell
 The Crying Of Lot 49 By Thomas Pynchon (Read)
 The Cryptid Hunters (Marty And Grace, #1) By Roland Smith (Have)
@@ -4822,6 +4834,7 @@ The Curious Incident Of The Dog In The Night - Time By Mark Haddon
 The Currents Of Space (Galactic Empire, #2) By Isaac Asimov
 The Curse Of Camp Cold Lake (Goosebumps, #56) By Robert Lawrence Stine
 The Curse Of The Mummy's Tomb (Goosebumps, #5) By Robert Lawrence Stine
+The Custom Of The Country By Edith Wharton
 The Cut - Rate Kingdom By Thomas Keneally
 The Cyclist Conspiracy By Svetislav Basara
 The Dancing Kettle And Other Japanese Folk Tales By Yoshiko Uchida (Read)
@@ -4871,6 +4884,7 @@ The Devil In The Shape Of A Woman By Carol F. Karlsen
 The Devil's Bargain By Joshua Green
 The Devil Wears Prada: A Novel By Lauren Weisberger
 The Devil With Boobs By Dario Fo
+The Devotion Of Suspect X By Keigo Higashino
 The Diamond Eye: A Novel By Kate Quinn (Read)
 The Diary Of Alice James By Alice James (Have)
 The Diary Of A Country Priest By Georges Bernanos
@@ -4936,12 +4950,14 @@ The Elementary Particles By Michel Houellebecq (Read)
 The Elephant's Journey By Jose Saramago
 The Elephant Vanishes And Other Stories By Haruki Murakami (Read)
 The Eleventh Man By Ivan Doig
+The Eleventh Metal (The Mistborn Saga, #0.5) By Brandon Sanderson
 The Ellimist Chronicles (Animorphs, #47.5) By Katherine Applegate
 The Embroidered Shoes: Stories By Can Xue (Read)
 The Emissary / The Last Children Of Tokyo By Yoko Tawada (Read)
 The Emotional Brain: The Mysterious Underpinnings Of Emotional Life By Joseph Ledoux
 The Emperor Of Any Place By Tim Wynne - Jones
 The Emperor Wears No Clothes By Jack Herer
+The Enchanted April By Elizabeth Von Arnim
 The Enchanter By Vladimir Nabokov
 The Enchantress Of Florence By Salman Rushdie
 The Encounter (Animorphs, #3) By Katherine Applegate
@@ -4972,6 +4988,7 @@ The Extra By Abraham B. Yehoshua
 The Extreme (Animorphs, #24) By Katherine Applegate
 The Eye By Vladimir Nabokov (Read)
 The Eye In The Pyramid (Illuminatus, #1) By Robert Shea
+The Eye Of The World (The Wheel Of Time, #1) By Robert Jordan
 The Eyes Of Darkness By Dean Koontz
 The Eyes Of The World By Harold Bell Wright
 The Face By Dean Koontz
@@ -5010,6 +5027,7 @@ The Fifth Season (The Broken Earth, #1) By N. K. Jemisin
 The Fight For Fifteen: The Right Wage For A Working America By David Rolf
 The File On H. By Ismail Kadare
 The Final Days By Bob Woodward & Carl Bernstein
+The Final Empire (The Mistborn Saga, #1) By Brandon Sanderson
 The Final Hour By Nagiub Mahfouz
 The Financier (Trilogy of Desire, #1) By Theodore Dreiser
 The Fire In The Flint By Walter Francis White
@@ -5072,6 +5090,7 @@ The General Of The Dead Army By Ismail Kadare
 The Gentleman: A Novel By Forrest Leo
 The Gentleman From Indiana By Booth Tarkington
 The Geography Of Genius: A Search For The World's Most Creative Places From Ancient Athens To Silicon Valley By Eric Weiner
+The Ghost Bride By Yangsze Choo
 The Ghost Map By Steven Johnson
 The Ghost Next Door (Goosebumps, #10) By Robert Lawrence Stine
 The Ghosts Of August By Gabriel Garcia Marquez
@@ -5211,6 +5230,7 @@ The History Of Tom Jones, A Foundling By Henry Fielding
 The Hitchhiker's Guide To The Galaxy (Hitchhiker's Guide to the Galaxy, #1) By Douglas Adams (Read)
 The Hive By Camilo Jose Cela
 The Hobbit By John Ronald Reuel Tolkien (Read)
+The Hole: A Novel By Pyun Hye - Young
 The Holiday By Dacia Maraini
 The Holocaust As Culture By Imre Kertesz
 The Holy Innocents By Gilbert Adair
@@ -5250,6 +5270,7 @@ The Hundred Secret Senses By Amy Tan (Have)
 The Hundred Years' War On Palestine: A History Of Settler Colonialism And Resistance, 1917 - 2017 By Rashid Khalidi
 The Hunger Angel By Herta Muller
 The Hunger Games (The Hunger Games, #1) By Suzanne Collins (Read)
+The Hungry Ghosts By Shyam Selvadurai
 The Hunting Of The Snark By Lewis Carroll
 The Husband By Dean Kootz
 The Husbands: A Novel By Holly Gramazio
@@ -5445,6 +5466,7 @@ The Lost City Of The Monkey God: A True Story By Douglas Preston (Read)
 The Lost Daughter By Elena Ferrante
 The Lost Journals Of Sacajewea By Debra Magpie Earling
 The Lost Landscape: A Writer's Coming Of Age By Joyce Carol Oates
+The Lost Sisters (The Folk Of The Air, #1.5) By Holly Black
 The Lost Writings By Franz Kafka (Read)
 The Lovely Bones: A Novel By Alice Sebold
 The Love Of A Bad Man: Stories By Laura Elizabeth Woollett
@@ -5479,6 +5501,7 @@ The Man From The USSR And Other Plays By Vladimir Nabokov
 The Manhattan Project By Laszlo Krasznahorka
 The Man In The Red Coat By Julian Barnes
 The Man Of Gold (Tekumel, #1) By M.A.R. Barker (Have)
+The Man Of Property By John Galsworthy
 The Man Who Couldn't Stop: OCD And The True Story Of A Life Lost In Thought By David Adam
 The Man Who Died Twice (Thursday Murder Club, #2) By Richard Osman
 The Man Who Forgot How To Poop By Genghis Swan
@@ -5532,6 +5555,7 @@ The Miniaturist By Jessie Burton
 The Minister's Wooing By Harriet Beecher Stowe (Have) (Read)
 The Ministry Of Pain By Dubravka Ugresic
 The Miracle Cures Of Dr. Aira By Cesar Aira
+The Miracles Of The Namiya General Store By Keigo Higashino
 The Miraculous Journey Of Edward Tularne By Kate Dicamillo
 The Mirage By Maguib Mahfouz
 The Mirror Or The Glass? By Toni Morrison
@@ -5799,6 +5823,7 @@ The Pursuit Of Happiness: A Book Of Studies And Strowings By Daniel Garrison Bri
 The Pyramid By Ismail Kadare
 The Pyramid By William Golding
 The Quarter By Naguib Mahfouz
+The Queen Of Nothing (The Folk Of The Air, #3) By Holly Black
 The Quest Begins (Seekers #1) By Erin Hunter (Have)
 The Queue By Vladimir Sorokins
 The Quick & The Dead: A Novel By Jack Curtis (Have)
@@ -6173,6 +6198,7 @@ The Travels Of Jaimie McPheeters By Robert Lewis Taylor
 The Treasure Of Topo - El - Bampo By Scott O'Dell
 The Treatise Of Caresses By Doctor Leleu
 The Trees: A Novel By Percival Everett (Read)
+The Trembling Of A Leaf: Little Stories Of The South Sea Islands By William Somerset Maugham
 The Trial And Other Stories (2005) By Ifeoma Okoye
 The Trial By Franz Kafka (Read)
 The Trial Of Dedan Kimathi By Ngugi Wa Thiong'o
@@ -6183,6 +6209,7 @@ The Trills Of Love By Odysseas Elytis
 The Trouble With Goats And Sheep: A Novel By Joanna Cannon
 The True Adventures Of John Steinbeck By Jackson J. Benson
 The True Meaning Of Smekday By Adam Rex
+The True Queen (Sorcerer Royal, #2) By Zen Cho
 The Truth About Stories: A Native Narrative By Thomas King (Have)
 The Tunnel By William Howard Gass
 The Turner House By Angela Flournoy
@@ -6290,6 +6317,7 @@ The White Bicycle (Wild Orchard, #3) By Beverley Brenna
 The White Carnation (Alex Rider, #0.4) By Anthony Horowitz
 The White Castle By Orphan Pamuk
 The White Tiger By Aravind Adiga
+The Wicked King (The Folk Of The Air, #2) By Holly Black
 The Wide World Of John Steinbeck By Peter Lisca
 The Widow And Her Hero By Thomas Keneally
 The Widows Of Malabar Hill (Perveen Mistry, #1) By Sujata Massey
@@ -6559,6 +6587,7 @@ Treasure Island By Robert Louis Stevenson (Read)
 Tree By Francisco Sionil Jose
 Tree Of Life By Maryse Conde
 Tremor: Selected Poems By Adam Zagajewski
+Tress Of The Emerald Sea By Brandon Sanderson
 Trilogien: Andvake. Olavs Draumar. Kveldsvaevd (NO) By Jon Fosse
 Tripmaster Monkey: His Fake Book By Maxine Hong Kingston (Have)
 Tristan By Thomas Mann (Have)
