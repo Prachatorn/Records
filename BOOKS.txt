@@ -72,6 +72,7 @@ Aces High (Wild Cards, #2) By George Raymond Richard Martin
 A Child Called "It" By Dave Pelzer
 A Childhood, The Biography Of A Place By Harry Crews
 A Child's Garden Of Verses By Robert Louis Stevenson
+A Chinese Life By Li Kunwu & Philippe Ôtié
 A Christmas Carol By Charles Dickens (Read)
 A City Of Bells (Torminster, #1) By Elizabeth Goudge
 A Civil Action By Jonathan Harr (Have)
@@ -1775,6 +1776,7 @@ Floor Games By Herbert George Wells
 Florence Ki Jadugarni (HI) By Salman Rushdie
 Florida Frenzy By Harry Crews
 Flowers For Algernon By Daniel Keyes (Read) (Fav)
+Flowers From The Void: 'An Impressive Debut From A Very Talented New Writer' Guardian By Gianni Washington
 Flowers Of A Moment: Poems By Ko Un
 Flow My Tears, The Policeman Said By Philip Kindred Dick
 Flush: A Biography By Virginia Woolf
@@ -2177,6 +2179,7 @@ House Of Gold By Natasha Solomons
 House Of Leaves By Mark Z. Danielewski
 House Of Meetings By Martin Amis
 House Of Secrets By James Arthur Moore
+How I Accidentally Became A Stock Photo: Essays By Shubnum Khan
 How I Became A North Korean By Krys Lee
 How I Became A Nun By César Aira
 How I Got My Shrunken Head (Goosebumps, #39) By Robert Lawrence Stine
@@ -2249,6 +2252,7 @@ If I Could Tell You By Elizabeth Wilhide
 If It Bleeds By Stephen King
 If On A Winter's Night A Traveler By Italo Calvino
 If Only The Sea Could Sleep By Adunis
+If This Is A Man: A Memoir By Primo Levi
 If You Come Softly By Jacqueline Woodson
 If You're Glas I'll Be Frank By Tom Stoppard
 Ignorance By Milan Kundera
@@ -2390,6 +2394,7 @@ Invisible Rain By Olivia Rudy
 Invisible Yet Enduring Lilacs By Gerald Murnane
 Invitation To A Beheading By Vladimir Nabokov
 I Predict A Riot By Catherine Bruton (Read)
+Iranian Nights By Tariq Ali
 I Refuse: A Novel By Per Petterson
 Irish Journal By Heinrich Böll (Have)
 I, Robot By Isaac Asimov
@@ -2642,6 +2647,7 @@ Last Ride By Laura Landston (Read)
 Last Seen In Massilia (Roma Sub Rosa, #8) By Steven Saylor (Have)
 Las Vidas De Los Animales By John Maxwell Coetzee
 Late Essays: 2006 - 2017 By John Maxwell Coetzee
+Late Night In Montreal By Emily St. John Mandel
 Laughable Loves By Milan Kundera
 Laugher In The Dark By Vladimir Nabokov
 Laughing In The Jungle By Louis Adamic
@@ -2746,6 +2752,7 @@ Life Expectancy By Dean Koontz
 Life Is Elsewhere By Milan Kundera
 Life Of Pi By Yann Martel (Have) (Read)
 Life On The Color Line: The True Story Of A White Boy Who Discovered He Was Black By Gregory Howard Williams
+Life On The Moon By Robert Grossman
 Life's Plays With Me By David Grossman
 Life's Solution: Inevitable Humans In A Lonely Universe By Simon Conway Morris
 Life's Wisdom By Nagiub Mahfouz
@@ -2875,6 +2882,7 @@ Lust By Elfriede Jelinek
 Lust, Caution: A Story By Eileen Chang (Read)
 Lying For A Living By Steve McCondichie
 Lying Under The Apple Tree By Alice Munro
+Lyra's Oxford (His Dark Material, #3.5) By Philip Pullman 
 Lyrical And Critical Essays By Albert Camus
 Lyrics Alley: A Novel By Leila Aboulela
 Mac And His Problem By Enrique Vila - Matas
@@ -3144,6 +3152,7 @@ Mr. Rochester By Sarah Shoemaker
 Mr. Salary: Faber Stories By Sally Rooney
 Mrs. Caldwell Habla Con Su Hijo (ES) By Camilo José Cela
 Mrs. Cherry's Kitchen By Sylvia Plath
+Mrs Craddock By William Somerset Maugham
 Mrs. Dalloway By Virginia Woolf (Have)
 Mrs. Eckdorf In O'Neill's Hotel By William Trevor
 Mrs. Grant And Madame Jule By Jennifer Chiaverini
@@ -3435,6 +3444,7 @@ On Anarchism By Noam Chomsky
 On A Slow Train Through Arkansaw By Thomas William Jackson
 On Boxing By Joyce Carol Oates
 Once There Was A War: Stories By John Steinbeck (Read)
+Once Upon A Time In The North (His Dark Materials, #0.5) By Philip Pullman
 On Chesil Beach By Ian McEwan
 On Contemporary Art By César Aira
 On Earth We're Briefly Gorgeous By Ocean Vuong (Read) (Fav)
@@ -3458,6 +3468,7 @@ One Summer In Savannah: A Novel By Terah Shelton Harris
 Ongoingness By Sarah Manguso
 On Grief And Reason: Essays By Joseph Brodsky
 On Immunity By Eula Biss
+Onion Tears (2011) By Shubnum Khan
 Onitsha By Jean - Marie Gustave Le Clézio
 On Keeping A Notebook: Photographs And Drawings With An Essay By Jamie Hawkesworth & Joan Didion
 Only Bread For Eze (1980) By Ifeoma Okoye
@@ -3910,6 +3921,7 @@ Romance Of The Three Kingdoms By Luo Guanzhong
 Romancinin Romani By John Maxwell Coetzee
 Roman Elegies By Joseph Brodsky
 Romans By Patrick Modiano
+Roman Stories By Jhumpa Lahiri
 Room By Emma Donoghue
 Room And The Dumb Waiter By Harold Pinter
 Roos In Shoes By Thomas Keneally
@@ -4020,6 +4032,7 @@ Secure The Base: Making Africa Visible In The Globe By Ngũgĩ Wa Thiong'o
 Seduction And Betrayal By Elizabeth Hardwick
 Seed By Ania Ahlborn
 Seeing By José Saramago
+Seeing The Body: Poems By Rachel Eliza Griffths
 Seeing Things By Seamus Heaney
 See Under: Love By David Grossman
 Segu By Maryse Conde
@@ -4055,6 +4068,7 @@ Seré Amado Cuando Falte (ES) By Javier María
 Seraphina (Seraphina, #1) By Rachel Hartman (Read)
 Serenity Falls By James Arthur Moore
 Serowe: Village Of The Rain Wind By Bessie Amelia "Emery" Head
+Serpentine (His Dark Material, #3.6) By Philip Pullman
 Serve The People! By Yan Lianke
 Sevastopol Sketches By Leo Tolstoy
 Seven Forges (Seven Forges, #1) By James Arthur Moore
@@ -4086,6 +4100,7 @@ Shantaram By Gregory David Roberts
 Shantytown By César Aira
 Shasekishū By Mujū & Tsunaya Watanabe
 She Commands Me And I Obey (Imperial Radch, #0.6) By Ann Leckie
+She Has A Name By Kamilah Aisha Moon
 She Has No Place In Paradise By Nawal El Saadawi
 Shelter In Place By Nora Roberts
 Sherds By Francisco Sionil José
@@ -4290,6 +4305,7 @@ Star Apple Kingdom By Derek Walcott
 Star By Yukio Mishima (Read)
 Staring At The Sun By Julian Barnes
 Starport (Graphic Novel) By George Raymond Richard Martin
+Starshine & Clay By Kamilah Aisha Moon
 Starship Troopers By Robert Anson Heinlein (Read)
 State Of Denial By Bob Woodward
 State Of England By Martin Amis
@@ -4492,6 +4508,7 @@ The Alteration By Stephanie Scott
 The Amateur Cracksman: Stories By Ernest William Hornung
 The Amazing Adventures Of Kavalier & Clay By Michael Chabon
 The Amazon Job (Case Lee, #4) By Vince Milam
+The Amber Spyglass (His Dark Material, #3) By Phulup Pullman
 The American By Henry James
 The Amethyst Ring By Scott O'Dell
 The Amos Oz Reader By Amos Oz
@@ -4628,6 +4645,7 @@ The Bomber Mafia: A Dream, A Temptation, And The longest ight Of The Second Worl
 The Bones And The Book By Jane Isenberg
 The Bonesetter's Daughter By Amy Tan (Read)
 The Bones Of Paris (Harris Stuyvesant, #2) By Laurie R. King
+The Book Of Elsewhere By China Miéville & Keanu Reeves
 The Book Of Chilam Balam Of Chumayel By Anonymous
 The Book Of Flights By Jean - Marie Gustave Le Clézio
 The Book Of Form And Emptiness By Ruth Ozeki
@@ -4760,6 +4778,7 @@ The Collected Works Of Frank O'Hara By Frank O'Hara
 The Collected Writings By John Maynard Keynes
 The Collector By John Fowles
 The Collector Of Treasures And Other Botswana Village Tales By Bessie Amelia "Emery" Head
+The Collectors (His Dark Materials, #0,6) By Philip Pullman
 The Collectors (The Camel Club, #2) By David Baldacci
 The Colonel By Mohammed Dowlatabadi
 The Color Of Water: A Black Man's Tribute To His White Mother By James McBride
@@ -4904,6 +4923,7 @@ The Dispossessed By Szilárd Borbély
 The Dispossessed (Hainish Cycle, #6) By Ursula Kroeber Le Guin
 The Distance Between Us By Renato Cisneros
 The Distance From Normandy By Jonathan Hull (Have)
+The Distance Of The Moon By Italo Calvino
 The Diversion (Animorphs, #49) By Katherine Applegate
 The Divine Comedy Of Dante Alighieri: Inferno (Classic Reprint) By Warburton Pike (Have)
 The Diving Bell And The Butterfly By Jean - Dominique Bauby
@@ -4927,6 +4947,7 @@ The Dreamers By Karen Thompson Walker
 The Dream Maker By Monica Hannan
 The Dream Of The Celt By Mario Vargas Llosa
 The Dream Sleepers And Other Stories By Patricia Grace (Have) (Read)
+The Dream Songs: Poems By John Barryman
 The Dressmaker: A Novel By Kate Alcott (Read)
 The Dressmaker Of Khair Khana: Five Sisters, One Remarkable Family, And The Woman Who Risked Everything To Keep Them Safe By Gayle Tzemach Lemmon
 The Driver's Seat By Dame Muriel Spark
@@ -5121,6 +5142,7 @@ The Glass Bead Game By Hermann Hesse
 The Glass Bees By Ernst Jünger
 The Glass Books Of The Dream Eaters By Gordon Dahlquist
 The Glass Castle: A Memoir By Jeannette Walls
+The Glass Hotel By Emily St. John Mandel
 The Glass Slipper And Other Stories By Shōtarō Yasuoka (Read)
 The Goalie's Anxiety At The Penalty Kick By Peter Handke (Read)
 The Go - Between By Leslie Poles Hartley
@@ -5133,6 +5155,7 @@ The God Stealer By Francisco Sionil José
 The Gods Themselves By Isaac Asimov
 The Golden Apples By Eudora Welty (Have)
 The Golden Bough By James George Frazer
+The Golden Compass (His Dark Materials, #1) By Phillip Pullman
 The Golden House By Salman Rushdie
 The Golden Notebook (1962) By Doris May Lessing
 The Goldfinch By Donna Tartt
@@ -5207,6 +5230,7 @@ The Hawk That Dare Not Hunt By Day By Scott O'Dell
 The Haw Lantern By Seamus Heaney
 The Headless Ghost (Goosebumps, #37) By Robert Lawrence Stine
 The Heart Goes Last By Margaret Atwood
+The Heart Of The Goof: Stories By P. G. Wodehouse
 The Heart Of The Matter By Graham Greene
 The Hearts Of Men: A Novel By Nickolas Butler
 The Heaven & Earth Grocery Store: A Novel By James McBride
@@ -5254,7 +5278,7 @@ The House Gun By Nadine Gordimer
 The Housemaid By Freida McFadden
 The Housemaid Is Watching By Freida McFadden
 The House Of Cloud By Fereshteh Molavi
-The House Of Doors By Twan Eng Tan
+The House Of Doors: A Novel By Twan Eng Tan (Read) (Fav)
 The House Of Mirth By Edith Wharton
 The House Of The Seven Gables By Nathaniel Hawthorne
 The House Of The Spirits By Isabel Allende
@@ -5271,6 +5295,7 @@ The Hundred Years' War On Palestine: A History Of Settler Colonialism And Resist
 The Hunger Angel By Herta Müller
 The Hunger Games (The Hunger Games, #1) By Suzanne Collins (Read)
 The Hungry Ghosts By Shyam Selvadurai
+The Hunting Accident" A True Story Of Crime And Poetry By David L. Carlson & Landis Blair
 The Hunting Of The Snark By Lewis Carroll
 The Husband By Dean Kootz
 The Husbands: A Novel By Holly Gramazio
@@ -5448,6 +5473,7 @@ The Lives Of Things: Stories By José Saramago (Read)
 The Living Infinite By Chantel Acevedo
 The Living Thoughts Of Kierkegaard By Søren Kierkegaard
 The Lizard By José Saramago
+The Lola Quartet By Emily St. John Mandel
 The Lonely Hearts Hotel: A Novel By Heather O'Neill
 The Long Goodbye (Philip Marlowe, #6) By Raymond Chandler
 The Longmire Defense (Walt Longmire, #19) By Craig Johnson
@@ -5536,6 +5562,7 @@ The Memoirs Of Elias Canetti: The Tongue Set Free, The Torch In My Ear, The Play
 The Memory Police By Yōko Ogawa
 The Mermaid And Mrs. Hancock: A Novel By Imogen Hermes Gowar
 The Merry Adventures Of Robin Hood By Howard Pyle
+The Merry - Go - Around By William Somerset Maugham
 The Message (Animorphs, #4) By Katherine Applegate
 The Metamorphosis By Franz Kafka (Have) (Read)
 The Metamorphosis And Other Stories By Franz Kafka
@@ -5767,6 +5794,7 @@ The Porcupine By Julian Barnes
 The Portrait Of A Lady By Henry James (Have)
 The Positronic Man By Isaac Asimov
 The Possession By Annie Ernaux (Read)
+The Posthumous Memoirs Of Bras Cubas By Joaquim Maria Machado De Assis
 The Postman Always Rings Twice By James Mallahan Cain (Read)
 The Postman's Fiancée By Denis Thériault
 The Power By Naomi Alderman
@@ -6007,6 +6035,7 @@ The Silent Duchess By Dacia Maraini
 The Silver Bone By Andrey Kurkov
 The Silver Music Box By Mina Baites
 The Sign Of The Beaver By Elizabeth George Speare (Have) (Read)
+The Singer's Gun By Emily St. John Mandel
 The Singers Talk: The Greatest Singers Of Our Time Discuss The One Thing They're Never Asked About: Their Voice By Jason Thomas Gordon
 The Sirens Of Titan By Kurt Vonnegut
 The Sirian Experiments By Doris Lessing
@@ -6103,6 +6132,7 @@ The Stranger (Animorphs, #7) By Katherine Applegate
 The Streets Of Panic Park (Goosebumps HorrorLand, #12) By Robert Lawrence Stine
 The Striker (Isaac Bell, #6) By Clive Cussler & Justin Scott (Read)
 The Studio By John Gregory Dunne
+The Subtle Knife (His Dark Materials, #2) By Philip Pullman
 The Suburban Strange By Nathan Kotecki
 The Successor By Ismail Kadare
 The Sudden Appearance Of Hope By Claire North
@@ -6738,6 +6768,7 @@ Vibora! By Francisco Sionil José
 Vicious Circle (1983) By Alexander Kanengoni
 Victoire: My Mother's Mother By Maryse Condé
 Victorian London: The Tale Of A City 1840 - 1870 By Liza Picard
+Victory City By Salman Rushdie
 View Widas Escritas (ES) By Javier Marías
 View A Grain Of Sand By Wisława Szymborska
 Vigilance (Storycuts) By Julian Barnes
@@ -6822,6 +6853,7 @@ Warriors In Winter (Magic Tree House, #31) By Mary Pope Osborne
 Wartime Lies By Louis Begley
 Was Geschah, Nachdem Nora Ihren Mann Verlassen Hatte; Oder Stützen Der Gesellschaften By Elfriede Jelinek
 Washington Square By Henry James (Have) (Read)
+Washington White By Adam Griffiths
 Watchers By Dean Koontz
 Watermark By Joseph Brodsky (Have) (Read)
 Watership Down By Richard Adams (Read)
