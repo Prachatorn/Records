@@ -66,6 +66,7 @@ A Captive Of Time: My Years With Pasternak By Olga Ivinskaya
 A Catalog Of Birds By Laura Harrington
 A Cat, A Man, And Two Women By Jun'ichiro Tanizaki
 Accident Nocturne By Patrick Modiano
+Accomplices To The Crime: The Arkansas Prison Scandal By Joe Hyams & Thomas Orhelius Morton
 A Celebration Of CATS By Jean Burden (Have)
 Ace Of Hearts By Myriad Augustine (Read)
 Aces Abroad (Wild Cards, #4) By George Raymond Richard Martin
@@ -423,7 +424,7 @@ Anthology Of Japanese Literature By Donald Keene
 Anthology Of Mexican Poetry By Octavio Paz
 Anticipations By Herbert George Wells
 Anweisungen An Die Krokodile (DE) By Antonio Lobo Antunes
-Anxiety: A Philosophical Guide By Samir Chopra
+Anxiety: A Philosophical Guide By Samir Chopra (Read)
 Anxious People: A Novel By Fredrik Backman
 Anxious: Using The Brain To Understand And Treat Fear And Anxiety By Joseph LeDoux
 Any Human Heart By William Boyd
@@ -557,6 +558,7 @@ A Tale Of Two Cities By Charles Dickens
 A Tale Of Two Gardens By Octavio Paz
 A Taste Of Death (Alex Rider, #2.25) By Anthony Horowitz
 A Tempest Of Tea (Blood And Tea, #1) By Hafsah Faizal
+A Testament Of Hope: The Essential Writings And Speeches By Martin Luther King Jr. & James Melvin Washington
 At First Sight By Nicholas Sparks
 A Thorn In My Pocket: Temple Grandin's Mother Tells The Family Story By Eustacia Cutler
 A Thread Of Grace By Mary Doria Russell
@@ -896,6 +898,7 @@ Buenas Tardes A Las Cosas De Aqui (ES) By Antonio Lobo Antunes
 Buffalo Before Breakfast (Magic Tree House, #18) By Mary Pope Osborne
 Bukolit By Elfriede Jelinek
 Bullet Train: A Novel By Kotaro Isaka
+Bunny: A Novel By Mona Awad
 Bunte Steine By Adalbert Stifter
 Burger's Daughter By Nadine Gordimer
 Burmese Days By George Orwell (Read)
@@ -1512,6 +1515,7 @@ Eat A Bowl Of Tea By Louis Chu
 Eating Fish Alone And Country Cooking From Central France By Lydia Davis
 Echoes Of An Autobiography By Naguib Mahfouz
 Echoing Silences (1997) By Alexander Kanengoni
+Economic And Philosophic Manuscripts Of 1844 By Karl Marx
 Economy Of The Unlost By Anne Carson
 Ecrits Et Propos Sur L'Art (FR) By Henri Matisse
 Ecstasy By Ryu Murakami
@@ -2154,9 +2158,10 @@ Hiroshima Notes: Essays By Kenzaburo Oe (Read)
 Hiroshima Peace Reader By Yoshiteru Kosakai
 His Bloody Project: Documents Relating To The Case Of Roderick MacRae By Graeme Macrae Burnet
 H Is For Hawk By Helen Macdonald
+Histoire D'Un Baiser By Albert Cim
 Historia Abreviada De La Literature Portatil (ES) By Enrique Vila - Matas
 Historia De Detectives: Detective Story By Juan Marse
-Histoire D'Un Baiser By Albert Cim
+Historic Frenchtown: Heart And Heritage In Tallahassee By Julianne Hare
 Histories Of Alexander The Great By Quintus Curtius Rufus
 History Afield By Robert C. Willging
 History And Class Consciousness By Gyorgy Lukacs
@@ -3424,6 +3429,7 @@ Not A River By Selva Almada
 Notes D'Okinawa (FR) By Kenzaburo Oe
 Notes From Underground By Fyodor Dostoevsky (Read)
 Notes Of A Crocodile By Qiu Miaojin
+Notes Of A Native Son: Essays By James Baldwin
 Notes On A Scandal By Zoe Heller
 Notes On The Death Of Culture: Essays On Spectacle And Society By Mario Vargas Llosa
 Notes On The Writings Of James Howell By William Harvey Vann
@@ -3507,6 +3513,7 @@ One Day At Horrorland (Goosebumps, #16) By Robert Lawrence Stine
 One Day Ice Again For Thucydides By Peter Handke
 One Day In The Life Of Ivan Denisovich By Aleksandr Solzhenitsyn (Read)
 One Day Long Ago: More Stories From A Shona Childhood (1991) By Charles Mungoshi
+One - Dimensional Man By Herbert Marcuse
 One Door Away From Heaven By Dean Koontz
 One Flew Over The Cuckoo Nest By Dale Wasserman
 One Flew Over The Cuckoo Nest By Ken Kesey (Read)
@@ -4747,6 +4754,7 @@ The Boy From Clearwater By Pelyun You
 The Boy In The Striped Pajamas By John Boyne
 The Boy In The Suit Case (Nina Borg, #1) By Lene Kaaberbol (Have)
 The Boys In The Boat: Nine Americans And Their Epic Quest For Gold At The 1936 Berlin Olympics By Daniel James Brown (Read)
+The Boys Of The Dark: A Story Of Betrayal And Redemption In The Deep South By Michael O'McCarthy, Robert William Straley & Robin Gaby Fisher
 The Boy Who Dared By Susan Campbell Bartoletti (Have)
 The Brass Butterfly By William Golding
 The Brethen By Bob Woodward & Scott Armstrong
@@ -4874,6 +4882,7 @@ The Complete Sherlock Holmes, Volume 1 By Arthur Conan Doyle
 The Complete Stories By Isaac Asimov
 The Complete Tales Of Uncle Remus By Joel Chandler Harris
 The Complete Typographer By Will Hill
+The Concept Of Anxiety By Soren Kierkegaard
 The Concert By Ismail Kadare
 The Confessions Of Nat Turner By William Styron
 The Conjunction By Terance Wheeler
@@ -4984,6 +4993,7 @@ The Diary Of A Young Girl By Anne Frank By Anne Frank (Read)
 The Diary Of Lena Mukhina: A Girl's Life In The Siege Of Leningrad By Lena Mukhina
 The Diary Of Samuel Pepys By Samuel Pepys
 The Dictator's Last Night By Yasmina Khadra
+The Dilemma Of Prison Reform By Thomas Orhelius Morton
 The Disappeared: Stories By Andrew J. Porter
 The Disappearing Spoon: And Other True Tales Of Madnes, Love, And The History Of The World From The Periodic Table Of The Elements By Sam Kean
 The Discovery (Animorphs, #20) By Katherine Applegate
@@ -5393,6 +5403,7 @@ The Imitation Game By Ian McEwan
 The Immortalists: A Novel By Chloe Benjamin
 The Imperial Presidency By Arthur Meler Schlesinger Jr.
 The Importance Of Being Earnest And Other Plays By Oscar Wilde (Have)
+The Impossible Girl By Lydia King
 The Impossible Object By Nicholas Mosley
 The Incredible And Sad Tale Of Innocent Erendira And Her Heartless Grandmother By Gabriel Garcia Marquez
 The Indian Trilogy By Sir Vidiadhar Surajprasad Naipaul
@@ -5746,8 +5757,9 @@ The New Life By Dante Alighieri
 The New Life By Orphan Pamuk
 The New Machiavelli By Herbert George Wells
 The New Negro By Alain LeRoy Locke
+The New Troy By Alexandre Dumas
 The Nice And The Good By Iris Murdoch
-The Nickel Boys By Colson Whitehead
+The Nickel Boys: A Novel By Colson Whitehead (Read)
 The Nigger Of The 'Narcissus' / Typhoon / And Other Stories By Joseph Conrad (Have)
 The Night House By Jo Nesbo
 The Nightingale By Kristin Hannah
@@ -6444,6 +6456,7 @@ The White Album By Joan Didion
 The White Bicycle (Wild Orchard, #3) By Beverley Brenna
 The White Carnation (Alex Rider, #0.4) By Anthony Horowitz
 The White Castle By Orphan Pamuk
+The White House Boys: An American Tragedy By Roger Dean Kiser
 The White Tiger By Aravind Adiga
 The Wicked King (The Folk Of The Air, #2) By Holly Black
 The Wide World Of John Steinbeck By Peter Lisca
