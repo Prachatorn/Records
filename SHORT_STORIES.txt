@@ -491,6 +491,7 @@ Fushi / Immortality (1963) By Yasunari Kawabata (Read)
 Fuyu Chikashi / Toward Winter (1926) By Yasunari Kawabata (Read)
 Garasu / Glass (1925) By Yasunari Kawabata (Read)
 Gentility By Washington Irving
+Ghost Kitchen By Ross Raisin
 Gipsies By Washington Irving
 Girl By Jamaica Kincaid (Read)
 Giving Up The Ghost By Hiliary Mantel (Read)
@@ -531,6 +532,7 @@ Haha / Mother (1926) By Yasunari Kawabata (Read)
 Haha No Me / Her Mother's Eye (1928) By Yasunari Kawabata (Read)
 Hair Jewellery By Margaret Atwood (Have)
 Hal Irwin's Magic Lamp By Kurt Vonnegut (Read)
+Hamlet, A Love Story By Lucy Caldwell
 Hanoi By Marguerite Duras (Read)
 Happy Birthday By Wong Meng Voon (Read)
 Hard - Luck Stories By Alice Munro (Read)
@@ -543,6 +545,7 @@ Hawking By Washington Irving
 Head And Shoulders By Francis Scott Key Fitzgerald (Have) (Read)
 Hearts Like Lemons In Fists Of Dew By Dallas Woodburn (Have)
 Hebi / The Snakes (1950) By Yasunari Kawabata (Read)
+Hell Is The Absence Of God By Ted Chiang (Read)
 Henne Fire By Isaac Bashevis Singer (Have)
 Herbert West - Reanimator By Howard Phillips Lovecraft (Have)
 Hercules And Minerva By Aesop (Have) (Read)
@@ -724,7 +727,7 @@ Letters By Marguerite Duras (Read)
 Letters From Whetu By Patricia Grace (Have) (Read)
 Letters To The Amputated Leg By Olga Tokarczuk (Read)
 Let The Old Dead Make Room For The Young Dead By Milan Kundera (Have)
-Leviathan '99 By Ray Bradbury (Read)'
+Leviathan '99 By Ray Bradbury (Read)
 Liar! By Isaac Asimov
 Life After High School By Joyce Carol Oates
 Life's Like That By Wong Meng Voon (Read)
@@ -733,6 +736,7 @@ Light Bulb By Nancy Pickard
 Lights On The Opposite Shore By Wong Meng Voon (Read)
 Like Mother Used To Make By Shirley Jackson (Read)
 Like Two Ships By Chris Macy
+Liking What You See: A Documentary By Ted Chiang (Read)
 Lilli Marlene By John Steinbeck (Read)
 Linda's Daddy's Loaded By Mathew Klam
 Lines, Planes, And Bodies By Olga Tokarczuk (Read)
@@ -900,6 +904,7 @@ News From Home By John Steinbeck (Read)
 New Year's Hats For The Statues By Yoshiko Uchida (Read)
 New Zealand - Southern Winds By Wong Meng Voon (Read)
 Next Door (1955) By Kurt Vonnegut (Read)
+Nice Dog By Vee Walker
 Nick Of Time By Shanna Germain
 Night And Night’s Travelers By Banana Yoshimoto (Read)
 Night By Alice Munro (Read)
@@ -1009,6 +1014,7 @@ Philip By Jason Rice
 Photographs By Marguerite Duras (Read)
 Pick A Lane By Benjamin Joseph Manaly Novak (Read)
 Pickman's Model By Howard Phillips Lovecraft (Have)
+Pieces By Manish Chauhan
 Pilgrim's Makeup By Olga Tokarczuk (Read)
 Pill And Picture (1976) By Qiu Xiaolong (Read)
 Pillar Of Salt By Shirley Jackson (Read)
@@ -1128,6 +1134,7 @@ Separating By John Updike (Have)
 Setchin Jobutsu / Lavatory Buddhahood (1929) By Yasunari Kawabata (Read)
 Seven Floors By Dino Buzzati (Have)
 Seven Types Of Ambiguity By Shirley Jackson (Read)
+Seventy - Two Letters By Ted Chiang (Read)
 Seven Years Of Trips By Olga Tokarczuk (Read)
 Sex Appeal By Lucia Berlin (Read)
 Shanghai Foxtrot By Mu Shiying (Have) (Read)
@@ -1185,7 +1192,9 @@ Step By Lucia Berlin (Read)
 St. Mark's Eve By Washington Irving
 Stories Of The Blitz By John Steinbeck (Read)
 Story In Harlem Slang By Zora Neale Hurston
+Story Notes By Ted Chiang (Read)
 Story Of The Warrior And The Captive Maiden By Jorge Luis Borges (Read)
+Story Of Your Life By Ted Chiang (Read)
 Storyteller By Anoud (Read)
 Story Telling By Washington Irving
 Strange Affair By Wong Meng Voon (Read)
@@ -1272,6 +1281,7 @@ The Bald Man And The Fly By Aesop (Have) (Read)
 The Ballad Of Paul Nonetheless By Sherman Alexie (Read)
 The Ballad Of The Sad Cafe By Carson McCullers (Read)
 The Balloon - Hoax By Edgar Allan Poe (Read)
+The Barber Of Erice By Will Boast
 The Bargain Lost By Edgar Allan Poe
 The Bat And The Weasels By Aesop (Have) (Read)
 The Bat, The Bramble And The Seagull By Aesop (Have) (Read)
@@ -1450,6 +1460,7 @@ The Endless Mystery By Peter Straub
 The End Or The Beginning By James Frey
 The Escaped Jackdaw By Aesop (Have) (Read)
 The Euphio Question (1951) By Kurt Vonnegut (Read)
+The Evolution Of Human Science By Ted Chiang (Read)
 The Exact Cost Of The Young Couple's Forthcoming Wedding By J. J. Steinfeld
 The Expert By Nakajima Atsushi
 The Eye By Alice Munro (Read)

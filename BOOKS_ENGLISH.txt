@@ -1,3 +1,4 @@
+[...]: Poems By Fady Joudah
 100 Monologues: An Audition Sourcebook From New Dramatists By Laura Harrington (Have)
 101 Writing Tips By Travis Thrasher
 10% Happier: How I Tamed The Voice In My Head, Reduced Stress Without Losing My Edge, And Found Self - Help That Actually Works -- A True Sotry By Dan Harris
@@ -304,7 +305,7 @@ American Appetites By Joyce Carol Oates
 American Assassin By Vince Flynn
 American Buffalo: In Search Of A Lost Icon By Steven Rinella
 American Desert By Percival Everett
-American Dirt: A Novel By Jeanine Cummins
+American Dirt: A Novel By Jeanine Cummins (Have)
 American Fiction: Volume 13 By Bruce Pratt & Michael White (Have)
 American Gods By Neil Gaiman
 American Green: The Obsessive Quest For The Perfect Lawn By Ted Steinberg
@@ -961,6 +962,7 @@ Carrie Fisher: The Memoirs By Carrie Fisher
 Carrying Albert Home: The Somewhat True Story Of A Man, His Wife, And Her Alligator By Homer Hickam
 Case Histories: A Novel (Jackson Brodie, #1) By Kate Atkinson (Read)
 Castaways By Brian Keene
+Catalina By Cornejo Villavicencio
 Cat And Mouse By Gunter Grass
 Catch - 22 By Joseph Heller (Have)
 Catch A Falling Spy By Len Deighton
@@ -1056,9 +1058,11 @@ Civil War On Sunday (Magic Tree House, #21) By Mary Pope Osborne
 Clandestine In Chile By Gabriel Garcia Marquez
 Clara S, Musikalische Tragodie By Elfriede Jelinek
 Clarence Saunders And The Founding Of Piggly Wiggly: The Rise & Fall Of A Memphis Maverick By Mike Freeman
+Class: A Memoir Of Motherhood, Hunger, And Higher Education By Stephanie Land
 Classical Love By Yu Hua
 Classic Crews: A Harry Crews Reader By Harry Crews
 Class Reunion: A Novel By Rona Jaffe
+Class: Style And Status In The USA By Paul Fussell
 Cleaned Out By Annie Ernaux
 Click By David Almond, Deborah Ellis, Edin Colfer, Gregory Maguire, Linda Sue Park, Margo Lanagan, Nick Hornby, Roddy Doyle, Ruth Ozeki & Tim Wynne - Jones (Have)
 Climate Justice: Hope, Resilience, And The Fight For A Sustainable Future By Mary Robinson
@@ -1172,6 +1176,7 @@ Cranford By Elizabeth Gaskell
 Craving Her Mates: A Shapeshifter Paranormal Romance (My Wicked Mates, #1) By Erzabet Bishop
 Crazy Rich Asians (Crazy Rich Asians, #1) By Kevin Kwan
 Creating Minds: An Anatomy Of Creativity Seen Through The Lives Of Freud, Einstein, Picasso, Stravinsky, Eliot, Graham, And Ghandi By Howard E. Gardner
+Creation Lake By Rachel Kushner
 Creativity: The Human Brain In The Age Of Innovation By Elkhonon Goldberg
 Creature Teacher (Goosebumps 2000, #3) By Robert Lawrence Stine
 Crediting Poetry By Seamus Heaney
@@ -1419,6 +1424,7 @@ Doctor Faustus By Thomas Mann
 Doctor Sleep (The Shining, #2) By Stephen King
 Doctor Who And An Unearthly Child By Terrance Dicks (Have)
 Doctor Zhivago Boris Pasternak
+Does It Count If You Lost Your Virginity To An Android? Volume 1 By Yakinikuteishoku (Read)
 Dog It Was That Died, And Other Plays BY Tom Stoppard
 Dogs In The Dead Of Night (Magic Tree House, #46) By Mary Pope Osbourne
 Dog Years By Gunter Grass
@@ -1915,6 +1921,7 @@ George's Cosmis Treasure Hunt By Lucy Hawking & Stephen Hawking
 Gerald's Game By Stephen King
 German Stories And Tales By Robert Pick (Have)
 Get A Life By Nadine Gordimer
+Get In Trouble By Kelly Link
 Getting Lost By Annie Ernaux (Read)
 Getting Naked With Harry Crews By Harry Crews
 Ghachar Ghochar By Vivek Shanbhag
@@ -1922,6 +1929,7 @@ Ghost Beach (Goosebumps, #22) By Robert Lawrence Stine
 Ghost Camera: Poems By David Semanki
 Ghost Camp (Goosebumps, #45) By Robert Lawrence Stine
 Ghost In The Mirror (Goosebumps 2000, #25) By Robert Lawrence Stine
+Ghostroots By Pemi Aguda
 Ghosts By Cesar Aira
 Ghost Town At Sundown (Magic Tree House, #10) By Mary Pope Osborne
 GhostWriter By Travis Thrasher
@@ -2007,6 +2015,7 @@ Great Expectations By Charles Dickens (Have)
 Great Folk Tales Of Old Ireland By Mary McGarry (Have)
 Great Granny Webster By Caroline Blackwood
 Great Jones Street By Don DeLillo
+Great Love Poems By Shane Weller (Have)
 Great Short Works Of Henry Van Dyke By Henry Van Dyke (Have)
 Greed By Elfriede Jelinek
 Greek Tragedies, Vol. 1: Aeschylus: Agamemnon, Prometheus Bound; Sophocles: Oedipus The King, Antigone; Euripides: Hippolytus By David Grene (Have)
@@ -2502,6 +2511,7 @@ Japan, The Ambiguous, And Myself: The Nobel Prize Speech And Other Lectures By K
 Jaques The Fatalist By Denis Diderot
 Jase & The Deadliest Hunt By John Luke Robertson & Travis Thrasher
 Jazz By Toni Morrison (Have)
+J. B.: A Play By Archibald MacLeish (Have)
 Jean - Christophe By Romain Rolland
 Jechac Do Lwowa I Inne Wiersze (PO) By Adam Zagajewski
 Jeju Haenyeo: Stewards Of The Sea By Anne Hilty
@@ -2802,6 +2812,7 @@ Life Before Man By Margarte Atwood
 Life Expectancy By Dean Koontz
 Life Is Elsewhere By Milan Kundera
 Life Of Pi By Yann Martel (Have) (Read)
+Life On Earth: Poems By Dorianne Laux
 Life On The Color Line: The True Story Of A White Boy Who Discovered He Was Black By Gregory Howard Williams
 Life On The Moon By Robert Grossman
 Life Plays With Me By David Grossman
@@ -2832,6 +2843,7 @@ L'Infinito Viaggiare (FR) By Claudio Magris
 Links By Nuruddin Farah
 Links: Roman (DE) By Nuruddin Farah
 Lions At Lunchtime (Magic Tree House, #11) By Mary Pope Osborne
+Liontaming In America: Poems By Elizabeth Willis
 Liquidation By Imre Kertesz
 Listen To Me By Hannah Pittard
 Literary Crossroads: An International Exploration Of Women, Gender, And Otherhood By Juliana Daniels, Mary Jane Andron, Nawal El Saadawi & Solomon Omatsola Azumurana
@@ -2917,6 +2929,7 @@ Lovely, Dark, Deep: Stories By Joyce Carol Oates
 Lovers Are Never Losers By Jean Giono
 Love Story By Erich Segal
 Lovina By Kenzaburo Oe
+Loving Frank By Nancy Hogan (Have)
 Low - Lands By Thomas Pynchon
 Low Pay? Don't Pay! By Dario Fo
 Lucky Alan And Other Stories By Jonathan Lethem
@@ -3017,6 +3030,7 @@ Martha Quest By Doris Lessing
 Martin Chuzzlewit By Charles Dickens
 Martin Eden By Jack London
 Martin Luther: Selections From His Writings By Martin Luther (Have)
+Martyr! By Kaveh Akbar
 Maru By Bessie Amelia "Emery" Head
 Marvelous (The Books Of Marvella, #1) By Travis Thrasher
 Mary By Vladimir Nabokov
@@ -3189,6 +3203,7 @@ Mother Country By Marilynne Robinson
 Mothering Sunday By Graham Swift
 MotherKind By Jayne Anne Phillips (Have)
 Mother Night By Kurt Vonnegut (Read)
+Mother: Poems By M. S. Redcherries
 Mothers And Other Strangers By Gina Sorell
 Mothers Of Sparta: A Memoir In Pieces By Dawn Davies
 Mountain Boats By Wajdi Al - Ahdal
@@ -3240,7 +3255,7 @@ My Beloved World By Sonia Sotomayor
 My Best Friend Is Invisible (Goosebumps, #57) By Robert Lawrence Stine
 My Brief History By Stephen Hawking
 My Brilliant Career By Miles Franklin
-My Brilliant Friend (The Neapolitan Novels, #1) By Elena Ferrnate
+My Brilliant Friend (The Neapolitan Novels, #1) By Elena Ferrnate (Have)
 My Brother, My Executioner By Francisco Sionil Jose
 My Century By Czeslaw Milosz
 My Century By Gunter Grass
@@ -3255,6 +3270,7 @@ My Father And Myself By Joe Randolph Ackerley
 My Father's Suitcase: The Nobel Lecture By Orhan Pamuk
 My Favorite Animal Stories By Gerald Durrell (Read)
 My First Seven Years (Plus A Few More) By Dario Fo
+My Friends By Hisham Matar
 My Friends Call Me Monster (Goosebumps HorrorLand, #7) By Robert Lawrence Stine
 My Garden (Book) By Jamaica Kincaid
 My Good Goat By Bella Dawson & Katrina Streza
@@ -3278,7 +3294,7 @@ My Oxford By Martin Amis
 My Purple Scented Novel By Ian McEwan
 My Side Of The Mountain By Jean Craighead George
 My Sister, My Love By Joyce Carol Oates
-My Sister's Keeper By Jodi Picoult
+My Sister's Keeper By Jodi Picoult (Have)
 My Son's Story By Nadine Gordimer
 Mysteries Of Winterthurn By Joyce Carol Oates
 Mystery Men Of Wall Street: The Power Behind The Market By Earl Sparling
@@ -3336,6 +3352,7 @@ Never Say Die (Alex Rider, #11) By Anthony Horowitz
 Neverwhere (London Below, #1) By Neil Gaiman
 Never Whistle At Night By Shane Hawk & Theodore C. Van Alst Jr.
 New And Collected Poems, 1931 - 2001 By Czeslaw Milosz
+New And Collected Poems By Richard Wilbur (Have)
 Newbies By James Arthur Moore
 New Book By Rohinton Mistry
 New Essays On F. Scott Fitzgerald's Neglected Stories By Jackson R. Bryer
@@ -3554,6 +3571,7 @@ Operation Mincemeat: How A Dead Man And A Bizarre Plan Fooled The Nazis And Assu
 Opinion That DL Had By Jose Saramago
 O Pioneers! (Great Plains Trilogy, #1) By Willa Cather (Read)
 Oranges Are Not The Only Fruit By Jeanette Winterson
+Orbital: A Novel By Samantha Harvey (Have)
 Orientations By Odysseas Elytis
 Orlando By Virginia Woolf
 Orphan Train By Christina Baker Kline
@@ -3617,6 +3635,7 @@ Parade: A Folktale By Hiromi Kawakami (Read)
 Paradise By Abdulrazak Gurnah (Read)
 Paradise By Toni Morrison
 Paradise News By David Lodge (Have)
+Paradise Of The Blind: A Novel By Duoung Thu Huong (Have)
 Parallel Stories By Peter Nadas
 Paramin By Derek Walcott
 Parfumul Aspru Al Fictiunii (RU) By Mircea Cartarescu
@@ -3806,6 +3825,7 @@ Prodigal Summer: A Novel By Barbara Kingsolver
 Prodigy (Legend, #2) By Marie Lu (Read)
 Profession BY Isaaac Asimov
 Professor Andersens Natt: Roman (NO) By Dag Solstad
+Project Hail Mary By Andy Weir (Have)
 Promise By Rachel Eliza Griffiths
 Promise Me, Dad: A Year Of Hope, Hardship, And Purpose By Joe Biden
 Proof Of Heaven: A Neaurosurgeon's Journey Into The Afterlife By Eben Alexander
@@ -3897,6 +3917,7 @@ Rebecca By Daohne Du Maurier
 Rechnitz And The Merchant's Contracts By Elfriede Jelinek
 Record Of A Night Too Brief: Stories By Hiromi Kawakami (Read)
 Re: Creation: Poems By Nikki Giovanni
+Recursion By Blake Crouch
 Red Clocks: A Novel By Leni Zumas
 Red Doc> By Anne Carson
 Redeployment By Phil Klay
@@ -3911,6 +3932,7 @@ Reef By Romesh Gunesekera
 Re: F (Gesture) By Percival Everett
 Reflections On Hanging By Arthur Koestler
 Rein Gold By Elfriede Jelinek
+Rejection By Tony Tulathimutte
 Remarkably Bright Creatures By Shelby Van Pelt (Read)
 Re - Membering Africa By Ngugi Wa Thiong'o
 Remembering Mr. Maugham By Garson Kanin
@@ -3993,6 +4015,7 @@ Rooted: Life At The Crossroads Of Science, Nature, And Spirit By Lynn Lyanda Hau
 Roots: The Saga Of An American Family By Alex Haley (Have)
 Rosalynde: Euphues Golden Legacie By Thomas Lodge
 Rosencrantz And Guildenstern Are Dead: A Play By Tom Stoppard
+Rose Of Jericho And Other Stories By Tage Aurell (Have)
 Rose Of Time By Bei Dao
 Roughing It By Mark Twain (Have)
 Rouse Up O Young Men Of The New Age! By Kenzaburo Oe
@@ -4200,6 +4223,7 @@ Silas Marner By George Eliot
 Silence By Shusaku Endo (Have) (Read)
 Silence House By Orphan Pamuk
 Silver By Chris Hammer
+Silver: Poems By Rowan Ricardo Phillips
 Simone: A Novel By Eduardo Lalo
 Simon Vs. The Homo Sapiens Agenda (Creekwood, #1) By Becky Albertalli
 Simpatia By Rodrigo Blanco Calderon
@@ -4292,6 +4316,7 @@ Somersault By Kenzaburo Oe (Read)
 Somerset And All The Maughams By Robin Maugham
 Somerset Maugham By Ted Morgan
 Some Sort Of Epic Grandeur: The Life Of F. Scott Fitzgerald By Matthew J. Bruccoli
+Something About Living: Poems By Lena Khalaf Tuffaha
 Something Beautiful Happened: A Story Of Survival And Courage In The Face Of Evil By Yvette Manessis Corporon
 Something For The Pain: A Memoir Of The Turf By Gerald Murnane
 Something I Can Never Have (Solitary Tales, #0.5) By Travis Thrasher
@@ -4342,6 +4367,7 @@ Speak, Memory: An Autobiography Revisited By Vladimir Nabokov
 Speak: The Graphic Novel By Laurie Halse Anderson
 Special Edward By Eric Walters (Read)
 Species Of Mind: The Philosophy And Biology Of Cognitive Ethology By Colin Allen & Marc Bekoff
+Spectral Evidence: Poems By Gregory Pardlo
 Spider Boy: A Scenario For A Moving Picture By Carl Van Vechten
 Spider Woman's Daughter: A Leaphorn Chee Novel (Leaphorn & Chee, #19) By Anne Hillerman
 Spill Simmer Falter Wither By Sara Baume
@@ -4396,6 +4422,7 @@ Stolen (Magic Thief, #1) By Sarah Prineas (Have)
 Storia Di Piera (IT) By Dacia Maraini
 Stories By Gabriel Garcia Marquez
 Stories From A Shona Childhood (1989) By Charles Mungoshi
+Stories Of Your Life And Others By Ted Chiang (Read)
 Story And Other Stories By Lydia Davis
 Stone Cold (Jesse Stone, #4) By Robert Brown Parker
 Stone Mattress By Margaret Atwood
@@ -4498,6 +4525,7 @@ Talking It Over By Julian Barnes
 Tallinn On Your Own: An Old Town In Tales And Legends By Doris Kareva
 Tamar By Mal Peet
 Tamarisk Row By Gerald Murnane
+Tampa By Alissa Nutting
 Tar Baby By Toni Morrison (Have) (Read)
 Targeted (Callahan & McLane, #4) By Kendra Elliot
 Tarzan Of The Apes (Tarzan, #1) By Edgar Rice Burroughs (Read)
@@ -4505,6 +4533,7 @@ Teachings From The Worldly Philosophy By Robert Louis Heilbroner
 Teach Us To Outgrow Our Madness: Four Short Novels By Kenzaburo Oe
 Team Of Rivals: The Politcal Genius Of Abraham Lincoln By Doris Kearns Goodwin
 Teardrop (7 Hours, #3) By Travis Thrasher
+Teatro Grottesco By Thomas Ligotti
 Tecumseh And The Prophet: The Shawnee Brothers Who Defied A Nation By Peter Cozzens
 Telekond Ayia Triadasse (ET) By Jaan Kaplinski
 Telephone By Percival Everett
@@ -4690,6 +4719,7 @@ The Black Arrow By Robert Louis Stevenson
 The Black Auxiliary: The Untold Sotry Of 18 African Americans Who Defied Jim Crow And Adolf Hitler To Compete In The 1936 Berlin Olympics By Blair Underwood, Deborah Riley Draper & Travis Thrasher
 The Black Book By Orphan Pamuk
 The Black Box: Writing The Race By Henry Louis Gates
+The Black Dalia By James Ellroy (Have)
 The Black Death By Rosemary Horrox
 The Black Heralds By Cesar Vallejo
 The Black Madonna By Doris Lessing
@@ -4738,6 +4768,7 @@ The Book Of Training By Colonel Hap Thompson Of Roanoke, VA, 1843: Annotated Fro
 The Book Of Unknown Americans By Cristina Henriquez
 The Book Of Urizen By William Blake
 The Book Of Woodcraft And Indian Lore By Ernest Thompson Seton
+The Book Of Wounded Sparrows: Poems By Octavio Quintanilla
 The Bookshop By Penelope Fitzgerald
 The Bookshop On The Corner By Jenny Colgan
 The Books Of Jacob By Olga Tokarczuk
@@ -4773,6 +4804,7 @@ The Burious Incident Of The Dog In The Night - Time By Mark Haddon
 The Burning Girl By Clarie Messud
 The Burning Plain And Other Stories By Juan Rulfo
 The Bus Stop By Gao Xingjian
+The Cabin At The End Of The World By Paul Gaetan Tremblay
 The Cairo Job (Case Lee, #13) By Vince Milam
 The Calligraphy Of Dreams By Juan Marse
 The Call Of The Toad By Gunter Grass
@@ -4916,7 +4948,7 @@ The Crime By Nagiub Mahfouz
 The Crimes Of The Borgias: And Others By Alexander Dumas
 The Crimson Cord: Rahab's Story (Daughters Of The Promisd Land, #1) By Jill Eileen Smith
 The Crooked Staircase By Dean Koontz
-The Crossing By Cormac McCarthy
+The Crossing By Cormac McCarthy (Have)
 The Crucible By Aruther Miller (Have)
 The Cruel Prince (The Folk Of The Air, #1) By Holly Black
 The Cruise Of The Arctic Star By Scott O'Dell
@@ -5603,6 +5635,7 @@ The Lucky Ones By Nicholas Sparks
 The Lusiads By Luis de Camoes (Have)
 The Lying Days By Nadine Gordimer
 The Lying Life Of Adults By Elena Ferrante
+The Mad And The Bad By Jean - Patrick Manchette
 The Magic Barrel By Bernard Malamud (Have)
 The Magic City By Edith Nesbit
 The Magician By Colm Toibin
@@ -5703,6 +5736,7 @@ The Moravian Night By Peter Handke (Read)
 The Morning Star By Karl Ove Knausgard
 The Moronic Inferno By Martin Amis
 The Most Beautiful Women In Florence: A Story Of Botticelli By Alyssa Palombo
+The Most By Jessica Anthony
 The Most Dangerous Place On Earth By Lindsey Lee Johnson
 The Most Fun We Ever Had By Claire Lombardo
 The Mothers By Brit Bennett
@@ -5720,6 +5754,7 @@ The Museum Of Unconditional Surrender By Dubravka Ugresic
 The Mushroom Hunters: On The Trail Of An Underground America By Langdon Cook
 The Musical Brain: And Other Stories By Cesar Aira
 The Mutation (Animorphs, #36) By Katherine Applegate
+The Mysterious Stranger And Other Curious Tales By Mark Twain (Have)
 The Mystery Fancier (Vol. 7 No. 1) January - February 1983 By Charlotte MacLeod, Guy M. Townsend & Tom Stoppard
 The Mystery Guest By Nita Prose
 The Mystery Of The Holy Innocents And Other Poems By Charles Peguy
@@ -6542,7 +6577,7 @@ The Yearlings By Marjorie Kinnan Rawlings (Have)
 The Year Of 1993 By Jose Saramago
 The Year Of Living Biblically: One Man's Humble Quest To Follow The Bible As Literally As Possible By Arnold Stephen Jacobs Jr.
 The Year Of Living Constitutionally: One Man's Humble Quest To Follow The Constitution's Original Meaning By Arnold Stephen Jacobs Jr.
-The Year Of Magical Thinking By Joan Didion
+The Year Of Magical Thinking By Joan Didion (Have)
 The Year Of The Death Of Ricardo Reis By Jose Saramago
 The Year Of The Flood (MaddAddam, #2) By Margaret Atwood
 The Years By Annie Ernaux (Read)
@@ -6941,6 +6976,7 @@ Voyages De L'Autre Cote (FR) By Jean - Marie Gustave Le Clezio
 Voyage: The Coast Of Utopia Play 1 By Tom Stoppard
 Vozes Anoitecidas (PT) By Mia Couto
 Vuelta, 1969 - 1975 (ES) By Octavio Paz
+Wait For Me: A Novel By An Na (Have)
 Wait For Signs: Twelve Longmire Stories (Walt Longmire, #10.1) By Craig Johnson
 Waiting By Ha Jin (Have)
 Waiting For An Angel By Helon Habila
@@ -6959,7 +6995,7 @@ Walking Through Fire By Nawal El Saadawi
 Walk Me To The Distance By Percival Everett
 Walls Of A Mind: An Aiette Nouvelle Mystery (Aliette Nouvelle, #5) By John Brooke
 Wanda Hickey's Night Of Golden Memories: And Other Disasters By Jean Shepherd (Have)
-Wandering Star By Jean - Marie Gustave Le Clezio
+Wandering Star By Jean - Marie Gustave Le Clezio (Have)
 Wandering Stars: A Novel By Tommy Orange
 War And Peace By Leo Tolstoy
 War And The Future By Herbert George Wells
@@ -6985,6 +7021,7 @@ Way Of The Peaceful Warrior: A Book That Changes Lives By Dan Millman (Have)
 Wayward (Wayward Pines, #2) By Blake Crouch
 Waywaya, And Other Stories By Francisco Sionil Jose
 We A BaddDDD People: Poems By Sonia Sanchez
+We Are All Completely Beside Ourselves By Karen Joy Fowler
 We Are An Image From The Future: The Greek Revolt Of December 2008 By A.G. Schwarz, Tasos Sagris & Void Network (Have)
 We Are The Change We Seek: The Speeches Of Barack Obama By Eugene Joseph "E. J." Dionne, Jr. & Joy - Ann Reid
 We Are The Crisis By Cadwell Turnbull
@@ -7223,6 +7260,7 @@ Writing Still (2003) By Alexander Kanengoni
 Writing With Intent By Margaret Atwood
 Written Lives By Javier Marias
 Writting On Water By Eileen Chang
+Wrong Norma: Poems By Anne Carson
 Wu: The Chinese Empress Who Schemed, Seduced And Murdered Her Way To Become A Living God By Jonathan Clements
 Wuthering Heights By Emily Bronte (Read)
 Xenia Hausner By Elfriede Jelinek
@@ -7259,6 +7297,7 @@ Your Forces, And How To Use Them, Vol. 1 By Prentice Mulford
 Your Heart Is A Muscle The Size Of A Fist By Sunil Yapa
 You Should Have Left. By Daniel Kehlmann (Read)
 Youth: Scenes From Provincial II By John Maxwell Coetzee
+Yr Dead By Sam Sax
 Zeina By Nawal El Saadawi
 Zeitoun By Dave Eggers (Have)
 Zelda By Nancy Mitford
