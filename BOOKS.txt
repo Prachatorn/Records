@@ -680,6 +680,7 @@ Bartleby & Co By Enrique Vila - Matas
 Bartleby The Scrivener By Herman Melville
 Basic French Cookery Course By Len Deighton
 Basic French Cooking By Len Deighton
+Bastard Out Of Carolina By Dorothy Allison
 Batman Arkham: Ra’s Al Ghul: The Best Of The Demon And The Bat! By DC (Read)
 Battle Of Britain By Len Deighton
 Beach Read By Emily Henry
@@ -879,6 +880,7 @@ Breakfast with Socrates: An Extraordinary (Philosophical) Journey Through Your O
 Break It Down: Stories By Lydia Davis
 Breaking The Spell: Religion As A Natural Phenomenon By Daniel Dennett
 Brefe Zwischen Vater Und Sohn By Sir Vidiadhar Surajprasad Naipaul
+Brickmakers By Selva Almada
 Bride Of The Living Dummy (Goosebumps 2000, #2) By Robert Lawrence Stine
 Bridget Jones's Diary By Helen Fielding
 Briefing For A Descent Into Hell By Doris Lessing
@@ -1286,6 +1288,7 @@ Dead Babies By Martin Amis (Have)
 Dead - End Memories: Stories By Banana Yoshimoto (Read)
 Deadeye Dick By Kurt Vonnegut (Read)
 Dead Girls And Other Stories By Emily Geminder
+Dead Girls By Selva Almada
 Dead Lake By Darcy Coates
 Dead Lions (Slough Houses, #2) By Mick Herron
 Dead Man's Chest (Phryne Fisher, #18) By Kerry Greenwood
@@ -2234,6 +2237,7 @@ Hotel Savoy By Joseph Roth
 Hour Of The Olympics (Magic Tree House, #16) By Mary Pope Osborne
 Hour Of The Witch: A Novel By Chris Bohjalian
 Housekeeping By Marilynne Robinson
+House Of Cotton By Monica Brashears
 House Of Gold By Bud Macfarlane Jr.
 House Of Gold By Natasha Solomons
 House Of Leaves By Mark Z. Danielewski
@@ -2907,6 +2911,7 @@ Look At The Harlequins! By Vladimir Nabokov
 Look At The Lights, My Love By Annie Ernaux (Read)
 Look Homeward, Angel By Thomas Wolfe
 Looking Through The Looking Glass By Lewis Carroll (Read)
+Look Out For The Little Guy!: Essays By Rob Kutner & Scott Lang (Read)
 Loot And Other Stories By Nadine Gordimer
 Lord Jim By Joseph Conrad (Have)
 Lord Malquist And Mr. Moon: A Novel By Tom Stoppard
@@ -3458,7 +3463,7 @@ Nostromo By Joseph Conrad
 No Sweetness Here: Stories By Ama Ata Aidoo
 Not All Bastards Are From Vienna By Andrea Molesini
 Not An Empty Promise By Joyce Anne Trbilco
-Not A River By Selva Almada
+Not A River: A Novel By Selva Almada (Read)
 Notes D'Okinawa (FR) By Kenzaburō Ōe
 Notes From Underground By Fyodor Dostoevsky (Read)
 Notes Of A Crocodile By Qiu Miaojin
@@ -3969,6 +3974,7 @@ Return To Horrorland (Goosebumps 2000, #13) By RObert Lawrence Stine
 Return To Painting By Gao Xingjian
 Return To The Dark Valley By Santiago
 Reunion: A Novel By Elise Juska
+Revelator By Daryl Gregory
 Revenge By Yōko Ogawa
 Revenge Of The Lawn Gnomes (Goosebumps, #34) By Robert Lawrence Stine
 Revenge Of The Living Dummy (Goosebumps HorrorLand, #1) By Robert Lawrence Stine
@@ -4178,6 +4184,7 @@ Serowe: Village Of The Rain Wind By Bessie Amelia "Emery" Head
 Serpentine (His Dark Material, #3.6) By Philip Pullman
 Serve The People! By Yan Lianke
 Sevastopol Sketches By Leo Tolstoy
+Seven Empty Houses By Samanta Schweblin
 Seven Forges (Seven Forges, #1) By James Arthur Moore
 Seven Interpretive Essays On Peruvian Reality By José Carlos Mariátegui
 Seven Men By Max Beerbohm
@@ -4252,7 +4259,7 @@ Simple Passion By Annie Ernaux (Read)
 Sin And Syntax: How To Craft Wicked Good Prose By Constance Hale
 Sin By Francisco Sionil José
 Sing Down The Moon By Scott O'Dell
-Sing, Unburied, Sing By Jesmyn Ward
+Sing, Unburied, Sing: A Novel By Jesmyn Ward
 Sip By Brian Allen Carr
 Siren Queen By Nghi Vo
 Sir George Tressady By Mary Augusta Ward
@@ -4301,6 +4308,7 @@ Small Things Like These By Claire Keegan
 Small Wonder: Essays By Barbara Kingsolver (Have)
 Smile No More By James Arthur Moore
 Smoke And Whispers (The Oxford Investigations, #4) By Mick Herron
+Smothermoss By Alisa Alering
 Snakehead (Alex Rider, #7) By Anthony Horowitz
 Snakelust By Kenji Nakagami
 Snapshots By Claudio Magris
@@ -4490,6 +4498,7 @@ Summer By Edith Wharton (Have)
 Summer By Karl Ove Knausgård
 Summer Cooking By Elizabeth David
 Summer Of The Big Bachi By Naomi Hirahara (Have)
+Summer Sons By Lee Mandelo
 Sundown Towns: A Hidden Dimension Of American Racism By James W. Loewen
 Sunrise On The Veld By Doris Lessing
 Sunset Of The Sabertooth (Magic Tree House, #7) By Mary Pope Osborne
@@ -4605,6 +4614,7 @@ The Adventures Of Amina Al - Sirafi By Shannon Chakraborty
 The Adventures Of A Photographer In La Plata By Adolfo Boiy Casares
 The Adventures Of Augie March By Saul Bellow
 The Adventures Of Baron Münchausen By Rudolf Erich Raspe
+The Adventures Of China Iron By Gabriela Cabezon Camara
 The Adventures Of Huckleberry Finn By Mark Twain (Read) (Fav)
 The Adventures Of Oliver Twist By Charles Dickens
 The Adventure's Of Tom Sawyer By Mark Twain (Read) 
@@ -4769,6 +4779,7 @@ The Body By Stephen King
 The Body Farm (Kay Scarpetta, #5) By Patricia Cornwell
 The Body In Pain By Elaine Scarry
 The Body Of Martin Aguilera By Percival Everett
+The Bog Wife By Kay Chronister
 The Bomber Mafia: A Dream, A Temptation, And The longest ight Of The Second World War By Malcolm Gladwell
 The Bones And The Book By Jane Isenberg
 The Bonesetter's Daughter By Amy Tan (Read)
@@ -4945,6 +4956,7 @@ The Confessions Of Nat Turner By William Styron
 The Conjunction By Terance Wheeler
 The Conscience Of Words By Elias Canetti
 The Consequences Of Revenge (Consequence, #2) By Aleatha Romig
+The Consequences: Stories By Manuel Muñoz
 The Conservationist By Nadine Gordimer
 The Conspiracy (Animorphs, #31) By Katherine Applegate
 The Continuing Silence Of A Poet: The Collected Stories Of Abraham B. Yehoshua By Abraham B. Yehoshua
@@ -6063,6 +6075,7 @@ The Red Sphinx: A Sequel To The Three Musketeers By Alexandre Dumas
 The Red Tent By Anita Diamant
 The Red Thread By Nicholas Jose (Have)
 The Red Word By Sarah Henstra
+The Reformatory By Tananarive Due
 The Refugees By Viet Thanh Nguyen
 The Reivers By William Faulkner (Have)
 The Reluctant Fundamentalist By Mohsin Hamid
@@ -6546,6 +6559,7 @@ The Wind From Nowhere By James Graham Ballard
 The Wind Has Risen By Tatsuo Hori
 The Wind In The Willows By Kenneth Grahame (Read)
 The Winds Of Winter (A Song Of Ice And Fire, #6) By George Raymond Richard Martin
+The Wind That Lays Waste By Selva Almada
 The Wind - Up Bird Chronicle By Haruki Murakami (Read)
 The Wings Of The Dove By Henry James (Have)
 The Winners By Julio Cortázar
@@ -7151,6 +7165,7 @@ When Shlemiel Went To Warsaw & Other Stories By Isaac Bashevis Singer
 When The Emperor Was Divine By Julie Otsuka
 When The Ghost Dog Howls (Goosebumps HorrorLand, #13) By Robert Lawrence Stine
 When The Rainbird Cries (1988) By Alexander Kanengoni
+When The Reckoning Comes By LaTanya McQueen
 When The Sky Fell On Splendor By Emily Henry
 When We Meet Again By Kristin Harmel
 When We Were Orphans By Kazuo Ishiguro (Have) (Read)
