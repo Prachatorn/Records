@@ -50,7 +50,9 @@ A Book Of Common Prayer By Joan Didion
 A Book Of Mediterranean Food By Elizabeth David
 A Book Of Memories By Péter Nádas
 About Looking By John Berger
+A Boy In Winter By Rachel Seiffert
 Abraham Lincoln By Thomas Keneally
+Abraham Lincoln, Vampire Hunter By Seth Grahame - Smith
 A Brick Wall By César Aira
 A Briefer History Of Time By Leonard Mlodinow & Stephen Hawking
 A Brief History Of Montmaray By Michelle Cooper
@@ -458,6 +460,7 @@ Appetite (Storycuts) By Julian Barnes
 Appointment In Samarra: A Novel By John O'Hara (Have)
 A Prayer For Owen Meany By John Irving
 A Prayer For The City By Buzz Bissinger (Have)
+April In Spain (St. John Stafford, #3) By John Banville
 April Twilights By Willa Cather
 A Psalm For The Wild - Built By Becky Chambers
 Aquarium By David Vann
@@ -816,6 +819,7 @@ Blinding By Mircea Cărtărescu
 Blindly By Claudio Magris
 Blindness By José Saramago
 Blind Shadows By James Arthur Moore
+Blindsight (Firefall, #1) By Peter Watts (Have)
 Blindspot: Hidden Biases Of Good People By Anthony Greenwald & Mahzarin Banaji
 Blink: The Power Of Thinking Without Thinking By Malcolm Gladwell
 Blitzkrieg: From The Rise Of Hitler To The Fall Of Dunkirk By Len Deighton
@@ -1429,6 +1433,7 @@ Different Seasons: Stories By Stephen King (Read)
 Difficult Daughters By Manju Kapur (Have)
 Difficult Loves By Italo Calvino
 Dingoes At Dinnertime (Magic Tree House, #20) By Mary Pope Osborne
+Dinner At The Center Of The Earth By Nthan Englander
 Dinner By César Aira
 Dinner With Buddha (Breakfast With Buddha, #3) By Roland Merullo
 Dinosaurs Before Dark (Magic Tree House, #1) By Mary Pope Osborne
@@ -1532,6 +1537,7 @@ Dwa Miasta (PO) By Adam Zagajewski
 Dying Of Whiteness By Jonathan Metzi
 Dying Of The Light By George Raymond Richard Martin
 Dzikie Czeresnie (PO) By Adam Zagajewski
+Each Tiny Spark By Pablo Cartaya
 Eagle Strike (Alex Rider, #4) By Anthony Horowitz
 Early Autumn (Spenser, #7) By Robert Brown Parker
 Earth Abides By George Rippey Stewart
@@ -1688,6 +1694,7 @@ Et Stort Øde Landskap (NO) By Kjell Askildsen
 Ètudes Sur Le Temps Humain (FR) By Georges Poulet
 Eugene Onegin By Alexander Pushkin
 Eu Hei - De Amar Uma Pedra (ES) By António Lobo Antunes
+Europa (Yeoyu, #3) By Han Kang
 Europe In Sepia By Dubravka Ugrešić
 Eusrace Chisholm And The Works By James Purdy
 Eustace And Hilda: A Trilogy By Leslie Poles Hartley
@@ -1945,6 +1952,7 @@ Gargantua And Pantagruel By François Rabelais
 Garments Of Shadows (Mary Russell, #12) By Layrie R. King
 Gates Of The Dead: Tides Of War By James Arthur Moore
 Gateway (Heechee Saga, #1) By Frederik Pohl
+Gaudy Night By Dorothy Leigh Sayers
 Geek Love By Katherine Dunn
 Genji And Heike: Selections From The Tale Of Genji And The Tale Of The Heike By Helen Craig McCullough
 Gens Des Nuages (FR) By Jean - Marie Gustave Le Clézio
@@ -1955,6 +1963,7 @@ George's Cosmis Treasure Hunt By Lucy Hawking & Stephen Hawking
 Gerald's Game By Stephen King
 German Stories And Tales By Robert Pick (Have)
 Get A Life By Nadine Gordimer
+Get A Life, Chloe Brown (The Brown Sisters, #1) By Talia Hibbert
 Get In Trouble By Kelly Link
 Getting Lost By Annie Ernaux (Read)
 Getting Naked With Harry Crews By Harry Crews
@@ -2054,6 +2063,7 @@ Great Jones Street By Don DeLillo
 Great Love Poems By Shane Weller (Have)
 Great Short Works Of Henry Van Dyke By Henry Van Dyke (Have)
 Greed By Elfriede Jelinek
+Greek Lessons: A Novel By Han Kang
 Greek Tragedies, Vol. 1: Aeschylus: Agamemnon, Prometheus Bound; Sophocles: Oedipus The King, Antigone; Euripides: Hippolytus By David Grene (Have)
 Greek Tragedies, Vol. 3: Aeschylus: The Eumenides, Sophocles: Philoctetes, Sophocles: Oedipus At Colonus, Euripides: The Bacchae, Euripides: Alcestis By David Greene & Richmond Lattimore (Have)
 Green: A Novel By Sam Graham - Felsen
@@ -2302,6 +2312,7 @@ How To Stop Time: A Novel By Matt Haig
 How To Win Friends & Influence People By Dale Carnegie (Have)
 Huai Bao Xian Hua Di Nu Ren (ZH) By Mo Yan
 Hui Chang Ge De Qiang (ZH) By Mo Yan
+Human Acts: A Novel By Han Kang
 Human Chain By Seamus Heaney
 Humani Generis By Pope Plus XII
 Humankind: A Hopeful History By Rutger Bregman
@@ -2344,6 +2355,7 @@ Ideal Marriage: Its Physiology And Technique By Theodoor Hendrik Van De Velde
 Ideas And Opinions By Albert Einstein
 Identity By Milan Kundera
 Identity Leadership: To Lead Others You Must First Lead Yourself By Stedman Graham
+I Do Not Bid Farewell By Han Kang
 If Crab No Walk: A Traveller In The West Indies By Owen Rutter
 If I Could Tell You By Elizabeth Wilhide
 If It Bleeds By Stephen King
@@ -2672,6 +2684,7 @@ Koba The Dread By Martin Amis
 Kojiki By Anonymous
 Kokoro By Soseki Natsume
 Kolyma Tales By Variam Shalamov
+Komi Can't Communicate Vol. 1 By Tomohito Oda
 Koniec I Początek (PL) By Wisława Szymborska
 Kon - Tiki By Thor Heyerdahl (Have)
 Kopfgeburten Oder Die Deutschen Sterben Aus (DE) By Günter Grass
@@ -2761,6 +2774,7 @@ Late Night In Montreal By Emily St. John Mandel
 Later By Stephen King
 Laughable Loves By Milan Kundera
 Laugher In The Dark By Vladimir Nabokov
+Laughing At My Nightmare By Shane Burcaw
 Laughing In The Jungle By Louis Adamic
 La Vida Del Lazarillo De Tormes By Unknown (Have) (Read)
 La Vie Materielle (FR) By Marguerite Duras
@@ -3284,6 +3298,7 @@ Mrs. Dalloway By Virginia Woolf (Have)
 Mrs. Eckdorf In O'Neill's Hotel By William Trevor
 Mrs. Grant And Madame Jule By Jennifer Chiaverini
 Mr. Stone And The Knights Companion By Sir Vidiadhar Surajprasad Naipaul
+Mr. Summer's Story By Patrick Süskind
 M / T And The Narrative About The Marvels Of The Forest By Kenzaburō Ōe
 Mudwoman By Joyce Carol Oates
 Multitude Of Sins Header By Richard Ford
@@ -3688,6 +3703,7 @@ Pan: From Lieutenant Thomas Glahn's Papers By Knut Hamsun
 Panselēnos: Mythistorēma (ES) By Antonio Muñoz Molina
 Panther In The Basement By Amos Oz
 Paper Angels By Jimmy Wayne & Travis Thrasher
+Paper Boat: New And Selected Poems 1961 - 2023 By Margaret Atwood
 Paper Towns By John Green (Have)
 Parable Of The Sower (Earthseed, #1) By Octavia Estelle Butler
 Parable Of The Talents (Earthseed, #2) By Octavia Estelle Butler
@@ -3738,7 +3754,7 @@ People We Meet On Vacation By Emily Henry
 Përballë Pasqyrës Së Një Gruaje (AB) By Ismail Kadare
 Percival Everett By Virgil Russell By Percival Everett
 Perelandra (Space Trilogy, #2) By Clive Staples Lewis
-Perfume: The Story Of A Murderer By Patrick Süskind
+Perfume: The Story Of A Murderer By Patrick Süskind (Read)
 Persepolis By Marjane Satrapi
 Persian Letters By Montesquieu
 Persuasion By Jane Austen (Read)
@@ -4358,6 +4374,7 @@ Snow Country By Yasunari Kawabata (Have) (Read)
 Snow Falling In Spring: Coming Of Age In China During The Cultural Revolution By Moying Li (Have) (Read)
 Snow Flower And The Secret Fan By Lisa See
 Snow Hunters By Paul Yoon
+Snow (St. John Stafford, #2) By John Banville
 Soba, Senbei And Shibuya: A Memoir Of Post - War Japan By Francisco Sionil José
 Soccer On Sunday (Magic Tree House, #52) By Mary Pope Osbourne
 Social Suicide (Deadly Cool, #2) By Gemma Halliday (Read)
@@ -4814,6 +4831,7 @@ The Blue House = By Tomas Tranströmer
 The Blue Of Distance By Anne Carson
 The Bluest Eye By Toni Morrison (Have)
 The Blunder By Milan Kundera
+The Boat Rocker By Ha Jin
 The Boat Runner By Devin Murphy
 The Body Artist By Don DeLillo
 The Body By Stephen King
@@ -5154,6 +5172,7 @@ The Dressmaker Of Khair Khana: Five Sisters, One Remarkable Family, And The Woma
 The Driver's Seat By Dame Muriel Spark
 The Drop (Slough House, #5.5) By Mick Herron
 The Drowned Life By Jeffrey Ford (Have)
+The Drowned (St. John Strafford, #5) By John Banville
 The Drowned World By James Graham Ballard
 The Druggist Of Auschwitz: A Documentary Novel By Dieter Schlesak
 The Dry: A Novel By Jane Harper
@@ -5372,6 +5391,7 @@ The Golden Apples By Eudora Welty (Have)
 The Golden Bough By James George Frazer
 The Golden Compass (His Dark Materials, #1) By Phillip Pullman
 The Golden House By Salman Rushdie
+The Golden Legend By Nadeem Aslam
 The Golden Notebook (1962) By Doris May Lessing
 The Goldfinch By Donna Tartt
 The Good Earth By Pearl Comfort Sydenstricker Buck
@@ -5701,6 +5721,7 @@ The Lives Of Things: Stories By José Saramago (Read)
 The Living Infinite By Chantel Acevedo
 The Living Thoughts Of Kierkegaard By Søren Kierkegaard
 The Lizard By José Saramago
+The Lock - Up (St. John Stafford, #4) By John Baville
 The Lola Quartet By Emily St. John Mandel
 The Lonely Hearts Hotel: A Novel By Heather O'Neill
 The Long Goodbye (Philip Marlowe, #6) By Raymond Chandler
@@ -6008,6 +6029,7 @@ The Piano Tuner By Daniel Mason
 The Pickup By Nadine Gordimer
 The Pickwick Papers By Charles Dickens
 The Picture Of Dorian Gray By Oscar wilde
+The Pigeon By Patrick Süskind
 The Pigman (The Pigman, #1) By Paul Zindel (Read)
 The Pilgrim's Progress By John Bunyan
 The Pillars Of The Earth (Kingsbridge, #1) By Ken Follett (Have)
@@ -6238,6 +6260,7 @@ The Second - Worst Restaurant In Fance (Paul Stuart, #2) By Alexander McCall Smi
 The Secret (Animorphs, #9) By Katherine Applegate
 The Secret Diary Of Adrian Mole, Aged 13 3/4 By Sue Townsend
 The Secret Garden By Frances Hodgsun Burnett (Have)
+The Secret Guests (St. John Strafford, #1) By Benjamin Black
 The Secret Heart Of The Clock: Notes, Aphorisms, Fragments, 1973 - 1985 By Elias Canetti
 The Secret History By Donna Tartt
 The Secret Integration By Thoams Pynchon
@@ -6538,6 +6561,7 @@ The Vacationers By Emma Straub
 The Vagrants: A Novel By Yiyun Li (Have)
 The Varieties Of Scientific Experience: A Personal View Of The Search For God By Ann Druyan & Carl Sagan
 The Vaster Wilds: A Novel By Lauren Groff (Read)
+The Vegetarian By Han Kang
 The Very First Light: A Scientific Journey Back To The Dawn Of The Universe By John Boslough & John Cromwell Mather
 The Vicar Of Wakefield By Oliver Goldsmith
 The Vice - Consul By Marguerite Duras
@@ -6600,6 +6624,7 @@ The Whispering Room By Dean Koontz
 The Whistling Season By Ivan Doig
 The White Album By Joan Didion
 The White Bicycle (Wild Orchard, #3) By Beverley Brenna
+The White Book By Han Kang
 The White Carnation (Alex Rider, #0.4) By Anthony Horowitz
 The White Castle By Orphan Pamuk
 The White House Boys: An American Tragedy By Roger Dean Kiser
@@ -6645,6 +6670,7 @@ The Woman In The Window: A Novel By Daniel Mallory / A. J. Finn
 The Woman In White By Wilkie Collins
 The Womanizer By Richard Ford
 The Woman Of The Copper Country: A Novel By Mary Doria Russell
+The Woman On The Stairs By Bernhard Schlink
 The Woman's Bible By Elizabeth Cady Stanton
 The Woman Who Stole My Life By Marian Keyes
 The Women By Kristin Hannah
@@ -6767,9 +6793,10 @@ Three Plays: The Young Lady From Tacna, Kathie And The Hippopotamus, La Chunga (
 Three Poems Under A Flag Of Convenience By Odysseas Elytis
 Three Roads Home (Three Roads Home, #1 - 3) By Travis Thrasher
 Three Rusian Poets: Trsnslaions Of Pushkin, Lermontov, And Tiutchev By Vladimir Nabokov
+Three Stories And A Reflection By Patrick Süskind
 Three Stories By John Maxwell Coetzee
-Three Winters BStreets By Yoko Tawada
-Three y Czesław Miłosz
+Three Streets By Yoko Tawada
+Three Winters: Poems By Czesław Miłosz
 Thrice The Brinded Cat Hath Mew'd (Flavia De Luce, #8) By Alan Bradley
 Thrist By Mohammed Dowlatabadi
 Through The Arc Of The Rain Forest By Karen Tei Yamashita (Have)
@@ -6853,6 +6880,7 @@ To The Lighthouse By Virginia Woolf
 To The Young Writer And Other Essays By Francisco Sionil José
 Touch The Water, Touch The Wind By Amos Oz
 Tous Les Noms By José Saramago
+Toward Eternity: A Novel By Anton Hur
 Towards The Forest: Knausgard On Munch By Karl Ove Knausgård
 Town And Country Lovers By Nadine Gordimer
 To Your Scattered Bodies Go By Philip José Farmer
@@ -7151,6 +7179,7 @@ We Cast A Shadow By Maurice Carlos Ruffin
 We Chose The Islands By Arthur Grimble
 Wedding Song By Nagiub Mahfouz
 We Deserve Monuments By Jas Hammonds
+We Do Not Part: A Novel By Han Kang
 Weed Species By Jack Ketchum
 Weep Not, Child (1964) By Ngugi wa Thiong'o
 We Filipinos: Our Moral Malaise, Our Heroic Heritage By Francisco Sionil José
