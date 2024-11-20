@@ -33,6 +33,7 @@ Abahn Sabana David By Marguerite Duras
 A Banquet Of Consequences By Elizabeth George
 ABC Of French Food By Len Deighton
 Abducting Diana By Dario Fo
+Abe: A Novel Of The Young Lincoln By Richard Slotkin
 A Beautiful Mind By Sylvia Nasar
 A Bed Of Scorpions By Judith Flanders
 Abe Lincoln At Last! (Magic Tree House, #47) By Mary Pope Osbourne
@@ -66,6 +67,7 @@ Absolutely On Music: Conversations With Seiji Ozawa By Haruki Murakami
 Absolute Signal By Gao Xingjian
 Abstraction And Empathy: A Contribution To The Psychology Of Style By Wilhelm Worringer
 A Burning By Megha Majumdar
+Abyssinian Chronicles: A Novel By Moses Isegawa
 A Canticle For Leibowitz By Walter Michael Miller Jr.
 A Captive Of Time: My Years With Pasternak By Olga Ivinskaya
 A Catalog Of Birds By Laura Harrington
@@ -73,6 +75,7 @@ A Cat, A Man, And Two Women By Jun'ichiro Tanizaki
 Accident Nocturne By Patrick Modiano
 Accommodations By Wioletta Greg
 Accomplices To The Crime: The Arkansas Prison Scandal By Joe Hyams & Thomas Orhelius Morton
+According To Queeney: A Novel By Beryl Bainbridge
 A Celebration Of CATS By Jean Burden (Have)
 Ace Of Hearts By Myriad Augustine (Read)
 Aces Abroad (Wild Cards, #4) By George Raymond Richard Martin
@@ -162,14 +165,18 @@ African Game Trails: An Account Of The African Wanderings Of An American Hunter 
 African Laghter: Four Visits To Zimbabwe By Doris Lessing
 Afrika My Music (1984) By Ezekial 'Es'kia' Mphahlele
 After Abel And Other Stories By Michal Lemberger
+Afterburn By Colin Harrison
 After Dark By Haruki Murakami (Read)
 After Henry By Joan Didion
+Afterimages: A Novel By Helen Humphreys
 Afterlives By Abdulrazak Gurnah (Read)
 After Midnight By Irmgard Kuen
 Afternoon On The Amazon (Magic Tree House, #6) By Mary Pope Osborne
 After The Banquet By Yukio Mishima
-After The Quake By Haruki Murakami (Read)
+After The Quake: Stories By Haruki Murakami (Read)
+After The War: A Novel By Alice Adams
 Against An African Sky: Stories (1997) By Farida Karodia
+Against Love Poetry By Eavan Boland
 Against Nature By Joris - Karl Huysmans
 Against The Day By Thomas Pynchon
 Agamemnon's Daughter By Ismail Kadare
@@ -198,6 +205,7 @@ A Hard And Heavy Thing By Matthew J. Hefti
 A Harlot High And Low By Honoré De Balzac (Have)
 A Head Full Of Ghosts By Paul Gaetan Themblay
 A Healing Family By Kenzaburō Ōe
+A Heartbreaking Work Of Staggering Genius By Dave Eggers
 A Heart So White By Javier Marías
 A Hell Within By James Arthur Moore
 A Hero Of France (Night Soldiers, #14) By Alan Furst
@@ -218,6 +226,7 @@ A Horse Walks Into A Bar By David Grossman
 A House And Its Head By Ivy Compton - Burnett
 A House For Mr. Biswas By Sir Vidiadhar Surajprasad Naipaul TC
 A Hundred And One Days: Fear And Friendship In The Heart Of A War Game By Asne Seierstad (Have)
+Aiding And Abetting: A Novel By Muriel Spark
 Aiiieeeeee! An Anthology Of Asian - American Writers By Frank Chin, Jeffery Paul Chan, Lawson Fusao Inada & Shawn Wong
 Ailleurs (FR) By Jean - Marie Gustave Le Clézio
 Airborn By Octavio Paz
@@ -290,6 +299,7 @@ All Thirteen: The Incredible Cave Rescue Of The Thai Boys' Soccer Team By Christ
 All We Need Of Hell By Harry Crews
 All We Saw: Poems By Anne Michaels
 All's Well That Ends Well By William Shakespeare (Have)
+Almost: A Novel By Elizabeth Benedict
 Almost No Memory By Lydia Davis
 Almost Transparent Blue By Ryu Murakami
 A Long December By Richard Chizmar
@@ -754,6 +764,7 @@ Behind The Clouds (1983) By Ifeoma Okoye
 Behind The Scenes At The Museum By Kate Atkinson
 Behold The Dreamers By Imbolo Mbuc
 Being And Nothingness By Jean - Paul Sartre
+Being Dead: A Novel By Jim Crace
 Being No One By Thomas Metzinger
 Bel Canto By Ann Patchett (Have)
 Belinda By Maria Edgeworth
@@ -899,6 +910,7 @@ Boomtown By James Arthur Moore
 Border Districts: A Fiction By Gerald Murnane
 Boredom: The Literary History Of A State Of Mind By Patricia Spacks
 Born On The Fourth Of July By Ron Kovic
+Borrowed Finery: A Memoir By Paula Fox
 Bossypants By Tina Fey
 Botchan By Natsume Soseki
 Bottoms Up And The Devil Laughs: A Journey Through The Deep State By Kerry Howley
@@ -2009,6 +2021,7 @@ Gateway (Heechee Saga, #1) By Frederik Pohl
 Gaudy Night By Dorothy Leigh Sayers
 Geek Love By Katherine Dunn
 Genji And Heike: Selections From The Tale Of Genji And The Tale Of The Heike By Helen Craig McCullough
+Genome: The Autobiography Of A Speciies In 23 Chapters By Matt Ridley
 Gens Des Nuages (FR) By Jean - Marie Gustave Le Clézio
 Gentle Julia By Booth Tarkington
 Gentleman's Agreement By Laura Zametkin Hobson
@@ -2016,6 +2029,7 @@ Gentlemen Prefer Blondes By Anita Loos
 George's Cosmis Treasure Hunt By Lucy Hawking & Stephen Hawking
 Gerald's Game By Stephen King
 German Stories And Tales By Robert Pick (Have)
+Gertrude And Claudius: A Novel By John Updike
 Get A Life By Nadine Gordimer
 Get A Life, Chloe Brown (The Brown Sisters, #1) By Talia Hibbert
 Get In Trouble By Kelly Link
@@ -2652,8 +2666,9 @@ Joan And Peter By Herbert George Wells
 Joan Didion: Essays & Conversations By Joan Didion
 Joe Country (Slough House, #6) By Mick Herron
 Joheved (Rashi's Daughters Book I) By Maggie Anton (Have)
+John Adams By David McCullough
 John Brown's Body By Audrey Lilian Barker
-John Henry Days By Colson Whitehead
+John Henry Days: A Novel By Colson Whitehead
 Johnny Got His Gun By Dalton Trumbo
 Johnny Panic And The Bible Of Dreams By Sylvia Plath
 John Okada: The Life And Rediscovered Work Of The Author Of No - No Boy By Frank Abe & Greg Robinson
@@ -2891,7 +2906,7 @@ Les Geants (FR) By Jean - Marie Gustave Le Clezio
 Les Impudents (FR) By Marguerite Duras
 Lesley Castle By Jane Austen
 Leslie F*cking Jones By Leslie Jones
-Les Miserables By Victor Hugo (Read)
+Les Misérables By Victor Hugo (Read)
 Les Misérables. Piano / Vocal Selections By Alain Boublil
 Les Nuits De Shanghai (FR) By Juan Marsé
 Les Petits Enfants Du Siecle (FR) By Christiane Rochefort
@@ -3702,6 +3717,7 @@ One Man's Bible By Gao Xingjian (Read)
 One More Thing - Stories And Other Stories By Bejamin Joseph Manaly Novak (Read)
 One Night In Brazil By Isaac Bashevis Singer
 One Of These Days By Gabriel García Márquez
+One Palestine, Complete: Jews And Arabs Under The British Mandate By Tom Segev
 One Summer In Savannah: A Novel By Terah Shelton Harris
 On Freedom By Timothy Snyder
 Ongoingness By Sarah Manguso
@@ -4142,6 +4158,7 @@ Ride With Me, Mariah Montana By Ivan Doig
 Riding With Reindeer: A Bicycle Odyssey Through Finland Lapland, And Arctic Norway By Robert M. Goldstein
 Rifqa: Poems By Mohammed El - Kurd (Read)
 Right Text Wrong Number (Offsides, #1) By Natalie Decker
+Rimbaud: A Biography By Graham Robb
 Ring Roads By Patrick Modiano
 Rin, Tongue And Dorner: A Novel By Rich Shapero (Have)
 Rising Strong By Brené Brown
@@ -4770,6 +4787,7 @@ The 290 By Scott O'Dell
 The 42nd Parallel (U.S.A, #1) By John Dos Passos
 The Abbess Of Crewe By Dame Muriel Spark
 The Abominable Snowman Of Pasadena (Goosebumps, #38) By Robert Lawrence Stine
+The Abomination: A Novel By Paul Golding
 The Absolute (Animorphs, #51) By Katherine Applegate
 The Absolutely True Diary Of A Part - Time Indian By Sherman Alexie
 The Abyss By Orson Scott Card
@@ -4821,6 +4839,7 @@ The Andalite's Gift (Animorphs, #7.5) By Katherine Applegate
 The Android (Animorphs, #10) By Katherine Applegate
 The Andromeda Strain By Michael Crichton
 The Angel Esmeralda By Don DeLillo
+The Angel On The Roof: Stories By Russell Banks
 The Angel Told Me To Tell You Good - Bye By Leia Stinnett
 The Animal Family By Randall Jarrell
 The Animals In That Country By Margaret Atwood
@@ -5142,7 +5161,7 @@ The Convoluted Universe - Book Three (Convoluted Universe, #3) By Dolores Cannon
 The Convoluted Universe - Book Two (Convoluted Universe, #2) By Dolores Cannon
 The Copycat Effect: How The Media And Popular Culture Trigger The Mayhem In Tomorrow's Headlines By Loren Coleman
 The Corn Maiden And Other Nightmares By Joyce Carol Oates
-The Corrections By Jonathan Franzen
+The Corrections: A Novel By Jonathan Franzen
 The Cost Of Conquest: Indian Decline In Honduras Under Spanish Rule By Linda Newson
 The Counselor By Cormac McCarthy
 The Course Of Love By Alain De Botton
@@ -5648,6 +5667,7 @@ The House On Mango Street By Sandra Cisneros (Read)
 The House On Via Gemito By Domenico Starnone
 The Human Province By Elias Canetti
 The Human Side By Albert Einstein
+The Human Stain By Philip Roth
 The Human Tradition In The Black Atlantic, 1500 - 2000 By Beatriz G. Mamigonian & Karen Racine
 The Hunchback Of Notre Dame By Victor Hugo (Read)
 The Hundred And One Dalmatians (The Hundred And One Dalmatians, #1) By Dodie Smith (Have)
@@ -5946,6 +5966,7 @@ The Mesmerist: A Novel By Caroline Woods
 The Message (Animorphs, #4) By Katherine Applegate
 The Metamorphosis By Franz Kafka (Have) (Read)
 The Metamorphosis And Other Stories By Franz Kafka
+The Metaphysical Club: A Story Of Ideas In America By Louis Menand
 The Metaphysical Pause By Czesław Miłosz
 The Metaphysical Poets By Helen Gardner (Have)
 The Mexican Dream, Or, The Interrupted Thought Of Amerindian Civilization By Jean - Marie Gustave Le Clézio
@@ -7074,10 +7095,11 @@ Troubling Love By Elena Ferrante
 Trout's Lie By Percival Everett
 True Confessions By John Gregory Dunne
 True Grit By Charles Portis
+True History Of The Kelly Gang: A Novel By Peter Carey
 Truly Madly Guilty By Liane Moriarty
 TrumpNation: The Art Of Being The Donald By Timothy L. O'Brien
 Trump: The Art Of The Deal By Donald Trump & Tony Schwartz
-Trust By Herman Diaz (Read)
+Trust By Herman Diaz (Have) (Read)
 Trust Exercise: A Novel By Susan Choi
 Truth Barriers By Tomas Tranströmer
 Truth In Autobiography By John Maxwell Coetzee
@@ -7128,6 +7150,7 @@ Una Novela China / A Chinese Novel By César Aira
 Unbroken: An Olympian's Journey From Airman To Castaway To Captive: Adapted For Young Adults By Laura Hillenbrand
 Un Cirque Passe (FR) By Patrick Modiano
 Uncle Tom's Cabin By Harriet Beecher Stowe
+Uncle Tungsten: Memories Of A Chemical Boyhood By Oliver Sacks
 Uncommon Type By Tom Hanks
 Underground Airlines By Benjamin Allen H. "Ben" Winters
 Underground: The Tokyo Gas Attack And The Japanese Psyche By Haruki Murakami (Read)
@@ -7316,6 +7339,7 @@ Waverly By Sir Walter Scott
 Waves: Stories By Bei Dao
 Wavewalker: Breaking Free By Suzanne Heywood
 Way Of The Peaceful Warrior: A Book That Changes Lives By Dan Millman (Have)
+Way Out There In The Blue: Reagan, Star Wars And The End Of The Cold War By Frances Fitzgerald
 Wayward (Wayward Pines, #2) By Blake Crouch
 Waywaya, And Other Stories By Francisco Sionil José
 We A BaddDDD People: Poems By Sonia Sanchez
@@ -7451,6 +7475,7 @@ White Houses: A Novel By Amy Bloom
 White Nights By Urszula Honek
 White Noise By Don DeLillo (Read)
 White Rose, Black Forest By Eoin Dempsey
+White Teeth: A Novel By Zadie Smith
 White Writing: On The CUlture Of Letters In South Africa By John Maxwell Coetzee
 Who Do You Think You Are? By Alice Munro
 Who Is Rich?: A Novel By Matthew Klam (Have)
