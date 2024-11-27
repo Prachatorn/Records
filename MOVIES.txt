@@ -199,6 +199,7 @@ Are You There God? It's Me, Margaret (2023) By Kelly Fremon Craig
 Armageddon (1998) By Michael Bay (Watched)
 Around The World In 80 Days (1956) By Michael Anderson
 ARQ (2016) By Tony Elliott
+Arsenal (2017) By Steven C. Miller
 Arthur (1981) By Steve Gordon
 Arthur And The Invisibles (2006) By Luc Besson
 As Above / So Below (2014) By John Erick Dowdle
@@ -249,6 +250,7 @@ Bachelor Party (1984) By Neal Israel
 Back To The Future (1985) By Robert Zemeckis
 Back To The Future Part II (1989) By Robert Zemeckis
 Back To The Future Part III (1990) By Robert Zemeckis
+Backtrace (2018) By Brian A. Miller
 Bad Boys (1995) By Michael Bay
 Bad Boys II (2003) By Michael Bay
 Bad Company (1999) By Joel Schumacher
@@ -330,6 +332,7 @@ Blithe Spirit (1945) By David Lean
 Blithe Spirit (2020) By Edward Hall
 Blockers (2018) By Kay Cannon (Watched)
 Blonde Ambition (2007) By Scott Marshall
+Blood Father (2016) By Jean - Francois Richet
 Blood Work (2002) By Clint Eastwood
 Blow (2001) By Ted Demme (Watched)
 Blue Beetle (2023) By Angel Manuel Soto (Watched)
@@ -540,6 +543,7 @@ Demolition Man (1993) By Marco Brambilla
 Desayuno Con Tiffany (Breakfast With Tiffany) (2014) By Andres Molano Moncada
 Desk Set (1957) By Walter Lang
 Desperate Hours (1990) By Michael Cimino
+Desperation Road (2023) By Nadine Crocker
 Despicable Me (2010) By Chris Renaud & Pierre Coffin
 Despicable Me 2 (2013) By Chris Renaud & Pierre Coffin
 Despicable Me 3 (2017) By Kyle Balda & Pierre Coffin (Watched)
@@ -887,6 +891,7 @@ Heart Of Stone (2023) By Tom Harper
 Heat (1995) By Michael Mann
 Heaven Can Wait (1978) By Buck Henry & Warren Beatty
 Heaven's Burning (1997) By Craig Lahiff
+Heist (2015) By Scott Mann
 Held Up (1999) By Steve Rash
 Helen Of Troy (1956) By Robert Wise
 Hellboy II: The Golden Army (2008) By Guillermo Del Toro
@@ -938,6 +943,8 @@ Husbands (1970) By John Casssavetes
 Hustlers (2019) By Lorene Scafaria (Watched)
 Hyde Park On Hudson (2012) By Roger Michell (Watched)
 I Am Legend (2007) By Francis Lawrence (Watched)
+I Am Wrath (2016) By Chuck Russell
+Idiocracy (2006) By Mike Judge
 I Heart Huckabees (2004) By David Owen Russell (Watched)
 I Love You, Beth Cooper (2009) By Chris Columbus
 Ice Age (2002) By Carlos Saldanha & Chris Wedge
@@ -1220,6 +1227,7 @@ Man Of Steel (2013) By Zack Snyder
 Man On Fire (1987) By Elie Chouraqui
 Man On Fire (2004) By Tony Scott
 Man On The Moon (1999) By Milos Forman
+Marathon Man (1976) By John Schlesinger
 Marauders (2016) By Steven C. Miller
 Marci X (2003) By Richard Benjamin
 Maria Full Of Grace (2004) By Joshua Marston
@@ -1784,6 +1792,7 @@ Tenderness (2009) By John Polson
 Tequila (2011) By Sergio Sanchez Suarez
 Terminal Velocity (1994) By Deran Sarafian
 Terminator Salvation (2009) By Joseph McGinty Nichol
+Term Life (2016) By Peter Billingsley
 Terms Of Endearment (1983) By James Lawrence Brooks 
 Tesoros (2017) By Maria Novaro
 Tetris (2023) By Jon S. Baird
@@ -2056,6 +2065,7 @@ The Man From U. N. C. L. E (2015) By Guy Ritchie
 The Man Who Came To Dinner (1942) By William Keighley (Watched)
 The Man With The Golden Arm (1955) By Otto Preminger
 The Man With The Iron Fists (2012) By RZA
+The Marksman (2021) By Robert Lorenz
 The Martain (2015) By Ridley Scott (Watched)
 The Mask (1994) By Chuck Russell
 The Matrix (1999) By Lana Wachowski & Lilly Wachowski
@@ -2461,3 +2471,4 @@ Zodiac (2007) By David Fincher
 Zona Hostil (Rescue Under Fire) (2017) By Adolfo Martínez Pérez
 Zoolander (2001) By Ben Stiller
 Zootopia (2016) By Byron Howard, Jared Bush & Rich Moore
+Zorba The Greek (1964) By Michael Cacoyannis

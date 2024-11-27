@@ -2,7 +2,7 @@
 100 Monologues: An Audition Sourcebook From New Dramatists By Laura Harrington (Have)
 101 Writing Tips By Travis Thrasher
 10% Happier: How I Tamed The Voice In My Head, Reduced Stress Without Losing My Edge, And Found Self - Help That Actually Works -- A True Sotry By Dan Harris
-11 / 22 / 63 By Stephen King
+11 / 22 / 63: A Novel By Stephen King
 13 Reasons Why By Jay Asher
 1408 By Stephen King
 150 Pounds: A Novel Of Waist And Measures By Kate Rockland
@@ -62,6 +62,7 @@ A Brief History Of Steven Killings By Marlon James
 A Bright Ray Of Darkness By Ethan Hawke
 A Bright Shining Lie: John Paul Vann And America In Vietnam By Neil Sheehan
 Absalom, Absalom! By William Faulkner
+Absence By Peter Handke
 Absence Of Mind: Dispelling Of Inwardness From The Modern Myth Of The Self By Marilynne Robinson
 Absolutely On Music: Conversations With Seiji Ozawa By Haruki Murakami
 Absolute Signal By Gao Xingjian
@@ -871,6 +872,7 @@ Blood And Guts In High School By Kathy Acker
 Blood And Smoke: A True Tale Of Mystery, Mayhem, Amd The Birth Of The Indy 500 By Charles Leerhsen
 Bloodchild And Other Stories By Octavia Estelle Butler
 Blood Debt (Victor The Assassin, #11) By Tom Wood
+Blood Father By Peter Craig
 Blood Harvest By James Arthur Moore
 Bloodlines By James Arthur Moore
 Blood Meridian (Or, The Evening Redness In The West) By Cormac McCarthy (Read)
@@ -1776,6 +1778,7 @@ Excerpt From A Feast For Crows By George Raymond Richard Martin
 Exhalation: Stories By Ted Chiang
 Ex - Heroes (Ex - Heroes, #1) By Peter Clines
 Exit West By Mohsin Hamid
+Exoskeleton By Shane Stadler
 Expensive People By Joyce Carol Oates
 Experience By Martin Amis
 Exploits And Adventures Of Brigadier Gerard By Sir Arthur Conan Doyle
@@ -1891,7 +1894,7 @@ Five - Carat Soul By James McBride
 Five Seasons By Abraham B. Yehoshua
 Five Short Novels By Doris Lessing
 Five Spice Street By Can Xue
-Five - Star Stranger By Kat Tang
+Five - Star Stranger: A Novel By Kat Tang
 Fixed Ideas By Joan Didion
 Flamboyants: The Queer Harlem Renaissance I Wish I'd Known By George M. Johnson
 Flappers And Philosophers By Francis Scott Key Fitzgerald
@@ -2006,6 +2009,7 @@ Funny Story By Emily Henry
 Further Tales Of The City (Tales Of The City, #3) By Armistead Maupin
 Fury By Salman Rushdie
 Future Shock By Alvin Toffler
+Fuzz: When Nature Breaks The Law By Mary Roach
 Gabriel García Márquez: The Last Interview: And Other Conversations By Gabriel García Márquez
 Gagamba By Francisco Sionil José
 Galápagos Regained By James K. Morrow
@@ -2341,6 +2345,7 @@ Horse Under Water (Secret File, #2) By Len Deighton
 Hotel Iris By Yōko Ogawa
 Hotel On The Corner Of Bitter And Sweet By Jamie Ford
 Hotel Savoy By Joseph Roth
+Hot Plastic By Peter Craig
 Hour Of The Olympics (Magic Tree House, #16) By Mary Pope Osborne
 Hour Of The Witch: A Novel By Chris Bohjalian
 Housekeeping By Marilynne Robinson
@@ -2723,6 +2728,7 @@ Karaoke Culture By Dubravka Ugrešić
 Karate Chop: Stories By Dorthe Nors (Have)
 Karate Is A Thing Of The Spirit: A Novel By Harry Crews
 Karnak Cafe By Naguib Mahfouz
+Kaspar And Other Plays By Peter Handke
 Katalin Street By Magda Szabó
 Kathie Y El Hipopotamo (ES) By Mario Vargas Llosa
 Kathleen, Please Come Home By Scott O'Dell
@@ -3170,6 +3176,7 @@ Maps By Nuruddin Farah
 Marʼah Wa - Al - Ṣ̣iraʻ Al - Nafsī (AR) By Nawal El Saadawi
 Mara And Dann: An Adventure By Doris Lessing
 Ma'rakah Jadiadah Fi Qadiyat Al - Mar'ah (AR) By Nawal El Saadawi
+Marathon Man By William Goldman
 Marcel Duchamp, Appearance Stripped Bare By Octavio Paz
 March Book: Poems By Jesse Ball
 March By Geraldine Brooks
@@ -3248,6 +3255,7 @@ Memories Of My Melancholy Whores: A Novel By Gabriel García Márquez (Read)
 Memories Of My Youth By José Saramago
 Memory Lane By Patrick Modiano
 Memory Of Departure By Abdulrazak Gurnah (Read)
+Memphis: A Novel By Tara M. Stringfellow
 Men In The Off Hours By Anne Carson
 Men Without Ears (1984) By Ifeoma Okoye
 Men Without Women: Stories By Haruki Murakami (Read)
@@ -3695,6 +3703,7 @@ On A Dark Night I Left My Silent House By Peter Handke
 On Anarchism By Noam Chomsky
 On A Slow Train Through Arkansaw By Thomas William Jackson
 On Boxing By Joyce Carol Oates
+Once Again For Thucydides By Peter Handke
 Once There Was A War: Stories By John Steinbeck (Read)
 Once Upon A Time In The North (His Dark Materials, #0.5) By Philip Pullman
 On Chesil Beach By Ian McEwan
@@ -3838,6 +3847,7 @@ Pataphysics: A Useless Guide By Andrew Hugill
 Pat Of Silver Bush By Lucy Maud Montgomery
 Patriot Number One: American Dreams In Chinatown By Lauren Hilgers
 Paul Takes The Form Of A Mortal Girl By Andrea Lawlor
+Pavane By Keith Roberts
 Pawana By Jean - Marie Gustave Le Clézio
 Payback: Debt And The Shadow Side Of Wealth By Margaret Atwood
 Peace And Its Discontents: Essays On Palestine In The Middle East Peace Process By Edward Wadie Said
@@ -4102,6 +4112,7 @@ Real Tigers (Slough House, #3) By Mick Herron
 Reason By Isaac Asimov
 Rebecca By Daohne Du Maurier
 Rechnitz And The Merchant's Contracts By Elfriede Jelinek
+Reconstruction: America's Unfinished Revolution, 1863 - 1877 By Eric Foner
 Record Of A Night Too Brief: Stories By Hiromi Kawakami (Read)
 Re: Creation: Poems By Nikki Giovanni
 Recursion By Blake Crouch
@@ -4129,6 +4140,7 @@ Remembrance And Pantomime By Derek Walcott
 Rem: Roman By Mircea Cărtărescu
 Rendezvous With Rama By Sir Arthur Charles Clarke
 Rental Person Who Does Nothing: A Memoir By Shoji Morimoto
+Repetition By Peter Handke
 Representative Photoplays Analyzed By Scott O'Dell
 Republic By Plato
 Requiem For A Dream By Hubert Selby Jr.
@@ -4569,6 +4581,7 @@ South Pole Station By Ashley Shelby
 South Sea Tales By Robert Louis Stevenson (Have)
 Sovereign Body (2004) By Tanure Ojaide
 So You Don't Get Lost In The Neighborhood: A Novel By Patrick Modiano
+So You Wanna Run A Country By Kevin Holohan
 Space Opera By Catherynne M. Valente
 Space Raptor Butt Invasion By Chuck Tingle
 Space Struck: Poems By Paige Lewis
@@ -4744,6 +4757,7 @@ Tamar By Mal Peet
 Tampa By Alissa Nutting
 Tar Baby By Toni Morrison (Have) (Read)
 Targeted (Callahan & McLane, #4) By Kendra Elliot
+Tartufo By Kira Jane Buxton
 Tarzan Of The Apes (Tarzan, #1) By Edgar Rice Burroughs (Read)
 Teachings From The Worldly Philosophy By Robert Louis Heilbroner
 Teach Us To Outgrow Our Madness: Four Short Novels By Kenzaburō Ōe
@@ -5057,7 +5071,7 @@ The Castle Of Otranto By Horace Walpole
 The Casuarina Tree By William Somerset Maugham
 The Casual Vacancy By Joanne Rowling
 The Catch (Slough House, #6.5) By Mick Herron
-The Catcher Of The Rye By Jerome David Salinger (Read) (Fav)
+The Catcher In The Rye By Jerome David Salinger (Read) (Fav)
 The Cats In Krasinki Square By Karen Hesse
 The Cave By José Saramago
 The Caves Of Steel By Isaac Asimov
@@ -5524,6 +5538,7 @@ The Goddesses By Guo Moruo
 The Goddess Of Buttercup & Daisies By Martin Millar
 The God Delusion By Richard Dawkins
 The Godfather By Mario Puzo
+The God Of The Woods By Liz Moore
 The God Stealer By Francisco Sionil José
 The Gods Themselves By Isaac Asimov
 The Golden Apples By Eudora Welty (Have)
@@ -5751,6 +5766,7 @@ The Journeyman Years: Culture, Society, Literature, And Art By Derek Walcott
 The Journeyman Years: Occasional Prose 1957 - 1974 By Derek Walcott
 The Journey Of A Caribbean Writer By Maryse Condé
 The Joy Luck Club By Amy Tan (Read) (Fav)
+The Jukebox And Other Essays On Storytelling By Peter Handke
 The Jungle Book By Rudyard Kipling (Read)
 The Kamogawa Food Detectives: Stories By Hisashi Kashiwai (Have) (Read)
 The Keepsake (Rizzoi & Isles, #7) By Tess Gerritsen (Have) (Read)
@@ -5889,6 +5905,7 @@ The Lost Journals Of Sacajewea By Debra Magpie Earling
 The Lost Landscape: A Writer's Coming Of Age By Joyce Carol Oates
 The Lost Sisters (The Folk Of The Air, #1.5) By Holly Black
 The Lost Writings By Franz Kafka (Read)
+The Love Elixir Of Augusta Stern By Lynda Cohen Loigman
 The Lovely Bones: A Novel By Alice Sebold
 The Love Of A Bad Man: Stories By Laura Elizabeth Woollett
 The Love Of A Good Woman By Alice Munro
@@ -6338,6 +6355,7 @@ The Revolt Of The Angels By Anatole France
 The Revolution Of The Moon By Andrea Camilleri
 The Rhine River Job (Case Lee, #11) By Vince Milam
 The Rice Sprout Song By Eileen Chang
+The Ride Across Lake Constance And Other Plays By Peter Handke
 The Right Stuff By Tom Wolfe
 The Ring Of Solomon (Bartimaeus, #0.5) By Jonathan Stroud
 The Rise And Fall Of D.O.D.O. By Neal Stephenson
@@ -6467,6 +6485,7 @@ The Singer's Gun By Emily St. John Mandel
 The Singers Talk: The Greatest Singers Of Our Time Discuss The One Thing They're Never Asked About: Their Voice By Jason Thomas Gordon
 The Sirens Of Titan By Kurt Vonnegut
 The Sirian Experiments By Doris Lessing
+The Situation Room: The Inside Story Of Presidents In Crisis By George Stephanopoulos
 The Six Companions And The Man With The Glove By Paul - Jacques Bonzon
 The Skeptics' Guide To The Universe: How To Know What's Really Real In A World Increasingly Full Of Fake By Steven Novella
 The Skin And Its Girl By Sarah Cypher
@@ -7345,6 +7364,7 @@ Waywaya, And Other Stories By Francisco Sionil José
 We A BaddDDD People: Poems By Sonia Sanchez
 We Are All Completely Beside Ourselves By Karen Joy Fowler
 We Are An Image From The Future: The Greek Revolt Of December 2008 By A.G. Schwarz, Tasos Sagris & Void Network (Have)
+We Are Home: Becoming American In The 21st Century: An Oral History By Ray Suarez
 We Are The Change We Seek: The Speeches Of Barack Obama By Eugene Joseph "E. J." Dionne, Jr. & Joy - Ann Reid
 We Are The Crisis By Cadwell Turnbull
 We Are What We Pretend To Be: The First And Last Works By Kurt Vonnegut (Read)
@@ -7651,5 +7671,6 @@ Zone One By Colson Whitehead
 Zoo Quest For A Dragon By David Attenborough
 Zoo Station (John Russell, #1) By David Downing
 Zora, A Cruel Tale By Philippe Arseneault
+Zorba The Greek By Nikos Kazantzakis
 Zuleika Dobson By Max Beerbohm
 Zulus By Percival Everett
