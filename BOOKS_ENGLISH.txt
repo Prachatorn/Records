@@ -427,6 +427,7 @@ Animal Clocks And Compasses By Margaret O. Hyde
 Animal Dreams: A Novel By Barbara Kingsolver
 Animal Farm By George Orwell (Read)
 Animalinside By Laszlo Krasznahorka
+Animal Liberation By David Singer & Peter Albert
 Animal Man (The New 52) Volume 1: The Hunt By Jeff Lemire & Travel Foreman (Read)
 An Incomplete Theory: The Search For Quantum Gravity By Megan Henry
 An Interview With Toni Morrison By Toni Morrison
@@ -440,6 +441,7 @@ Annals Of The Cakchiquels By Francisco Diaz Gebuto Quej and Francisco Hernandez 
 Anne Of Green Gables (Anne Of Green Gables, #1) By Lucy Maud Montgomery (Read)
 Anne Of Windy Poplars (The Anne Of Green Gables Novels, #4) (Have) By Lucy Maud Montgomery
 Anne Perry Presents Malice Domestic: Stories By Anne Perry
+Annie Bot By Sierra Greer
 Annie John By Jamaica Kincaid
 Annihilation (Southern Reach, #1) By Jeff VanderMeer
 Ann Veronica By Herbert George Wells
@@ -712,6 +714,7 @@ Balikbayan: And, Muse: Two Plays By Francisco Sionil Jose
 Ballaciner (FR) By Jean - Marie Gustave Le Clezio
 Ballade Nocturne: Libretto For A Dance Performance By Gao Xingjian
 Ballad Of The Whiskey Robber: A Trob Story Of Bank Heists, Ice Hockey, Transylvanian Pelt Smuggling, Moonlighting Detectives, And Broken Hearts By Julian Rubinstein
+Ball Lightning By Cixin Liu
 Baltasar And Blimunda By Jose Saramago
 Baltics By Tomas Transtromer
 Balto Of The Blue Dawn (Magic Tree House, #54) By Mary Pope Osbourne
@@ -1418,6 +1421,7 @@ Death Is Not An Option By Suzanne Rivecca
 Death Of A Naturalist By Seamus Heaney
 Death Of A Ex - Minister By Nawal El Saadawi
 Death On Earth: Adventures In Evolution And Mortality By Jules Howard
+Death's End (Remembrance Of Earth's Past, #3) By Cixin Liu
 Death: Vintage Minis By Julian Barnes
 Death With Interruptions By Jose Saramago
 Death Without Company (Walt Longmire, #2) By Craig Johnson
@@ -1505,6 +1509,7 @@ Die Plebejer Proban Den Aufstand (DE) By Gunter Grass
 Dietro Le Parole (IT) By Claudio Magris
 Die Vorzuge Der Windhuhner (DE) By Gunter Grass
 Die Welt En Gros Und En Detail (DE) By Claudio Magris
+Different, Not Less: A Neurodivergent's Guide To Embracing Your True Self And Finding Your Happily Ever After By Chloe Hayden
 Difference And Repetition By Gilles Deleuze
 Different Seasons: Stories By Stephen King (Read)
 Difficult Daughters By Manju Kapur (Have)
@@ -1729,6 +1734,7 @@ End Zone By Don DeLillo
 Enemies, A Love Story By Isaac Bashevis Singer
 Enfances (FR) By Jean - Marie Gustave Le Clezio
 Enfermes Avec Un Seul Jouet (FR) By Juan Marse
+Engineering And The Mind's Eye By Eugene Shallcross Ferguson
 England, England By Julian Barnes
 English Creek By Ivan Doig
 Enigma Variations: A Novel By Andre Aciman
@@ -1805,6 +1811,7 @@ Excerpt From A Feast For Crows By George Raymond Richard Martin
 Exhalation: Stories By Ted Chiang
 Ex - Heroes (Ex - Heroes, #1) By Peter Clines
 Exit West By Mohsin Hamid
+Exordia By Seth Dickinson
 Exoskeleton By Shane Stadler
 Expensive People By Joyce Carol Oates
 Experience By Martin Amis
@@ -1914,6 +1921,7 @@ Fireworks By James Arthur Moore
 Fire Your Stock Analyst: Analyzing Stocks On Your Own By Harry Domash
 Firozeshah Bagh Ke Kisse (HI) By Rohinton Mistry
 First And Last Things By Herbert George Wells
+First Lie Wins By Ashley Elston
 First Love, Last Rites By Ian McEwan
 First Person Singular: Stories By Haruki Murakami (Read)
 First Person Sorrowful By Ko Un
@@ -2184,6 +2192,7 @@ Grim Reaper: End Of Days By Steve Alten
 Grimus: A Novel By Salman Rushdie (Read)
 Gringos By Charles Portis
 Grist Mill Road: A Novel By Christopher J. Yates
+Grit: The Power Of Passion And Perseverance By Angela Duckworth
 Growth Of The Soil By Knut Hamsun
 Grrm: A Retrospective By George Raymond Richard Martin
 Guerrillas By Sir Vidiadhar Surajprasad Naipaul
@@ -3105,6 +3114,7 @@ Los Jefes (ES) By Mario Vargas Llosa
 Los Misterios De Madrid (ES) By Antonio Munoz Molina
 Los Misterios De Rosario (ES) By Cesar Aira
 Los Signos En Rotacio N (ES) By Octavio Paz
+Lost Ark Dreaming By Suyi Davies Okungbowa
 Lost December By Richard Paul Evans (Have)
 Lost On Me By Veronica Raimo
 Love, Again By Doris Lessing
@@ -3474,6 +3484,7 @@ Mutmabungen Uber Einen Sabel (DE) By Claudio Magris
 My Absolute Darling By Gabriel Tallent
 My American Fictionary By Dubravka Ugresic
 My Antonia By Willa Cather
+My Beloved Monster By Caleb Carr
 My Beloved World By Sonia Sotomayor
 My Best Friend Is Invisible (Goosebumps, #57) By Robert Lawrence Stine
 My Brief History By Stephen Hawking
@@ -3718,6 +3729,7 @@ Odd Thomas By Dean Koontz
 Odes By Horace
 Odysseus Elytis, Selected Poems By Odysseas Elytis
 Of All That Ends By Gunter Grass
+Of Ants And Dinosaurs By Cixin Liu
 Officers And Gentlemen By Evelyn Waugh
 Officially Dead By Richard Prescott
 Off To Be The Wizard (Magic 2.0, #1) By Scott Meyer
@@ -4769,6 +4781,7 @@ Sun Yat Sen In Penang By Khoo Salma Nasution
 Super Extra Grande By Yoss
 Superman Doomed (The New 52) By Aaron Kuder, Charles Soule, Greg Pak, Ken Lashley, Scott Lobdell & Tony S. Daniel (Read)
 Supermarket By Logic
+Supernova Era By Cixin Liu
 Supreme Ambition: Brett Kavanaugh And The Conservative Takeover By Ruth Marcus
 Supreme Courtship By Christopher Buckley
 Surely You Can't Be Serious: The True Story Of Airplane! By David Zucker
@@ -4836,6 +4849,7 @@ Telephone By Percival Everett
 Telex From Cuba By Rachel Kushner
 Telling Times: Writing And Living, 1950 - 2008
 Tell Me A Story: Stories By Steven Bernard Miles Chimombo
+Tell Me Everything By Elizabeth Strout
 Temptation (Solitary Tales, #3) By Travis Thrasher
 Ten By Gretchen McNeil (Read)
 Tender Wings Of Desire By Harland Sanders
@@ -4900,6 +4914,7 @@ The Agenda: Inside The Clinton White House By Bob Woodward
 The Age Of Discontent By Dacia Maraini
 The Age Of Eisenhower: America And The World In The 1950s By William I. Hitchcock
 The Age Of Innocence By Edith Wharton
+The Age Of Magical Overthinking: Notes On Modern Irrationality By Amanda Montell
 The Alaska Job (Case, #12) By Vince Milam
 The Albertine Workout By Anne Carson
 The Alchemist By Paulo Coelho (Have)
@@ -5292,6 +5307,7 @@ The Dancing Mind By Toni Morrison
 The Dark By Sergio Chejfec
 The Dark Canoe By Scott O'Dell
 The Darkest Day (Victor The Assassin, #5) By Tom Wood
+The Dark Forest (Remembrance Of Earth's Past, #2) By Cixin Liu
 The Dark Half By Stephen King
 The Dark Horse (The Dark Horse, #1) By Josh Lanyon (Have)
 The Dark Horse (Walt Longmire, #5) By Craig Johnson
@@ -5384,6 +5400,7 @@ The Double Flame: Love And Eroticism By Octavio Paz
 The Double Tongue By William Golding
 The Do Over: A Novel BY Suzanne Park
 The Dragon Keeper (Rain Wild Chronicles, #1) By Robin Hobb
+The Dragonfly Gambit By A. D. Sui
 The Dramatic Literature Of Nawal El Saadawi: God Resigns And Isis By Nawal El Saadawi
 The Dreamers By Karen Thompson Walker
 The Dream Maker By Monica Hannan
@@ -5750,7 +5767,7 @@ The Hot Zone: A Terrifying True Story By Richard Preston
 The Hours Before Dawn By Celia Fremilin
 The House At The Edge Of Night By Catherine Banner
 The House Gun By Nadine Gordimer
-The House In The Cerulean Sea By Travis John Klune
+The House In The Cerulean Sea (Cerulean Chronicles, #1) By Travis John Klune
 The Housekeeper And The Professor By Yoko Ogawa
 The Housemaid By Freida McFadden
 The Housemaid Is Watching By Freida McFadden
@@ -5938,6 +5955,7 @@ The Lesser Bohemians By Elimear McBride
 The Lesson By Jesse Ball
 The Letters Of Martin Buber: A Life Of Dialogue By Martin Buber
 The Libant By Mircea Cartarescu
+The Librarian: The Fight Against Book Banning In America By Amanda Jones
 The Library Book By Susan Orlean
 The Library Of Broken Worlds By Dawn Johnson
 The Library Of Greek Mythology By Apollodorus
@@ -6013,6 +6031,7 @@ The Magic City By Edith Nesbit
 The Magician By Colm Toibin
 The Magician Of Lublin By Isaac Bashevis Singer
 The Magic Mountain By Thomas Mann
+The Magic Of Found Objects: A Novel By Maddie Dawson
 The Magic Strings Of Frankie Presto: A Novel By Mitch Albom
 The Magnificent Ambersons By Booth Tarkington
 The Magus By John Fowles
@@ -6048,6 +6067,7 @@ The Marbled Swarm: A Novel By Dennis Cooper
 The Marriages Between Zones Three, Four And Five By Doris Lessing
 The Marrow Thieves By Cherie Dimaline
 The Marquise Of O - And Other Stories By Heinrich Von Kleist (Have)
+The Mars House By Natasha Pulley
 The Martian By Andy Weir
 The Martian Chronicles By Ray Bradbury (Read)
 The Masque Of Africa: Glimpses Of African Belief By Sir Vidiadhar Surajprasad Naipaul
@@ -6089,6 +6109,7 @@ The Miner's Canary By Gerald Torres & Lani Guiner
 The Miniaturist By Jessie Burton
 The Minister's Wooing By Harriet Beecher Stowe (Have) (Read)
 The Ministry Of Pain By Dubravka Ugresic
+The Ministry Of Time By Kaliane Bradley
 The Miracle Cures Of Dr. Aira By Cesar Aira
 The Miracles Of The Namiya General Store By Keigo Higashino
 The Miraculous Journey Of Edward Tularne By Kate Dicamillo
@@ -6329,6 +6350,7 @@ The Power Of LightDer By Isaac Bashevis Singer
 The Power Of Thought: What It Is And What It Does By John Douglas Sterrett
 The Power Of Truth: Individual Problems And Possibilities By William George Jordan
 The Practice Of Autosuggestion By The Method Of Emile Coue By C. Harry Brooks
+The Practice, The Horizon, And The Chain By Sofia Samatar
 The Prairie By James Fenimore Cooper
 The Predator (Animorphs, #5) By Katherine Applegate
 The Predator: Hunters And Hunted: Official Movie Prequel By James Arthur Moore
@@ -6409,6 +6431,7 @@ The Recognition of Sakuntala By Kalidasa
 The Red And The Black By Stendhal
 The Red Badge Of Courage And Four Stories By Stepehen Crane (Have)
 The Red Collar By Colette Makray
+The Redemption Of Time (Rememberance Of Earth's Past, #4) By Baoshu
 The Red - Haired Woman By Orhan Pamuk
 The Red Passport: Stories By Katherine Shonk 
 The Red Pony By John Steinbeck (Read)
@@ -6538,6 +6561,7 @@ The Secret Of Hoa Sen: Poems By Nguyen Phan Que Mai
 The Secret Wife By Gill Paul
 The Seep By Chana Porter
 These Festive Nights By Marie - Claire Blais
+These Fragile Graces, This Fugitive Heart By Izzy Wasserstein
 The Seizure Of Power By Czeslaw Milosz
 The Sellout By Paul Beatty
 The Sense Of An Ending By Julian Barnes
@@ -6751,7 +6775,7 @@ The Third Victim (Quincy & Rainie, #2) By Lisa Gardner
 The Thorn In The Flesh By Robert Tillman Kendall
 The Threat (Animorphs, #21) By Katherine Applegate
 The Three - Arched Bridge BY Ismail Kadare
-The Three - Body Problem (Remembrance Of Earth's Past, #1) By Liu Cixin
+The Three - Body Problem (Remembrance Of Earth's Past, #1) By Liu Cixin (Read)
 The Three Way Tavern: Selected Poems By Ko Un (Read)
 The Thurber Carnival By James Thurber
 The Thursday Murder Club (Thursday Murder Club, #1) By Richard Osman
@@ -6868,6 +6892,7 @@ The Wanderer By Sharon Creech
 The Wanderer (Female Difficulties) By Fanny Burney
 The Wanderers (1969) By Ezekial 'Es'kia' Mphahlele
 The Wandering Border By Jean Kaplinski
+The Wandering Earth By Cixin Liu
 The Wandering Man In The Grande Ronde Valley By Riley O'Zerbe
 The Wangs Vs. The World By Jade Chang
 The War Against Cliche: Essays And Reviews, 1971 - 2000 BY Martin Amis
@@ -6897,6 +6922,7 @@ The Weather And Women Treat Me Fair By Percival Everett
 The Wedding By Elias Canetti
 The Wednesday Wars By Gary D. Schmidt
 The Weight Of Ink By Rachel Kadish
+The Weight Of Memories By Cixin Liu
 The Weight Of Oranges: Poems By Anne Michaels
 The Weight Of The World By Peter Handke
 The Well Of Life By Nawal El Saadawi
@@ -6935,6 +6961,7 @@ The Winds Of Winter (A Song Of Ice And Fire, #6) By George Raymond Richard Marti
 The Wind That Lays Waste By Selva Almada
 The Wind - Up Bird Chronicle By Haruki Murakami (Read)
 The Wings Of The Dove By Henry James (Have)
+The Wings Upon Her Back By Samantha Mills
 The Winners By Julio Cortazar
 The Winter Of Our Discontent By John Steinbeck
 The Winter Queen (Erast Fandorin Mysteries, #1) By Boris Akunin (Have)
@@ -7133,6 +7160,7 @@ Toddler - Hunting & Other Stories By Taeko Kono (Have)
 To Forteljingar (NO) By Jon Fosse
 To Free The Captives: A Plea For The American Soul By Tracy K. Smith
 To Heaven And Back: A Doctor's Extraordinary Account Of Her Death, Heaven, Angels, And Life Again: A True Story By Mary C. Neal
+To Hold Up The Sky By Cixin Liu
 To Kill A Mockingbird By Harper Lee (Read)
 Tokyo Decadence: 15 Stories By Ryu Murakami (Read)
 Tokyo Every After By Emiko Jean
@@ -7680,6 +7708,7 @@ Wizard Of The Crow: A Novel By Ngugi wa Thiong'o
 Wolf Hall By Hilary Mantel
 Wolf Hunt By Jeff Strand
 Wolken, Heim By Elfriede Jelinek
+Womb City By Tlotlo Tsamaase
 Woman And Chinese Modernity: The Politics Of Reading Between West And East By Rey Chow
 Woman And Sex By Nawal El Saadawi
 Woman At Point Zero By Nawal El Saadawi
