@@ -284,6 +284,7 @@ All Is Song By Samantha Harvey
 All My Puny Sorrows By Miriam Toews
 All Our Wrong Todays: A Novel By Elan Mastai
 All Out War: The Full Story Of How Brexit Sank Britain's Political Class By Tim Shipman
+Allow Me To Introduce Myself By Onyi Nwabineli
 All Quiet On The Western Front By Erich Maria Remarque (Read)
 All Souls By Javier Marias
 All Systems Red: The Murderbot Diaries By Martha Wells
@@ -571,6 +572,7 @@ Asleep: Stories By Banana Yoshimoto (Read)
 As Lie Is To Grin By Simeon Marsalis
 A Soldier's Embrace: Stories By Nadine Gordimer
 A Song For Lya And Other Stories By George Raymond Richard Martin
+A Sorceress Comes To Call By T. Kingfisher / Ursula Vernon
 A Sorrow Beyond Dreams By Peter Handke (Read)
 A Soviet Journey (1978) By Alex La Guma
 A Spare Life By Lidija Dimkovska
@@ -1440,6 +1442,7 @@ De La Mort Sans Exagerer (FR) By Wislawa Szymborska
 Delire D'Amour (FR) By Ian McEwan
 Deliverance By James Dickey
 Del Mino Al Bidasoa (ES) By Camilo Jose Cela
+Delphi By Clare Pollard
 Delusions Of Grandma By Carrie Fisher
 Demasiada Nieve Alrededor (ES) By Javier Marias
 Demon City By Shofu Muramatsu
@@ -1792,6 +1795,7 @@ Eusrace Chisholm And The Works By James Purdy
 Eustace And Hilda: A Trilogy By Leslie Poles Hartley
 Euthyphro By Plato
 Eva Trout By Elizabeth Bowen
+Evenings On A Farm Near Dikanka By Nikolai Gogol
 Evening Brings Everything Back By Jaan Kaplinski
 Eve Of The Emperor Penguin (Magic Tree House, #40) By Mary Pope Osbourne
 Evermore By Julian Barnes
@@ -2186,6 +2190,7 @@ Gregor And The Curse Of The Warmbloods (Underland Chronicles, #3) By Suzanne Col
 Gregor And The Marks Of Secret (Underland Chroncles, #4) By Suzanne Collins (Have)
 Gregor And The Prophecy Of Bane (Underland Chronicles, #2) By Suzanne Collins (Have)
 Grendel By John Gardner
+Greta & Valdin By Rebecca Kay Reilly
 Grey Bees By Andrey Kurkov
 Grimm Fairy Tales: Beyond Wonderland By Raven Gregory
 Grim Reaper: End Of Days By Steve Alten
@@ -2440,6 +2445,7 @@ Human Chain By Seamus Heaney
 Humani Generis By Pope Plus XII
 Humankind: A Hopeful History By Rutger Bregman
 Human Voices By Penelope Fitzgerald (Have)
+Hum By Helen Phillips
 Humiliated And Insulted By Fyodor Dostoevsky
 Hunger Games By Suzanne Collins (Read)
 Hunger Und Seide (DE) By Herta Muller
@@ -2559,6 +2565,7 @@ Ink Paintings By Gao Xingjian
 Inland By Gerald Murnane
 In Light Of India By Octavio Paz
 In Memoriam: An Authoritative Text, Backgrounds And Sources, Criticism By Alfred Tennyson
+In Memoriam: A Novel By Alice Winn
 In My Father's Court By Isaac Bashevis Singer
 Inner Workings: Literary Essays, 2000 - 2005 By John Maxwell Coetzee
 In Nomine Dei By Jose Saramago
@@ -2676,6 +2683,7 @@ Ithaca By Claire North
 Itinerary: An Intellectual Journey By Octavio Paz
 I, Tituba: Black Witch Of Salem By Maryse Conde
 It Lasts Forever And Then It's Over By Anne De Marcken
+It's Elementary By Elise Bryant
 It Starts With One: The Legend And Legacy of Linkin Park By Jason Lipshutz
 Itsy Bitsy: A Short Story By John Ajvide Lindqvist
 Ivanhoe By Walter Alva Scott
@@ -3721,6 +3729,7 @@ Obama's Wars By Bob Woodward
 Obasan By Joy Kogawa (Have)
 Objecto Quase By Jose Saramago
 Occasion For Loving By Nadine Gordimer
+Ocean's Godori By Elaine U. Cho
 O Charoun Kai E Thalassa Ton Paramythion (HI) By Salman Rushdie
 October Light By John Gardner
 Odd Apocalypse By Dean Koontz
@@ -4300,6 +4309,7 @@ Rules Of Civility By Amor Towles
 Ruletistul By Mircea Cartarescu
 Run: A Subject Seven Novel By James Arthur Moore
 Runaway: Stories By Alice Munro (Have)
+Running Close To The Wind By Alexandra Rowland
 Running Dog By Don DeLillo
 Running The Family Firm: How The Monarchy Manages Its Image And Our Money By Laura Clancy
 Run, River By Joan Didion
@@ -4543,6 +4553,7 @@ Slave Of My Thirst By Tom Holland
 Sleep, Death's Brother: A Child's Dream Instruction By Jesse Ball
 Sleeping Beauties By Stephen King
 Sleeping Beauty And The Airplane By Gabriel Garcia Marquez
+Sleeping Giants: A Novel By Rene Denfeld
 Sleeping On A Wire: Conversations With Palestinians In Israel By David Grossman
 Sleepless Nights By Elizabeth Nights
 Sleep No More: Six Murderous Tales By Phyllis Dorothy James
@@ -4604,6 +4615,7 @@ Someone By Robert Pinget
 Someone Knows My Name By Lawrence Hill
 Someone Talking To Sometime: Poems By Ama Ata Aidoo
 Someone To Run With By David Grossman
+Someone You Can Build A Nest In By John Wiswell
 Some People Need Killing: A Memoir Of Murder In My Country By Patricia Evangelista
 Somersault By Kenzaburo Oe (Read)
 Somerset And All The Maughams By Robin Maugham
@@ -4770,6 +4782,7 @@ Summer By Karl Ove Knasugard
 Summer Cooking By Elizabeth David
 Summer Of The Big Bachi By Naomi Hirahara (Have)
 Summer Reading By Jenn McKinlay
+Summer Romance By Annabel Monaghan
 Summer Sons By Lee Mandelo
 Sundown Towns: A Hidden Dimension Of American Racism By James W. Loewen
 Sunrise On The Veld By Doris Lessing
@@ -4844,6 +4857,7 @@ Team Of Rivals: The Politcal Genius Of Abraham Lincoln By Doris Kearns Goodwin
 Teardrop (7 Hours, #3) By Travis Thrasher
 Teatro Grottesco By Thomas Ligotti
 Tecumseh And The Prophet: The Shawnee Brothers Who Defied A Nation By Peter Cozzens
+Tehrangeles By Porochista Khakpour
 Telekond Ayia Triadasse (ET) By Jaan Kaplinski
 Telephone By Percival Everett
 Telex From Cuba By Rachel Kushner
@@ -4938,6 +4952,7 @@ The Android (Animorphs, #10) By Katherine Applegate
 The Andromeda Strain By Michael Crichton
 The Angel Esmeralda By Don DeLillo
 The Angel On The Roof: Stories By Russell Banks
+The Angel's Game By Carlos Ruiz Zafon
 The Angel Told Me To Tell You Good - Bye By Leia Stinnett
 The Animal Family By Randall Jarrell
 The Animals In That Country By Margaret Atwood
@@ -5074,6 +5089,7 @@ The Bonesetter's Daughter By Amy Tan (Read)
 The Bones Of Paris (Harris Stuyvesant, #2) By Laurie R. King
 The Booklover's Library: A Novel By Madeline Martin
 The Book Of Chilam Balam Of Chumayel By Anonymous
+The Book Of Doors: A Novel By Gareth Brown
 The Book Of Elsewhere By China Mieville & Keanu Reeves
 The Book Of Flights By Jean - Marie Gustave Le Clezio
 The Book Of Form And Emptiness By Ruth Ozeki
@@ -5098,6 +5114,7 @@ The Books Of Jacob By Olga Tokarczuk
 The Book That Wouldn't Burn By Mark Lawrence
 The Book Thief By Markus Zusak (Read)
 The Border Trilogy By Cormac McCarthy
+The Borrowed Life Of Frederick Fife: A Novel By Anna Johnston
 The Bostonians By Henry James (Have)
 The Bounty By Derek Walcott
 The Bow And The Lyre By Octavio Paz
@@ -5585,6 +5602,7 @@ The Garden Of Evening Mists By Tan Twan Eng
 The Garden Of Science By Czeslaw Milosz
 The Garden Party And Other Stories By Katherine Mansfield
 The Garlic Ballards By Mo Yan
+The Gathering: A Novel By C. J. Tudor
 The Gay Science By Friedrich Nietzche
 The General In His Labyrinth By Gabriel Garcia Marquez
 The General Of The Dead Army By Ismail Kadare
@@ -5798,6 +5816,7 @@ The Husband By Dean Kootz
 The Husbands: A Novel By Holly Gramazio
 The Hyena Wears Darkness: Stories By Steven Bernard Miles Chimombo
 The Ice Dragon By George Raymond Richard Martin
+The Idea Of Perfection By Kate Grenville
 The Ides Of March By Thornton Wilder
 The Idiot By Elif Batuman
 The Illegal By Lawrence Hill
@@ -6067,7 +6086,7 @@ The Marbled Swarm: A Novel By Dennis Cooper
 The Marriages Between Zones Three, Four And Five By Doris Lessing
 The Marrow Thieves By Cherie Dimaline
 The Marquise Of O - And Other Stories By Heinrich Von Kleist (Have)
-The Mars House By Natasha Pulley
+The Mars House: A Novel By Natasha Pulley
 The Martian By Andy Weir
 The Martian Chronicles By Ray Bradbury (Read)
 The Masque Of Africa: Glimpses Of African Belief By Sir Vidiadhar Surajprasad Naipaul
@@ -6268,6 +6287,7 @@ The Painters From Shanghai By Jennifer Cody Epstein (Have)
 The Palace Of Dreams By Ismail Kadare
 The Panda's Thumb: More Reflections In Natural History By Stephen Jay Gould
 The Paper Men By William Golding
+The Paper Palace: A Novel By Miranda Cowley Heller
 The Paradise By Emile Zola
 The Paranormal Ranger: A Navajo Investigator's Search For The Unexplained By Stanley Milford Jr.
 The Parife By Paula McLain
@@ -6362,6 +6382,7 @@ The Prey Of Gods By Nicky Drayden
 The Price Of Paradise By Susana Lopez Rubio
 The Price Of Paradise: The Magazine Career Of F. Scott Fitzgerald By Stephen W. Pottis
 The Price Of Politics By Bob Woodward
+The Price Of Salt By Claire Morgan / Patricia Highsmith
 The Price Of Salt (The Grim Arcana, #1) By Geoffrey Thorne
 The Price Was High: The Last Uncollected Stories Of F. Scott Fitzgerald By Francis Scott Key Fitzgerald
 The Prime Of Miss Jean Brodie By Dame Muriel Spark (Read)
@@ -6459,6 +6480,7 @@ The Rest Of The Robots (Robot, #0.2) By Isaac Asimov
 There There By Tommy Orange
 The Retrospective By Abraham B. Yehoshua
 The Return (Animorphs, #48) By Katherine Applegate By Sir Vidiadhar Surajprasad Naipaul
+The Return Of Ellie Black: A Novel By Emiko Jean
 The Return Of Eva Peron, With The Killings In Trinidad
 The Return Of Tarzan (Tarzan, #2) By Edgar Rice Burroughs (Have)
 The Return Of The Caravels By Antonio Lobo Antunes
@@ -6510,6 +6532,7 @@ The Running Man By Stephen King
 The Russian Bride: A Thriller By Ed Kovacs
 The Sacrifice By Joyce Carol Oates
 The Sacrifice (Animorphs, #52) By Katherine Applegate
+The Safekeep: A Novel By Yael Van Der Wouden (Read)
 The Saga Of Tanya The Evil 1: Deus Lo Vuit By Carlo Zen (Have)
 The Sailor From Gibraltar By Marguerite Duras
 The Saint Of Bright Doors By Vajra Chandrasekera (Read)
@@ -6655,6 +6678,7 @@ The Space Merchants (The Space Merchants, #1) By Cyril M. Kornbluth & Frederik P
 The Spanish Smile By Scott O'Dell
 The Sparrow By Mary Doria Russell
 The Spear Cuts Through Water: A Novel By Simon Jimenez (Read)
+The Spellshop By Sarah Beth Durst
 The Spinoza Of Market Street By Isaac Bashevis Singer
 The Spire By William Golding
 The Spirit Catches You And You Fall Down By Anne Fadiman
@@ -6782,6 +6806,7 @@ The Thursday Murder Club (Thursday Murder Club, #1) By Richard Osman
 The Time And The Place And Other Stories By Nagiub Mahfouz
 The Time Machine By Herbert George Wells (Read)
 The Time Of The Hero By Mario Vargas Llosa
+The Times Of Their Lives: Life, Love, And Death In Plymouth Colony By James Deetz & Patricia Deetz
 The Tin Drum By Gunter Grass
 The Tin Flute By Gabrielle Roy (Have) (Read)
 The Tipping Point: How Little Things Can Make A Big Difference By Malcolm Gladwell
@@ -6821,6 +6846,7 @@ The True Adventures Of John Steinbeck By Jackson J. Benson
 The True Meaning Of Smekday By Adam Rex
 The True Queen (Sorcerer Royal, #2) By Zen Cho
 The Truth About Stories: A Native Narrative By Thomas King (Have)
+The Truth According To Ember By Danica Nava
 The Tunnel By William Howard Gass
 The Turner House By Angela Flournoy
 The Turning: Ghost Stories By Henry James (Read)
@@ -6874,6 +6900,7 @@ The Vice - Consul By Marguerite Duras
 The Victorian City: Everday Life In Dickens' London By Judith Flanders
 The Victorians By Andrew Norman Wilson
 The View From Castle Rock By Alice Munro
+The View Was Exhausting By Mikaelia Clements & Onjuli Datta
 The Village Boy (1978) By Ifeoma Okoye
 The Village Of Stepanchikovo By Fyodor Dostoevsky
 The Village On Horseback: Prose and Verse, 2003 - 2008 By Jesse Ball
@@ -6930,6 +6957,7 @@ The Werewolf In The Living Room (Goosebumps 2000, #17) By Robert Lawrence Stine
 The Werewolf Of Fever Swamp (Goosebumps, #14) By Robert Lawrence Stine
 The Western Star (Walt Longmire, #13) By Craig Johnson
 The Western Wind By Samantha Harvey
+The Whalebone Theatre By Joanna Quinn
 The Wheels Of Chance By Herbert George Wells
 The Whispering Room By Dean Koontz
 The Whistling Season By Ivan Doig
@@ -7339,6 +7367,7 @@ Un Mundo Para Julius (ES) By Alfredo Bryce Echenique
 Unnatural Exposure (Kay Scarpetta, #8) By Patricia Cornwell
 Unnatural Habits (Phryne Fisher, #19) By Kerry Greenwood
 Unseen Hand: Poems By Adam Zagajewski
+Unsettled Ground By Claire Fuller
 Until Stones Become Lighter Than Water By Antonio Lobo Antunes
 Untitled Novel: Rohinton Mistry BY Rohinton Mistry
 Unto Death By Amos Oz
@@ -7381,6 +7410,7 @@ Vendredi Ou Les Limbes Du Pacifique (FR) By Michel Tournier (Have)
 Venice, An Interior By Javier Marias
 Ventanas De Manhattan (ES) By Antonio Munoz Molina
 Venus Among The Fishes By Scott O'Dell
+Venus In Furs By Leopold Von Sacher - Masoch
 Vermeerloren In Amerika. Vom Schtetl In Die Neue Welt (DE) By Isaac Bashevis Singer
 Veronica Franco Courtesan And Poet By Dacia Maraini
 Ver's Hat: The Seventeenth Century And The Dawn Of The Global World By Timothy Brook
@@ -7429,6 +7459,7 @@ Visiting Mrs. Nabokov By Martin Amis
 Visser (Animorphs, #35.5) By Katherine Applegate
 Visual Thinking: The Hidden Gifts Of People Who Think In Pictures, Patterns, And Abstractions By Betsy Lerner & Temple Grandin (Read)
 Viva Sandino (ES) By Gabriel Garcia Marquez
+Vladimir By Julia May Jones
 Vladimir Nabokov: Selected Letters, 1940 - 1977 By Vladimir Nabokov
 Vocabulum: Or, The Rogue's Lexicon By George Washington Matsell
 Voice Of America: Stories By E. C. Osondu
@@ -7806,7 +7837,8 @@ Zen. Jurnal 2004 - 2010 (RU) By Mircea Cartarescu
 Zen Pencils: Cartoon Quotes From Inspirational Folks By Gavin Aung Than
 Zero Fighter By Akira Yoshimura
 Zero K By Don DeLillo
-Z For Zachariah By Robert Leslie Carroll Conly / Robert C. O'Brien
+Zero Stars Do Not Reccomend: A Novel By M. J. Wassmer
+Z For Zachariah By Robert Leslie Carroll Conly & Robert C. O'Brien
 Zia By Scott O'Dell
 Ziemia Ognista (PO) By Adam Zagajewski
 Zinky Boys: Soviet Voices From The Afghanistan War By Svetlana Alexievich (Read) (Fav)
