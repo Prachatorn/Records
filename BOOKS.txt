@@ -24,6 +24,7 @@
 40 By Travis Thrasher
 4 3 2 1: A Novel By Paul Auster
 5 Days That Shook The World By Alexander Cockburn, Allan Sekula & Jeffrey St. Clair (Have)
+60 Songs That Explain The '90s By Rob Harvilla
 76 Minutes: My Search For Andrew, Alexander And Tanner Skelton By Lynn Thompson
 77 Shadow Street By Dean Koontz
 7 Hours Omnibus By Mike Dellosso, Rene Gutteridge, Tom Parlick & Travis Thrasher
@@ -464,6 +465,7 @@ Anthills Of The Savannah By Chinua Achebe
 Anthology Of Japanese Literature By Donald Keene
 Anthology Of Mexican Poetry By Octavio Paz
 Anticipations By Herbert George Wells
+Antidemocratic: Inside The Far Right's 50 - Year Plot To Control American Elections By David Daley
 An Unfinished Love Story: A Personal History Of The 1960s By Doris Kearns Goodwin
 Anweisungen An Die Krokodile (DE) By António Lobo Antunes
 Anxiety: A Philosophical Guide By Samir Chopra (Read)
@@ -696,6 +698,7 @@ Baba Yaga Laid An Egg By Dubravka Ugrešić
 Babbitt By Sinclair Lewis (Have)
 Babel In Zion: Jews, Nationalism, And Language Diversity in Palestine, 1920 - 1948 By Liora R. Halperin
 Baby Don't Hurt Me: Stories And Scars From Saturday Night Live By Chris Kattan, Seth Meyers & Travis Thrasher
+Babylonia By Costanza Casati
 Back To Before (Animorphs, #40.5) By Katherine Applegate
 Backyards To Ballparks: More Personal Baseball Stories From The Stands And Beyond By Eric C. Gray
 Bacon: Portraits and Self - Portraits By Milan Kundera
@@ -763,6 +766,7 @@ Be Careful What You Wish For... (Goosebumps, #12) By Robert Lawrence Stine
 Because It Is Bitter, And Because It Is My Heart By Joyce Carol Oates
 Becoming A Heroine By Rachel M. Brownstein
 Becoming Human: A Theory Of Ontogeny By Michael Tomasello
+Becoming Madam Secretary By Stephanie Dray
 Bednye Rodstvenniki. Rasskazy (CCCP) By Lyudmila Ulitskaya
 Bedtime Stories: The Junior Novel By Helena Mayer (Have)
 Beethoven Was One - Sixteenth Black By Nadine Gordimer
@@ -782,6 +786,7 @@ Being And Nothingness By Jean - Paul Sartre
 Being Dead: A Novel By Jim Crace
 Being No One By Thomas Metzinger
 Bel Canto By Ann Patchett (Have)
+Believing The Lie By Elizabeth George
 Belinda By Maria Edgeworth
 Belle De Jour (FR) By Joseph Kessel
 Bellefleur By Joyce Carol Oates
@@ -844,6 +849,7 @@ Biography Of X By Catherine Lacey
 Birthday By César Aira
 Birth Of A Dream Weaver: A Writer's Awakening By Ngũgĩ Wa Thiong'o
 Birth Of A Nation'Hood: Gaze, Script, And Spectacle In The O. J. Simpson Case By Toni Morrison
+Bitch: On The Female Of The Species By Lucy Cooke
 Bite This (The Kutherian Gambit, #4) By Michael Anderle
 Bitna: Under The Sky Of Seoul By Jean - Marie Gustave Le Clézio
 Blackass By Adrian Igonibo Barrett
@@ -992,6 +998,7 @@ Bunny: A Novel By Mona Awad
 Bunte Steine By Adalbert Stifter
 Burger's Daughter By Nadine Gordimer
 Burmese Days By George Orwell (Read)
+Burn: A Novel By Peter Heller
 Burning Bright By John Steinbeck
 Burning Questions: Essays And Occasional Pieces 2004 - 2021 By Margaret Atwood
 Burn This Book By Toni Morrison
@@ -1457,6 +1464,7 @@ Demon Copperhead By Barbara Kingsolver
 Demons By Fyodor Dostoevsky
 Demon Seed By Dean Koontz (Read)
 Demian By Hermann Hesse
+Democracy Awakening: Notes On The State Of America By Heather Cox Richardson
 Democracy By Joan Didion
 Denton's Death By Martin Amis
 Depth Of Winter (Walt Longmire, #14) By Craig Johnson
@@ -2136,6 +2144,7 @@ God The Invisible King By Herbert George Wells
 Go Eat Worms! (Goosebumps, #21) By Robert Lawrence Stine
 Going After Cacciato By Tim O'Brien
 Going Crazy In Public (Mac Fortana, #4) By Earl Emerson
+Going Infinite: The Rise And Fall Of A New Tycoon By Michael Lewis
 Going To The Dogs By Julian Barnes
 GoldenEye (John Gardner's Bond, #15) By John Gardner
 Golden Girl By Juan Marsé
@@ -2391,6 +2400,7 @@ Home: Vintage Minis By Salman Rushdie
 Homie: Poems By Danez Smith
 Homo Deus: A Brief History Of Tomorrow By Yuval Noah Harari
 Honeymoon By Patrick Modiano
+Honor: A Novel By Thrity N. Umrigar
 Hope (Bernard Samson, #8) By Len Deighton
 Hopscotch By Julio Cortázar
 Hornblower And The Atropos By Cecil Louis Troughton Smith
@@ -2425,6 +2435,7 @@ How Much Of These Hills Is Gold By C Pam Zhang
 How Not To Kill Yourself: A Portrait Of The Suicidal Mind By Clancy Martin
 How The King Of Elfhame Learned To Hate: Stories (The Folk Of The Air, #3.5) By Holly Black
 How The Mind Works By Steven Pinker
+How The South Won The Civil War: Oligarchy, Democracy, And The Continuing Fight For The Soul Of America By Heather Cox Richardson
 How The Steel Was Tempered By Nikolai Ostrovsky
 How To Age Disgracefully By Clare Pooley
 How To Avoid A Climate Disaster: The Solutions We Have And The Breakthroughs We Need By Bill Gates
@@ -2608,6 +2619,7 @@ In The Days Of The Comet By Herbert George Wells
 In The Distance By Hernan Diaz
 In The First Circle By Aleksandr Solzhenitsyn
 In The Fog Of The Seasons' End (1972) By Alex La Guma
+In The Form Of A Question: The Joys And Rewards Of A Curious Life By Amy Schneider
 In The Fourth Year By Herbert George Wells
 In The Heart Of The Country By John Maxwell Coetzee
 In The Hour Of Crows By Dana Elmendorf
@@ -2943,6 +2955,7 @@ Leap Of Faith: My Journey To Become The Fastest American On Two Blades By Blair 
 Learning To Lean: True Stories Of God's Grace At Work Today By Carrie Fisher, Diana Florida, Jessica Meades & Karla Akins
 Learning To Talk: Stories By Hiliary Mantel (Read)
 Leaves Of Grass: Poems By Walt Whitman
+Leave The World Behind: A Novel By Rumaan Alam
 Le Bel Été (FR) By Cesare Pavese
 Le Chemin De Lacroix: Suivi De Goglu (FR) By Jean Barbeau (Have)
 Le Chercheur D'or (FR) By Jean - Marie Gustave Le Clézio
@@ -3028,6 +3041,7 @@ Libro De Cronicas (ES) By António Lobo Antunes
 Licks Of Love: Short Stories And A Sequel, "Rabit Remembered" By John Updike (Have)
 Lies And Prophecy (Wilders, #1) By Marie Brennan
 Lies, First Person By Gail Hareven
+Lies My Teacher Told Me: Everything Your American History Testbook Got Wrong By James W. Loewen
 Life 3.0: Being Human In The Age Of Artificial Intelligence By Max Tegmark
 Life Among The Savages By Shirley Jackson
 Life And Death Are Wearing Me Out By Mo Yan
@@ -3215,6 +3229,7 @@ Maisie Dobbs (Maisie Dobbs, #1) By Jacqueline Winspear
 Maison Dans La Derive (FR) By Marilynne Robinson
 Making The Arab World: Nasser, Qutb, And The Clash That Shaped The Middle East By Fawaz A. Gerges
 Making Waves (Beach Lane, #1) By Laura Moore
+Malas By Marcela Fuentes
 Malgudi Days: Stories By Rasipuram Krishnaswami Iyer Narayanaswami
 Mala Indole (ES) By Javier Marías
 Mama's Last Hug: Animal Emotions And What They Tell Us About Ourselves By Frans De Waal
@@ -3509,7 +3524,7 @@ Mutmaßungen Über Einen Säbel (DE) By Claudio Magris
 My Absolute Darling By Gabriel Tallent
 My American Fictionary By Dubravka Ugrešić
 My Ántonia By Willa Cather
-My Beloved Monster By Caleb Carr
+My Beloved Monster: Masha, The Half - Wild Rescue Cat Who Rescued Me By Caleb Carr
 My Beloved World By Sonia Sotomayor
 My Best Friend Is Invisible (Goosebumps, #57) By Robert Lawrence Stine
 My Brief History By Stephen Hawking
@@ -3695,6 +3710,7 @@ No One Writes To The Colonel, And Other Stories By Gabriel García Márquez
 No Place Like: Selected Stories By Nadine Gordimer
 Normal Accidents: Living With High - Risk Technologies By Charles Perrow
 Normal People: A Novel By Sally Rooney (Read)
+Norman Maclean: A Life Of Letters And Rivers By Rebecca McCarthy
 North By Seamus Heaney
 North And South By Elizabeth Gaskell
 Northanger Abbey, Lady Susan, The Watsons, And Sandition By Jane Austen
@@ -3814,6 +3830,7 @@ One Night In Brazil By Isaac Bashevis Singer
 One Of These Days By Gabriel García Márquez
 One Palestine, Complete: Jews And Arabs Under The British Mandate By Tom Segev
 One Summer In Savannah: A Novel By Terah Shelton Harris
+On Fascism: 12 Lessons From American History By Matthew C. MacWilliams
 On Freedom By Timothy Snyder
 Ongoingness By Sarah Manguso
 On Grief And Reason: Essays By Joseph Brodsky
@@ -4089,6 +4106,7 @@ Prairie Folks By Hamlin Garland
 Prairie Nocturne By Ivan Doig
 Pravda By Edward Docx
 Prelude To Foundation (Foundation, #6) By Isaac Asimov
+Prequel: An American Fight Against Fascism By Rachel Maddow
 Prescription Games: Money, Ego, And Power Inside The Global Pharmaceutica; Industry By Jeffrey Robinson
 Presence: Stories By Arthur Miller
 Preston Bound By Hernan Diaz
@@ -4104,6 +4122,7 @@ Private Demons: The Life Of Shirley Jackson By Judy Oppenheimer
 Prize Stock By Kenzaburō Ōe
 Probably Joy By José Saramago
 Pro Bono By Seicho Matsumoto
+Pro Bono By Thomas Perry
 Procedures For Underground By Margaret Atwood
 Prodigal Son By Dean Koontz
 Prodigal Son (Orphan X, #6) By Gregg Andrew Hurwitz
@@ -4188,6 +4207,7 @@ Ramsey Milholland By Booth Tarkington
 Ramyana: The Game Of Life By Shubha Vilas
 Random By Tom Leveen (Read)
 Rare Confidence: Strategies & Inspiration To Strengthen Your Belief That You Can Achieve Anything! By David Shirey
+Ratf**cked: The True Story Behind The Secret Plan To Steal America's Democracy By David Daley
 Rationality In Science, Religion, And Everyday Life By Mikael Stenmark
 Ratner's Star By Don DeLillo
 Raudt, Svart (NO) By Jon Fosse
@@ -4769,6 +4789,7 @@ Stowaway On Board By Dacia Maraini
 Straight Fiction By Martin Amis
 Straight Man By Richard Russo
 Strangers By Dean Koontz
+Strangers By Taichi Yamada
 Strangories For Children By Isaac Bashevis Singer
 Strange Pilgrims By Gabriel García Márquez
 Stranger In Paradise (Jesse Stone, #7) By Robert Brown Parker
@@ -4946,6 +4967,7 @@ The After Party By Anton DiSchalfani
 The Agenda: Inside The Clinton White House By Bob Woodward
 The Age Of Discontent By Dacia Maraini
 The Age Of Eisenhower: America And The World In The 1950s By William I. Hitchcock
+The Age Of Homespun: Objects And Stories In The Creation Of An American Myth By Laurel Thatcher Ulrich
 The Age Of Innocence By Edith Wharton
 The Age Of Magical Overthinking: Notes On Modern Irrationality By Amanda Montell
 The Alaska Job (Case, #12) By Vince Milam
@@ -5201,7 +5223,8 @@ The Celebration Of Insignificance By Milan Kundera
 The Celestial Plot: Stories By Adolfo Bioy Casares
 The Cementery Of Untold Stories By Julia Alvarez
 The Cement Garden By Ian McEwan
-The Chalk Man: A Novel By C.J. Tudor
+The Chalice Of The Gods By Rick Riordan
+The Chalk Man: A Novel By C. J. Tudor
 The Change (Animorphs, #13) By Katherine Applegate
 The Changeling By Kenzaburō Ōe
 The Changelings By Jo Sinclair
@@ -5309,7 +5332,7 @@ The Country Of Ice Cream Star By Sandra Newman
 The Country Of The Blind By Herbert George Wells
 The Country Of The Pointed Firs By Sarah Orne Jewett
 The Coupling Convention: Sex, Text, And Tradition In Black Women's Fiction By Ann DuCille
-The Covenant Of Water By Abraham Verghese
+The Covenant Of Water: A Novel By Abraham Verghese
 The Cow By Lydia Davis
 The Crack - Up: Essays By Francis Key Scott Fitgerald
 The Cradle Will Fall By Mary Higgins Clark
@@ -5498,6 +5521,7 @@ The Escape (Animorphs, #15) By Katherine Applegate
 The Essential Chomsky By Noam Chomsky
 The Essential Gesture By Nadine Gordimer
 The Essential Nawal El Saadawi: A Reader By Nawal El Saadawi
+The Ethnic Cleansing Of Palestine By Ilan Pappé
 The Evenings: A Winter's Tale By Gerard Reve
 The Everything Box (Another Coop Heist, #1) By Richard Kadrey
 The Execution Of Justice By Friedrich Dürrenmatt
@@ -5649,6 +5673,7 @@ The Girl On The Carpathia: A Novel Of The Titanic By Eileen Enwright Hodgetts
 The Girl On The Train By Paula Hawkins (Have)
 The Girls In The Picture By Melanie Benjamin
 The Girls Of Slender Means By Dame Muriel Spark
+The Girls Who Went Away: THe Hidden History Of Women Who Surrendered Children For Adoption In The Decades Before Roe V. Wade By Ann Fessler
 The Girl Who Came Home By Hazel Gaynor
 The Girl Who Can And Other Stories By Ama Ata Aidoo
 The Girl Who Cried Monster (Goosebumps, #8) By Robert Lawrence Stine
@@ -6103,6 +6128,7 @@ The Many Daughters Of Afong Moy By Jamie Ford
 The Mapmaker's Children By Sarah McCoy
 The Map Of Salt And Stars By Zeyn Joukhader
 The Marbled Swarm: A Novel By Dennis Cooper
+The Marriage Portrait By Maggie O'Farrell
 The Marriages Between Zones Three, Four And Five By Doris Lessing
 The Marrow Thieves By Cherie Dimaline
 The Marquise Of O - And Other Stories By Heinrich Von Kleist (Have)
@@ -6331,6 +6357,7 @@ The Penguin Dictionary Of Classical Mythology By Pierre Grimal
 The Penitent By Isaac Bashevis Singer
 The People's Republic Of Walmart: How The World's Biggest Corporations Are Laying The Foundation For Socialism By Leigh Phillips & Michal Rozworski
 The People's Train By Thomas Keneally
+The Peregrine Conjecture By Shane Stadler
 The Perfect Nanny: A Novel By Leïla Slimani
 The Perfect Nine By Ngũgĩ Wa Thiong'o
 The Perks Of Being A Wallflower By Charlie Kelmeckis
@@ -6400,6 +6427,7 @@ The Premonition By Banana Yoshimoto (Read)
 The Pretender (Animorphs, #23) By Katherine Applegate
 The Pretenders By Francisco Sionil José
 The Prey Of Gods By Nicky Drayden
+The Price Of Butcher's Meat By Reginald Hill
 The Price Of Paradise By Susana López Rubio
 The Price Of Paradise: The Magazine Career Of F. Scott Fitzgerald By Stephen W. Pottis
 The Price Of Politics By Bob Woodward
@@ -6447,6 +6475,7 @@ The Quest For Consciousness: A Neurobiological Approach By Christof Koch
 The Queue By Vladimir Sorokins
 The Quick & The Dead: A Novel By Jack Curtis (Have)
 The Qur'an By Muhammad (Have) (Read)
+The Rabbit Hutch By Tess Gunty
 The Race To Be Myself: A Memoir By Caster Semenya
 The Rachael Papers By Martin Amis
 The Radiance Of The King By Camara Laye
@@ -6716,6 +6745,7 @@ The Stand By Stephen King (Have)
 The Star Diaries: Further Reminiscences Of Lijon Tichy By Stanislaw Lem
 The Starless Sea By Erin Mordenstern
 The Stars My Destination By Alfred Bester (Have)
+The Stillwater Girls By Minka Kent
 The Stoic (Theodore Of Desire, #3) By Theodore Dreiser
 The Stone - Country (1967) By Alex La Guma
 The Stone Raft By José Saramago
@@ -6747,6 +6777,7 @@ The Strange Case Of Rachel K By Rachel Kushner
 The Strange Library By Haruki Murakami (Read)
 The Stranger By Albert Camus (Read)
 The Stranger (Animorphs, #7) By Katherine Applegate
+The Stranger In The Woods: The Extraordinary Story Of The Last True Hermit By Michael Finkel
 The Streets Of Panic Park (Goosebumps HorrorLand, #12) By Robert Lawrence Stine
 The Striker (Isaac Bell, #6) By Clive Cussler & Justin Scott (Read)
 The Studio By John Gregory Dunne
@@ -6821,6 +6852,7 @@ The Thorn In The Flesh By Robert Tillman Kendall
 The Threat (Animorphs, #21) By Katherine Applegate
 The Three - Arched Bridge BY Ismail Kadare
 The Three - Body Problem (Remembrance Of Earth's Past, #1) By Liu Cixin (Read)
+The Three Lives Of Cate Kay By Kate Fagan
 The Three Way Tavern: Selected Poems By Ko Un (Read)
 The Thurber Carnival By James Thurber
 The Thursday Murder Club (Thursday Murder Club, #1) By Richard Osman
@@ -7119,7 +7151,8 @@ This Could Hurt: A Novel By Jillian Medoff
 This House Of Sky By Ivan Doig
 This I Believe: Gleanings From A Life In Literature By Francisco Sionil José
 This Is A Photograph Of Me: Girl And Horse, 1928 By Margaret Atwood
-This Is Halloween By James Arthur Moore
+This Is Halloween By James Arthur 
+This Is How It Always Is By Laurie Frankel
 This Is How You Lose The Time War By Amal El - Mohtar & Max Gladstone
 This Is Me: Loving The Person You Are Today By Chrissy Metz
 This Is Not A Border: Reportage & Reflection From The Palestine Festival Of Literature By Alice Walker, China Miéville, Deborah Moggach, Henning Mankell, Jeremy Harding, John Maxwell Coetzee, Michael Ondaatje, Michael Palin, Teju Cole & William Sutcliffe
@@ -7595,6 +7628,7 @@ West Of Sadness By Odysseas Elytis
 West With Giraffes: A Novel By Lynda Rutledge
 We Tell Ourselves Stories In Order To Live By Joan Didion
 We Think The World Of You By Joe Randolph Ackerley
+We Used To Live Here By Marcus Kliewer
 We've Already Gone This Far: Stories By Patrick Dacey
 We Were Once A Family: A Story Of Love, Death, And Child Removal In America By Rozanna Asgarian
 We Were The Mulvaneys By Joyce Carol Oates
@@ -7675,6 +7709,7 @@ Where The Bird Sings Best By Alejandro Jodorowsky
 Where The Body Meets Memory By David Mura
 Where The Crawdads Sing By Delia Owens
 Where The Jackals Howl By Amos Oz
+Where The Lost Wander By Amy Harmon
 Where The Red Fern Grows By Wilson Rawls
 Where The Sun Rises And Where It Sets By Czesław Miłosz
 Where The Wild Coffee Grows: The Untold Story Of Coffee From The Cloud Forests Of Ethiopia To Your Cup By Jeff Koehler
