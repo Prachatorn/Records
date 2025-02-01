@@ -2305,6 +2305,7 @@ Hellbent (Orphan X, #3) By Gregg Andrew Hurwitz
 Hell House By Richard Matheson
 Hell Is Empty (Walt Longmire, #7) By Craig Johnson
 Hello Girls By Emily Henry
+Hell Or High Water: Surviving Tibet's Tsangpo River By Peter Heller
 Help - I'm Trapped In Obedience School By Todd Strasser (Have)
 Help Us To Divorce By Amos Oz
 Help Wanted: Orphans Preferred (Mac Fortana, #2) By Earl Emerson
@@ -2824,6 +2825,7 @@ Kidnapped: The Tragic Life Of J. Paul Getty III By Charles Fox
 Killers Of The Flower Moon: The Osage Murders And The Birth Of The FBI By David Grann
 Kill Me Now By Timmy Reed
 Killing The Messenger: The Right - Wing Plot To Derail Hilliary And Hijack Your Government By David Brock (Have)
+Killshot By Elmore Leonard
 Kill Without Joy!: The Complete How To Kill Book By John Minnery
 Kinder Than Solitude By Yiyun Li
 Kindness Goes Unpunished (Walt Longmire, #3) By Craig Johnson
@@ -2855,6 +2857,7 @@ Kolyma Tales By Variam Shalamov
 Komi Can't Communicate Vol. 1 By Tomohito Oda
 Koniec I Początek (PL) By Wisława Szymborska
 Kon - Tiki By Thor Heyerdahl (Have)
+Kook: What Surfing Taught Me About Love, Life, And Catching The Perfect Wave By Peter Heller
 Kopfgeburten Oder Die Deutschen Sterben Aus (DE) By Günter Grass
 Kultura Laži (RS) By Dubravka Ugrešić
 Kust Tuli Oo (ET) By Jaan Kaplinski
@@ -2879,6 +2882,7 @@ Lady Oracle By Margaret Atwood
 Lady Susan By Jane Austen
 Lady With Lapdog And Other Stories By Anton Chekhov
 La Exposicion (FR) By Claudio Magris
+Lafcadio: The Lion Who Shot Back By Shel Silverstein
 La Fête Chantée Et Autres Essais De Thème Amérindien (FR) By Jean - Marie Gustave Le Clézio
 La Fidélité Et Le Couple (FR) By Gérard Leleu
 La Fièvre (FR) By Jean - Marie Gustave Le Clézio
@@ -4485,6 +4489,7 @@ Serenity Falls By James Arthur Moore
 Serowe: Village Of The Rain Wind By Bessie Amelia "Emery" Head
 Serpentine (His Dark Material, #3.6) By Philip Pullman
 Serve The People! By Yan Lianke
+Set Free In China: Sojourns On The Edge By Peter Heller
 Sevastopol Sketches By Leo Tolstoy
 Seven Empty Houses By Samanta Schweblin
 Seven Forges (Seven Forges, #1) By James Arthur Moore
@@ -5192,6 +5197,7 @@ The Caliph's House By Tahir Shah
 The Calligraphy Of Dreams By Juan Marsé
 The Call Of The Toad By Günter Grass
 The Call Of The Wild By Jack London (Read)
+The Cambridge Companion To Kazuo Ishiguro By Andrew Bennett
 The Camel Club (The Camel Club, #1) By David Baldacci
 The Canterbury Tales By Geoffrey Chaucer
 The Cape And Other Stories From The Japanese Ghetto By Kenji Nakagami
@@ -5448,6 +5454,7 @@ The Doctor's Wife By Sawako Ariyoshi
 The Dodge City Trail (The Trail Drive, #08) By Ralph Compton (Have) (Read)
 The Dog Of The South By Charles Portis
 The Dogs Of Avalon: The Race To Save Animals In Peril By Laura Schenone
+The Dog Stars By Peter Heller
 The Doll By Boleslaw Prus
 The Doll By Ismail Kadare
 The Doll - Master: And Other Tales Of Terror By Joyce Carol Oates
@@ -5746,6 +5753,7 @@ The Ground Beneath Her Feet By Salman Rushdie
 The Group By Mary McCarthy
 The Grove Of Academe By Mary McCarthy
 The Growing Pains Of Adrian Mole (Adrian Mole, #2) By Sue Townsend (Have)
+The Guide By Peter Heller
 The Guinardó Beat By Juan Marsé
 The Guineveres By Sarah Domet
 The Gulf, And Other Poems By Derek Walcott
@@ -5985,6 +5993,7 @@ The Last Of The President's Men By Bob Woodward
 The Last Orphan (Orphan X, #8) By Gregg Andrew Hurwitz
 The Last Poems By Czesław Miłosz
 The Last Question By Isaac Asimov
+The Last Ranger By Peter Heller
 The Last Sacrifice: The Tides Of War By James Arthur Moore
 The Last Samurai By Helen DeWitt
 The Last Stand Of The DNA Cowboys By Mick Farren (Have)
@@ -6322,6 +6331,7 @@ The Other Side Of The World By Stephanie Bishop
 The Other Valley: A Novel By Scott Alexander Howard
 The Outcasts Of Poker Flat - The Luck Of Roaring Camp And Other Stories By Bret Harte (Have)
 The Outcry By Henry James
+The Outermost House By Henry Beston
 The Outsiders By Susan Eloise Hinton (Read)
 The Overcrowded Barracoon By Sir Vidiadhar Surajprasad Naipaul
 The Overstory By Richard Powers
@@ -6330,6 +6340,7 @@ The Pack By James Arthur Moore
 The Pages Of Day And Night By Adunis
 The Painted Bird By Jerzy Kosinski
 The Painted Drum By Louise Erdrich
+The Painter By Peter Heller
 The Painters From Shanghai By Jennifer Cody Epstein (Have)
 The Palace Of Dreams By Ismail Kadare
 The Panda's Thumb: More Reflections In Natural History By Stephen Jay Gould
@@ -6555,6 +6566,7 @@ The Rise Of The Unmeltable Ethnics By Michael Novak
 The Rise Of The Warrior Cop By Radley Balko
 The Rising Tide Of Color: The Threat Against White World - Supremacy (1920) By Lothrop Stoddard
 The River Between By Ngũgĩ Wa Thiong'o (Read)
+The River By Peter Heller
 The River Ki By Sawako Ariyoshi (Have)
 The River Where Blood Born By Sandra Jackson - Opoku (Have)
 The Road By Cormac McCarthy
@@ -6918,7 +6930,7 @@ The Ultimate Safari By Nadine Gordimer
 The Umbrella Man And Other Stories By Roald Dahl
 The Unabridged Journals Of Sylvia Plath By Karen V. Kukil & Sylvia Plath
 The Unbearable Lightness Of Being By Milan Kundera (Read)
-The Unconsoled By Kazuo Ishiguro
+The Unconsoled By Kazuo Ishiguro (Read)
 The Under Dog And Other Stories By Agatha Christie (Read)
 The Underground (Animorphs, #17) By Katherine Applegate
 The Underground Railroad By Colson Whitehead (Read)
@@ -7014,6 +7026,7 @@ The Werewolf Fever Swamp (Goosebumps, #14) By Robert Lawrence Stine
 The Western Star (Walt Longmire, #13) By Craig Johnson
 The Western Wind By Samantha Harvey
 The Whalebone Theatre By Joanna Quinn
+The Whale Warriors: The Battle At THe Bottom Of The World To Save The Planet's Largest Mammals By Peter Heller
 The Wheels Of Chance By Herbert George Wells
 The Whispering Room By Dean Koontz
 The Whistling Season By Ivan Doig
@@ -7772,6 +7785,7 @@ William Blake By Gilbert Keith Chesterton (Have)
 Willie's Redneck Time Machine By John Luke Robertson & Travis Thrasher
 Willie: The Life Of W. Somerset Maugham By Robert Calder
 Willis Haviland Carrier: Father Of Air Conditioning By Margaret Ingel
+Will's Race For Home By Jewell Parker Rhodes
 Wilson By Scott A. Berg
 Windhaven By George Raymond Richard Martin
 Windows & Stones By Tomas Tranströmer
