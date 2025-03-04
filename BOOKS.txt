@@ -54,6 +54,7 @@ A Book Of Common Prayer By Joan Didion
 A Book Of Mediterranean Food By Elizabeth David
 A Book Of Memories By Péter Nádas
 About Looking By John Berger
+A Boy Called Christmas By Matt Haig
 A Boy In Winter By Rachel Seiffert
 Abraham Lincoln By Thomas Keneally
 Abraham Lincoln, Vampire Hunter By Seth Grahame - Smith
@@ -228,6 +229,7 @@ A History Of The African - American People [Proposed] By Strom Thurmond As Told 
 A History Of The Warfare Of Science With Theology In Christendom By Andrew Dickson White
 A History Of The World In 10½ Chapters By Julian Barnes
 A History Of War In 100 Battle By Richard Overy
+A History Of Western Philosophy By Bertrand Russell
 A Hologram For The King By Dave Eggers (Have)
 A Horse Walks Into A Bar By David Grossman
 A House And Its Head By Ivy Compton - Burnett
@@ -256,6 +258,7 @@ A Late Divorce By Abraham B. Yehoshua
 Albert's Bridge & Other Plays By Tom Stoppard
 Alcatraz Versus The Evil Librarians (Alcatraz, #1) By Brandon Sanderson (Have)
 Alcools: Poemes, 1898 - 1913 By Guillaume Apollinaire
+A Leopard - Skin Hat By Anne Serre
 A Lesson Before Dying By Ernest James Gaines
 Alexander Ogston, K. C. V. O.: Memories And Tributes Of Relatives, Colleagues And Students, With Some Autobiographical Writings By Alexander Ogaton & Walter Ogston
 Alexander's Bridge By Willa Cather
@@ -515,6 +518,7 @@ Arbol Adentro By Octavio Paz
 Archaic Utopia: José María Arguedas And The Fictions Of Indigenismo By Mario Vargas Llosa
 Archangels Don't Play Pinball By Dario Fo
 Architect And Engineer: A Study In Sibling Rivalry By Andrew Saint
+Arctic Dreams: Imagination And Desire In An Northern Landscape By Barry Lopez
 Are You Gonna Kiss Me Or Not? By Thompson Square & Travis Thrasher
 Are You Terrified Yet? (Goosebumps 2000, #9) By Robert Lawrence Stine
 Are You There God? It's Me, Margaret By Judy Blume
@@ -1072,6 +1076,7 @@ Carrie Fisher: The Memoirs By Carrie Fisher
 Carrying Albert Home: The Somewhat True Story Of A Man, His Wife, And Her Alligator By Homer Hickam
 Case Histories: A Novel (Jackson Brodie, #1) By Kate Atkinson (Read)
 Castaways By Brian Keene
+Castle Rackrent By Maria Edgeworth
 Catalina By Karla Cornejo Villavicencio
 Cat And Mouse By Günter Grass
 Catch - 22 By Joseph Heller (Have)
@@ -1679,6 +1684,7 @@ Easy Mathematics, Chiefly Arithmetic By Sir Oliver Joseph Lodge
 Easy Motion Tourist By Leye Adenle
 Eat A Bowl Of Tea By Louis Chu
 Eating Fish Alone And Country Cooking From Central France By Lydia Davis
+Echo Boy By Matt Haig
 Echoes Of An Autobiography By Naguib Mahfouz
 Echopraxia (Firefall, #2) By Peter Watts
 Echoing Silences (1997) By Alexander Kanengoni
@@ -1830,6 +1836,7 @@ Eugene Onegin By Alexander Pushkin
 Eu Hei - De Amar Uma Pedra (ES) By António Lobo Antunes
 Europa (Yeoyu, #3) By Han Kang
 Europe In Sepia By Dubravka Ugrešić
+Eurotrash By Christian Kracht
 Eusrace Chisholm And The Works By James Purdy
 Eustace And Hilda: A Trilogy By Leslie Poles Hartley
 Euthyphro By Plato
@@ -1905,6 +1912,7 @@ Fassbinder Thousands Of Mirrors By Ian Penmann
 Fatal Invention: How Science, Politics, And Big Business Re - Create Race In The Twenty - First Century Dorothy E. Roberts
 Fatelessness By Imre Kertész
 Father And I Were Ranchers (Little Britches, #1) By Ralph Moody
+Father Christmas And Me By Matt Haig
 Father Come Home (1984) By Ezekial 'Es'kia' Mphahlele
 Fatherhood: Vintage Minis By Karl Ove Knausgård
 Father Of The Rain By Lily King
@@ -2307,6 +2315,7 @@ Headless Halloween (Goosebumps 2000, #10) By Robert Lawrence Stine
 Headshot: A Novel By Rita Bullwinkel
 Heads, You Lose (Goosebumps HorrorLand, #15) By Robert Lawrence Stine
 Heart Berries: A Memoir By Terese Marie Mailhot
+Heart Lamp By Banu Mushtaq
 Heart Of Darkness And Selected Short Fiction By Joseph Conrad (Have)
 Heart - Shaped Box: A Novel By Joe Hill
 Hear The Wind Sing By Haruki Murakami (Read)
@@ -2494,9 +2503,11 @@ Human Acts: A Novel By Han Kang (Read)
 Human Chain By Seamus Heaney
 Humani Generis By Pope Plus XII
 Humankind: A Hopeful History By Rutger Bregman
+Humans: An A - Z By Matt Haig
 Human Voices By Penelope Fitzgerald (Have)
 Hum By Helen Phillips
 Humiliated And Insulted By Fyodor Dostoevsky
+Hunchback By Saou Ichikawa
 Hunger Games By Suzanne Collins (Read)
 Hunger Und Seide (DE) By Herta Müller
 Hungry Stones And Other Stories By Rabindranath Tagore (Have) (Read)
@@ -3644,6 +3655,7 @@ Nation - Building In Turkey And Morocco: Governing Kurdish And Berber Dissent By
 Native Realm By Czesław Miłosz
 Native Son By Richard Wright (Read)
 Nativity Poems By Joseph Brodsky
+Nature By Ralph Waldo Emerson
 Nausea By Jean - Paul Sartre
 Navigating Autism: 9 Mindsets For Helping Kids On The Spectrum By Debra Moore & Temple Grandin
 Nay Rather By Anne Carson
@@ -3771,6 +3783,7 @@ Notes D'Okinawa (FR) By Kenzaburō Ōe
 Notes From Underground By Fyodor Dostoevsky (Read)
 Notes Of A Crocodile By Qiu Miaojin
 Notes Of A Native Son: Essays By James Baldwin
+Notes On A Nervous Planet By Matt Haig
 Notes On A Scandal By Zoë Heller
 Notes On My Dunce Cap By Jesse Ball
 Notes On The Death Of Culture: Essays On Spectacle And Society By Mario Vargas Llosa
@@ -3846,6 +3859,7 @@ On A Chinese Screen By William Somerset Maugham
 On A Dark Night I Left My Silent House By Peter Handke
 On Anarchism By Noam Chomsky
 On A Slow Train Through Arkansaw By Thomas William Jackson
+On A Woman's Madness By Astrid Roemer
 On Boxing By Joyce Carol Oates
 On Bullshit By Harry Gordon Frankfurt
 Once Again For Thucydides By Peter Handke
@@ -3889,6 +3903,7 @@ Only Prostitutes Marry In May By Dacia Maraini
 Only When I Larf By Len Deighton
 Only Yesterday: An Informal History Of The 1920s By Frederick Lewis Allen
 On Persephone's Island: A Sicilian Journal By Mary Taylor Simeti (Have)
+On The Calculation Of Volume I By Solvej Balle
 On The Come Up: A Novel Based On A True Story By Hannah Weyer (Read)
 On The Electrodynamics Of Moving Bodies By Albert Einstein
 On The Origin Of Species By Charles Darwin
@@ -4022,6 +4037,7 @@ Përballë Pasqyrës Së Një Gruaje (AB) By Ismail Kadare
 Percival Everett By Virgil Russell By Percival Everett
 Perdido Street Station By China Miéville 
 Perelandra (Space Trilogy, #2) By Clive Staples Lewis
+Perfection By Vincenzo Latronico
 Perfume: The Story Of A Murderer By Patrick Süskind (Read)
 Permanence By Karl Schroeder
 Persepolis By Marjane Satrapi
@@ -4163,6 +4179,7 @@ Pride And Prejudice And Zombies (Pride And Prejudice And Zombies, #1) By Seth Gr
 Primeval And Other Times By Olga Tokarczuk (Read)
 Princess Prunella And The Purple Peanut By Margaret Atwood
 Principia Mathematica By Alfred North Whitehead & Bertrand Russell
+Principles Of Geology By Charles Lyell
 Printemps Et Autres Saisons (FR) By Jean - Marie Gustave Le Clézio
 Prison Memoirs Of An Anarchist By Alexander Berkman
 Prisons We Choose To Live Inside By Doris Lessing
@@ -4273,6 +4290,7 @@ Reality Check: Making The Best Of The Situation: How I Overcame Addiction, Loss,
 Real Life By Brandon Taylor
 Real Tigers (Slough House, #3) By Mick Herron
 Reason By Isaac Asimov
+Reasons To Stay Alive By Matt Haig
 Rebecca By Daohne Du Maurier
 Rechnitz And The Merchant's Contracts By Elfriede Jelinek
 Reconstruction: America's Unfinished Revolution, 1863 - 1877 By Eric Foner
@@ -4309,6 +4327,7 @@ Repetition By Peter Handke
 Representative Photoplays Analyzed By Scott O'Dell
 Republic By Plato
 Requiem For A Dream By Hubert Selby Jr.
+Reservoir Bitches By Dahlia De La Cerda
 Resistance To Interrogation (Alex Rider, #1.5) By Anthony Horowitz
 Resurrection By Leo Tolstoy
 Retirement And Its Discontents: Why We Won't Stop Working, Even If We Can By Michelle Pannor Silver
@@ -4554,6 +4573,7 @@ Sexual Politics By Kate Millett
 Sexy By Joyce Carol Oates
 Shadow And Act By Ralph Ellison
 Shadow: Five Presidents And The Legacy Of Watergate By Bob Woodward
+Shadow Forest By Matt Haig
 Shadow Of The Shark (Magic Tree House, #53) By Mary Pope Osbourne
 Shadow On The Hudson By Isaac Bashevis Singer
 Shadow Players Guide By James Arthur Moore
@@ -4666,6 +4686,7 @@ Slumdog Mllionaire By Simon Beaufoy (Have)
 Smack: Heroin And The American City By Eric C. Schneider
 Small As A Elephant By Jennifer Richard Jacobson (Read)
 Small Avalanches And Other Stories By Joyce Carol Oates
+Small Boat By Vincent Delecroix
 Small G: A Summer Idyll By Patricia Highsmith
 Small Memories By José Saramago
 Small Mercies By Dennis Lehane
@@ -4694,6 +4715,7 @@ Sól By Wisława Szymborska
 Solar By Ian McEwan
 Solaris By Stanislaw Lem
 Sol El Primero (GRK) By Odysseas Elytis
+Solenoid By Mircea Cărtărescu
 Solenoid: Roman (DE) By Mircea Cărtărescu
 Sole Survivor By Dean Koontz
 Solidarité, Solitude (FR) By Adam Zagajewski
@@ -5195,6 +5217,7 @@ The Bonesetter's Daughter By Amy Tan (Read)
 The Bones Of Paris (Harris Stuyvesant, #2) By Laurie R. King
 The Booklover's Library: A Novel By Madeline Martin
 The Book Of Chilam Balam Of Chumayel By Anonymous
+The Book Of Disappearance By Ibtisam Azem
 The Book Of Doors: A Novel By Gareth Brown
 The Book Of Elsewhere By China Miéville & Keanu Reeves
 The Book Of Flights By Jean - Marie Gustave Le Clézio
@@ -5450,6 +5473,7 @@ The Day The Sun Died By Yan Lianke
 The Day The World Came To Town: 9 / 11 In Gander, Newfoundland By Jim Defede
 The DC Job (Case Lee, #8) By Vince Milam
 The Dead Dogs By Jon Fosse
+The Dead Fathers Club By Matt Haig
 The Dead Horse Paint Company (Mac Fortana, #5) By Earl Emerson
 The Dead Zone By Stephen King
 The Death Dealer's Manual By Bradley Steiner
@@ -5548,6 +5572,7 @@ The Drowned World By James Graham Ballard
 The Druggist Of Auschwitz: A Documentary Novel By Dieter Schlesak
 The Dry: A Novel By Jane Harper
 The Duel And Selected Stories By Alexander Kuprin (Have)
+The Dutch House By Ann Patchett
 The Dwarfs By Harold Pinter
 The Eagle And The Chicken By Ama Ata Aidoo
 The Eagle's Vision: Poems (1987) By Tanure Ojaide
@@ -5750,6 +5775,7 @@ The Girl Who Came Home By Hazel Gaynor
 The Girl Who Can And Other Stories By Ama Ata Aidoo
 The Girl Who Cried Monster (Goosebumps, #8) By Robert Lawrence Stine
 The Girl Who Loved Tom Gordon By Stephen King (Read)
+The Girl Who Saved Christmas By Matt Haig
 The Girl With All The Gifts (The Girl With All The Gifts, #1) By Mike Carey
 The Girl With Seven Names: Escape From North Korea By David John & Hyeonseo Lee (Have)
 The Givenness Of Things: Essays By Marilynne Robinson
@@ -5917,6 +5943,7 @@ The House Of Thunder By Dean Koontz
 The House On Mango Street By Sandra Cisneros (Read)
 The House On Via Gemito By Domenico Starnone
 The Human Province By Elias Canetti
+The Humans By Matt Haig
 The Human Side By Albert Einstein
 The Human Stain By Philip Roth
 The Human Tradition In The Black Atlantic, 1500 - 2000 By Beatriz G. Mamigonian & Karen Racine
@@ -6046,6 +6073,7 @@ The Last Chroncle Of Barset (Chronicles Of Barsetshire, #6) By Anthony Trollope
 The Last Days Of Night By Graham Moore
 The Last Demon By Isaac Bashevis Singer
 The Last Dragon Of The East By Katrina Kwan
+The Last Family In England By Matt Haig
 The Last Gift By Abdulrazak Gurnah (Read)
 The Last Green Valley: A Novel By Mark T. Sullivan
 The Last Harmattan Of Alusine Dunbar By Syl Cheney - Coker
@@ -6212,6 +6240,7 @@ The Marquise Of O - And Other Stories By Heinrich Von Kleist (Have)
 The Mars House: A Novel By Natasha Pulley
 The Martian By Andy Weir
 The Martian Chronicles By Ray Bradbury (Read)
+The Mary Celeste By Jane Yolen
 The Masque Of Africa: Glimpses Of African Belief By Sir Vidiadhar Surajprasad Naipaul
 The Master And Margarita By Mikhail Bulgakov
 The Master Butchers Singing Club By Louise Erdrich
@@ -6240,6 +6269,7 @@ The Metaphysical Poets By Helen Gardner (Have)
 The Mexican Dream, Or, The Interrupted Thought Of Amerindian Civilization By Jean - Marie Gustave Le Clézio
 The Middle Passage By Sir Vidiadhar Surajprasad Naipaul
 The Midlander By Booth Tarkington
+The Midnight Library: A Novel By Matt Haig (Read)
 The Midnight Line: A Jack Reacher Novel (Jack Reacher, #22) By Lee Child
 The Midnight Verdict By Seamus Heaney
 The Midwich Cuckoos By John Wyndham
@@ -6490,6 +6520,7 @@ The Portland Laugher (Thomas Black, #7) By Earl Emerson
 The Portrait Of A Lady By Henry James (Have)
 The Positronic Man By Isaac Asimov
 The Possession By Annie Ernaux (Read)
+The Possession Of Mr Cave By Matt Haig
 The Posthumous Memoirs Of Bras Cubas By Joaquim Maria Machado De Assis
 The Postman Always Rings Twice By James Mallahan Cain (Read)
 The Postman's Fiancée By Denis Thériault
@@ -6561,6 +6592,7 @@ The Race To Be Myself: A Memoir By Caster Semenya
 The Rachael Papers By Martin Amis
 The Radiance Of The King By Camara Laye
 The Radio Plays By Tom Stoppard
+The Radleys By Matt Haig
 The Raging Quiet By Sherryl Jordan
 The Railway Children By Edith Nesbit
 The Rainbow: A Novel By Yasunari Kawabata (Read)
@@ -6602,6 +6634,7 @@ The Remains Of The Day By Kazuo Ishiguro (Read) (Fav)
 The Remarkable Journey Of Charlie Price By Jennifer Maschari (Read)
 The Repeat Room: A Novel By Jesse Ball
 The Republic Of Wine By Mo Yan
+There's A Monster Behind The Door By Gaëlle Bélem
 The Research Magnificent By Herbert George Wells
 Therese Raquin By Émile Zola
 The Resistance (Animorphs, #47) By Katherine Applegate
@@ -6660,6 +6693,7 @@ The Round House By Louise Erdrich
 The Rub Of Time: Bellow, Nabokov, Hitchens, Travolta, Trump: Essays And Reportage, 1994 - 2017 By Martin Amis
 The Ruins By Scott Bechtel Smith (Have)
 The Rules of Magic (Practical Magic) By Alice Hoffman
+The Runaway Troll By Matt Haig
 The Running Man By Stephen King
 The Russian Bride: A Thriller By Ed Kovacs
 The Sacrifice By Joyce Carol Oates
@@ -6944,6 +6978,7 @@ The Three Lives Of Cate Kay By Kate Fagan
 The Three Way Tavern: Selected Poems By Ko Un (Read)
 The Thurber Carnival By James Thurber
 The Thursday Murder Club (Thursday Murder Club, #1) By Richard Osman
+The Tiger Who Came To Tea By Judith Kerr
 The Time And The Place And Other Stories By Nagiub Mahfouz
 The Time Machine By Herbert George Wells (Read)
 The Time Of The Hero By Mario Vargas Llosa
@@ -6990,6 +7025,8 @@ The True Meaning Of Smekday By Adam Rex
 The True Queen (Sorcerer Royal, #2) By Zen Cho
 The Truth About Stories: A Native Narrative By Thomas King (Have)
 The Truth According To Ember By Danica Nava
+The Truth Pixie By Matt Haig
+The Truth Pixie Goes To School By Matt Haig
 The Tunnel By William Howard Gass
 The Turner House By Angela Flournoy
 The Turning: Ghost Stories By Henry James (Read)
@@ -7328,6 +7365,7 @@ Titanic By Jaan Kaplinski
 Titus Andronicus By William Shakespeare (Have)
 Titus Groan (Gormenghast, #1) By Mervyn Peake
 To Asmara By Thomas Keneally
+To Be A Cat By Matt Haig
 To Be A Machine: Adventures Among Cyborgs, Utopians, Hackers, And The Futurists Solving The Modest Problem Of Death By Mark O'Connell
 To Be A Pilgrim (First Trilogy, Vol.2) By Joyce Cary
 To Begin At The Beginning By Javier Marías
@@ -7495,6 +7533,7 @@ Underland: A Deep TIme Journey By Robert Macfarlane
 Undermajordomo Minor By Patrick DeWitt
 Understood Betsy By Dorothy Canfield Fisher
 Under The Dome By Stephen King
+Under The Eye Of The Big Bird By Hiromi Kawakami
 Under The Frangipani By Mia Couto
 Under The Harrow By Flynn Berry
 Under The Overtree By James Arthur Moore
