@@ -208,8 +208,9 @@ A Grain Of Wheat By Ngũgĩ Wa Thiong'o
 A Greater Music By Bae Suah
 A Guest Of Honour By Nadine Gordimer
 Ahab's Wife: Or, The Star - Gazer By Jeter Naslund
-A Handbook On Asante Culture BY Osei Kwadwo
+A Handbook On Asante Culture By Osei Kwadwo
 A Handbook On Hanging By Charles Duff
+A Handful Of Heaven By Kristin Hannah
 A Hard And Heavy Thing By Matthew J. Hefti
 A Harlot High And Low By Honoré De Balzac (Have)
 A Head Full Of Ghosts By Paul Gaetan Themblay
@@ -434,6 +435,7 @@ An Explanation Of The Birds By António Lobo Antunes
 Angekommen Wie Nicht Da (DE) By Herta Müller
 Angela's Ashes: A Memoir By Frank McCourt
 Angel Catbird By Margaret Atwood
+Angel Falls By Kristin Hannah
 Angels Of The Resistance By Noelle Salazar
 An Heroic And Funeral Chant For The Lieutenant Lost In Albania By Odysseas Elytis
 A Night In Terror Tower (Goosebumps, #27) By Robert Lawrence Stine
@@ -840,6 +842,7 @@ Bettany's Book By Thomas Keneally
 Better Off Dead (Victor The Assassin, #4) By Tom Wood
 Between Eternities: And Other Writings By Javier Marías
 Between Friends By Amos Oz
+Between Sisters By Kristin Hannah
 Between Them: Remembering My Parents By Richard Ford
 Between The World And Me By Ta - Nehisi Coates
 Between Two Fires By Christopher Buehlman
@@ -1234,6 +1237,7 @@ Colorless Tsukuru Tazaki And His Years Of Pilgrimage By Haruki Murakami (Read)
 Coloured Lights: Stories By Leila Aboulela
 Come Crashing Down: Stories By Daniel Cetina
 Come Rain Or Come Shine: Faber Stories By Kazuo Ishiguro
+Comfort & Joy By Kristin Hannah
 Coming Home: Stories (1988) By Farida Karodia
 Commander In Cheat: How Golf Explains Trump By Rick Reilly
 Commission Of Tears By António Lobo Antunes
@@ -1346,6 +1350,7 @@ Cruel & Unusual (Kay Scarpetta, #4) By Patricia Cornwell
 Cruising Utopia By José Esteban Muñoz
 Crying In H Mart: A Memoir By Michelle Zauner
 Cry Of The Cat (Goosebumps 2000, #1) By Robert Lawrence Stine
+Cry Of The People: The Struggle For Human Rights In Latin America - The Catholic Church In Conflict With U. S. Policy By Penny Lernoux
 Cryptonomicon By Neal Stephenson
 Cry, The Beloved Country By Alan Paton
 Cockold By Kiran Nagarkar
@@ -1581,6 +1586,7 @@ Disillusioned: Five Familes And The Unraveling Of America's Suburbs By Benjamin 
 Dislocations By Sylvia Molloy
 Disney After Dark (Kingdom Keepers, #1) By Ridley Pearson (Have) (Read)
 Dissolving Classroom: Story Collection By Junji Ito (Have)
+Distant Shores By Kristin Hannah
 Distant Star By Roberto Bolaño
 District And Circle By Seamus Heaney
 Disturbing The Peace By Richard Yates
@@ -1972,6 +1978,7 @@ Fire And Knowledge By Péter Nádas
 Fire Down Below By William Golding
 Firefight (Victor The Assassin, #12) By Tom Wood
 Firefly: Big Damn Hero By Nancy Holder (Have)
+Firefly Lane By Kristin Hannah
 Fire In The Lake: The Vietnamese And The Americans In Vietnam By Frances FitzGerald
 Firekeeper's Daughter By Angeline Boulley
 Fire On The Mountain: The True Story Of The South Canyon Fire By John N. Maclean
@@ -2017,6 +2024,7 @@ Flowers From The Void: 'An Impressive Debut From A Very Talented New Writer' Gua
 Flowers Of A Moment: Poems By Ko Un
 Flow My Tears, The Policeman Said By Philip Kindred Dick
 Flush: A Biography By Virginia Woolf
+Fly Away By Kristin Hannah
 Flying Blind: The 737 MAX Tragedy And The Fall Of Boeing By Peter Robison
 Flying Hero Class By Thomas Keneally
 Flying Too High (Phryne Fisher, #2) By Kerry Greenwood
@@ -2193,6 +2201,7 @@ Going Infinite: The Rise And Fall Of A New Tycoon By Michael Lewis
 Going To The Dogs By Julian Barnes
 GoldenEye (John Gardner's Bond, #15) By John Gardner
 Golden Girl By Juan Marsé
+Golden Rule: The Investment Theory Of Party Competition And The Logic Of Money - Driven Politcal Systems By Thomas Ferguson
 Golf Dreams: Writings On Golf By John Updike (Have)
 Gone By Dawn (Victor The Assassin, #2.5) By Tom Wood
 Gone In The Wind By Margaret Mitchell (Read)
@@ -2205,6 +2214,7 @@ Goodbye, Vitamin By Rachel Khong
 Good Climate, Friendly Inhabitants By Nadine Gordimer
 Good Girl: A Novel By Aria Aber
 Good Leaders Ask Great Questions: Your Foundation For Successful Leadership By John Calvin Maxwell
+Good Material By Dolly Alderton
 Good Morning, Gorillas (Magic Tree House, #26) By Mary Pope Osborne
 Good Morning, Midnight By Jean Rhys
 Good Morning, Midnight By Lily Brooks - Dalton
@@ -2424,6 +2434,7 @@ Holly: A Novel By Stephen King
 Hollywood Lovers: Roman By Carrie Fisher
 Ho Louka Kai Hē Phōtia Tvs Zōēs: Mythistorēma (GR) By Salman Rushdie
 Holy Jester: The Saint Francis Fables By Dario Fo
+Home Again By Kristin Hannah
 Homage To Hemingway By Julian Barnes
 Homage To Robert Frost By Joseph Brodsky
 Hombre By Elmore Leonard
@@ -2438,6 +2449,7 @@ Homecoming By Yaa Gyasi
 Homecoming: Essays On African And Caribbean Literature, Culture And Politics By Ngũgĩ Wa Thiong'o
 Homecoming: Overcome Fear And Trauma To Reclaim Your Whole, Authentic Self By Therma Bryant - Davis
 Homecoming: Poems By Sonia Sanchez
+Home Front By Kristin Hannah
 Homegoing: A Novel By Yaa Gyasi (Read)
 Home Land By Sam Lipsyte
 Homer & Langley By Edgar Lawrence Doctorow (Have) (Read)
@@ -2566,6 +2578,7 @@ If It Bleeds By Stephen King
 If On A Winter's Night A Traveler By Italo Calvino
 If Only The Sea Could Sleep By Adunis
 If This Is A Man: A Memoir By Primo Levi
+If You Believe By Kristin Hannah
 If You Come Softly By Jacqueline Woodson
 If You're Glas I'll Be Frank By Tom Stoppard
 Ignorance By Milan Kundera
@@ -2649,6 +2662,7 @@ In Other Words By Jhumpa Lahiri
 In Other Worlds: SF And The Human Imagination By Margaret Atwood
 In Praise Of Reading And Fiction: The Nobel Lecture By Mario Vargas Llosa
 In Praise Of The Stepmother By Mario Vargas Llosa
+In Retrospect: The Tragedy And Lessons Of Vietnam By Brian VanDeMark & Robert McNamara
 Insane Bastards By Wade H. Garrett
 In Search Of A Homeland By Czesław Miłosz
 In Search Of Lost Time By Marcel Proust
@@ -3285,6 +3299,7 @@ Maestro: Greenspan's Fed And The American Boom By Bob Woodward
 Magali By M. Delly
 Maggie, A Girl Of The Streets And Selected Stories By Stephen Crane (Have)
 Magical Boy Vol. 1 By Kao Studios
+Magic Hour By Kristin Hannah
 Magic Seeds By Sir Vidiadhar Surajprasad Naipaul
 Mahogany & Other Stories By Boris Pilnyak (Have)
 Maine: The Seasons By Richard Ford
@@ -3460,6 +3475,7 @@ Minaret By Leila Aboulela
 Mind Your Manners: How To Be Your Best Self In Any Situation By Sara Jane Ho
 Mine Boy By Peter Abrahams
 Miner's Pond By Anne Michaels
+Ministry Of Time By Kaliane Bradley
 Mink River: A Novel By Brian Doyle (Read)
 Minnena Ser Mig (SV) By Tomas Tranströmer
 Minor Feelings By Cathy Park Hong
@@ -3626,6 +3642,7 @@ My Good Goat By Bella Dawson & Katrina Streza
 My Grandmother Asked Me To Tell You She's Sorry By Fredrik Backman
 My Hairiest Adventure (Goosebumps, #26) By Robert Lawrence Stine
 My Heart Hemmed In By Marie Ndiaye
+My Heart Is A Chainsaw By Stephen Graham Jones
 My Heart Laid Bare By Joyce Carol Oates
 My Husband By Dacia Maraini
 My Italian Bulldozer (Paul Stuart, #1) By Alexander McCall Smith
@@ -3744,6 +3761,7 @@ Night Of The New Magicians (Magic Tree House, #35) By Mary Pope Osborne
 Night Of The Ninjas (Magic Tree House, #5) By Mary Pope Osborne
 Night Of The Ninth Dragon (Magic Tree House, #55) By Mary Pope Osbourne
 Night Passage (Jesse Stone, #1) By Robert Brown Parker
+Night Road By Kristin Hannah
 Night Rounds By Patrick Modiano
 Nightshade (Alex Rider, #12) By Anthony Horowitz
 Nightshade: An Only In Tokyo Mystery By Jomelle Patrick
@@ -3885,6 +3903,7 @@ On A Woman's Madness By Astrid Roemer
 On Boxing By Joyce Carol Oates
 On Bullshit By Harry Gordon Frankfurt
 Once Again For Thucydides By Peter Handke
+Once In Every Life By Kristin Hannah
 Once There Was A War: Stories By John Steinbeck (Read)
 Once Upon A Time In The North (His Dark Materials, #0.5) By Philip Pullman
 On Chesil Beach By Ian McEwan
@@ -3924,6 +3943,7 @@ Only Killers And Thieves: A Novel By Paul Howarth
 Only Prostitutes Marry In May By Dacia Maraini
 Only When I Larf By Len Deighton
 Only Yesterday: An Informal History Of The 1920s By Frederick Lewis Allen
+On Mystic Lake By Kristin Hannah
 On Persephone's Island: A Sicilian Journal By Mary Taylor Simeti (Have)
 On The Calculation Of Volume I By Solvej Balle
 On The Come Up: A Novel Based On A True Story By Hannah Weyer (Read)
@@ -4931,6 +4951,7 @@ Summer 1980 By Marguerite Duras
 Summer By Edith Wharton (Have)
 Summer By Karl Ove Knausgård
 Summer Cooking By Elizabeth David
+Summer Island By Kristin Hannah
 Summer Of The Big Bachi By Naomi Hirahara (Have)
 Summer Reading By Jenn McKinlay
 Summer Romance By Annabel Monaghan
@@ -5628,6 +5649,7 @@ The Emperor Wears No Clothes By Jack Herer
 The Empire Of Signs By Roland Barthes
 The Enchanted April By Elizabeth Von Arnim
 The Enchanter By Vladimir Nabokov
+The Enchantment By Kristin Hannah
 The Enchantress Of Florence By Salman Rushdie
 The Encounter (Animorphs, #3) By Katherine Applegate
 The Encyclopedna Of Dragons By Mircea Cărtărescu
@@ -5743,7 +5765,7 @@ The Fountains Of Paradise By Sir Arthur Charles Clarke (Have)
 The Four Agreements: A Practical Guide To Personal Freedom By Miguel Ruiz
 The Four Books By Yan Lianke
 The Four Gated City (Children Of Violence, #5) By Doris Lessing
-The Four Winds: A Novel By Kristin Hannah
+The Four Winds: A Novel By Kristin Hannah (Read)
 The Fox In The Attic (The Human Predicament, Vol.1) By Richard Hughes
 The Fox Was Ever The Hunter By Herta Müller
 The Fox Wife: A Novel By Yangsze Choo
@@ -5924,6 +5946,7 @@ The Heroes, Or, Greek Fairy Tales For My Children By Charles Kingsley
 The Hidden (Animorphs, #39) By Katherine Applegate
 The Hidden Face Of Eve By Sawal El Saadawi
 The Hidden Life Of Dogs By Elizabeth Marshall Thomas
+The Hidden Staircase (Nancy Drew Mystery Stories, #2) By Carolun Keene
 The Hiding Place By Corrie Ten Boom
 The High Mountains Of Portugal By Yann Martel
 The Highwayman (Walt Longmire, #11.5) By Craig Johnson
@@ -7008,6 +7031,7 @@ The Thief And The Dogs By Naguib Mahfouz
 The Thing Around Your Neck: Stories By Chimamanda Ngozi Adichie
 The Things I Would Tell You: British Muslim Women Write By Sabrina Mahfouz
 The Things They Carried By Tim O'Brien (Read) (Fav)
+The Things We Do For Love By Kristin Hannah
 The Things You Know (Storycuts) By Julian Barnes
 The Thin Man By Dashiell Hammett
 The Third Victim (Quincy & Rainie, #2) By Lisa Gardner
@@ -7506,6 +7530,7 @@ Troubles By James Gordon Farrell
 Troubletwisters (Troubletwisters, #1) By Garth Nix (Have)
 Troubling Love By Elena Ferrante
 Trout's Lie By Percival Everett
+True Colors By Kristin Hannah
 True Confessions By John Gregory Dunne
 True Grit By Charles Portis
 True History Of The Kelly Gang: A Novel By Peter Carey
@@ -7663,6 +7688,8 @@ Victoire: My Mother's Mother By Maryse Condé
 Victorian London: The Tale Of A City 1840 - 1870 By Liza Picard
 Victory City By Salman Rushdie
 Viedas Escritas (ES) By Javier Marias
+Vietnam And Other American Fantasies By H. Bruce Franklin
+Vietnam: The Necessary War: A Reinterpretation Of America's Most Disastrous Military Conflict By Michael Lind
 Viewfinder: A Memoir Of Seeing And Being Seen By Jon M. Chu
 View With A Grain Of Sand By Wislawa Szymborska
 Vigilance (Storycuts) By Julian Barnes
@@ -7724,7 +7751,8 @@ Waiting By Ha Jin (Have)
 Waiting For An Angel By Helon Habila
 Waiting For Godot By Samuel Beckett
 Waiting For The Barbarians By John Maxwell Coetzee
-Waiting For the Hatching Of A Cockerel: Poems (2008) By Tanure Ojaide
+Waiting For The Hatching Of A Cockerel: Poems (2008) By Tanure Ojaide
+Waiting For The Moon By Kristin Hannah
 Waiting For The Rain (1972) By Charles Mungoshi
 Waiting To Be Arrested At Night: A Uyghur Poet's Memoir Of China's Genocide By Tahir Hamut
 Wakefulness By Jon Fosse
@@ -7766,6 +7794,7 @@ Way Out There In The Blue: Reagan, Star Wars And The End Of The Cold War By Fran
 Wayward (Wayward Pines, #2) By Blake Crouch
 Waywaya, And Other Stories By Francisco Sionil José
 We A BaddDDD People: Poems By Sonia Sanchez
+Weakness And Deceit: U. S. Policy And El Salvador By Raymond Bonner
 We Are All Completely Beside Ourselves By Karen Joy Fowler
 We Are An Image From The Future: The Greek Revolt Of December 2008 By A.G. Schwarz, Tasos Sagris & Void Network (Have)
 We Are Home: Becoming American In The 21st Century: An Oral History By Ray Suarez
@@ -7865,6 +7894,7 @@ When I Sing, Mountains Dance By Irene Solà
 When It No Longer Matters Where You Live: Poems (1999) By Tanure Ojaide
 When I Was A Child I Read Books: Essays By Marilynne Robinson
 When I Was Mortal By Javier Marías
+When Lightning Strikes By Kristin Hannah
 When McKinsey Comes To Town: The Hidden Influence Of The World's Most Powerful Consulting Firm By Michael Forsyth & Walt Bogdanich
 When Rain Clouds Gather By Bessie Amelia "Emery" Head
 When Rulers Quarrel By Ismail Kadare
@@ -7919,6 +7949,7 @@ Who Killed Palomino Molero? By Mario Vargas Llosa
 Whole Days In The Trees By Marguerite Duras
 Who Moved My Cheese? By Spencer Johnson
 Who Rules The World? By Noam Chomsky
+Whose Names Are Unknown By Sanora Babb
 Who's Got Game? The Ant Or The Grasshopper? By Toni Morrison
 Who Slashed Celanire's Throat? By Maryse Condé
 Who Stole Uncle Sam? By Martha Freeman (Have)
@@ -7967,6 +7998,7 @@ Winnie - The - Pooh (Winnie - The - Pooh, #1) By Alan Alexander Milne
 Winter By Karl Ove Knausgård
 Winter: A Berlin Family, 1899 - 1945 By Len Deighton
 Winter Brothers By Ivan Doig
+Winter Garden By Kristin Hannah
 Wintering Out By Seamus Heaney
 Winter In Lisbon By Antonio Muñoz Molina
 Winter Street (Winter, #1) By Elin Hilderbrand
