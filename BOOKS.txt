@@ -352,6 +352,7 @@ American Fiction: Volume 13 By Bruce Pratt & Michael White (Have)
 American Gods By Neil Gaiman
 American Green: The Obsessive Quest For The Perfect Lawn By Ted Steinberg
 American Individualism By Herbert Hoover
+American Lion: Andrew Jackson In The White House By Jon Meacham
 American Midnight: The Great War, A Violent Peace, And Democracy's Forgotten Crisis By Adam Hochschild
 American Nomad By Steve Erickson
 American Omens: The Coming Fight Of Faith By Travis Thrasher
@@ -414,6 +415,7 @@ An Artist Of The Floating World By Kazuo Ishiguro (Read)
 Anathemas And Amirations By Emil Cioran
 Anatomy Of Love By Helen Fisher
 A Natural History Of Dragons (The Memoirs Of Lady Trent, #1) By Marie Brennan
+A Natural Woman: A Memoir By Carole King
 Ancestral Night (White Space, #1) By Elizabeth Bear
 Ancillary Justice (Imperial Radch, #1) By Ann Leckie
 Ancillary Mercy (Imperial Radch, #3) By Ann Leckie
@@ -628,6 +630,7 @@ A Tale Of Love And Darkness By Amos Oz
 A Tale Of Three Wishes By Isaac Bashevis Singer
 A Tale Of Two Cities By Charles Dickens
 A Tale Of Two Gardens By Octavio Paz
+A Taste For Death (Adam Dalgliesh, #7) By P. D. James 
 A Taste Of Death (Alex Rider, #2.25) By Anthony Horowitz
 A Tempest Of Tea (Blood And Tea, #1) By Hafsah Faizal
 A Testament Of Hope: The Essential Writings And Speeches By Martin Luther King Jr. & James Melvin Washington
@@ -700,6 +703,7 @@ A Wild Sheep Chase (The Rat, #3) By Haruki Murakami (Read)
 A Wizard Of Earthsea By Ursula Kroeber Le Guin
 A Woman In Jerusalem By Abraham B. Yehoshua
 A Woman Of Genius By Mary Hunter Austin
+A Woman Of No Importance: The Untold Story Of The American Spy Who Helped Win World War II By Sonia Purnell
 A Woman's Story By Annie Ernaux
 A Working Woman By Elvira Navarro
 A World For Julius By Alfredo Bryce Echenique
@@ -764,6 +768,7 @@ Basic French Cooking By Len Deighton
 Bastard Out Of Carolina By Dorothy Allison
 Batman Arkham: Ra’s Al Ghul: The Best Of The Demon And The Bat! By DC (Read)
 Battle Of Britain By Len Deighton
+Battle Of The Linguist Mages By Scotto Moore
 Beach Read By Emily Henry
 Be Afraid -- Be Very Afraid! (Goosebumps 2000, #20) By Robert Lawrence Stine
 Bealby By Herbert George Wells
@@ -802,6 +807,7 @@ Behind The Scenes At The Museum By Kate Atkinson
 Behold The Dreamers By Imbolo Mbuc
 Being And Nothingness By Jean - Paul Sartre
 Being Dead: A Novel By Jim Crace
+Being Jewish After The Destruction Of Gaza: A Reckoning By Peter Beinart
 Being No One By Thomas Metzinger
 Bel Canto By Ann Patchett (Have)
 Believing The Lie By Elizabeth George
@@ -1477,6 +1483,7 @@ Death Of A Naturalist By Seamus Heaney
 Death Of A Ex - Minister By Nawal El Saadawi
 Death On Earth: Adventures In Evolution And Mortality By Jules Howard
 Death's End (Remembrance Of Earth's Past, #3) By Cixin Liu
+Death Takes Me: A Novel By Cristina Rivera Garza
 Death: Vintage Minis By Julian Barnes
 Death With Interruptions By José Saramago
 Death Without Company (Walt Longmire, #2) By Craig Johnson
@@ -1662,6 +1669,7 @@ Dreams In A Time Of War: A Childhold Memoir By Ngũgĩ Wa Thiong'o
 Dreams Of Departure By Nagiub Mahfouz
 Dreams, Miracles, And Jazz: An Anthology Of New Africa Fiction By Helon Habila
 Dreamsongs: A Retrospective By George Raymond Richard Martin
+Dream State: A Novel By Eric Puchner
 Driftwood By Marie Brennan (Read)
 Drive Your Plow Over The Bones Of The Dead By Olga Tokarczuk (Read)
 Dr. Maniac Vs. Robby Schwartz (Goosebumps HorrorLand, #5) By Robert Lawrence Stine
@@ -2500,6 +2508,7 @@ How I Got My Shrunken Head (Goosebumps, #39) By Robert Lawrence Stine
 How I Learned To Fly (Goosebumps, #52) By Robert Lawrence Stine
 How I Won A Nobel Prize: A Novel By Julius Taranto
 How Much Of These Hills Is Gold By C Pam Zhang
+How Not To Drown In A Glass Of Water By Angie Cruz
 How Not To Kill Yourself: A Portrait Of The Suicidal Mind By Clancy Martin
 How The King Of Elfhame Learned To Hate: Stories (The Folk Of The Air, #3.5) By Holly Black
 How The Mind Works By Steven Pinker
@@ -3122,6 +3131,7 @@ Licks Of Love: Short Stories And A Sequel, "Rabit Remembered" By John Updike (Ha
 Lies And Prophecy (Wilders, #1) By Marie Brennan
 Lies, First Person By Gail Hareven
 Lies My Teacher Told Me: Everything Your American History Testbook Got Wrong By James W. Loewen
+Lies That Kill: A Citizen's Guide To Disinformation By Elaine C. Kamarck
 Life 3.0: Being Human In The Age Of Artificial Intelligence By Max Tegmark
 Life Among The Savages By Shirley Jackson
 Life And Death Are Wearing Me Out By Mo Yan
@@ -3296,6 +3306,7 @@ Madeline By Ludwig Bemelmans
 Mademoiselle De Maupin By Théophile Gautier 
 Made To Order Family (Slocum Family, #3) By Ruth Logan Herne
 Mad Honey: A Novel By Jodi Picoult
+Madison House: A Novel By Peter Donahue
 Mad Maudlin By Marie Brennan
 Madonna At Ringside By Harry Crews
 Madre Piccola By Ubah Cristina Ali Farah
@@ -3333,6 +3344,7 @@ Maniac Magee By Jerry Spinelli (Read)
 Manicpixiedreamgirl By Tom Leveen
 Manifest Destiny. Volume 1, Flora & Fauna By Chris Dingess
 Manifest Destiny. Volume 2, Amphibia & Insecta By Chris Dingess
+Manifest Destiny. Volume 4, Sasquatch By Chris Dingess
 Maninbo: Peace & War By Ko Un
 Mankind In The Making By Herbert George Wells
 Man Must Live: Stories (1947) By Ezekial 'Es'kia' Mphahlele
@@ -3504,6 +3516,7 @@ Miss Peregrine's Home For Peculiar Children (Miss Peregrin's Peculiar Children, 
 Miss Pettigrew Lives For A Day By Winifred Watson
 Mixed Plate: Chronicles Of An All - Amerian Combo By Jo Koy
 Moby Dick By Herman Melville
+Model Home By Rivers Solomon
 Moderato Cantabile By Marguerite Duras
 Modern Critical Views Series 1, 115 Vol By William Golding
 Modern One - Act Plays By Harold Pinter, Horst Buss, James Saunders & Tom Stoppard
@@ -4245,6 +4258,7 @@ Prodigal Summer: A Novel By Barbara Kingsolver
 Prodigy (Legend, #2) By Marie Lu (Read)
 Profession BY Isaaac Asimov
 Professor Andersens Natt: Roman (NO) By Dag Solstad
+Profiles In Ignorance: How America's Politicians Got Dumb And Dumber By Andy Borowitz
 Project Hail Mary By Andy Weir (Have)
 Promise By Rachel Eliza Griffiths
 Promise Me, Dad: A Year Of Hope, Hardship, And Purpose By Joe Biden
@@ -4906,6 +4920,7 @@ Still Life (Chief Inspector Armand Gamache, #1) By Louise Penny
 Stillness Speaks By Eckhart Tolle
 Stoic Wisdom: Ancient Lessons For Modern Resilience By Nancy Sherman
 Stolen (Magic Thief, #1) By Sarah Prineas (Have)
+Stolen Pride: Loss, Shame, And The Rise Of The Right By Arlie Russell Hochschild
 Storia Di Piera (IT) By Dacia Maraini
 Stories By Gabriel García Márquez
 Stories From A Shona Childhood (1989) By Charles Mungoshi
@@ -4964,6 +4979,7 @@ Summer Reading By Jenn McKinlay
 Summer Romance By Annabel Monaghan
 Summer Sons By Lee Mandelo
 Sundown Towns: A Hidden Dimension Of American Racism By James W. Loewen
+Sunrise On The Reaping By Suzanne Collins
 Sunrise On The Veld By Doris Lessing
 Sunset Of The Sabertooth (Magic Tree House, #7) By Mary Pope Osborne
 Sunshine Sketches Of A Little Town By Stephen Leacock
@@ -5004,6 +5020,7 @@ Swimming Lessons By Claire Fuller
 Swimming Swimmers Swimming By Percival Everett
 Swing Time By Zadie Smith
 Switch Bitch By Roald Dahl
+Sword Catcher By Cassandra Clare
 Sylvie by Gérard De Nerval
 Symposium By Dame Muriel Spark
 Syntactic Structures By Noam Chomsky
@@ -6354,9 +6371,11 @@ The Miracle Cures Of Dr. Aira By César Aira
 The Miracles Of The Namiya General Store By Keigo Higashino
 The Miraculous Journey Of Edward Tularne By Kate Dicamillo
 The Mirage By Maguib Mahfouz
+The Mirror & The Light By Hilary Mantel
 The Mirror Or The Glass? By Toni Morrison
 The Misadventures Of Awkward Black Girl By Issa Rae
 The Mist By Stephen King (Have) (Read)
+The Mistress Of Spices By Chitra Banerjee Divakaruni
 The Mitford Murders: A Mystery (Mitford Murders, #1) By Jessica Fellowes
 The Molave And The Orchid, And Other Children's Stories By Francisco Sionil José
 The Moneychangers By Upton Sinclair
@@ -6710,6 +6729,7 @@ Therese Raquin By Émile Zola
 The Resistance (Animorphs, #47) By Katherine Applegate
 The Resplendent Quetzal By Margaret Atwood
 There's Someone Inside Your House By Stephanie Perkins
+The Restaurant Of Lost Recipes: Stories By Hisashi Kashiwai (Read)
 The Rest Of The Robots (Robot, #0.2) By Isaac Asimov
 There There By Tommy Orange
 The Retrospective By Abraham B. Yehoshua
@@ -6870,6 +6890,7 @@ The Silent Cry: A Novel By Kenzaburō Ōe (Read)
 The Silent Duchess By Dacia Maraini
 The Silver Bone By Andrey Kurkov
 The Silver Music Box By Mina Baites
+The Sirens' Call: How Attention Became The World's Most Endangered Resource By Christopher Hayes
 The Sirens Of Titan By Kurt Vonnegut
 The Sirian Experiments By Doris Lessing
 The Situation Room: The Inside Story Of Presidents In Crisis By George Stephanopoulos
@@ -7800,6 +7821,7 @@ Washington Square By Henry James (Have) (Read)
 Washington White By Adam Griffiths
 Watchers By Dean Koontz
 Watermark By Joseph Brodsky (Have) (Read)
+Water Moon: A Novel By Samantha Sotto
 Watershed By Percival Everett
 Watership Down By Richard Adams (Read)
 Waverly By Sir Walter Scott
@@ -7906,6 +7928,7 @@ What Wives Wish Their Husbands Knew About Women By James Clayton "Jim" Dobson, J
 What You Are Looking For Is In The Library: A Novel By Michiko Aoyama (Read)
 When Breath Becomes Air By Paul Kalanithi
 When Cultures Meet: Remembering San Gabriel Del Yunge Oweenge: Papers From The October 20, 1984 Conference Held At San Juan Pueblo, New Mexico By Myra E. Jenkins & Richard Ford
+When Everything Changed: The Amazing Journey Of American Women, From 1960 To The Present By Gail Collins
 When I Sing, Mountains Dance By Irene Solà
 When It No Longer Matters Where You Live: Poems (1999) By Tanure Ojaide
 When I Was A Child I Read Books: Essays By Marilynne Robinson
@@ -7922,6 +7945,7 @@ When The Reckoning Comes By LaTanya McQueen
 When The Sky Fell On Splendor By Emily Henry
 When We Meet Again By Kristin Harmel
 When We Were Orphans By Kazuo Ishiguro (Have) (Read)
+When Women Were Dragons: A Novel By Kelly Regan Barnhill
 Whereabouts By Jhumpa Lahiri
 Where All Light Tends To Go By David Joy (Have)
 Where Are You Going, Where Have You Been? By Joyce Carol Oates
@@ -7958,7 +7982,8 @@ White Nights By Urszula Honek
 White Noise By Don DeLillo (Read)
 White Rose, Black Forest By Eoin Dempsey
 White Teeth: A Novel By Zadie Smith
-White Writing: On The CUlture Of Letters In South Africa By John Maxwell Coetzee
+White Writing: On The Culture Of Letters In South Africa By John Maxwell Coetzee
+Who Do You Love: A novel By Jennifer Weiner
 Who Do You Think You Are? By Alice Munro
 Who Is Rich?: A Novel By Matthew Klam (Have)
 Who Killed Palomino Molero? By Mario Vargas Llosa
