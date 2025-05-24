@@ -503,6 +503,7 @@ Cop Car (2015) By Jon Watts
 Corrina, Corrina (1994) By Jessie Nelson
 Coyote Ugly (2000) By David McNally
 Cradle 2: The Grave (2003) By Andrzej Bartkowiak
+Crank (2006) By Brian Taylor & Mark Neveldine
 Crash (2004) By Paul Haggis
 Crazy Heart (2009) By Scott Cooper
 Crazy Rich Asians (2018) By Jonathan Murray Chu (Watched)
@@ -1173,6 +1174,7 @@ La Dolce Vita (IT) (1960) By Federico Fellini
 Ladri Di Biciclette (Bicycle Thieves) (IT) (1948) By Vittorio De Sica
 Lady Day At Emerson's Bar & Grill (2016) By Lonny Price
 Lady For A Day (1933) By Frank Capra
+Lady In The Water (2006) By M. Night Shyamalan
 Lady Macbeth (2016) By William Oldroyd
 La Educacion Del Rey (Rey's Education) (ES) (2017) By Santiago Esteves
 La Familia (The Family) (ES) (2017) By Gustavo Rondon Cordova
@@ -1301,6 +1303,7 @@ Marianne Of My Youth (1955) By Julien Duvivier
 Maria (Y Los Demas) (Maria And Everyone Else) (ES) (2016) By Nely Reguera
 Marley & Me (2008) By David Frankel (Watched)
 Marmaduke (2010) By Tom Dey
+Martyrs (2015) By Kevin Goetz & Michael Goetz
 Mary And Martha (2013) By Phillip Noyce
 Masculin Feminin (FR) (1966) By Jean - Luc Godard
 M*A*S*H (1970) By Robert Altman
@@ -1483,6 +1486,7 @@ One Day (ZH) (2010) By Hou Chi - Jan
 One Halloween (2017) By Rebecca Murga
 One Summer Of Happiness (1951) By Arne Mattsson
 One Sunday Afternoon (1933) By Stephen Roberts
+Ong - Bak: Muay Thai Warrior (2003) By Prachya Pinkaew
 On Golden Pond (1981) By Mark Rydell
 Only Angels Have Wings (1939) By Howard Hawks
 On The Basis Of Sex (2018) By Mimi Leder
@@ -2272,6 +2276,8 @@ The Puppetmaster (ZH) (1993) By Hou Hsiao - Hsien
 The Quick And The Dead (1995) By Sam Raimi
 The Quiet American (2002) By Phillip Noyce
 The Quiet Man (1952) By John Ford
+The Raid 2 (2014) By Gareth Evans
+The Raid: Redemption (2011) By Gareth Evans
 The Railway Children (1970) By Lionel Jeffries
 The Rainbow Warrior (1993) By Michael Tuchner
 The Rains Of Ranchipur (1955) By Jean Negulesco
@@ -2377,7 +2383,9 @@ The Usual Suspects (1995) By Bryan Singer
 The Vanishing (2019) By Kristoffer Nyholm
 The Vault Of Horror (1973) By Roy Ward Baker
 The Verdict (1982) By Sidney Lumet
+The Village (2004) By M. Night Shyamalan
 The Virgin Suicides (1999) By Sofia Coppola
+The Visit (2015) By M. Night Shyamalan
 The War Of The Roses (1989) By Danny DeVito
 The Wash (2001) By Mark (DJ Pooh) Jordan
 The Waterboy (1998) By Frank Coraci
@@ -2467,6 +2475,7 @@ Traffic (2000) By Stephen Gagham
 Training Day (2001) By Antoine Fuqua
 Transformers One (2024) By Josh Cooley (Watched)
 Transformers: Rise Of The Beasts (2023) By Steven Caple Jr.
+Transporter 2 (2005) By Louis Leterrier
 Trapped (2002) By Luis Mandoki
 Treasure Island (ZH) (1993) By Chen Kuo - Fu
 Troll 2 (1990) By Claudio Fragasso
@@ -2474,6 +2483,7 @@ Tremors (1990) By Ron Underwood
 Tremors II: Aftershocks (1996) By Steven Seth Wilson
 Tremors 3: Back To Perfection (2001) By Drent Maddock
 Tremors 4: The Legend Begins (2004) By Steven Seth Wilson
+Triangle (2009) By Christopher Smith
 Trop Belle Pour Toi (FR) (1989) By Bertrand Blier
 Tropic Thunder (2008) By Ben Stiller
 True Confessions (1981) By Ulu Grosbard
