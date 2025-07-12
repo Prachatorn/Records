@@ -1532,6 +1532,7 @@ Death Of A Ex - Minister By Nawal El Saadawi
 Death On Earth: Adventures In Evolution And Mortality By Jules Howard
 Death's End (Remembrance Of Earth's Past, #3) By Cixin Liu
 Death Takes Me: A Novel By Cristina Rivera Garza
+Death Valley By Melissa Broder
 Death: Vintage Minis By Julian Barnes
 Death With Interruptions By José Saramago
 Death Without Company (Walt Longmire, #2) By Craig Johnson
@@ -2342,6 +2343,7 @@ Green Eggs And Ham By Theodor Seuss Geisel
 Green Grass Of Wyoming By Mary O'Hara
 Green Henry By Gottfried Keller
 Green Island By Shawna Yang Ryan
+Greenwood By Michael Christie
 Gregor And The Curse Of The Warmbloods (Underland Chronicles, #3) By Suzanne Collins (Have)
 Gregor And The Marks Of Secret (Underland Chroncles, #4) By Suzanne Collins (Have)
 Gregor And The Prophecy Of Bane (Underland Chronicles, #2) By Suzanne Collins (Have)
@@ -5580,7 +5582,9 @@ The Clothing Of Books By Jhumpa Lahiri
 The Cloud Roads (Books Of The Raksura, #1) By Martha Wells
 The Cobalt Blue Pamphlet By Akagawa Jirou
 The Cockroach By Ian McEwan (Read)
+The Code Book: The Science Of Secrency From Ancient Egypt To Quantum Cryptography By Simon Singh
 The Code Breaker: Jennifer Doudna, Gene Editing, And The Future Of The Human Race By Walter Isaacson
+The Codebreakers By David Kahn
 The Code Of The Woosters (Jeeves, #7) By Sir Pelham Grenville Wodehouse
 The Coincidence Of The Arts By Martin Amis
 The Cold Dish (Walt Longmire, #1) By Craig Johnson
@@ -5723,6 +5727,7 @@ The Decameath Of Methuselah And Other Stories By Isaac Bashevis Singer
 The Deerslayer By James Fenimore Cooper
 The Deron By Giovanni Boccaccio
 The Deception (Animorphs, #46) By Katherine Applegate
+The Decipherment Of Linear B By John Chadwick
 The Decision (Animorphs, #18) By Katherine Applegate
 The Deer Kings By Wendy N. Wagner
 The Deer Park By Norman Mailer
@@ -5808,7 +5813,7 @@ The Driver's Seat By Dame Muriel Spark
 The Drop (Slough House, #5.5) By Mick Herron
 The Drowned Life By Jeffrey Ford (Have)
 The Drowned (St. John Strafford, #5) By John Banville
-The Drowned World By James Graham Ballard
+The Drowned World By James Graham Ballard (Read)
 The Druggist Of Auschwitz: A Documentary Novel By Dieter Schlesak
 The Dry: A Novel By Jane Harper
 The Duel And Selected Stories By Alexander Kuprin (Have)
@@ -6491,6 +6496,7 @@ The Man In The Red Coat By Julian Barnes
 The Man Of Gold (Tekumel, #1) By M.A.R. Barker (Have)
 The Man Of Property By John Galsworthy
 The Man Who Couldn't Stop: OCD And The True Story Of A Life Lost In Thought By David Adam
+The Man Who Deciphered Linear B: The Story Of Michael Ventris By William Andrew Coulthard Robinson
 The Man Who Died Twice (Thursday Murder Club, #2) By Richard Osman
 The Man Who Forgot How To Poop By Genghis Swan
 The Man Who Killed The Deer By Frank Waters (Have)
@@ -6946,6 +6952,7 @@ The Revolution Of The Moon By Andrea Camilleri
 There Were The Hours By Nancy Cunard
 The Rhine River Job (Case Lee, #11) By Vince Milam
 The Rice Sprout Song By Eileen Chang
+The Riddle Of The Labyrinth: The Quest To Crack An Ancient Code By Margalit Fox (Have)
 The Ride Across Lake Constance And Other Plays By Peter Handke
 The Right Stuff By Tom Wolfe
 The Ring Of Solomon (Bartimaeus, #0.5) By Jonathan Stroud
@@ -7177,6 +7184,7 @@ The Storied Life Of A. J. Fikry: A Novel By Gabrielle Zevin
 The Story Begins: Essays On Literature By Amos Oz
 The Story Of An African Farm By Olive Schreiner
 The Story Of A New Name (The Neapolitan Novels, #2) By Elena Ferrante
+The Story Of Archaeological Decipherment: From Egyptian Hieroglypths To Leanr B (The World Of Archaeology) By Maurice Pope
 The Story Of A Real Man By Boris Polevoy
 The Story Of A Shipwrecked Sailor By Gabriel García Márquez
 The Story Of Babar: The Little Elephant By Jean De Brunhoff
@@ -7189,6 +7197,7 @@ The Story Of San Michele By Axel Munthe
 The Story Of The Cannibal Woman By Maryse Condé
 The Story Of The Lost Child (The Neapolitan Novels, #4) By Elena Ferrante
 The Story Of The Other Wise Man By Henry Van Dyke (Have)
+The Story Of Writing By William Andrew Coulthard Robinson
 The Storyteller By Dave Grohl
 The Storyteller By Mario Vargas Llosa
 The Storyteller By Pierre Jarawan
@@ -8378,6 +8387,7 @@ You Can't Go Home Again By Thomas Wolfe
 You Can't Scare Me! (Goosebumps, #15) By Robert Lawrence Stine
 You Can't Not Communicate: More Proven Communication Solutions That Power The Fortune 100 By David Grossman
 You'd Look Better As A Ghost: A Novel By Joanna Wallace
+You Dreamed Of Empires By Alvaro Enrigue
 You Made A Fool Of Death With Your Beauty By Akwaeke Emezi
 Young Goodman Brown And Other Tales By Nathaniel Hawthorne
 Young Hearts Crying By Richard Yates
