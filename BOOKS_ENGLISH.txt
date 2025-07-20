@@ -530,6 +530,7 @@ Appointment In Samarra: A Novel By John O'Hara (Have)
 A Prayer For Owen Meany By John Irving
 A Prayer For The City By Buzz Bissinger (Have)
 April In Spain (St. John Stafford, #3) By John Banville
+April Morning By Howard Fast
 April Twilights By Willa Cather
 A Psalm For The Wild - Built By Becky Chambers
 Aquarium By David Vann
@@ -1044,8 +1045,9 @@ Bring Larks And Heroes By Thomas Keneally
 Britain Between The Wars, 1918 - 1940 By Charles Lock Mowat
 Broad And Alien Is The World By Ciro Alegria
 Brodsky: A Personal Memoir By Joseph Brodsky & Liudmila Shtern
-Broken By Travis Thrasher
 Broken April By By Ismail Kadare
+Broken By Travis Thrasher
+Broken Country: A Novel By Clare Leslie Hall
 Bronka: An Annotated Russian Reader By Lyudmila Ulitskaya
 Brother Odd By Dean Koontz
 Brothers By Yu Hua
@@ -1945,6 +1947,7 @@ Every Heart A Doorway (Wayward Children, #1) By Seanan McGuire
 Every Little Step: My Story By Bobby Brown, Bobby Ray Brown & Nick Chiles
 Every Man A King / Might In Mind - Mastery By Orison Swett Marden
 Every Man Is A Race By Mia Couto
+Everyone In My Family Has Killed Someone By Benjamin Stevenson
 Everyone Who Is Gone Is Here: The United States, Central America, And The Making Of A Crisis By Jonathan Blitzer
 Everything Here Is Beautiful: A Novel By Mira T. Lee
 Everything I Know About Love By Dolly Alderton
@@ -2129,6 +2132,7 @@ Forward The Foundation (Foundation: Prequel, #2) By Isaac Asimov
 For Whom The Bell Tolls By Ernest Hemingway
 Fosse: Plays Six By Jon Fosse
 Foster By Claire Keegan
+Foucault's Pendulum By Umberto Eco
 Foundation (Foundation, #1) By Isaac Asimov
 Foundation And Earth (Foundation, #5) By Isaac Asimov
 Foundation And Empire (Foundation, #2) By Isaac Asimov
@@ -2269,6 +2273,7 @@ Goddesses & Wise Women: The Literature Of Feminist Spirituality, 1980 - 1992: An
 God Dies By The Nile By Nawal El Saadawi
 God Help The Child By Toni Morrison
 God Is Not Great By Christopher Hitchens
+Go Down, Moses By William Faulkner
 God's Country By Percival Everett
 God's Dice By Martin Amis
 God's Not Dead 2 By Travis Thrasher (Read)
@@ -2516,6 +2521,7 @@ Hitler's Monsters: A Supernatural History Of The Third Reich By Eric Kurlander
 Hocus Pocus By Kurt Vonnegut
 Ho Dromos: Mythistorema (GR) By Cormac McCarthy
 Hold Still: A Memoir With Photographs By Sally Mann
+Holiday Country By Inci Atrek
 Holler, Child: Stories By LaToya Watkins
 Hollow Kingdom (Hollow Kingdom, #1) By Kira Jane Buxton
 Holly: A Novel By Stephen King
@@ -2589,6 +2595,7 @@ How Much Of These Hills Is Gold By C Pam Zhang
 How Not To Drown In A Glass Of Water By Angie Cruz
 How Not To Kill Yourself: A Portrait Of The Suicidal Mind By Clancy Martin
 How Should One Read A Book? By Virginia Woolf
+How The Grump Saved Christmas By Claire Kingsley
 How The King Of Elfhame Learned To Hate: Stories (The Folk Of The Air, #3.5) By Holly Black
 How The Mind Works By Steven Pinker
 How The South Won The Civil War: Oligarchy, Democracy, And The Continuing Fight For The Soul Of America By Heather Cox Richardson
@@ -2640,6 +2647,7 @@ Hygiene (Storycuts) By Julian Barnes
 Hypothermia (Inspector Erlendur, #8) By Arnaldur Indrithason
 I Always Find You By John Ajvide Lindqvist
 I Am A Cat By Soseki Natsume
+I Am A Strange Loop BY Douglas Hofstadter
 I Am Behind You By John Ajvide Lindqvist
 I Am Homeless If This Is Not My Home By Lorrie Moore
 I Am, I Am, I Am: Seventeen Brushes With Death By Maggie O'Farrell
@@ -2735,10 +2743,11 @@ Indentured Students: How Government - Guaranteed Loans Left Generations Drowning
 Independence Day By Richard Ford
 Independent People By Halldor Laxness
 In Der Falle (DE) By Herta Muller
-India By Sir Vidiadhar Surajprasad Naipaul
+India: 5,000 Years Of History On The Subcontinent By Audrey Truschke
 India: A Million Mutinies Now By Sir Vidiadhar Surajprasad Naipaul
 India: An Area Of Darkness By Sir Vidiadhar Surajprasad Naipaul
 India: A Wounded Civilization By Sir Vidiadhar Surajprasad Naipaul
+India By Sir Vidiadhar Surajprasad Naipaul
 India: Essays By Sir Vidiadhar Surajprasad Naipaul
 Indigo: A Novel By Charlaine Harris, Cherie Priest, Christopher Golden, James Arthur Moore, Jonathan Maberry, Kat Richardson, Kelley Armstrong, Mark Morris, Seanan McGuire & Tim Lebbon
 Indivisible By Travis Thrasher
@@ -2934,6 +2943,7 @@ Jokers Wild (Wild Cards, #3) By George Raymond Richard Martin
 Jonathan Livingston Seagull: A Story By Richard Bach (Read)
 Jonathan Strange And Mr. Norrell By Susanna Clarke
 Jorge Luis Borges: A Literary Biography By Emir Rodriguez Monegal
+Jo's Boys By Louis May Alcott
 Joseph Andrews By Henry Fielding
 Joseph Anton: A Memoir By Salman Rushdie
 Joseph Brodsky: Conversations By Joseph Brodsky
@@ -3002,6 +3012,7 @@ Killshot By Elmore Leonard
 Kill Without Joy!: The Complete How To Kill Book By John Minnery
 Kinder Than Solitude By Yiyun Li
 Kindness Goes Unpunished (Walt Longmire, #3) By Craig Johnson
+Kind Of Cruel By Sophie Hannah
 Kindred By Octavia Estelle Butler (Have)
 Kindred Spirits By Peter Nadas
 Kingdom Cons By Yuri Herrera
@@ -3293,6 +3304,7 @@ Little Dorrit By Charles Dickens
 Little Fires Everywhere By Celeste Ng
 Little House On The Prairie (Little House, #2) By Laura Ingalls Wilder
 Little Johnny By Csonger Veres & Ingrid Ullrich
+Little Men By Louisa May Alcott
 Little Pilgrim By Ko Un
 Little Reunions By Eileen Chang
 Little Shop Of Hamsters (Goosebumps HorrorLand, #14) By Robert Lawrence Stine
@@ -3525,6 +3537,7 @@ Medea By Lyudmila Ulitskaya
 Medea And Her Children By Lyudmila Ulitskaya
 Meditations By Marcus Aurelius
 Mediums: Speakers With The Dead By Andrew Bates, Ed Hall, Fred Yelk, James Arthur Moore, John Diagle, Justin Achilli, Lisa Daigle, Robert Martin, Roger Gaudreau, Ronni Radner & Tracy Rysavy
+Medusa (Aurelio Zen, #9) By Michael Dibdin
 Meet Me At World's End (Bunker, #2) By Jordan Rivet
 Melville In Love: The Secret Life Of Herman Melville And The Muse Of Moby - Dick By Michael Shelden
 Melancholy Byia I - II: Roman (NO) By Jon Fosse
@@ -3616,6 +3629,7 @@ Mirrorwork: 50 Years Of Indian Writing, 1947 - 1997 By Salman Rushdie
 Misery By Stephen King
 Missing Person By Patrick Modiano (Read)
 Missing Soluch By Mohammed Dowlatabadi
+Missing You By Harlan Coben
 Mission From Cape Coast Castle To Ashantee: With A Statistical Account Of That Kingdom, And Geographical Notices Of Other Parts Of The Interior Of Africa By Thomas Edward Bowdich
 Miss Lonelyhearts & The Day Of The Locust By Nathanael West (Have)
 Miss Marjoribanks (Chronicles Of Carlingford, #5) By Margaret Oliphant Wilson Oliphant
@@ -4490,6 +4504,7 @@ Re: Creation: Poems By Nikki Giovanni
 Recursion By Blake Crouch
 Red Clocks: A Novel By Leni Zumas
 Red Doc> By Anne Carson
+Redeeming Love: A Novel By Francine Rivers
 Redemption In Indigo By Karen Lord
 Redeployment By Phil Klay
 Red Island House: A Novel By Andrea Lee
@@ -4692,6 +4707,7 @@ Schools On Trial: How Freedom And Creativity Can Fix Our Educational Malpractice
 Schwarze Hunde. (DE) By Ian McEwan
 Science And Human Behavior By Burrhus Frederic Skinner
 Science: Vintage Minis By Ian McEwan
+Scorched Grace By Margot Douaihy
 Scorpia (Alex Rider, #5) By Anthony Horowitz (Have)
 Scorpia Rising (Alex Rider, #9) By Anthony Horowitz
 Scott Fitzgerald And His World By Arthur Mizener
@@ -4938,6 +4954,7 @@ Some Hell By Patrick Nathan
 Somehow, Crystal By Yasuo Tanaka
 Some Monday For Sure By Nadine Gordimer
 Someone By Robert Pinget
+Someone Else's Shoes By Jojo Moyes
 Someone Knows My Name By Lawrence Hill
 Someone Talking To Sometime: Poems By Ama Ata Aidoo
 Someone To Run With By David Grossman
@@ -5560,6 +5577,7 @@ The Children Of Captain Grant By Jules Verne
 The Children Of Segu By Maryse Conde
 The Children Of The Dead By Elfriede Jelinek
 The Children's Boat By Mario Vargas Llosa
+The Children's Book: A Novel By A. S. Byatt / Dame Antonia Susan Duffy
 The Chinese Must Go: Violence, Exclusion, And The Making Of The Alien In America By Beth Lew - Williams
 The Chinese Secrets For Success: Five Inspiring Confucian Values By YuKong Zhao
 The Chocolate War By Robert Cormier (Read)
@@ -5597,6 +5615,7 @@ The Collected Poems Of Octavio Paz, 1957 - 1987 By Octavio Paz
 The Collected Poems Of Odysseus Elytis By Odysseas Elytis
 The Collected Poems Of Oscar Wilde By Oscar Wilde
 The Collected Poems Of Sylvia Plath
+The Collected Regrets Of Clover By Mikki Brammer
 The Collected Stories By Eudora Welty
 The Collected Stories Of Diane Williams By Diane Williams
 The Collected Stories Of Lydia Davis By Lydia Davis
@@ -6982,7 +7001,7 @@ The Room By Hubert Selby Jr.
 The Room By Jonas Karisson
 The Rogue Prince (Lords Of The Var, #4) By Michelle M. Pillow
 The Rosales Saga By By Francisco Sionil José
-The Rosie Project (Don Tillman, #1) By Graeme Simsion
+The Rosie Project: A Novel (Don Tillman, #1) By Graeme Simsion
 The Rouge Of The North By Eileen Chang
 The Round House By Louise Erdrich
 The Rub Of Time: Bellow, Nabokov, Hitchens, Travolta, Trump: Essays And Reportage, 1994 - 2017 By Martin Amis
@@ -7186,6 +7205,7 @@ The Story Of An African Farm By Olive Schreiner
 The Story Of A New Name (The Neapolitan Novels, #2) By Elena Ferrante
 The Story Of Archaeological Decipherment: From Egyptian Hieroglypths To Leanr B (The World Of Archaeology) By Maurice Pope
 The Story Of A Real Man By Boris Polevoy
+The Story Of Arthur Truluv: A Novel By Elizabeth Berg
 The Story Of A Shipwrecked Sailor By Gabriel Garcia Marquez
 The Story Of Babar: The Little Elephant By Jean De Brunhoff
 The Story Of Edgar Sawtelle: A Novel By David Wroblewski
@@ -7283,6 +7303,7 @@ The Things They Carried By Tim O'Brien (Read) (Fav)
 The Things We Do For Love By Kristin Hannah
 The Things You Know (Storycuts) By Julian Barnes
 The Thin Man By Dashiell Hammett
+The Third Reich In Power, 1933 - 1939 By Richard J. Evans
 The Third Victim (Quincy & Rainie, #2) By Lisa Gardner
 The Thorn In The Flesh By Robert Tillman Kendall
 The Threat (Animorphs, #21) By Katherine Applegate
@@ -7743,6 +7764,7 @@ To The Icebergs By Jean - Marie Gustave Le Clezio
 To The Lighthouse By Virginia Woolf
 To The Young Writer And Other Essays By Francisco Sionil Jose
 Touch The Water, Touch The Wind By Amos Oz
+Tough Customer: A Novel By Sandra Brown
 Tours Of The Black Clock By Steve Erickson
 Tous Les Noms By Jose Saramago
 Toward Eternity: A Novel By Anton Hur
@@ -8148,6 +8170,7 @@ What Is The What By Dave Eggers
 What Is To Be Done? By Nikolay Chernyshevsky
 What I Talk About When I Talk About Running By Haruki Murakami (Read) (Fav)
 What It Is Like To Go To War By Karl Marlantes
+What Kind Of Paradise: A Novel By Janelle Brown
 What Moves At The Margin: Selected Nonfiction By Toni Morrison
 What Must Be Said By Gunter Grass
 What My Bones Know: A Memoir Of Healing From Complex Trauma By Stephanie Foo
