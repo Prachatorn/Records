@@ -472,7 +472,7 @@ Annals Of The Cakchiquels By Francisco Diáz Gebuto Quej and Francisco Hernánde
 Anne Of Green Gables (Anne Of Green Gables, #1) By Lucy Maud Montgomery (Read)
 Anne Of Windy Poplars (The Anne Of Green Gables Novels, #4) (Have) By Lucy Maud Montgomery
 Anne Perry Presents Malice Domestic: Stories By Anne Perry
-Annie Bot By Sierra Greer
+Annie Bot: A Novel By Sierra Greer (Read)
 Annie John By Jamaica Kincaid
 Annihilation (Southern Reach, #1) By Jeff VanderMeer
 Ann Veronica By Herbert George Wells
@@ -962,6 +962,7 @@ Blood Harvest By James Arthur Moore
 Bloodlines By James Arthur Moore
 Blood Meridian (Or, The Evening Redness In The West) By Cormac McCarthy (Read)
 Blood Of The Dragon By George Raymond Richard Martin
+Blood On The Forge By William Attaway
 Blood Red By James Arthur Moore
 Blood Red, Sister Rose By Thomas Keneally
 Blood Sports By Eden Robinson
@@ -2253,6 +2254,7 @@ Gifts By Nuruddin Farah
 Gilead (Gilead, #1) By Marilynne Robinson
 Giono: Master Of Fictional Modes By Norma Lorre Goodrich
 Giovanni's Room By James Baldwin (Read)
+Girl, 20 By Kingsley Amis
 Girl In The Dark By Anna Lyndsey
 Girls At War And Other Stories By Chinua Achebe
 Girl Waits With Gun By Amy Stewart
@@ -3391,6 +3393,7 @@ Loving Frank By Nancy Hogan (Have)
 Low - Lands By Thomas Pynchon
 Low Pay? Don't Pay! By Dario Fo
 Lucky Alan And Other Stories By Jonathan Lethem
+Lucky Jim By Kingsley Amis
 Lucy: A Novel By Jamaica Kincaid (Read)
 Lucy Lickalotopus Goes Down South By Bimisi Tayanita, Matt Williams & Sumguyen Bangladesh
 Luka And The Fire Of Life By Salman Rushdie
@@ -4074,6 +4077,7 @@ One Day In The Life Of Ivan Denisovich By Aleksandr Solzhenitsyn (Read)
 One Day Long Ago: More Stories From A Shona Childhood (1991) By Charles Mungoshi
 One - Dimensional Man By Herbert Marcuse
 One Door Away From Heaven By Dean Koontz
+One Fat Englishman By Kingsley Amis
 One Flew Over The Cuckoo Nest By Dale Wasserman
 One Flew Over The Cuckoo Nest By Ken Kesey (Read)
 One Foot In Eden By Ron Rash
@@ -4269,6 +4273,7 @@ Phoenix By David Herbert Lawrence
 Phoenix Extravagant By Yoon Ha Lee
 Phototaxis By Olivia Tapiero
 Physics And Beyond By Werner Heisenberg
+Piandello's Henry IV By Tom Stoppard
 Piano Lessons Can Be Murder (Goosebumps, #13) By Robert Lawrence Stine
 Picnic At Hanging Rock By Joan Lindsay
 Picnic In Provence: A Memoir With Recipes By Elizabeth Bard
@@ -4284,11 +4289,11 @@ Pincher Martin By William Golding
 Pinchon By Thomas Pynchon
 Pink Glass Houses: A Novel By Asha Elias
 Pinter Plays By Harold Pinter
-Piandello's Henry IV By Tom Stoppard
 Pines (Wayward Pines, #1) By Blake Crouch
 Piranesi By Susanna Clarke
 Pirate King (Mary Russell, #11) By Laurie R. King
 Pirates Past Noon (Magic Tree House, #4) By Mary Pope Osborne
+Pitch Dark By Renata Adler
 Pit Lullabies: Poems By Jessica Traynor
 Plainwater: Essays And Poetry By Anne Carson (Have)
 Plan Of Attack By Bob Woodward
@@ -5027,6 +5032,7 @@ Speak: The Graphic Novel By Laurie Halse Anderson
 Special Edward By Eric Walters (Read)
 Species Of Mind: The Philosophy And Biology Of Cognitive Ethology By Colin Allen & Marc Bekoff
 Spectral Evidence: Poems By Gregory Pardlo
+Speedboat By Renata Adler
 Spider Boy: A Scenario For A Moving Picture By Carl Van Vechten
 Spider Woman's Daughter: A Leaphorn Chee Novel (Leaphorn & Chee, #19) By Anne Hillerman
 Spill Simmer Falter Wither By Sara Baume
@@ -5307,6 +5313,7 @@ The Aleph And Other Stories By Jorge Luis Borges (Read)
 The Alien (Animorphs, #8) By Katherine Applegate
 The Alienist (Dr. Laszlo Kreizler, #1) By Caleb Carr
 The All - Girl Filling Station's Last Reunion By Fannie Flagg
+The Alteration By Kindsley Amis
 The Alteration By Stephanie Scott
 The Amateur Cracksman: Stories By Ernest William Hornung
 The Amazing Adventures Of Kavalier & Clay By Michael Chabon
@@ -6124,6 +6131,7 @@ The Great Mistake: A Novel By Jonathan Lee
 The Great War, The Waste Land And The Modernist Long Poem By Oliver Tearle
 The Great Winter By Ismail Kadare
 The Green House By Mario Vargas Llosa
+The Green Man By Kingsley Amis
 The Green Mile By Stephen King (Have)
 The Green Mill Murder (Phryne Fisher, #5) By Kerry Greenwood
 The Green Shame: And The Triumph Of The Irish In The English - Speaking World By Thomas Keneally
@@ -6271,6 +6279,7 @@ The Incredible And Sad Tale Of Innocent Eréndira And Her Heartless Grandmother 
 The Indian Trilogy By Sir Vidiadhar Surajprasad Naipaul
 The Infant With A Melancholic Face By Kenzaburō Ōe
 The Infatuations By Javier Marías
+The Inferno By Dante Alighieri
 The Information By Martin Amis
 The Information: A History, A Theory, A Flood By James Gleick
 The Inheritors By William Golding
@@ -6312,6 +6321,7 @@ The Janitor On Mars By Martin Amis
 The January Children By Safia Elhillo
 The Japanese Lover: A Novel By Isabel Allende (Have) (Read)
 The Japanese Porn Industry Unmasked: An Insider's Guide By Kaho Shibuya
+The Jeffersonian Transformation By Henry Adams
 The Jeju 4.3 Incident Investigation Report By Jeju 4.3 Peace Foundation
 The Jekyll Revelation By Robert Masello
 The Jessamy Bride By Frank Frankfort Moore
@@ -6713,6 +6723,7 @@ The Office Of Innocence By Thomas Keneally
 The Old Capital By Yasunari Kawabata (Read)
 The Old Chief Mshlanga By Doris Lessing
 The Old Curiosity Shop By Charles Dickens
+The Old Devils By Kingsley Amis
 The Old English Baron By Clara Reeve
 The Old Man And The Medal By Ferdinand Oyono (Have)
 The Old Man And The Sea By Ernest Hemingway (Read)

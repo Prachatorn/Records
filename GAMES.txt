@@ -15,10 +15,12 @@ Backrooms: Escape Together (2022) (Windows) By Trilodide Studios
 Baldi's Basics In Education And Learning (2018) (Android) By Basically Games & Micah McGonigal
 Baldur's Gate 3 (2023) (PS5) By Larian Studios
 Batman: Arkham Shadows (2024) (Meta Quest) By Camouflaj
+Battlefield 6 (2025) By Battlefield Studios
 Bayonetta (2009) (PS4) By Armature Studio, Next Entertainment, PlatinumGames & Sega
 Bayonetta 2 (2014) (Switch) By PlatinumGames
 Bayonetta 3 (2022) (Switch) By PlatinumGames
 Bayonetta Origins: Cereza And The Lost Demon (2023) (Switch) By PlatinumGames
+BeamNG.drive (2015) (Windows) By BeamNG
 Bears In Space (2024) (Windows) By Broadside Games
 Bee Movie Game (2007) (PS2) By Deenox, Blizzard Albany & WildWorks
 Bee Simulator (2019) (PS4) By Varsav Game Studios (Played)
@@ -34,6 +36,7 @@ Black Myth: Wukong (2024) (PS5) By Game Science
 Blood Bowl 3 (2023) (PS4) By Cyanide
 Brothers In Arms: Hell's Highway (2008) (PS3) By Gearbox Software
 Call Of Duty (2003) (Steam) By Infinity Ward & Nokia
+Call Of Duty: Black Ops (2010) By Aspyr, n-Space, Raven Software & Treyarch
 Call Of Duty: Black Ops 6 (2024) By Activision Shanghai, Beenox, Demonware, High Moon Studios, Infinity Ward, Raven Software, Sledgehammer Games & Treyarch
 Call Of Duty: Modern Warfare (2019) (PS4) By Infinity Ward
 Call Of Duty: Modern Warfare III (2023) (PS4) By Sledgehammer Games
@@ -60,6 +63,8 @@ Dead Space (2023) (PS5) By Motive Studio
 Dead Space 2 (2010) (PS3) By Visceral Games
 Dead Space 3 (2013) (PS3) By Visceral Games
 Deathloop (2021) (PS5) By Arkane Studios
+Death Stranding (2019) (PS4) By Kojima Productions
+Death Stranding 2: On The Beach (2025) (PS5) By Kojima Productions
 Deca Sports (2008) (Wii) By Hudson Soft
 Destiny 2 (2017) (PS4) By Bungie
 Destiny 2: Lightfall (2023) (PS4) By Bungie Inc.
@@ -84,6 +89,7 @@ Endoparasitic 2 (2024) (Windows) By Deep Root Interactive
 Enter The Gungeon (2016) (PS4) By 22nd Century Toys LLC, Dodge Roll & Mythic Entertainment
 Escape From Tarkov (2016) (Windows) By Battlestate Games
 E. T. The Extra - Terrestrial (1982) (Atari 2600) By Atari, Incorporated
+Fallen Aces (2021) (Windows) By Jason Bond & Trey Powell
 Fallout (1997) (Steam) By Bethesda Softworks & Interplay Entertainment
 Fallout 2 (1998) (Steam) By Black Isle Studios & The Omni Group
 Fallout 3 (2008) (Steam) By Bethesda Game Studios
@@ -106,6 +112,7 @@ Garfield Kart: Furious Racing (2019) (PS4) By Artefacts Studio
 Gears 5 (2019) (Xbox One) By The Coalition
 Ghost Of Tsushima (2020) (PS4) By Sucker Punch Productions (Played)
 Ghost Watchers (2022) (Steam) By Renderise Game Studio
+Goat Simulator 3 (2022) (Windows) By Coffee Stain North
 God Of War (2018) (PS4) By Santa Monica Studio (Have) (Played)
 God Of War: Ragnarok (2022) (PS4) By Santa Monica Studio (Played) (Fav)
 God Of War: Ragnarok: Vahalla (2023) (PS4) By Santa Monica Studio (Played)
@@ -160,6 +167,7 @@ Kingdom Hearts III: Re Mind (2020) (PS4) By Square Enix (Played)
 Laundry Store Simulator (2024) (Windows) By Akhir Pekan Studio
 LEGO Batman 3: Beyond Gotham (2014) (PS4) By Traveller's Tales Games & Warner Bros. Interactive Entertainment (Played)
 LEGO Marvel's Avengers (2016) (PS4) By Traveller's Tales Games & Feral Interactive (Played)
+LEGO Marvel Super Heroes (2013) (PS4) By Traveller's Tales Games & Warner Bros. Games
 Lies Of P (2023) (PS4) By Neowiz Games & Round 8 Studio
 Lightmatter (2020) (Windows) By Tunnel Vision Games
 LittleBigPlanet (2008) (PS3) By Guerrilla Cambridge & Media Molecule
@@ -188,11 +196,14 @@ Mr. Hopp's Playhouse 3 (2023) (Windows) By Moonbit
 Myth Makers: Trixie In Toyland (2005) (Wii) By Data Design Interactive
 Natural Selection 2 (2012) (Windows) By Unknown Worlds Entertainment
 Needy Streamer Overload (2022) (PS4) By WSS Playground & Xemono Co., Ltd.
+Nicktoons: Attack Of The Toybots (2007) (PS2) By Blue Tongue Entertainment, Firemonkeys Studios & Natsume Atari
 Night Of The Consumers (2020) (Windows) By Germfood
 Ninjabread Man (2005) (Wii) By Data Design Interactive
 Ninja Reflex (2008) (Wii) By Sanzaru Games
 Path Of Exile 2 (2024) (PS5) By Grinding Gear Games
+PATHOGEN X (2024) (Windows) By BraveCat'Studios
 Payday 3 (2023) (PS5) By Overkill Software & Starbreeze Studios
+Peak (2025) (Windows) By Landfall Games & Team PEAK
 Petz: Catz 2 (2007) (Wii) By Backbone Entertainment & Yuke's
 Petz: Crazy Monkeyz (2008) (Wii) By Ubisoft & Y'sk
 Petz: Dogz 2 (2007) (Wii) By Backbone Entertainment & Yuke's
@@ -218,6 +229,7 @@ Ratchet & Clank: Rift Apart (2021) (PS5) By Insomniac Games
 Ratchet & Clank: Size Matters (2007) (PSP) By High Impact Games
 Ratchet & Clank: Up Your Arsenal (2004) (PS2) By Insomniac Games
 Ratchet: Deadlocked (2005) (PS2) By Insomniac Games
+Rayman 3: Hoodlum Havoc (2003) (PS3) By Gameloft & Ubisoft
 Ready Or Not (2023) (Windows) By VOID Interactive
 Red Dead Redemption (2010) (PS3) By Rockstar Games (Have) (Played)
 Red Dead Redemption II (2018) (PS4) By Rockstart Games (Have)
@@ -281,6 +293,7 @@ The Walking Dead: Destinies (2023) (PS4) By Flux Game Studio
 The Wardrobe (2017) (PS4) By C. I. N. I. C Games
 Tomb Raider (2013) (PS3) By Crystal Dynamics (Have) (Played)
 Tomb Raider I - III Remastered (2024) (PS5) By Aspyr
+Tony Hawk's Pro Skater 3 + 4 (2025) (Windows) By Iron Galaxy
 Total War: Pharaoh (2023) (Windows) By Creative Assembly & Feral Interactive
 Total War: Warhammer III - Immortal Empires (2022) (Windows) By Creative Assembly & Feral Interactive
 Toukiden: Kiwami (2014) (PS4) By Koei Tecmo Games & Omega Force
