@@ -77,6 +77,7 @@ A Canticle For Leibowitz By Walter Michael Miller Jr.
 A Captive Of Time: My Years With Pasternak By Olga Ivinskaya
 A Catalog Of Birds By Laura Harrington
 A Cat, A Man, And Two Women By Jun'ichiro Tanizaki
+Acceptance (Southern Reach, #3) By Jeff VanderMeer
 Accident Nocturne By Patrick Modiano
 Accommodations By Wioletta Greg
 Accomplices To The Crime: The Arkansas Prison Scandal By Joe Hyams & Thomas Orhelius Morton
@@ -438,6 +439,7 @@ And Quiet Flows The Don By Mikhail Sholokhov
 And The Dark Sacred Night By Julia Glass
 And Then By Natsume Sōseki
 And Then There Were None By Agatha Christie (Read)
+And Yet They Were Happy By Helen Phillips
 An Echo Of Heaven By Kenzaburō Ōe
 An Egyptian Journal By William Golding
 An Englishman Looks At The World By Herbert George Wells
@@ -573,6 +575,7 @@ Arrows In The Gale & Other Poems By Arturo Giovannitti
 Artforum By César Aira
 Arthur & George By Julian Barnes
 Artificial Condition By Martha Wells
+Artificial Intelligence: An Ilustrated History By Clifford Alan Pickover
 Artist Descending A Staircase, And, Where are They Now? Two Plays For Radio By Tom Stoppard
 A Russian Beauty And Other Stories By Vladimir Nabokov
 A Scanner Darkly By Philip Kindred Dick
@@ -696,6 +699,7 @@ Austerlitz By Winfried Georg Sebald (Have)
 Aus Tiefstem Vergessen (DE) By Patrick Modiano
 Australians By Thomas Keneally
 Authenticity: Reclaiming Reality In A Counterfeit Culture By Alice Sherwood
+Authority (Southern Reach, #2) By Jeff VanderMeer
 Autobiography And Other Writings By Benjamin Franklin
 Autobiography Of Red: A Novel In Verse By Anne Carson (Read)
 Auto - Da - Fé By Elias Canetti
@@ -2477,6 +2481,7 @@ Here I Am By Jonathan Safran Foer
 Hérémakhonon By Maryse Condé
 Here One Moment: A Novel By Liane Moriarty
 Here Speeching American: A Very Strange Guide To English As It Is Garbled Around The World By Ross Petras (Have)
+Here Where The Sunbeams Are Green Helen Phillips
 Hermit's Peak By Michael McGarrity
 Her Not All Her: On / With Robert Walser By Elfriede Jelinek
 Hero By Thomas Perry
@@ -2636,7 +2641,7 @@ Humani Generis By Pope Plus XII
 Humankind: A Hopeful History By Rutger Bregman
 Humans: An A - Z By Matt Haig
 Human Voices By Penelope Fitzgerald (Have)
-Hum By Helen Phillips
+Hum: A Novel By Helen Phillips (Have) (Read)
 Humiliated And Insulted By Fyodor Dostoevsky
 Hunchback By Saou Ichikawa
 Hunger Games By Suzanne Collins (Read)
@@ -4508,6 +4513,7 @@ Reason By Isaac Asimov
 Reasons To Stay Alive By Matt Haig
 Rebecca By Daohne Du Maurier
 Rechnitz And The Merchant's Contracts By Elfriede Jelinek
+Reclaiming Conversation: The Power Of Talk In A Digital Age By Sherry Turkle
 Reconstruction: America's Unfinished Revolution, 1863 - 1877 By Eric Foner
 Record Of A Night Too Brief: Stories By Hiromi Kawakami (Read)
 Re: Creation: Poems By Nikki Giovanni
@@ -4956,6 +4962,7 @@ Solidarité, Solitude (FR) By Adam Zagajewski
 Solidarity, Solitude: Essays By Adam Zagajewski
 Solidarność I Samotność (PO) By Adam Zagajewski
 Solitary: A Novel (Solitary Tales, #1) By Travis Thrasher
+Solitary: Unbroken By Four Decades In Solitary Confinement By Albert Woodfox
 Solito: A Memoir By Javier Zamora
 Sol Primordi: The Silent Night And The Lioness Of The Sword By Mike Walker
 Somebody (Three Roads Home, #1) By Travis Thrasher
@@ -4970,6 +4977,7 @@ Someone Talking To Sometime: Poems By Ama Ata Aidoo
 Someone To Run With By David Grossman
 Someone You Can Build A Nest In By John Wiswell
 Some People Need Killing: A Memoir Of Murder In My Country By Patricia Evangelista
+Some Possible Solutions By Helen Phillips
 Some Prefer Nettles By Jun'ichirō Tanizaki
 Somersault By Kenzaburō Ōe (Read)
 Somerset And All The Maughams By Robin Maugham
@@ -5020,6 +5028,7 @@ South Pole Station By Ashley Shelby
 South Sea Tales By Robert Louis Stevenson (Have)
 Sovereign Body (2004) By Tanure Ojaide
 So You Don't Get Lost In The Neighborhood: A Novel By Patrick Modiano
+So You've Been Publicly Shamed By Jon Ronson
 So You Wanna Run A Country By Kevin Holohan
 Space Needle: The Spirit Of Seattle By Knute Berger
 Space Opera By Catherynne M. Valente
@@ -5228,6 +5237,7 @@ Tartufo By Kira Jane Buxton
 Tarzan Of The Apes (Tarzan, #1) By Edgar Rice Burroughs (Read)
 Teachings From The Worldly Philosophy By Robert Louis Heilbroner
 Teach Us To Outgrow Our Madness: Four Short Novels By Kenzaburō Ōe
+Team Human By Douglas Rushkoff
 Team Of Rivals: The Politcal Genius Of Abraham Lincoln By Doris Kearns Goodwin
 Teardrop (7 Hours, #3) By Travis Thrasher
 Teatro Grottesco By Thomas Ligotti
@@ -5354,6 +5364,7 @@ The Arkansas Testament By Derek Walcott
 The Armageddon Rag By George Raymond Richard Martin
 The Arrival (Animorphs, #38) By Katherine Applegate
 The Artificial Silk Girl By Irmgard Keun (Read)
+The Artist In The Machine The World Of AI - Powered Creativity By Arthur I. Miller
 The Art Of Love By Ovid
 The Art Of The Novel By Milan Zundera
 The Art Of The Tale: An International Anthology Of Short Stories By Daniel Halpern (Have)
@@ -5398,6 +5409,7 @@ The Beast From The East (Goosebumps, #43) By Robert Lawrence Stine
 The Beast Within By Émile Zola
 The Beautiful And Damned By Francis Scott Key Fitzgerald
 The Beautiful Annabel Lee Was Chilled And Killed By Kenzaburō Ōe
+The Beautiful Bureaucrat By Helen Phillips
 The Beautiful Lady By Booth Tarkington
 The Beautiful Summer By Cesare Pavese
 The Beautyful Ones Are Not Yet Born By Ayi Kwei Armah
@@ -6204,6 +6216,7 @@ The History Of Sir Charles Grandison By Samuel Richardson
 The History Of The Siege Of Lisbon By José Saramago
 The History Of Tom Jones, A Foundling By Henry Fielding
 The Hitchhiker's Guide To The Galaxy (Hitchhiker's Guide to the Galaxy, #1) By Douglas Adams (Read)
+The Hive And The Honey By Paul Yoon
 The Hive By Camilo José Cela
 The Hobbit By John Ronald Reuel Tolkien (Read)
 The Hole: A Novel By Pyun Hye - Young
@@ -6374,6 +6387,7 @@ The Langauge Of God: A Scientist Presents Evidence For Belief By Francis Sellers
 The Language Of Passion: Selected Commentary By Mario Vargas Llosa
 The Largesse Of The Sea Maiden: Stories By Denis Johnson
 The Last American Road Trip: A Memoir By Sarah Kendzior
+The Last Animal By Ramona Ausubel
 The Last Bookaneer: A Novel By Matthew Pearl
 The Last Chroncle Of Barset (Chronicles Of Barsetshire, #6) By Anthony Trollope
 The Last Days Of Night By Graham Moore
@@ -6664,6 +6678,7 @@ The Narcissit In You And Everyone Else: Recognizing The 27 Types Of Narcissism B
 The Natural Order Of Things By António Lobo Antunes
 The Nawal El Saadawi Reader By Nawal El Saadawi
 The Necklace And Other Short Stories By Guy De Maupassant
+The Need By Helen Phillips
 The Neighborhood By Mario Vargas Llosa
 The Nest By Cynthia D'Aprix Sweeney (Have)
 The Netanyahus By Joshua Cohen
@@ -7411,6 +7426,7 @@ The Unexpected (Animorphs, #44) By Katherine Applegate
 The Unfinished Revolution: Sun Yat - Sen And The Struggle For Modern China By Tjio Kayloe
 The Unfortunate Side Effects Of Heartbreak And Magic: A Novel By Breanne Randall
 The Unhoneymooners By Christina Lauren
+The Uninhabitable Earth: Life After Warming By David Wallace - Wells
 The Union Kack By Imre Kertész
 The Unit By Ninni Holmqvist
 The Universe In A Nutshell By Stephen Hawking
@@ -7896,6 +7912,7 @@ Unaccustomed Earth By Jhumpa Lahiri
 Un Amico Di Kafka (DE) By Isaac Bashevis Singer
 Una Novela China / A Chinese Novel By César Aira
 Unbroken: An Olympian's Journey From Airman To Castaway To Captive: Adapted For Young Adults By Laura Hillenbrand
+Uncanny Valley: A Memoir By Anna Wiener
 Un Cirque Passe (FR) By Patrick Modiano
 Uncle Target By Gavin Lyall
 Uncle Tom's Cabin By Harriet Beecher Stowe
@@ -8388,6 +8405,7 @@ Work Like Any Other By Virginia Reeves
 Work Song By Ivan Doig
 World Order By Henry Kissinger
 World War Z - An Oral History Of The Zombie War By Max Brooks (Read)
+World Without Mind: The Existential Threat Of Big Tech By Franklin Foer
 Wounded By Percival Everett
 Weath Of The Triple Goddess By Rick Riordan
 Wrestling With The Devil: A Person Memoir By Ngũgĩ Wa Thiong'o
