@@ -154,6 +154,7 @@ Adverbs By Daniel Handler
 Aeschylus: Libation Bearers By Aeschylus
 Aesop's Fables By Aesop (Have) (Read)
 Aesthetics And Creation By Gao Xingjian
+Aetherbound By Emily Kate Johnston
 A Family Madness By Thomas Keneally
 A Fairly Honourable Defeat By Iris Murdoch
 A Fair Maiden By Joyce Carol Oates
@@ -792,7 +793,7 @@ Baroane! By Mircea Cartarescu
 Baron Wenckheim's Homecoming By Laszlo Krasznahorka
 Barrel Of A Pen By Ngugi Wa Thiong'o
 Barry Lyndon By William Makepeace Thackeray
-Bartleby & Co By Enrique Vila - Matas
+Bartleby & Co By Enrique Vila - Matas (Have)
 Bartleby The Scrivener By Herman Melville
 Basic French Cookery Course By Len Deighton
 Basic French Cooking By Len Deighton
@@ -814,6 +815,7 @@ Beatrice And Virgil: A Novel By Yann Martel
 Beau Geste By Percival Christopher Wren
 Beautiful Star By Yukio Mishima
 Beautiful Strangers By Mircea Cartarescu
+Beautiful World, Where Are You By Sally Rooney (Have)
 Beauty's Punishment (Sleeping Beauty, #2) By Anne Rice
 Bebop Baby By Mircea Cartarescu
 Be Careful What You Wish For... (Goosebumps, #12) By Robert Lawrence Stine
@@ -1162,7 +1164,7 @@ Celine: A Novel By Peter Heller
 Census By Jesse Ball
 Cercando Emma (IT) By Dacia Maraini
 Cevdet Bey And His Sons By Orhan Pamuk
-Chain - Gang All - Stars By Nana Kwame Adjei - Brenyah
+Chain - Gang All - Stars By Nana Kwame Adjei - Brenyah (Have) (Read)
 Chains And Memory (Wilders, #2) By Marie Brennan
 Challenge By Vita Sackville - West
 Chamiel By Edward Pearson (Have)
@@ -2124,6 +2126,7 @@ Force Of Nature: A Novel (John Ryder Novels) By Christian James
 Force The Stream Of Consciousness By Dubravka Ugresic
 Foreigners By Carolyn Janice Cherryh
 Forest Dark By Nicole Krauss
+Forest Of A Thousand Lanterns By Julie C. Dao
 Forever By Judy Blume
 Forever Home: A Novel By Graham Norton
 Forever Odd By Dean Koontz
@@ -2179,6 +2182,7 @@ French Women Don't Sleep Alone: Pleasurable Secrets To Finding Love By Jamie Cat
 Freshwater: A Novel By Akwaeke Emezi
 Frenzy By Percival Everett
 Freya Stark: The Greatest Woman Explorer And Travel Writer Of Her Age By Jane Fletcher Geniesse (Have)
+Friday Black By Nana Kwame Adjei - Brenyah
 Friday's Footprints And Other Stories By Nadine Gordimer
 Friend Of My Youth By Alice Munro
 Friendship By Emily Gould
@@ -2255,7 +2259,7 @@ GhostWriter By Travis Thrasher
 Gier By Elfriede Jelinek
 Gift From The Sea By Anne Morrow Lindbergh
 Gifts By Nuruddin Farah
-Gilead (Gilead, #1) By Marilynne Robinson
+Gilead (Gilead, #1) By Marilynne Robinson (Have)
 Giono: Master Of Fictional Modes By Norma Lorre Goodrich
 Giovanni's Room By James Baldwin (Read)
 Girl, 20 By Kingsley Amis
@@ -2447,6 +2451,8 @@ Hearts In Atlantis By Stephen King (Have) (Read)
 Heart Spring Mountain: A Novel By Robin MacArthur
 Heat: An Amateur's Adventures As Kitchen Slave, Line Cook, Pasta - Maker, And Apprentice To A Dante - Quoting Butcher In Tuscany By Bill Buford
 Heaven Is For Real: A Little Boy's Astounding Story Of His Trip To Heaven And Back By Todd Burpo
+Heavenly Tyrant (Iron Widow, #2) By Xiran Jay Zhao
+Heavy: An American Memoir By Kiese Laymon
 Heavy Water And Other Stories By Martin Amis
 He Can Who Thinks He Can, And Other Papers On Success In Life By Orison Swett Marden
 Hedda Gabler By Henrik Ibsen
@@ -2862,8 +2868,8 @@ I, Robot By Isaac Asimov
 I, Robot: To Protect (I, Robot: Reichert, #1) By Mickey Zucker Reichert (Have)
 Iron Flame (The Empyrean, #2) By Rbecca Yarros
 Ironweed By William Kennedy
-Iron Widow (Iron Widow, #1) By Xiran Jay Zhao (Have)
-Irr! Gront (NO) By Dag Solstad
+Iron Widow (Iron Widow, #1) By Xiran Jay Zhao (Have) (Read)
+Isrr! Gront (NO) By Dag Solstad
 Isaac And The Egg By Bobby Palmer
 Isabella, Three Sailing Ships And A Con Man By Dario Fo
 Isabelle Huppert: Woman Of Many Faces Elfriede Jelinek & Susan Sontag 
@@ -3246,6 +3252,7 @@ L'Heresiarque Et Cie: Stories (FR) By Guillaume Apollinaire
 L'Homme Couvert De Femmes (FR) By Pierre Drieu La Rochelle
 L'Horizon (FR) By Patrick Modiano
 Liars In Love: Stories By Richard Yates
+Liberation Day By George Saunders
 Libertad Bajo Palabra (ES) By Octavio Paz
 Libra By Don DeLillo
 Libro De Cronicas (ES) By Antonio Lobo Antunes
@@ -4448,6 +4455,7 @@ Qashtamar By Nagiub Mahfouz
 Quackery: A Brief History Of The Worst Ways To Cure Everything By Lydia Kang & Nate Pedersen
 Quatre Quatuors Pour Un Week - End (FR) By Gao Xingjian
 Queen Charlotte By Julia Quinn & Shonda Rhimes
+Queen Demon (The Rising World, #2) By Martha Wells (Have)
 Queenie By Candice Carty - Williams
 Queenie (Storycuts) By Alice Munro
 Queen Of Shadows (Throne Of Glass, #4) By Sarah Janet Maas
@@ -4700,7 +4708,7 @@ Sarah Bishop By Scott O'Dell
 Sardines By Nuruddin Farah
 Sarong Party Girls By Cheryl Lu - Lien Tan
 Satan In Goray By Isaac Bashevis Singer
-Satantango By Laszlo Krasznahorkai
+Satantango By Laszlo Krasznahorkai (Have)
 Saturday By Ian McEwan (Read)
 Savage Seasons (Hap And Leonard, #1) By Joe Richard Lansdale (Have)
 Savannah Blues By Maryse Conde
@@ -5046,6 +5054,7 @@ Spider Boy: A Scenario For A Moving Picture By Carl Van Vechten
 Spider Woman's Daughter: A Leaphorn Chee Novel (Leaphorn & Chee, #19) By Anne Hillerman
 Spill Simmer Falter Wither By Sara Baume
 Spinoza, Life And Legacy By Jonathan Israel
+Spin The Dawn By Elizabeth Lim
 Spirit Of Steamboat (Walt Longmire, #9.1) By Craig Johnson
 Splickety Prime 3.3 By Arpit Mehta, Charis Ditamore, Sarah Grimmm & Travis Thrasher
 Split Image (Jesse Stone, #9) By Robert Brown Parker
@@ -5536,6 +5545,7 @@ The Bridge Of San Luis Rey By Thornton Wilder (Read)
 The Bridge On The River Kwai By Pierre Boulle
 The Brief Wondrous Life Of Oscar Wao By Junot Diaz
 The Bright Hour: A Memoir Of Living And Dying By Nina Riggs
+The Broken Kingdoms (Inheritance, #2) By Nora Keita Jemisin
 The Broken Wings By Kahlil Gibran (Have) (Read) (Fav)
 The Brothers K By David James Duncan (Have)
 The Brothers Karamazov By Fyodor Dostoyevsky
@@ -5858,7 +5868,7 @@ The Driver's Seat By Dame Muriel Spark
 The Drop (Slough House, #5.5) By Mick Herron
 The Drowned Life By Jeffrey Ford (Have)
 The Drowned (St. John Strafford, #5) By John Banville
-The Drowned World By James Graham Ballard (Read)
+The Drowned World By James Graham Ballard (Have) (Read)
 The Druggist Of Auschwitz: A Documentary Novel By Dieter Schlesak
 The Dry: A Novel By Jane Harper
 The Duel And Selected Stories By Alexander Kuprin (Have)
@@ -5867,6 +5877,7 @@ The Dwarfs By Harold Pinter
 The Eagle And The Chicken By Ama Ata Aidoo
 The Eagle's Vision: Poems (1987) By Tanure Ojaide
 The Easter Parade By Richard Yates
+The Echo Wife By Sarah Gailey (Have)
 The Eden Express: A Memoir By Mark Vonnegut
 The Edge Of Justice By Clinton McKinzie
 The Edge Of Sadness By Edwin O'Connor
@@ -7066,6 +7077,7 @@ The Scarecrow Walks At Midnight (Goosebumps, #20) By Robert Lawrence Stine
 The Scarlet Letter By Nathaniel Hawthorne (Have)
 The Scheme: How The Right Wing Used Dark Money To Capture The Supreme Court By Sheldon Whitehouse
 The Schooldays Of Jesus By John Maxwell Coetzee
+The School For Good Mothers By Jessamine Chan
 The School On Heart's Content Road By Carolyn Chute
 The Scorpion God By William Golding
 The Scout Mindset By Julia Galef
@@ -7120,6 +7132,7 @@ The Seven Ages: Poems By Louise Gluck (Read)
 The Seven Husbands Of Evelyn Hugo By Taylor Jenkins Reid
 The Seventh Day By Yu Hua (Have)
 The Several Lives Of Joseph Conrad By J.H. Stape
+These Violent Delights By Chloe Gong
 The Sexual Life Of Catherine M. By Catherine Millet
 The Sexual Man By Kenzaburo Oe
 The Shattered Crown (Steelhaven, #2) By Richard Ford
@@ -7645,6 +7658,7 @@ The Zahir By Paulo Coelho
 The Zigzag Kid By David Grossman
 The Zone Of Interest By Martin Amis
 Things Fall Apart (The African Trilogy, #1) By Chinua Achebe (Read)
+Things In Nature Merely Grow By Yiyun Li (Have)
 Things Seen By Annie Ernaux (Read)
 Things We Left Unsaid By Zoya Pirzad
 Things We Lost In The Fire By Jesse Russell
@@ -8053,7 +8067,7 @@ Visser (Animorphs, #35.5) By Katherine Applegate
 Visual Thinking: The Hidden Gifts Of People Who Think In Pictures, Patterns, And Abstractions By Betsy Lerner & Temple Grandin (Read)
 Vital Subjects: Race And Biopolitics In Italy, 1860 - 1920 By Rhiannon Noel Welch
 Viva Sandino (ES) By Gabriel Garcia Marquez
-Vladimir By Julia May Jones
+Vladimir: A Novel By Julia May Jones
 Vladimir Nabokov: Selected Letters, 1940 - 1977 By Vladimir Nabokov
 Vocabulum: Or, The Rogue's Lexicon By George Washington Matsell
 Voice Of America: Stories By E. C. Osondu
@@ -8278,7 +8292,7 @@ While My Pretty One Sleeps By Mary Higgins Clark
 While The Women Are Sleeping By Javier Marias
 While Time Remains: A North Korean Defector's Search For Freedom In America By Yeonmi Park
 Whiskey Tango Foxtrot By David Shafer
-Whisper By Yu - Ko Chang (Have)
+Whisper By Yu - Ko Chang (Have) (Read)
 Whispers By Dean Koontz
 White Dog And Swing Frame By Mo Yan
 White Egrets By Derek Walcott
@@ -8359,6 +8373,7 @@ Wiseguy By Nicholas Pileggi
 Wishful Drinking By Carrie Fisher
 Witchcraft For Wayward Girls By Grady Hendrix
 Witch (Doppelganger, #2) By Marie Brennan
+Witch King (The Rising World, #1) By Martha Wells
 With Fate Conspire (The Onyx Court, #4) By Marie Brennan
 With Fire And Sword By Henryk Sienkiewicz
 Within Reason: A Life Of Spinoza By Margaret Gullan - Whur
