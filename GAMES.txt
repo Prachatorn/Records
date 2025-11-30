@@ -77,7 +77,9 @@ Diablo IV (2023) (PS4) By Blizzard Entertainment
 Disco Elysium (2019) (PS4) By ZA / UM
 Doki Doki Literature Club! (2017) (PS4) By Dan Salvato LLC & Team Salvato
 Don't Mess With Bober (2025) (Windows) By DonCorsaire & Peace_Studio
+Donut County (2018) (PS4) By Angel Matrix & Ben Esposito
 DOOM Eternal (2020) (PS4) By id Software & Panic Button Games
+Doom 3 (2004) (PS4) By Id Software
 Dragon Ball Gekishin Squadra (2025) (Windows) By Ganbarion Co., Ltd.
 Dragon Ball Z: Burst Limit (2008) (PS3) By Bandai Namco Holdings & Dimps
 Dragon Ball Z: Kakarot (2020) (PS4) By CyberConnect2 (Played)
@@ -108,6 +110,7 @@ Fallout 4 (2015) (PS4) By Bethesda Game Studios
 Fallout 76 (2018) (PS4) By Bethesda Game Studios
 Fallout: New Vegas (2010) (Steam) By Obsidian Entertainment
 Fallout Shelter (2015) (Android) By Behavior Interactive & Bethesda Game Studios
+Family Guy Video Game! (2006) (PS2) By High Voltage Software
 Far Cry 5 (2018) (PS4) By Red Storm & Ubisoft
 Far Cry Primal (2016) (PS4) By Ubisoft (Played)
 Final Fantasy XV (2016) (PS4) By Square Enix (Have) (Played)
@@ -128,6 +131,7 @@ Goblin Cleanup (2025) (Windows) By Crisalu Games
 God Of War (2018) (PS4) By Santa Monica Studio (Have) (Played)
 God Of War: Ragnarok (2022) (PS4) By Santa Monica Studio (Played) (Fav)
 God Of War: Ragnarok: Vahalla (2023) (PS4) By Santa Monica Studio (Played)
+GoldenEye 007: Reloaded (2011) (PS3) By Eurocom & n - Space
 Gotham Knights (2022) (PS5) By QLOC & WB Games Montreal
 Grand Prix Simulator (1987) (Commodore 64) By Codemasters & Oliver Twins
 Grand Theft Auto IV (PS3) (2008) By Rockstar North
@@ -144,6 +148,7 @@ Guns, Gore & Cannoli (2015) (PS4) By Claeysbrothers & Rogueside
 Guns, Gore & Cannoli 2 (2018) (PS4) By Claeysbrothers & Rogueside
 Hades (2020) (PS4) By Supergiant Games
 Hades II (2024) (Windows) By Supergiant Games
+Half - Life: Opposing Force (1999) (Windows) By Gearbox Software
 Halo: Combat Evolved (2001) (Windows) By Bungle Inc., Gearbox Software, MacSoft & Westlake Interactive (Played)
 Harry Potter: Quidditch Champions (2024) (PS4) By Unbroken Studios
 Hashiriya Drifter (2019) (Steam) By Midnight Games
@@ -297,7 +302,9 @@ Star Wars Outlaw (2024) (PS5) By Massive Entertainment
 Starfield (2023) (Xbox Series X) By Bethesda Games Studios
 Stay Still (2023) (Windows) By Galactic Crows S. R. L., QuocMt & Tarba Paul Cornel
 Stellar Blade (2024) (PS5) By SHIFT UP Corporation
+Stick Fight: The Game (2017) (Steam) By LandFall Games
 Stray (2022) (PS4) By BlueTwelve Studio (Played)
+Street Fighter Alpha 2 (1996) (SNES) By Capcom
 Suicide Squad: Kill The Justice League (2024) (PS5) By Rocksteady Studios
 Superman 64 (1999) (N64) By Titus Interactive SA
 Super Mario 64 (1996) (N64) By Nintendo
@@ -320,6 +327,7 @@ The Town Of Light (2016) (PS4) By LKA
 The Walking Dead: Destinies (2023) (PS4) By Flux Game Studio
 The Walking Dead: Survival Instinct (2013) (PS3) By Terminal Reality
 The Wardrobe (2017) (PS4) By C. I. N. I. C Games
+TimeSplitters: Future Perfect (200) (PS2) By Free Radical Design
 Tomb Raider (2013) (PS3) By Crystal Dynamics (Have) (Played)
 Tomb Raider I - III Remastered (2024) (PS5) By Aspyr
 Tony Hawk's Pro Skater 3 + 4 (2025) (Windows) By Iron Galaxy
@@ -338,10 +346,12 @@ Uncharted: The Lost Legacy (2017) (PS4) By Naughty Dog (Played)
 Universal Paperclips (2017) (Android) By Everybody House Games
 Unknown 9: Awakening (2024) (PS4) By Reflector Entertainment
 Unturned (2014) (PS4) By Fun Labs & Smartly Dressed Games
+Vampire: The Masquerade - Bloodlines (2004) (Windows) By Troika Games
 Velvet Assassin (2009) (Windows) By Replay Studios
 Waltz Of The Wizard (2019) (PS4) By Aldin Dynamics & Ehf
 Wanted: Dead (2023) (PS4) By Soleil & Valhalla Game Studios International Ltd.
 Warhammer 40k: Rogue Trader (2023) (PS4) By Owlcat Games
+Wario World (2003) (GameCube) By Treasure
 Watch Dogs 2 (2016) (PS4) By Ubisoft
 Watch Dogs: Completed Edition (2014) (PS4) By Ubisoft Montreal
 Watch Dogs: Legion (2020) (PS4) By Ubisoft Toronto
@@ -351,5 +361,6 @@ Wii Sports (2006) (Wii) By Nintendo
 WWE 2K24 (2024) (PS4) By Visual Concepts
 XDefiant (2024) (PS5) By Ubisoft
 Yakuza: Like A Dragon (2020) (PS4) By Ryu Ga Gotoku Studio
+You Don't Know Jack (1995) (Windows) By Berkeley Systems & Jellyvision
 Yu - Gi - Oh! Duel Links (2016) (Android) By Konami (Played)
 Yu - Gi - Oh! Master Duel (2022) (Steam) By Konami (Played)
