@@ -184,6 +184,7 @@ Angel Guts: Red Vertigo (JP) (1988) By Takashi Ishii
 Angel Heart (1987) By Alan Parker
 Angel Of Vengeance (ZH) (1993) By Chung - Kwai Cheung
 Angel Rodriguez (2006) By Jim McKay (Watched)
+Angst (1983) By Gerald Kargl
 A Night At The Opera (1935) By Sam Wood
 A Night At The Roxbury (1998) By John Fortenberry
 A Nightmare On Elm Street (1984) By Wes Craven
@@ -414,6 +415,7 @@ Cabin Boy (1994) By Adam Resnick
 Cafe Lumiere (ZH) (2003) By Hou Hsiao - Hsien
 Call My By Your Name (2017) By Luca Guadagnino
 Cannery Row (1982) By David Schad Ward
+Cannibal (2013) By Manuel Martin Cuenca
 Can't Buy Me Love (1987) By Steve Rash
 Can't Hardly Wait (1998) By Deborah Kaplan
 Can You Ever Forgive Me? (2018) By Marielle Heller
@@ -973,6 +975,7 @@ Hellboy II: The Golden Army (2008) By Guillermo Del Toro
 Hello, Dolly! (1969) By Gene Kelly
 Hello World (JP) (2019) By Tomohiko Ito
 Hemingway & Gellhorn (2012) By Philip Kaufman
+Henry: Portrait Of A Serial Killer (1986) By John McNaughton
 Her (2013) By Spike Jonze
 Herbie: Fully Loaded (2005) By Angela Robinson
 Hercules Unchained (1959) By Pietro Francisci
@@ -1313,6 +1316,7 @@ Malignant (2021) By James Wan
 Mamartuile (2017) By Alejandro Saevich
 Mama Se Fue De Viaje (Ten Days Without Mom) (ES) (2017) By Ariel Winograd
 Mamma Roma (1962) By Pier Paolo Pasolini
+Man Behind The Sun (1988) By Mou Tun - Fei
 Man Bites Dog (FR) (1992) By Andre Bonzel, Benoit Poelvoorde & Remy Belvaux
 Mandrake Telefilm: Part 1 (2013) By Jose Henrique Fonseca
 Mandrake Telefilm: Part 2 (2013) By Jose Henrique Fonseca
@@ -1529,6 +1533,7 @@ Only Angels Have Wings (1939) By Howard Hawks
 On The Basis Of Sex (2018) By Mimi Leder
 On The Beach (1959) By Stanley Kramer
 On The Waterfront (1954) By Elia Kazan
+Open Water (2003) By Chris Kentis
 Operation Dumbo Drop (1995) By Simon Wincer
 Oppenheimer (2023) By Christopher Nolan (Watched)
 Orange County (2002) By Jake Kasdan
@@ -1822,6 +1827,7 @@ Snatched (2017) By Jonathan Levine
 Snow Buddies (2008) By Robert Vince
 Snow Dogs (2002) By Brian Levant
 Snowpiercer (2013) By Bong Joon - Ho
+Snowtown (2011) By Justin Kurzel
 Snow White: A Tale Of Terror (1997) By Michael Cohn
 Solarbabies (1986) By Alan Johnson
 Solaris (2002) By Steven Soderbergh
@@ -2019,6 +2025,7 @@ The Book Of Eli (2010) By Albert Hughes & Allen Hughes (Watched)
 The Bone Collector (1999) By Phillip Noyce
 The Boogeyman (2023) By Rob Savage
 The Book Of Solutions (2023) By Michel Gondry
+The Borderlands (2013) By Elliot Goldner
 The Borrowers (1998) By Peter Hewitt
 The Box (2009) By Richard Kelly
 The Boy Downstairs (2017) By Sophie Brooks
@@ -2093,7 +2100,9 @@ The Emoji Movie (2017) By Tony Leondis
 The Enchanted Cottage (1924) By John Stuart Robertson
 The Enemy Within (1994) By Jonathan Darby
 The English Patient (1996) By Anthony Minghella
+The Entity (1982) By Sidney J. Furie
 The Exorcism (2024) By Joshua John Miller
+The Exorcism Of Emily Rose (2005) By Scott Derrickson
 The Exorcist (1973) By William Friedkin
 The Exorcist: Believer (2023) By David Gordon Green
 The Express (2008) By Gary Fleder
@@ -2124,10 +2133,12 @@ The Gathering Storm (2002) By Richard Loncraine
 The Gene Generation (2007) By Pearry Reginald Teo
 The Ghost Writer (2010) By ROman Polanski
 The Girl (2012) By Julian Jarrold
+The Girl Next Door (2004) By Luke Greenfield
 The Godfather (1972) By Francis Ford Coppola
 The Godfather Part II (1974) By Francis Ford Coppola
 The Godfather Part III (1990) By Francis Ford Coppola
 The Golden Compass (2007) By Chris Weitz
+The Golden Glove (2019) By Fatih Akin
 The Gold Rush (1925) By Charlie Chaplin
 The Gold Standard (2016) By Michael Vaughn Hernandez
 The Good Dinosaur (2015) By Peter Sohn (Watched)
@@ -2417,6 +2428,7 @@ The Thin Red Line (1998) By Terrence Malick
 The Thomas Crown Affair (1968) By Norman Jewison
 The Time To Live And The Time To Die (ZH) (1985) By Hou Hsiao - Hsien
 The Time Traveler's Wife (2009) By Robert Schwentke
+The Town That Dreaded Sundown (2014) By Alfonso Gomez - Rejon
 The Toy (1982) By Ricahrd Donner
 The Treasure Of The Sierra Madre (1948) By John Huston
 The Tree Of Life (2011) By Terrence Malick
@@ -2664,6 +2676,7 @@ Without Warning: The James Brady Story (1991) By Michael Toshiyuki Uno
 Witless Protection (2008) By Charles Robert Carner
 Witness Protection (1999) By Richard Pearce
 Wizard Of Waverly Place: The Movie (2009) By Lev L. Spiro (Watched)
+Wolf Creek (2005) By Greg McLean
 Wolves At The Door (2016) By John Robert Leonetti
 Woman In Chains (1968) By Henri - Georges Clouzot
 Woman Of The Ganges (1974) By Marguerite Duras
