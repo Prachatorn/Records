@@ -237,7 +237,7 @@ Bluebeard By Charles Perrault (Have) (Read)
 Bluebonnets By Lucia Berlin (Read)
 Boarding By Olga Tokarczuk (Read)
 Bob Hope By John Steinbeck (Read)
-Body Magic By Sayaka Murata
+Body Magic By Sayaka Murata (Read)
 Body Shots By Thien - Kim Lam (Read)
 Bonnard By Marguerite Duras (Read)
 Book Burning By Wong Meng Voon (Read)
@@ -341,7 +341,7 @@ Cross Section As Learning Method By Olga Tokarczuk (Read)
 Cull By L. R. Bonehill
 Cunning By Wong Meng Voon (Read)
 Cure By Kevin Hosey
-Cursed Bunny By Bora Chung (Have) (Read)
+Cursed Bunny By Bora Chung (Read)
 Curved Is The Line Of Beauty By Hilary Mantel (Read)
 Custom - Made Bride By Kurt Vonnegut (Read)
 Dabchick By Haruki Murakami (Have) (Read)
@@ -415,7 +415,7 @@ Earth Love (1993) By Bessie Amelia 'Emery' Head (Read)
 Eat At Home By Louise Blaydon (Read)
 Eating And Drinking Salesman (2003) By Qiu Xiaolong (Read)
 Eating At Night By Marguerite Duras (Read)
-Eating The City By Sayaka Murata
+Eating The City By Sayaka Murata (Read)
 Ed Has His Mind Improved By Walter Rollins Brooks (Read)
 Edo And Enam By Shmuel Yosef Agnon (Have) (Read)
 Effortless Tears (1993) By Alexander Kanengoni (Read)
@@ -528,6 +528,7 @@ Golf In Writing (1986) By John Updike (Have)
 Gombei And The Wild Ducks By Yoshiko Uchida (Read)
 Good And Bad By Lucia Berlin (Read)
 Goodbye, An By Anni Baobei (Have) (Read)
+Goodbye, My Love By Bora Chung (Read)
 Good Country People By Flannery O'Connor
 Got A Letter From Jimmy By Shirley Jackson (Read)
 Gratitude By Andrew Emerson Hunt
@@ -559,7 +560,7 @@ Hard - Luck Stories By Alice Munro (Read)
 Harem (Menchu's Tale) By Olga Tokarczuk (Read)
 Harlem Slanguage By Zora Neale Hurston
 Harrison Berheron (1961) By Kurt Vonnegut (Read)
-Hatchling By Sayaka Murata
+Hatchling By Sayaka Murata (Read)
 Hateship, Friendship, Courtship, Loveship, Marriage By Alice Munro (Read)
 Haven By Alice Munro (Read)
 Hawking By Washington Irving
@@ -754,7 +755,7 @@ Let The Old Dead Make Room For The Young Dead By Milan Kundera (Have)
 Leviathan '99 By Ray Bradbury (Read)
 Liar! By Isaac Asimov
 Life After High School By Joyce Carol Oates
-Life Ceremony By Sayaka Muratas
+Life Ceremony By Sayaka Murata (Read) 
 Life's Like That By Wong Meng Voon (Read)
 Ligeia By Edgar Allan Poe
 Light Bulb By Nancy Pickard
@@ -781,7 +782,7 @@ Louisa, Please Come Home By Shirley Jackson (Read) (Fav)
 Love - Charms By Washington Irving
 Love In A Fallen City By Eileen Chang (Read)
 Love Is Forever By Merrilee Faber
-Lover On The Breeze By Sayaka Murata
+Lover On The Breeze By Sayaka Murata (Read)
 Lovers Anonymous By Kurt Vonnegut (Read)
 Lovers By Toshikazu Kawaguchi (Read)
 Lovers' Troubles By Washington Irving
@@ -1086,7 +1087,7 @@ Public Mourning By Mercedes M. Yardley
 Purging The Map By Olga Tokarczuk (Read)
 Purity Of Bloos By Olga Tokarczuk (Read)
 Pushover By Nicky Drayden
-Puzzle By Sayaka Murata
+Puzzle By Sayaka Murata (Read)
 Python Up A Tree By David Attenborough (Read)
 QL 696.C9 By Anthony Boucher (Read)
 Quantum Nonlocality And The Death Of Elvis Presley By Benjamin Joseph Manaly Novak (Read)
@@ -1123,6 +1124,7 @@ Return Of POW I (1954) By Qiu Xiaolong (Read)
 Return Of POW II (1992) By Qiu Xiaolong (Read)
 Return Ticket By Najwa Binshatwan (Read)
 Reunion By Ann Harleman
+Reunion By Bora Chung (Read)
 Revenge By Jose Saramago (Read)
 Rinjin / The Neighbours (1962) By Yasunari Kawabata (Read)
 Riquet With The Tuft By Catherine Bernard (Have) (Read)
@@ -1138,6 +1140,7 @@ Rome By Benjamin Joseph Manaly Novak (Read)
 Rosa By Cynthia Ozick (Read)
 Rubber Life By Francine Prose (Read)
 Rue Saint - Benoit: Madame Dodin (Rough Draft) By Marguerite Duras (Read)
+Ruler Of The Winds And Sands By Bora Chung (Read)
 Runaround By Isaac Asimov
 Runaways By Kurt Vonnegut (Read)
 Run, Melos! By Osamu Dazai
@@ -1155,6 +1158,7 @@ Saul's Daughter By Michal Lemberger
 Sato / Hometown (1944) By Yasunari Kawabata (Read)
 Saving The Regalia By Elizabeth Wilson Grierson (Read)
 Scanners Live In Vain By Cordwainer Smith
+Scars By Bora Chung (Read)
 Scheherazade By Haruki Murakami (Read)
 Seal Cavern By Henry Williamson (Read)
 Sealed Off By Eileen Chang (Have) (Read)
@@ -1199,6 +1203,7 @@ Sleep Deprivation By Jade Walker
 Slip Sliding Away By Naoki Higashida (Read)
 Smothered And Covered By Tom Barlow
 Snapshot Of A Dog By James Thurber (Read)
+Snare By Bora Chung (Read)
 Snow Blind By Elizabeth Strout
 Soldiers’ Chorus By Svetlana Alexievich (Read)
 Solid Geometry By Ian McEwan
@@ -1490,7 +1495,7 @@ The Eatonville Anthology By Zora Neale Hurston
 The Eight - Headed Dragon By Yoshiko Uchida (Read)
 The Election By Qin Zhaoyang (Have) (Read)
 The Elephant Vanishes By Haruki Murakami (Read)
-The Embodiment By Bora Chung (Have) (Read)
+The Embodiment By Bora Chung (Read)
 The Embroidered Shoes And The Vexation Of Old Lady Yuan Si By Can Xue (Read)
 The Empty Nest By Madeline Mora - Summonte
 The Endless Mystery By Peter Straub
@@ -1550,7 +1555,7 @@ The Friends Of The Friends By Henry James (Read)
 The Frogs And The Well By Aesop (Have) (Read)
 The Frogs Asking For A King By Aesop (Have) (Read)
 The Frogs' Complaint Against The Sun By Aesop (Have) (Read)
-The Frozen Finger By Bora Chung (Have) (Read)
+The Frozen Finger By Bora Chung (Read)
 The Furnished Room By William Sydney Porter / O. Henry
 The Gardener And His Dog By Aesop (Have) (Read)
 The General Election, Ha Ha By Wong Meng Voon (Read)
@@ -1603,7 +1608,7 @@ The Haunted House By Washington Irving
 The Haunter Of The Dark By Howard Phillips Lovecraft (Have)
 The Haunters And The Haunted (The House And The Brain) By Edward Bulwer - Lytton
 The Hawk, The Kite And The Pigeons By Aesop (Have) (Read)
-The Head By Bora Chung (Have) (Read)
+The Head By Bora Chung (Read)
 The Heart Of The Goof By P.G. Wodehouse
 The Heart Of The Shoal By Herman Merville (Read)
 The Heifer And The Ox By Aesop (Have) (Read)
@@ -2026,6 +2031,7 @@ The Travellers And The Plane Tree By Aesop (Have) (Read)
 The Tree Of Knowledge By Henry James
 The Trees And The Axe By Aesop (Have) (Read)
 The Trial For Murder By Charles Dickens
+The Trip By Hye - Young Pyun (Read)
 The Trouble Of Marcie Flint By John Cheever (Read)
 The Trouble With A Caddie (1993) By John Updike (Have)
 The Trumpter Taken Prisoner By Aesop (Have) (Read)

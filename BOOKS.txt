@@ -1425,7 +1425,7 @@ Cuckoo: Cheating By Nature By Nick Davies
 Cujo By Stephen King (Have)
 Cup Of Gold: A Life Of Sir Henry Morgan, Buccaneer, With Occasional Reference To History By John Steinbeck 
 Curious Pursuits - Occaional Writing, 1970 - 2005 By Margaret Atwood
-Cursed Bunny: Stories By Bora Chung
+Cursed Bunny: Stories By Bora Chung (Read)
 Cursed Days By Ivan Bunin
 Curtain: An Essay In Seven Parts By Milan Kundera
 Custer's Gold - The United States Cavalry Expedition Of 1874 By Donald Jackson (Have)
@@ -1613,6 +1613,7 @@ Destruction And Sorrow Beneath The Heavens By László Krasznahorka
 Details Of A Sunset And Other Stories By Vladimir Nabokov
 Detained By Ngũgĩ Wa Thiong'o
 Detective Story By Imre Kertész
+Detransition, Baby By Torrey Peters
 Detroit: An American Autopsy By Charlie LeDuff
 Deux Vies Valent Mieux Qu'Une (FR) By Jean - Marc Roberts
 Devdas By Sarat Chandra Chattopadhyay (Have)
@@ -2018,6 +2019,7 @@ Fantastic Voyage (Fantastic Voyage, #1) By Isaac Asimov
 Fantastic Voyage II: Destination Brain (Fantastic Voyage, #2) By Isaac Asimov
 Far Away And Long Ago By William Henry Hudson
 Far From The Madding Crowd By Thomas Hardy (Have)
+Farm City: The Education Of An Urban Farmer By Novella Carpenter
 Far Off Things By Arthur Machen
 Farther Surroundings By Czesław Miłosz
 Fassbinder Thousands Of Mirrors By Ian Penmann
@@ -2060,6 +2062,7 @@ Filth By Irvine Welsh
 Filthy Animals: Stories By Brandon Taylor
 Fima By Amos Oz
 Final Argument By Clifford Irving (Have)
+Finders Keepers: A Tale Of Archaeological Plunder And Obsession By Craig Childs
 Finders Keepers By Seamus Heaney
 Finders Keepers By Stephen King
 Fin De Siècle By Joseph Brodsky
@@ -2407,6 +2410,7 @@ Half The Sky By Nicholas Kristof & Sheryl WuDunn
 Hallazgos Para No Lectores (ES) By Günter Grass
 Halley's Quest By Julie Wakefield
 Halting Steps: Collected And New Poems By Claribel Alegría
+Hamnet By Maggie O'Farrell
 Hana Monogatari: Stories By Nobuko Yoshiya
 Ḥanān Qalīl (AR) By Nawal El Saadawi
 Handling The Undead By John Ajvide Lindqvist
@@ -2519,6 +2523,7 @@ High Tide By Inga Ābele
 High Tide In Hawaii (Magic Tree House, #28) By Mary Pope Osborne
 High Tide In Tucson: Essays From Now Or Never By Barbara Kingsolver
 High Time For Heroes (Magic Tree House, #51) By Mary Pope Osbourne
+Hijab Butch Blues By Lamya H.
 Hill Of Destiny By Jean Giono
 Hill Of The Hawk By Scott O'Dell
 Hill Women: Finding Family And A Way Forward In The Appalachian Mountains By Cassie Chambers
@@ -3280,6 +3285,7 @@ Life And Death Are Wearing Me Out By Mo Yan
 Life And Fate By Vasily Grossman
 Life As We Know It By Susan Beth Pfeffer (Read)
 Life Before Man By Margarte Atwood
+Life Ceremony: Stories By Sayaka Murata (Read)
 Life Expectancy By Dean Koontz
 Life Is Elsewhere By Milan Kundera
 Life Of Pi By Yann Martel (Have) (Read)
@@ -3389,6 +3395,7 @@ Los Jefes (ES) By Mario Vargas Llosa
 Los Misterios De Madrid (ES) By Antonio Muñoz Molina
 Los Misterios De Rosario (ES) By César Aira
 Los Signos En Rotacio N (ES) By Octavio Paz
+Lost & Found: A Memoir By Kathryn Schulz
 Lost Ark Dreaming By Suyi Davies Okungbowa
 Lost December By Richard Paul Evans (Have)
 Lost On Me By Veronica Raimo
@@ -4251,6 +4258,7 @@ Pat Of Silver Bush By Lucy Maud Montgomery
 Patriot Number One: American Dreams In Chinatown By Lauren Hilgers
 Paul Takes The Form Of A Mortal Girl By Andrea Lawlor
 Pavane By Keith Roberts
+Paved Paradise: How Parking Explains The World By Henry Grabar
 Pawana By Jean - Marie Gustave Le Clézio
 Payback: Debt And The Shadow Side Of Wealth By Margaret Atwood
 Peace And Its Discontents: Essays On Palestine In The Middle East Peace Process By Edward Wadie Said
@@ -7596,6 +7604,7 @@ The Witches Of Eastwick (Eastwick, #1) By John Updike
 The Witches: Salem, 1692 By Stacy Schiff
 The Witch Of The Middle Ages By Jules Michelet
 The Witness Of Poetry By Czesław Miłosz
+The Wizard And The Prophet: Two Remarkable Scientists And Their Dueling Visions To SHape Tomorrow's World By Charles C. Mann
 The Wizard Hunters (The Fall Of Ile - Rien, #1) By Martha Wells
 The Wizard Of Ooze (Goosebumps HorrorLand, #17) By Robert Lawrence Stine
 The Wizard Of Oz By Salman Rushdie
