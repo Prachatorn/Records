@@ -1,12 +1,15 @@
 1378 (km) (2010) By Jens M. Stober
+420BlazeIt 2: Game Of The Year (2024) (Windows) By Normal Wholesome Games
 8 - Bit Bayonetta (2015) (Steam) By PlatinumGames
 Abyss School (2023) (Steam) By eTIRUe
 Agent 07: Spy Revenge (2025) (Switch 2) By IORDER SRL
+Alien: Isolation (2014) (PS4) By Creative Assembly & Feral Interactive
 Anger Foot (2024) (Windows) By Free Lives
 Another Crab's Treasure (2024) (PS5) By By Aggro Crab
 Anubis II (2005) (Wii) By Data Design Interactive
 Apex Legends (2019) (Windows) By Respawn Entertainment
 Arcade Shooting Gallery (2009) (Wii) By CyberPlanet Interactive
+Arx Fatalis (2002) (Windows) By Arkane Studios & Floodgate Entertainment
 A Space For The Unbound (2023) (PS4) By Mojiken Studio (Played)
 Assassin's Creed Mirage (2023) (PS5) By Ubisoft Bordeaux
 Assassin's Creed Origins (2017) (PS4) By Ubisoft Montreal (Played)
@@ -18,7 +21,9 @@ Avowed (2025) (Windows) By Obsidian Entertainment
 Backrooms: Escape Together (2022) (Windows) By Trilodide Studios 
 Baldi's Basics In Education And Learning (2018) (Android) By Basically Games & Micah McGonigal
 Baldur's Gate 3 (2023) (PS5) By Larian Studios
+Batman: Arkhan Knight (2015) (PS4) By Feral Interactive, Iron Galaxy & Rocksteady Studios
 Batman: Arkham Shadows (2024) (Meta Quest) By Camouflaj
+Batman: The Enemy Within (2017) (PS4) By Telltale Games
 Battlefield 6 (2025) By Battlefield Studios
 Bayonetta (2009) (PS4) By Armature Studio, Next Entertainment, PlatinumGames & Sega
 Bayonetta 2 (2014) (Switch) By PlatinumGames
@@ -46,6 +51,7 @@ Call Of Duty (2003) (Steam) By Infinity Ward & Nokia
 Call Of Duty: Black Ops (2010) (PS3) By Aspyr, n-Space, Raven Software & Treyarch
 Call Of Duty: Black Ops 6 (2024) (PS4) By Activision Shanghai, Beenox, Demonware, High Moon Studios, Infinity Ward, Raven Software, Sledgehammer Games & Treyarch
 Call Of Duty: Black Ops 7 (2025) (PS5) By Activision Shanghai. Beenox, Demonware, High Moon Studios, Infinity Ward, Raven Software, Sledgehammer Games & Treyarch
+Call Of Duty: Black Ops Cold War (2020) (PS4) By Beenox, Raven Software & Treyarch
 Call Of Duty: Modern Warfare (2019) (PS4) By Infinity Ward
 Call Of Duty: Modern Warfare III (2023) (PS4) By Sledgehammer Games
 Call Of Duty: Vanguard (2021) (PS4) By Sledgehammer Games
@@ -318,6 +324,7 @@ Sly 2: Band Of Thieves (2004) (PS2) By Sucker Punch Productions
 Sly 3: Honor Among Thieves (2005) (PS2) By Sucker Punch Productions
 Sly Cooper And The Thievius Raccoonus (2002) (PS2) By Sucker Punch
 Sly Cooper: Thieves In Time (2013) (PS3) By Sanzaru Games
+Sons Of The Forest (2023) (Windows) By Endnight Games
 Spirit Swap: Lofi Beats To Match - 3 To (2023) (Windows) By Soft Not Weak, LLC
 Split Fiction (2025) (PS5) By Hazelight Studios
 SpongeBob SquarePants: Battle For Bikini Bottom - Rehydrated (2020) (PS4) By Purple Lamp Studios (Played)
@@ -335,6 +342,7 @@ Stay Still (2023) (Windows) By Galactic Crows S. R. L., QuocMt & Tarba Paul Corn
 Stellar Blade (2024) (PS5) By SHIFT UP Corporation
 Stick Fight: The Game (2017) (Steam) By LandFall Games
 Stray (2022) (PS4) By BlueTwelve Studio (Played)
+Street Fighter 6 (2023) (PS4) By Capcom
 Street Fighter Alpha 2 (1996) (SNES) By Capcom
 Sugarcreek (2023) (Windows) By Tekkou Studios
 Suicide Squad: Kill The Justice League (2024) (PS5) By Rocksteady Studios
@@ -356,15 +364,18 @@ The Legend Of Zelda: Breath Of The Wild (2017) (Switch) By Nintendo (Have) (Play
 The Looker (2022) (Windows) By Subcreation Studio
 The Lord Of The Rings: Gollum (2023) (PS4) By Daedalic Entertainment
 The Lost Dino: Survival Expedition (2025) (Switch) By Grizzly Games
+The Saboteur (2009) (PS3) By Pandemic Studios (Played)
 The Talos Principle 2 (2023) (PS5) By Croteam
 The Town Of Light (2016) (PS4) By LKA
 The Walking Dead: Destinies (2023) (PS4) By Flux Game Studio
 The Walking Dead: Survival Instinct (2013) (PS3) By Terminal Reality
 The Wardrobe (2017) (PS4) By C. I. N. I. C Games
+The Warriors (2005) (PS4) By Rockstar Toronto
 Thief Life Simulator (2025) (Switch) By BoggySoft
 TimeSplitters: Future Perfect (200) (PS2) By Free Radical Design
 Tomb Raider (2013) (PS3) By Crystal Dynamics (Have) (Played)
 Tomb Raider I - III Remastered (2024) (PS5) By Aspyr
+Tomb Raider: Legend (2006) (PS4) By Crystal Dynamics
 Tony Hawk's Pro Skater 3 + 4 (2025) (Windows) By Iron Galaxy
 Total War: Pharaoh (2023) (Windows) By Creative Assembly & Feral Interactive
 Total War: Warhammer III - Immortal Empires (2022) (Windows) By Creative Assembly & Feral Interactive
@@ -392,6 +403,7 @@ Watch Dogs 2 (2016) (PS4) By Ubisoft
 Watch Dogs: Completed Edition (2014) (PS4) By Ubisoft Montreal
 Watch Dogs: Legion (2020) (PS4) By Ubisoft Toronto
 Waterpark Simulator (2025) (Windows) By CayPlay
+WCW Nitro (1998) (Windows) By Inland Productions
 What Remains Of Edith Finch (2017) (PS4) By Giant Sparrow (Played)
 Wii Sports (2006) (Wii) By Nintendo
 Wildermyth (2019) (PS4) By Worldwalker Games LLC
