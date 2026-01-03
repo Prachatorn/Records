@@ -1,4 +1,5 @@
-1378 (km) (2010) By Jens M. Stober
+1378 (km) (2010) (Windows) By Jens M. Stober
+177 (1986) (Windows) By Macadamia Soft
 420BlazeIt 2: Game Of The Year (2024) (Windows) By Normal Wholesome Games
 8 - Bit Bayonetta (2015) (Steam) By PlatinumGames
 Abyss School (2023) (Steam) By eTIRUe
@@ -72,7 +73,9 @@ Crazy Frog Racer 2 (2006) (PS2) By Neko Entertainment
 Crime Boss: Rockay City (2023) (PS5) By Ingame Studios
 Crime Scene Cleaner (2023) (Windows) By President Studio
 Cronos: The New Dawn (2025) (PS5) By Bloober Team
+Cry Of Fear (2012) (Windows) By Team Psykskallar
 Crysis 2 (2011) (PS3) By Crytak & Free Radical Design
+Custer's Revenge (1982) (Atari 2600) By American Multiple Industries
 Cyberpunk 2077 (2020) (PS4) By CD Projekt RED
 Cyberpunk 2077: Phantom Liberty (2023) (PS5) By CD Projekt
 Days Gone (2019) (PS4) By Bend Studio (Played)
@@ -87,6 +90,7 @@ Deathloop (2021) (PS5) By Arkane Studios
 Death Stranding (2019) (PS4) By Kojima Productions
 Death Stranding 2: On The Beach (2025) (PS5) By Kojima Productions
 Deca Sports (2008) (Wii) By Hudson Soft
+Demonophobia (2008) (Windows) By 237
 Destiny 2 (2017) (PS4) By Bungie
 Destiny 2: Lightfall (2023) (PS4) By Bungie Inc.
 Diablo IV (2023) (PS4) By Blizzard Entertainment
@@ -117,7 +121,10 @@ Endoparasitic (2022) (Windows) By Miziziziz
 Endoparasitic 2 (2024) (Windows) By Deep Root Interactive
 Enter The Gungeon (2016) (PS4) By 22nd Century Toys LLC, Dodge Roll & Mythic Entertainment
 Escape From Tarkov (2016) (Windows) By Battlestate Games
+Ethnic Cleansing (2002) (Windows) By National Alliance
 E. T. The Extra - Terrestrial (1982) (Atari 2600) By Atari, Incorporated
+Euphoria (2011) (Windows) By CLOCKUP
+Evil (2013) (Windows) By Joan Pozo
 Fallen Aces (2021) (Windows) By Jason Bond & Trey Powell
 Fallout (1997) (Steam) By Bethesda Softworks & Interplay Entertainment
 Fallout 2 (1998) (Steam) By Black Isle Studios & The Omni Group
@@ -140,6 +147,7 @@ Forgive Me Father 2 (2024) (Steam) By Byte Barrel
 For Honor (2016) (PS4) By Ubisoft
 Forspoken (2023) By Luminous Productions & Square Enix
 Fraymakers (2022) (Switch) By McLeadGaming & Team Fray
+Fun (2013) (Windows) By Joan Pozo
 Garfield Kart: Furious Racing (2019) (PS4) By Artefacts Studio
 Gears 5 (2019) (Xbox One) By The Coalition
 Ghost Of Tsushima (2020) (PS4) By Sucker Punch Productions (Played)
@@ -171,7 +179,9 @@ Half - Life: Opposing Force (1999) (Windows) By Gearbox Software
 Halo: Combat Evolved (2001) (Windows) By Bungle Inc., Gearbox Software, MacSoft & Westlake Interactive (Played)
 Halo Infinite (2021) (Windows) By Halo Studios
 Harry Potter: Quidditch Champions (2024) (PS4) By Unbroken Studios
+Harvester (1996) (Windows) By DigiFX Interactive
 Hashiriya Drifter (2019) (Steam) By Midnight Games
+Hatred (2015) (Windows) By Destructive Creations
 HAWKED (2023) (PS4) By MY.GAMES
 Haydee 2 (2020) (Windows) By Haydee Interactive
 Helldivers 2 (2024) (PS5) By Arrowhead Game Studios & Nixxes Software
@@ -190,30 +200,38 @@ Hitman: Sniper (2015) (Android) By Square Enix Montreal
 Hogwarts Legacy (2023) (PS5) By Avalanche Software
 Hollow Knight (2017) (PS4) By Team Cherry
 Homie Rollerz (2008) (DS) By Webfoot Technologies
+Honey Select (2016) (Windows) By Illusion
+Hong Kong 97 (1995) (SNES) By HappySoft Ltd.
 Honkai: Star Rail (2023) (Android) By COGNOSPHERE PTE. LTD. & miHoYo
 Hop 'N' Marty (2025) (Switch) By Evilkookey Games
 Horizon: Call Of The Mountain (2023) (PS5) By Firesprite & Guerrilla Games
 Horizon: Forbidden West (2022) (PS4) By Guerrilla Games
 Horizon: Zero Dawn (2017) (PS4) By Guerrill Games (Played)
 House (2020) (PS4) By Bark Bark Games & Glowstick Entertainment
+House Of Velez Part 1 (2017) (Windows) By Dark Room Games
 Hypotheses On The Symmetry Between Vision And Hands (2025) (Switch) By Finger Tip
 Indivisible (2019) (PS4) By Lab Zero Games (Played)
 Infamous: First Light (2014) (PS4) By Sucker Punch Productions (Played)
 Infamous: Second Son (2014) (PS4) By Sucker Punch Productions (Played)
 Infra (2016) (Windows) By Loiste Interactive
+JKF Reloaded (2004) (Windows) By Traffic Games
 John Deere: Harvest In The Heartland (2007) (DS) By Black Lantern Studios
 Jujutsu Kaisen: Cursed Clash (2024) (PS4) By Byking & Gemdrops, Incorporated
 Katawa Shoujo (2012) (Windows) By Four Leaf Studios
+Kawaii Killer (2014) (Android) By Tabemasu Games
 Kill It With Fire! 2 (2025) (2025) (Windows) By Casey Donnellan Games LLC
 Kingdom Come: Deliverance II (2025) (PS5) By Warhorse Studios
 Kingdom Hearts III (2019) (PS4) By Square Enix (Played)
 Kingdom Hearts III: Re Mind (2020) (PS4) By Square Enix (Played)
+KZ Manager (1988) (Windows) By The Missionaries
 Land Of The Vikings (2022) (Windows) By Laps Games
 Laundry Store Simulator (2024) (Windows) By Akhir Pekan Studio
 Left 4 Dead 2 (2009) (Windows) By Valve Corporation
+Left Behind: Eternal Forces (2006) (Windows) By Inspired Media Entertainment
 LEGO Batman 3: Beyond Gotham (2014) (PS4) By Traveller's Tales Games & Warner Bros. Interactive Entertainment (Played)
 LEGO Marvel's Avengers (2016) (PS4) By Traveller's Tales Games & Feral Interactive (Played)
 LEGO Marvel Super Heroes (2013) (PS4) By Traveller's Tales Games & Warner Bros. Games
+Leisure Suit Larry: Magnum Cum Laude (2004) (PS2) By High Voltage Software
 Lies Of P (2023) (PS4) By Neowiz Games & Round 8 Studio
 Life Is Strange: Before The Storm (2017) (PS4) By Deck Nine
 Lightmatter (2020) (Windows) By Tunnel Vision Games
@@ -221,7 +239,9 @@ LittleBigPlanet (2008) (PS3) By Guerrilla Cambridge & Media Molecule
 LittleBigPlanet 2 (2011) (PS3) By Media Molecule
 LittleBigPlanet 3 (2014) (PS4) By Sumo Digital Ltd.
 Little Britain: The Video Game (2007) (PS2) By Gameholix Ltd., Game Republic & Gamesauce
+Lolita Syndrome (1983) By Katsumi Mochizuki
 Lords Of The Fallen (2023) (PS4) By CI Games, Deck13 & HEXWORKS
+Lostboy.exe (2012) (Windows) By Anonymous
 Luigi's Mansion (2001) (Gamecube) By Nintendo
 Luigi's Mansion 2 HD (2024) (Switch) By Tantalus Media
 M & M's Kart Racing (2007) (Wii) By Calaris Studios & Frontline Studios
@@ -229,6 +249,7 @@ Madden NFL 24 (2023) (PS5) By EA Tiburon
 Mad Max (2015) By Avalanche Studios Group & Feral Interactive
 Mafia: Definitive Edition (2020) (PS4) By Hanger 13
 Maisons De Repos (2025) (Windows) By Draydur Studio
+Manhunt (2003) (PS2) By Rockstar North
 Mario Super Sluggers (2008) (Wii) By BNE LLC, Bandai Namco Holdings & Now Production
 Marvel's Deadpool VR (2025) (Meta Quest 3) By Twisted Pixel Games
 Marvel's Guardians Of The Galaxy (2021) (PS4) By Eidos - Montreal & Marvel Entertainment (Played)
@@ -266,17 +287,26 @@ Peak (2025) (Windows) By Landfall Games & Team PEAK
 Petz: Catz 2 (2007) (Wii) By Backbone Entertainment & Yuke's
 Petz: Crazy Monkeyz (2008) (Wii) By Ubisoft & Y'sk
 Petz: Dogz 2 (2007) (Wii) By Backbone Entertainment & Yuke's
+Phantasmagoria (1995) (Windows) By Kronos Digital Entertainment & Sierra Entertainment
 Phasmosphobia (2020) (PS5) By Kinetic Games
 Pirates VS. Ninjas Dodgeball (2009) (Wii) By Gamecock Media Group & SouthPeak Games
 Plants Vs. Zombies: Garden Warfare 2 (2016) By PopCap Games
 Pneumata (2023) (PS4) By Deadbolt Interactive
 Pokemon Legend: Arceus (2022) (Swtich) By Game Freak (Have) (Played)
+Postal (1997) (Windows) By Running With Scissors
+Postal 2 (2003) (Windows) By Running With Scissors
 Postal 4: No Regrets (2022) (PS4) By Running With Scissors
+Postal III (2011) (Windows) By Running With Scissors
 Postknight (2017) (Android) By Kurechii (Played)
 Potion Craft (2022) (PS4) By Niceplay Games
+Potrick Snap (2023) (Windows) By Combo Bomb Games
+Potrick Snap 2 (2023) (Windows) By Combo Bomb Games
 Prince Of Persia (2008) (PS3) By Ubisoft
+Quest For Bush / The Night Of Bush Capturing (2006) (Windows) By Global Islamic Media Front
+Quest For Saddam (2003) (Windows) By Petrilla Entertainment
 Radical Heights (2018) (Windows) By Boss Key Productions
 Railroad Tycoon II (1998) (Windows) By Gear Head Studios, PopTop Software & Westlake Interactive
+RapeLay (2006) (Windows) By Illusion
 Ratchet & Clank (2002) (PS2) By Insomniac Games
 Ratchet & Clank (2016) (PS4) By Insomniac Games
 Ratchet & Clank: All 4 One (2011) (PS3) By Insomniac Games
@@ -306,9 +336,11 @@ Road 96 (2021) (PS4) By Digixart
 RoboCop: Rogue City (2023) (PS5) By Teyon
 Rock 'N' Roll Adventures (2007) (Wii) By Data Design Interactive
 R - Type Dimensions (2009) (PS4) By Esuadra, Irem, Southend Interactive & Tozai Games
+Sad Satan (2015) (Windows) By PlanscautZk
 Schedule 1 (2025) (Windows) By TVGS
 SchoolBoy Runaway (2024) (Steam) By Linked Squad
 Serious Sam: The Second Encounter (2002) (Windows) By Croteam
+Sexy Beach Premium Resort (2015) (Windows) By Illusion
 Shadow Of The Tomb Raider (2018) (PS4) By Eidos - Montreal & Nixxes Software (Played)
 Secret Agent Clank (2008) (PSP) By High Impact Games
 Silent Hill (1999) (PS1) By Team Silent
@@ -326,6 +358,7 @@ Sly Cooper And The Thievius Raccoonus (2002) (PS2) By Sucker Punch
 Sly Cooper: Thieves In Time (2013) (PS3) By Sanzaru Games
 Sons Of The Forest (2023) (Windows) By Endnight Games
 Spirit Swap: Lofi Beats To Match - 3 To (2023) (Windows) By Soft Not Weak, LLC
+Splatter School (2012) (Windows) By Anonymous
 Split Fiction (2025) (PS5) By Hazelight Studios
 SpongeBob SquarePants: Battle For Bikini Bottom - Rehydrated (2020) (PS4) By Purple Lamp Studios (Played)
 Sprung: A Game Where Everyone Scores (2004) (DS) By Guillemot, Inc., Longtail Studios & Ubisoft
@@ -338,6 +371,7 @@ Star Wards Jedi: Survivor (2023) (PS5) By Respawn Entertainment (Played)
 Star Wars Jedi Knight: Dark Forces II (1997) (Windows) By Lucasfim Games
 Star Wars Outlaw (2024) (PS5) By Massive Entertainment
 Starfield (2023) (Xbox Series X) By Bethesda Games Studios
+Station.exe (2013) (Windows) By Anonymous
 Stay Still (2023) (Windows) By Galactic Crows S. R. L., QuocMt & Tarba Paul Cornel
 Stellar Blade (2024) (PS5) By SHIFT UP Corporation
 Stick Fight: The Game (2017) (Steam) By LandFall Games
@@ -346,6 +380,7 @@ Street Fighter 6 (2023) (PS4) By Capcom
 Street Fighter Alpha 2 (1996) (SNES) By Capcom
 Sugarcreek (2023) (Windows) By Tekkou Studios
 Suicide Squad: Kill The Justice League (2024) (PS5) By Rocksteady Studios
+Super Columbine Massacre RPG! (2005) (Windows) By Danny Ledonne
 Superman 64 (1999) (N64) By Titus Interactive SA
 Super Mario 64 (1996) (N64) By Nintendo
 Super Mario RPG Remake (2024) (Switch) By ArtePiazza
@@ -358,6 +393,7 @@ The Elder Scrolls IV: Oblivion (2006) (Steam) By Bethesda Game Studios
 The Elder Scrolls IV: Oblivion (2025) (PS5) By Bethesda Game Studios & Virtuos
 The Evil Within (2014) (PS4) By Tango Gameworks
 The Evil Within 2 (2017) (PS4) By Tango Gameworks
+The Guy Game (2004) (PS2) By Topheavy Studios
 The Last Of Us (2013) (PS3) By Naughty Dog (Have) (Played)
 The Last Of Us Part II (2020) (PS4) By Naughty Dog (Have) (Played)
 The Legend Of Zelda: Breath Of The Wild (2017) (Switch) By Nintendo (Have) (Played)
@@ -385,6 +421,7 @@ Trover Saves The Universe (2019) (PS4) By Squanch Games
 Twisted Gallery (2025) (Windows) By FH Create Inc
 Ultrakill (2020) (Windows) By Hakita
 Ultra Street Fighter IV (2014) (PS4) By Capcom & Dimps
+Unbothered (2025) (Windows) By Yegboi
 Uncharted 1: Drake's Fortune (2007) (PS3) By Naughty Dog (Have) (Played)
 Uncharted 2: Among Thieves (2009) (PS3) By Naughty Dog (Have) (Played) (Fav)
 Uncharted 3: Drake's Deception (2011) (PS3) By Naughty Dog (Have) (Played)
@@ -395,6 +432,7 @@ Unknown 9: Awakening (2024) (PS4) By Reflector Entertainment
 Unturned (2014) (PS4) By Fun Labs & Smartly Dressed Games
 Vampire: The Masquerade - Bloodlines (2004) (Windows) By Troika Games
 Velvet Assassin (2009) (Windows) By Replay Studios
+V - Tech Rampage (2007) (Windows) By Ryan Lambourn
 Waltz Of The Wizard (2019) (PS4) By Aldin Dynamics & Ehf
 Wanted: Dead (2023) (PS4) By Soleil & Valhalla Game Studios International Ltd.
 Warhammer 40k: Rogue Trader (2023) (PS4) By Owlcat Games
@@ -414,3 +452,4 @@ Yakuza: Like A Dragon (2020) (PS4) By Ryu Ga Gotoku Studio
 You Don't Know Jack (1995) (Windows) By Berkeley Systems & Jellyvision
 Yu - Gi - Oh! Duel Links (2016) (Android) By Konami (Played)
 Yu - Gi - Oh! Master Duel (2022) (Steam) By Konami (Played)
+Zog's Nightmare (2006) (Windows) By National Socialist Movement

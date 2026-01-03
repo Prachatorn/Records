@@ -978,6 +978,7 @@ Bloodstained Wonderland By James Arthur Moore
 Blood, Tears And Folly: An Objective Look At World War II By Len Dieghton
 Bloody Jack (Bloody Jack, #1) By Louis A. Meyer
 Bloomsbury Girls By Natalie Jenner
+Blowfish By Kyung - Ran Jo
 Blue Aloha By Patrick Modiano
 Blue Boy By Jean Giono
 Bluebeard's Egg By Margaret Atwood
@@ -1059,6 +1060,7 @@ Brodsky: A Personal Memoir By Joseph Brodsky & Li͡udmila Shtern
 Broken April By By Ismail Kadare
 Broken By Travis Thrasher
 Broken Country: A Novel By Clare Leslie Hall
+Broken Summer: A Novel By Jung - Myung Lee
 Bronka: An Annotated Russian Reader By Lyudmila Ulitskaya
 Brother Odd By Dean Koontz
 Brothers By Yu Hua
@@ -1240,6 +1242,7 @@ Cities Of The Plain By Cormac McCarthy
 Citizen, Invert, Queer: Lesbianism And War In Early Twentiesth - Century Britain By Deborah Cohler
 Citoyens By Tomas Tranströmer
 City Gate, Open Up By Bei Dao
+City Of Ash And Red By Hye - Young Pyun
 City Of Bones By Cassandra Clare (Read)
 City Of Bones By Martha Wells
 City Of Fortune: How Venice Ruled The Seas By Roger Crowley
@@ -2355,6 +2358,7 @@ Gray Baby By Scott Loring Sanders (Read)
 Green Flash By Rania Mamoun
 Green Shadows And Other Peoms By Gerald Mernane
 Greyhound For Breakfast By James Kelman (Have)
+Greywalker (Greywalker, #1) By Kat Richardson
 Great Dialogues Of Plato By Plato (Have)
 Great Expectations By Charles Dickens (Have)
 Great Folk Tales Of Old Ireland By Mary McGarry (Have)
@@ -3654,6 +3658,7 @@ Mi Madre, In Memorian (ES) By Ricahrd Ford
 Minaret By Leila Aboulela
 Mind Your Manners: How To Be Your Best Self In Any Situation By Sara Jane Ho
 Mine Boy By Peter Abrahams
+Minecraft Combat Handbook: An Official Mojang Book By Stephanie Milton
 Miner's Pond By Anne Michaels
 Ministry Of Time By Kaliane Bradley
 Mink River: A Novel By Brian Doyle (Read)
@@ -4348,10 +4353,11 @@ Playing With Super Power: Nintendo Super NES Classics By Meagan Marie & Sebastia
 Play It As It Lays: A Novel By Joan Didion (Read)
 Plays Five By Jon Fosse
 Plays Four By Jon Fosse
+Plays One: Someone Is Going To Come, The Name, The Guitar Man, The Child By Jon Fosse (Read)
 Plays Three: Mother And Child, Sleep My Baby Sleep, Afternoon, Beautiful, Death Variations By Jon Fosse (Read)
 Plays Two: A Summer's Day, Dream Of Autumn, Winter By Jon Fosse (Read)
 Playth A Tiger: A Play In Three Acts By Doris Lessing
-Please Look After Mom By Shin Kyung - Sook
+Please Look After Mom By Kyung - Sook Shin
 Please, Louise By Toni Morrison
 Plenty By Orison Swett Marden
 Plotting And Writing Suspense Fiction By Patricia Highsmith
@@ -4386,6 +4392,7 @@ Polar Bears Past Bedtime (Magic Tree House, #12) By Mary Pope Osborne
 Polish Writers On Writing By Adam Zagajewski
 Politika Ja Antipolitika (ET) By Jaan Kaplinski
 Political Fictions By Joan Didion
+Poltergeist (Graywalker, #2) By Kat Richardson
 Pond By Claire - Louise Bennett
 Pony By Raquel Jaramillo Palacio
 Po - On By Francisco Sionil José
@@ -6264,7 +6271,7 @@ The Hitchhiker's Guide To The Galaxy (Hitchhiker's Guide to the Galaxy, #1) By D
 The Hive And The Honey By Paul Yoon
 The Hive By Camilo José Cela
 The Hobbit By John Ronald Reuel Tolkien (Read)
-The Hole: A Novel By Pyun Hye - Young
+The Hole: A Novel By Hye - Young Pyun
 The Holiday By Dacia Maraini
 The Holocaust As Culture By Imre Kertész
 The Holy Innocents By Gilbert Adair
@@ -6361,6 +6368,7 @@ The Invented Part By Rodrigo Fresán
 The Invention Of Hugo Cabret: A Novel In Words And Pictures By Brian Selznick
 The Invention Of Morel By Adolfo Bioy Casares (Read)
 The Invention Of Sound By Chuck Palahniuk
+The Investigation By Jung - Myung Lee
 The Invincible Iron Man: The Future By Matt Fraction & Salvador Larroca (Read)
 The Invisible Life Of Addie LaRue By Victoria Schwab
 The Invisible Life Of Euridice Gusmao By Martha Batalha
@@ -6473,6 +6481,7 @@ The Late Americans: A Novel By Brandon Taylor
 The Late Bourgeois World By Nadine Gordimer
 The Lathe Of Heaven By Ursula Kroeber Le Guin
 The Lawn: A History Of An American Obsession By Virginia Scott Jenkins
+The Law Of Lines By Hye - Young Pyun
 The Laws Of The Skies By Grégoire Courtois
 The Laying On Of Hands: Stories By Alan Bennett (Have) (Read)
 The Lay Of The Land By Richard Ford
@@ -6818,6 +6827,7 @@ The Outermost House By Henry Beston
 The Outsiders By Susan Eloise Hinton (Read)
 The Overcrowded Barracoon By Sir Vidiadhar Surajprasad Naipaul
 The Overstory By Richard Powers
+The Owl Cries By Hye - Young Pyun
 The Oxford Book Of English Detective Stories By Patricia Craig
 The Pack By James Arthur Moore
 The Pact: A Novel By Jodi Picoult
@@ -6891,6 +6901,7 @@ The Playboy Of The Western World And Riders To The Sea By John Millington Synge 
 The Playmaker By Thomas Keneally
 The Play Of The Eyes By Elias Canetti
 The Plea (Eddie Flynn, #2) By Steve Cavanagh
+The Plotters By Un - Su Kim
 The Ploughman's Lunch By Ian McEwan
 The Poems Of Emily Dickinson By Emily Dickinson
 The Poetry Of Derek Walcott, 1948 - 2013 By Derek Walcott
@@ -7350,7 +7361,7 @@ The Switch: A Novel By Joseph Finder
 The Sword In The Stone By Terence Hanbury White
 The Sworn Sword By George Raymond Richard Martin
 The Sympathizer By Viet Thanh Nguyen
-The Tainted Cup (Shadow Of The Leviathan, #1) By Robert Jackson Bennett (Have)
+The Tainted Cup (Shadow Of The Leviathan, #1) By Robert Jackson Bennett (Have) (Read)
 The Takeover By Dame Muriel Spark
 The Taker And Other Stories By Rubem Fonseca
 The Taking By Dean Koontz
@@ -7833,6 +7844,7 @@ Tom Stoppard: Plays 2: The Dissolution Of Dominic Boot, 'M' Is For Moon Among Ot
 Tom Stoppard Plays 3 By Tom Stoppard
 Tom Stoppard Plays 4: Dalliance; Undiscovered Country; Rough Crossing; On the Razzle; The Seagull By Tom Stoppard
 Tom Stoppard Plays 5: Arcadia, The Real Thing, Night & Day, Indian Ink, Hapgood By Tom Stoppard
+Tongue By Kyung - Ran Jo
 Tonight On The Titanic (Magic Tree House, #17) By Mary Pope Osborne
 Tono Bungay By Herbert George Wells
 Tony And Susan By Austin Wright
@@ -7850,6 +7862,7 @@ To The Bright Edge Of The World By Eowyn Ivey
 To The End Of The Land By David Grossman
 To The Future, Ben Franklin! (Magic Tree House, #32) By Mary Pope Osborne
 To The Icebergs By Jean - Marie Gustave Le Clézio
+To The Kennels And Other Stories By Hye - Young Pyun (Read)
 To The Lighthouse By Virginia Woolf
 To The Young Writer And Other Essays By Francisco Sionil José
 Touch The Water, Touch The Wind By Amos Oz
@@ -7972,6 +7985,7 @@ Uncle Tom's Cabin By Harriet Beecher Stowe
 Uncle Tungsten: Memories Of A Chemical Boyhood By Oliver Sacks
 Uncommon Type By Tom Hanks
 Underground Airlines By Benjamin Allen H. "Ben" Winters
+Underground (Greywalker, #3) By Kat Richardson
 Underground: The Tokyo Gas Attack And The Japanese Psyche By Haruki Murakami (Read)
 Underland: A Deep TIme Journey By Robert Macfarlane
 Undermajordomo Minor By Patrick DeWitt
@@ -8096,7 +8110,7 @@ Vinte E Zinco (PT) By Mia Couto
 Violence And Islam: Conversations With Houria Abdelouahed
 Violência E Islão (ES) By Adunis
 Violent Ward By Len Deighton
-Violets By Shin Kyung - Sook
+Violets By Kyung - Sook Shin
 Virginia Woolf By Hermione Lee
 Virgula: Poems By Sasja Janssen
 V Is For Vengeance (Kinsey Millhone, #22) By Sue Grafton
