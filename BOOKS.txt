@@ -1820,7 +1820,7 @@ El Amante Bilingue (ES) By Juan Marsé
 El Arco Y La Lira (ES) By Octavio Paz
 El Curandero Mistico (ES) By Sir Vidiadhar Surajprasad Naipaul
 El Danubio (ES) By Claudio Magris
-Elder Race By Adrian Tchaikovsky
+Elder Race By Adrian Tchaikovsky (Have) (Read)
 El Descubrimiento Del Grande, Rico Y Bello Imperio De Guayana (ES) By Walter Raleigh
 Eleanor Oliphant Is Completely Fine: A Novel By Gail Honeyman
 Electric Light By Seamus Heaney
@@ -2678,6 +2678,7 @@ Hungry Stones And Other Stories By Rabindranath Tagore (Have) (Read)
 Huntsman, What Quarry?: Poems By Edna St. Vincent Millay
 Huo Zhe (ZH) By Yu Hua
 Hurricane Heroes In Texas (Magic Tree House, #30) By Mary Pope Osborne
+Hurrican Season By Fernanda Melchor
 Hurry Up, Houdini! (Magic Tree House, #50) By Mary Pope Osbourne
 Hurt (Solitary Tales, #4) By Travis Thrasher 
 Husbands Wives & Concubines By Emlyn Eisenach
@@ -3760,6 +3761,7 @@ Mother: Poems By M. S. Redcherries
 Mothers And Other Strangers By Gina Sorell
 Mothers Of Sparta: A Memoir In Pieces By Dawn Davies
 Mountain Boats By Wajdi Al - Ahdal
+Mountains In My Heart By Gerlinde Kaltenbrunner
 Mountain Time By Ivan Doig
 Mount St. Helens: The Story Behind The Scenery By Thom Corcoran
 Mourning Dairy By Roland Barthes
@@ -3784,6 +3786,7 @@ Mrs. Harris Goes To Paris By Paul Gallico
 Mr. Stone And The Knights Companion By Sir Vidiadhar Surajprasad Naipaul
 Mr. Summer's Story By Patrick Süskind
 M / T And The Narrative About The Marvels Of The Forest By Kenzaburō Ōe
+Mud Flats And Fish Camps By Erin McKittrick
 Mudwoman By Joyce Carol Oates
 Multitude Of Sins Header By Richard Ford
 Mummies In The Morning (Magic Tree House, #3) By Mary Pope Osborne
@@ -3856,6 +3859,7 @@ My Name Is Mary Sutter By Robin Oliveira
 My Name Is Not Angelica By Scott O'Dell
 My Name Is Red By Orhan Pamuk
 My Notorious Life: A Novel By Kate Manning
+My Old Man And The Mountain By Leif Whittaker
 My Oxford By Martin Amis
 My Purple Scented Novel By Ian McEwan
 My Side Of The Mountain By Jean Craighead George
@@ -4322,6 +4326,7 @@ Phototaxis By Olivia Tapiero
 Physics And Beyond By Werner Heisenberg
 Piandello's Henry IV By Tom Stoppard
 Piano Lessons Can Be Murder (Goosebumps, #13) By Robert Lawrence Stine
+Pickets And Dead Men By Bree Loewen
 Picnic At Hanging Rock By Joan Lindsay
 Picnic In Provence: A Memoir With Recipes By Elizabeth Bard
 Pictures Of You By Caroline
@@ -4353,7 +4358,7 @@ Playing With Souls: A Novel By Clara Longworth De Chambrun
 Playing With Super Power: Nintendo Super NES Classics By Meagan Marie & Sebastian
 Play It As It Lays: A Novel By Joan Didion (Read)
 Plays Five By Jon Fosse
-Plays Four By Jon Fosse
+Plays Four: And We'll Never Be Parted, The Son, Visits, Meanwhile The Lights Go Down And Everything Becomes Black By Jon Fosse (Read)
 Plays One: Someone Is Going To Come, The Name, The Guitar Man, The Child By Jon Fosse (Read)
 Plays Three: Mother And Child, Sleep My Baby Sleep, Afternoon, Beautiful, Death Variations By Jon Fosse (Read)
 Plays Two: A Summer's Day, Dream Of Autumn, Winter By Jon Fosse (Read)
@@ -5600,6 +5605,7 @@ The Cairo Job (Case Lee, #13) By Vince Milam
 The Calculating Stars By Mary Robinette Kowal
 The Caliph's House By Tahir Shah
 The Calligraphy Of Dreams By Juan Marsé
+The Calling: A Life Rocked By Mountains By Barry Blanchard
 The Call Of The Toad By Günter Grass
 The Call Of The Wild By Jack London (Read)
 The Cambridge Companion To Kazuo Ishiguro By Andrew Bennett
@@ -7018,6 +7024,7 @@ The Red Badge Of Courage And Four Stories By Stepehen Crane (Have)
 The Red Collar By Colette Makray
 The Redemption Of Time (Rememberance Of Earth's Past, #4) By Baoshu
 The Red - Haired Woman By Orhan Pamuk
+The Red Oni Who Cried: A Retelling Of A Classic Japanese Tale By Yuka Oiwa
 The Red Passport: Stories By Katherine Shonk 
 The Red Pony By John Steinbeck (Read)
 The Redress Of Poetry By Seamus Heaney
@@ -7711,6 +7718,7 @@ Things In Nature Merely Grow By Yiyun Li (Have)
 Things Seen By Annie Ernaux (Read)
 Things We Left Unsaid By Zoya Pirzad
 Things We Lost In The Fire By Jesse Russell
+Things We Lost In The Fire By Mariana Enriquez
 Thinking For Results By Christian Daa Larson
 Thinking In Pictures By Temple Grandin
 Thinks Out Loud: A Blog At First By Martin Perlman
@@ -7799,6 +7807,7 @@ Tigers At Twilight (Magic Tree House, #19) By Mary Pope Osborne
 Ti Jean Et Ses Frères (FR) By Derek Walcott
 Ti Kay Nou: An Uplifting Journey Through Our Tiny Saint Lucian Houses By Derek Walcott
 Till Day You Do Part Or A Question Of Light By Peter Handke (Read)
+Tilting At Mountains By Edurne Pasaban
 Time Bites: Views And Reviews By Doris Lessing
 Time Differences By Yoko Tawada
 Time For Me To Come Home By Dorothy Shackleford & Travis Thrasher
@@ -8320,6 +8329,7 @@ When We Cease To Understand The World By Benjamin Labatut
 When We Meet Again By Kristin Harmel
 When We Were Magic By Sarah Gailey
 When We Were Orphans By Kazuo Ishiguro (Have) (Read)
+When Women Kill: Four Crimes Retold By Alia Trabucco Zerán
 When Women Were Dragons: A Novel By Kelly Regan Barnhill
 Whereabouts By Jhumpa Lahiri
 Where All Light Tends To Go By David Joy (Have)
