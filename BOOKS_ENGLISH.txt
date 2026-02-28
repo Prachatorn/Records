@@ -1974,6 +1974,7 @@ Everything Here Is Beautiful: A Novel By Mira T. Lee
 Everything I Know About Love By Dolly Alderton
 Eve's Hollywood By Eve Babitz
 Evil Eye By Etaf Rum (Have)
+Evolution In Four Dimensions, Revised Edition: Genetic, Epigenetic, Behavioral, And Symbolic Variation In The History Of Life (Life And Mind: Philosophical Issues In Biology And Psychology) By Eva Jablonka & Marion Julia Lamb
 Excerpt From A Feast For Crows By George Raymond Richard Martin
 Exhalation: Stories By Ted Chiang
 Ex - Heroes (Ex - Heroes, #1) By Peter Clines
@@ -2238,6 +2239,7 @@ Galaxy, The Prettiest Star By Jadzia Axelrod
 Galeerentagebuch (DE) By Imre Kertesz
 Gandhi: An Autobiography - The Story Of My Experiments With Truth By Gandhi (Have)
 Gao Xingjian, Ink Paintings 1983 - 1993 By Gao Xingjian
+Garamba: Conversation In Peace & War By Kes Hillman Smith
 Garcia Marquez: Story Of A Deicide By Mario Vargas Llosa
 Gargantua And Pantagruel By Francois Rabelais
 Garments Of Shadows (Mary Russell, #12) By Layrie R. King
@@ -2645,6 +2647,7 @@ How To Be Happy Though Married By Edward John Hardy
 How To Behave Badly In Elizabethan England: A Guide For Knaves, Fools, Hariots, Cuckoids, Drunkards, Liars, Thieves, And Braggarts By Ruth Goodman
 How To Behave In A Crowd By Camille Bordas
 How To Build A Boat By Elaine Feeney (Read)
+How To Clone A Mammoth: The Science Of De - Extinction By Beth Shapiro
 How To Cure A Fanatic By Amos Oz
 How To Eat A Cupcake By Meg Donohue
 How To Excavate A Heart By Jake Maia Arlow
@@ -4606,6 +4609,7 @@ Requiem For A Dream By Hubert Selby Jr.
 Reservoir Bitches By Dahlia De La Cerda
 Resistance To Interrogation (Alex Rider, #1.5) By Anthony Horowitz
 Resurrection By Leo Tolstoy
+Resurrection Science By M. R. O'Connor
 Retirement And Its Discontents: Why We Won't Stop Working, Even If We Can By Michelle Pannor Silver
 Return Of The Mummy (Goosebumps, #23) By Robert Lawrence Stine
 Return To Ghost Camp (Goosebumps 2000, #19) By Robert Lawrence Stine
@@ -4912,6 +4916,7 @@ Siete Ensayos De Interpretacion De La Realidad Peruana (ES) By Jose Carlos Maria
 Sift By Alissa Hattman
 Signalling Across Space Without Wires: Being A Description Of The Work Of Hertz And His Successors By Sir Oliver Joseph Lodge
 Signs And Wonders By Alix Ohlin
+Signs Of Meaning In THe Universe (Advances In Semiotics) By Jesper Hoffmeyer
 Si In Space By Travis Thrasher
 Silas Marner By George Eliot
 Silence By Shusaku Endo (Have) (Read)
@@ -6705,6 +6710,7 @@ The Most Fun We Ever Had By Claire Lombardo
 The Mothers By Brit Bennett
 The Mountain By Drusilla Modjeska
 The Mountain Between Us By Charles Martin
+The Mountain In The Sea: A Novel By Ray Nayler
 The Mountains Sing By Nguyen Phan Que Mai
 The Mountains Of Parnassus By Czeslaw Milosz
 The Mourner (Parker, #4) By Richard Stark
@@ -7161,6 +7167,7 @@ The Secret History By Donna Tartt
 The Secret Integration By Thoams Pynchon
 The Secret Life Of Bees By Sue Monk Kidd (Have)
 The Secret Life Of France By Lucy Wadham
+The Secret Lives Of Elephants: Birth, Death And Family In The World Of The Giants By Hannah Mumby
 The Secret Lives Of Somerset Maugham: A Biography By Selina Shirley Hastings
 The Secret Man (With A Reporter's Assessment By Carl Bernstein) By Bob Woodward
 The Secret Of Hoa Sen: Poems By Nguyen Phan Que Mai
@@ -7470,6 +7477,7 @@ The Tunnel By William Howard Gass
 The Turner House By Angela Flournoy
 The Turning: Ghost Stories By Henry James (Read)
 The Turn Of The Screw And The Aspern Papers By Henry James
+The Tusks Of Extinction By Ray Nayler (Have) (Read)
 The Twilight Years By Sawako Ariyoshi (Have)
 The Two Faces Of January By Patricia Highsmith
 The Two Kinds Of Decay By Sarah Manguso
@@ -8310,6 +8318,7 @@ What You Are Looking For Is In The Library: A Novel By Michiko Aoyama (Read)
 Wheel Of The Infinite By Martha Wells
 When Breath Becomes Air By Paul Kalanithi
 When Cultures Meet: Remembering San Gabriel Del Yunge Oweenge: Papers From The October 20, 1984 Conference Held At San Juan Pueblo, New Mexico By Myra E. Jenkins & Richard Ford
+When Elephants Weep: The Emotional Lives Of Animals By Jeffrey Moussaieff Masson
 When Everything Changed: The Amazing Journey Of American Women, From 1960 To The Present By Gail Collins
 When I Sing, Mountains Dance By Irene Sola
 When It No Longer Matters Where You Live: Poems (1999) By Tanure Ojaide
@@ -8470,10 +8479,11 @@ Women And Soldiers By Ethel Brilliana Tweedle
 Women As Lovers By Elfriede Jelinek
 Women By Philippe Sollers
 Women & Fiction: The Manuscript Versions Of A Room Of ONe's Own By S. P. Rosenbaum
-Women Who Work: Rewriting The Rules For Success By Ivanka Trump
+Women, Fire And Dangerous Things: What Categories Reveal About The Mind By George Lakoff
 Women In Love (Brangwen Family, #2) By David Herbert Richards Lawrence (Have)
 Women In The Nineteenth Century And Other Writings By Margaret Fuller
 Women We Buried, Women We Burned: A Memoir By Rachel Louise Snyder
+Women Who Work: Rewriting The Rules For Success By Ivanka Trump
 Women With Men By Richard Ford
 Wonder Boys By Michael Chabon
 Wonderful Life: The Burgess Shale And The Nature Of History By Stephen Jay Gould
