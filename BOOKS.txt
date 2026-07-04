@@ -149,6 +149,7 @@ Adua By Igiaba Scego
 Adult Drama: And Other Essays By Natalie Beach
 A Dutiful Daughter By Thomas Keneally (Read)
 Adventures In Letterpress By Brandon Mise
+Adventures Of Don Quixote By Argentina Palacios
 Adventures Of The Karaoke King By Harold Taw
 Adventures Of The Mind By Natalie Clifford Barney
 Adverbs By Daniel Handler
@@ -176,7 +177,9 @@ A Flag On The Island By Sir Vidiadhar Surajprasad Naipaul
 Africa Dances: A Book About West African Negroes By Geoffrey Gorer
 A Foray Into The Worlds Of Animals And Humans: With A Theory Of Meaning By Jakob Johann Von Uexkull
 Africa Dream By Eloise Greenfield
+African Folk Tales By Hugh Vernon - Jackson & Yuko Green
 African Game Trails: An Account Of The African Wanderings Of An American Hunter - Naturalist By Theodore Roosevelt
+African Myths And Folk Tales By Carter Godwin Woodson
 African Laghter: Four Visits To Zimbabwe By Doris Lessing
 Afrika My Music (1984) By Ezekial 'Es'kia' Mphahlele
 After Abel And Other Stories By Michal Lemberger
@@ -264,6 +267,7 @@ A Journey To The End Of The Millennium By Abraham B. Yehoshua
 "Akahata" No Rokujunen (JP) By Anonymous
 A King Alone By Jean Giono (Read)
 A Knight Of The Seven Kingdoms By George Raymond Richard Martin
+Aladdin And Other Favorite Arabian Nights Stories By Philip Smith
 A Land As God Made It: Jamestown And The Birth Of America By James Horn
 A Land Of Permanent Goodbyes By Atia Abawi (Read)
 A Land Without Jasmine By Wajdi Al - Ahdal
@@ -668,7 +672,8 @@ A Tale Of Love And Darkness By Amos Oz
 A Tale Of Three Wishes By Isaac Bashevis Singer
 A Tale Of Two Cities By Charles Dickens
 A Tale Of Two Gardens By Octavio Paz
-A Taste For Death (Adam Dalgliesh, #7) By P. D. James 
+A Taste For Death (Adam Dalgliesh, #7) By P. D. James
+A Taste For Poison: Eleven Deadly Molecules And The Killers Who Used Them By Neil Bradbury
 A Taste Of Death (Alex Rider, #2.25) By Anthony Horowitz
 A Tempest Of Tea (Blood And Tea, #1) By Hafsah Faizal
 A Testament Of Hope: The Essential Writings And Speeches By Martin Luther King Jr. & James Melvin Washington
@@ -847,6 +852,7 @@ Before I Say Good - Bye By Mary Higgins Clark
 Before She Met Me By Julian Barnes
 Before The Law By Franz Kafka
 Before The Throne By Nagiub Mahfouz
+Beggars Of Life By Jim Tully
 Beginning Right: How To Succeed By Nathaniel  C. Fowler Jr.
 Beginning With My Streets By Czesław Miłosz
 Behemoth: β-Max (Rifters, #3A) By Peter Watts
@@ -1109,6 +1115,7 @@ By The Line By Thomas Keneally
 By The North Gate By Joyce Carol Oates
 By The River Piedra I Sat Down And Wept By Paulo Coelho
 By The Sea By Abdulrazak Gurnah (Read)
+Cabbagetown By Hugh Garner
 Cahier D'Un Retour Au Pays Natal (FR) By Aimé Césaire
 Cain By José Saramago
 Cairo Modern By Naguib Mahfouz
@@ -1163,6 +1170,7 @@ Carrie Fisher: The Memoirs By Carrie Fisher
 Carrying Albert Home: The Somewhat True Story Of A Man, His Wife, And Her Alligator By Homer Hickam
 Case Histories: A Novel (Jackson Brodie, #1) By Kate Atkinson (Read)
 Cassandra And The Poetics Of Prophecy In Greek And Latin Literature By Emily Pillinger
+Cassandra At THe Wedding By Dorothy Baker
 Castaways By Brian Keene
 Castle Rackrent By Maria Edgeworth
 Catalina By Karla Cornejo Villavicencio
@@ -1231,6 +1239,7 @@ Chimere (1992) By Ifeoma Okoye
 China From The 1911 Revolution To Liberation By Lydia Davis
 China In Ten Words By Yu Hua
 China Men By Maxine Hong Kingston (Have)
+Chinese Fairy Tales By Frederick Herman Martens
 Chirundu (1970) By Ezekial 'Es'kia' Mphahlele
 Chlorine: A Novel By Jade Song
 Choke: What the Secrets Of The Brain Reveal About Getting It Right When You Have To By Sian Beilock
@@ -2416,7 +2425,7 @@ Green Eggs And Ham By Theodor Seuss Geisel
 Green Grass Of Wyoming By Mary O'Hara
 Green Henry By Gottfried Keller
 Green Island By Shawna Yang Ryan
-Greenwood: A Novel By Michael Christie
+Greenwood: A Novel By Michael Christie (Have) (Read)
 Gregor And The Code Of Claw (Underland Chronicles, #5) By Suzanne Collins (Have)
 Gregor And The Curse Of The Warmbloods (Underland Chronicles, #3) By Suzanne Collins (Have)
 Gregor And The Marks Of Secret (Underland Chroncles, #4) By Suzanne Collins (Have)
@@ -2469,6 +2478,7 @@ Harald, Claudia, And Their Son Duncan By Nadine Gordimer
 Haran De Mi Un Criminal (ES) By Javier Marias
 Harbour By John Ajvide Lindqvist
 Hard - Boiled Wonderland And The End Of The World By Haruki Murakami (Read)
+Hard Times: An Oral History Of The Great Depression By Studs Terkel
 Hard Times By Charles Dickens
 Harlequin And Columbine By Booth Tarkington
 Harold And The Purple Crayon By Crockett Johnson
@@ -2696,6 +2706,7 @@ How To Excavate A Heart By Jake Maia Arlow
 How To Get Filthy Rich In Rising Asia By Mohsin Hamid
 How To Get What You Want, Vol. 1 By Orison Swett Marden
 How To Kill A Monster (Goosebumps, #46) By Robert Lawrence Stine
+How To Live In The New America By Bill Kaysing
 How To Make Money: Three Lectures On "The Laws Of Financial Success" By Benjamin Fish Austin
 How To Raise An Adult: Break Free Of The Overparenting Trap And Prepare Your Kid For Success By Julie Lythcott - Haims
 How To Read A Book Mortimer Jerome Alder
@@ -2705,6 +2716,7 @@ How To Set A Fire And Why: A Novel By Jesse Ball
 How To Stop Time: A Novel By Matt Haig
 How To Win Friends & Influence People By Dale Carnegie (Have)
 How To Write An Autobiographical Novel By Alexander Chee
+H. R.: A Biography Of H. R. MacMillan By Ken Drushka
 Huai Bao Xian Hua Di Nu Ren (ZH) By Mo Yan
 Hui Chang Ge De Qiang (ZH) By Mo Yan
 HUGE: A Novel By Brent Butt
@@ -3138,6 +3150,7 @@ Kook: What Surfing Taught Me About Love, Life, And Catching The Perfect Wave By 
 Kopfgeburten Oder Die Deutschen Sterben Aus (DE) By Günter Grass
 Kultura Laži (RS) By Dubravka Ugrešić
 Kust Tuli Oo (ET) By Jaan Kaplinski
+Kwaidan: Stories And Studies Of Strange Things By Lafcadio Hearn
 Kyoko By Ryu Murakami
 L. A. Alka I Perła (PL) By Olga Tokarczuk
 La Belle Sauvage (The Book Of Dust, #1) By Philip Pullman
@@ -3224,6 +3237,7 @@ Last Ragged Breath (Bell Elkins, #4) By Julia Keller
 Las Tres Fechas / The Three Dates By César Aira
 Last Ride By Laura Landston (Read)
 Last Seen In Massilia (Roma Sub Rosa, #8) By Steven Saylor (Have)
+Last Stories And Other Stories By William Tanner Vollmann
 Las Vidas De Los Animales By John Maxwell Coetzee
 Late Essays: 2006 - 2017 By John Maxwell Coetzee
 Late Night In Montreal By Emily St. John Mandel
@@ -3320,6 +3334,7 @@ Let The Old Dreams Die By John Ajvide Lindqvist
 Let The Right One In By John Ajvide Lindqvist
 Letters From Russia By Astolpe De Custine
 Lettres Portugaises (FR) By Gabriel De Guilleragues (Have)
+Let Us Now Prase Famous Men By James Agee & Walker Evans
 Levels Of Life By Julian Barnes
 Leviathan By Thomas Hobbes (Have)
 Le Voyageur Sans Bagages Suivi De Le Bal Des Voleurs (FR) By Jean Anouilh (Have)
@@ -3360,6 +3375,8 @@ Life & Times Of Michael K By John Maxwell Coetzee
 Life Times: Stories, 1952 - 2007 By Nadine Gordimer
 Life To The Extreme: How A Chaotic Kid Became America's Favorite Carpenter By Travis Thrasher & Ty Pennington
 Lift: Wanting, Fearing, And Having A Face - Lift By Joan Kron (Have)
+Favorite Greek Myths By Bob Blaisedell
+Favorite Poems Of Childhood By Philip Smith
 Light Is Like Water By Gabriel García Márquez
 Light Lifting By Alexander Macleod (Have)
 Lightning By Dean Koontz
@@ -3618,6 +3635,7 @@ Mash: A Novel About Three Army Doctors By Richard Hooker
 Masha Regina By Vadim Levental
 Mason & Dixon By Thomas Pynchon
 Mass By Francisco Sionil José
+Master And Commander (Aubrey & Maturin, #1) By Patrick O'Brien
 Master Breasts: Objectified, Aesthetisized, Fantasized, Eroticized, Feminized by Photography's Most Titillating Masters . . . By Charles Simic, Dario Fo, Francine Prose & Karen Finley
 Master Slave Husband Wife: An Epic Journey From Slavery To Freedom By Ilyon Woo
 Masters Of Atlantis By Charles Portis
@@ -3820,6 +3838,7 @@ Mother Night By Kurt Vonnegut (Read)
 Mother: Poems By M. S. Redcherries
 Mothers And Other Strangers By Gina Sorell
 Mothers Of Sparta: A Memoir In Pieces By Dawn Davies
+Mother West Wind's Animal Friends By Thornton Waldo Burgess
 Mountain Boats By Wajdi Al - Ahdal
 Mountains In My Heart By Gerlinde Kaltenbrunner
 Mountain Time By Ivan Doig
@@ -4069,6 +4088,7 @@ Nonsense And Happiness: Poems By Peter Handke (Read)
 No One Can Pronounce My Name: A Novel By Rakesh Satyal
 No One Writes To The Colonel, And Other Stories By Gabriel García Márquez
 No Place Like: Selected Stories By Nadine Gordimer
+Norby, The Mixed - Up Robot By Issac Asimov & Janet Asimov
 Normal Accidents: Living With High - Risk Technologies By Charles Perrow
 Normal People: A Novel By Sally Rooney (Read)
 Norman Maclean: A Life Of Letters And Rivers By Rebecca McCarthy
@@ -4159,6 +4179,7 @@ Older Than Time: A Grandmother's Search For Wisdom By Allegra Taylor
 Old Floating Cloud By Can Xue
 Old God's Time By Sebastian Barry (Read)
 Old Man's War (Old Man's War, #1) By John Scalzi
+Old Mother West Wind By Thornton Waldo Burgess
 Old Yeller By Fred Gipson
 Olgas Haus (FR) By Lyudmila Ulitskaya
 Olvidon And Other Stories By Francisco Sionil José
@@ -4274,6 +4295,7 @@ Out Of The Devil's Mouth By Travis Thrasher
 Out Of The Dust By Karen Hesse
 Out Of The Howling Storm: The New Chinese Poetry: Poems by Bei Dao ... [Et Al.]
 Out Of The Shadow Of A giant: Hooke, Halley, And The Birth Of Science By John Gribbin & Mary Gribbin
+Out Of The Silent Planet By Clive Staples Lewis
 Out Stealing Horses By Per Petterson
 Out There Screaming: Stories By John Joseph Adams & Jordan Peel
 Out There: Stories By Kate Folk
@@ -4680,6 +4702,7 @@ Return To Horrorland (Goosebumps 2000, #13) By RObert Lawrence Stine
 Return To Painting By Gao Xingjian
 Return To The Dark Valley By Santiago
 Reunion: A Novel By Elise Juska
+Revelation Space By Alastair Reynolds
 Revelator By Daryl Gregory
 Revenge By Yōko Ogawa
 Revenge Of The Lawn Gnomes (Goosebumps, #34) By Robert Lawrence Stine
@@ -4697,6 +4720,7 @@ Rhyming Life And Death By Amos Oz
 Rich And Pretty By Rumaan Alam
 Riders Of The Purple Sage By Zane Grey
 Ride With Me, Mariah Montana By Ivan Doig
+Riding Toward Everywhere By William Tanner Vollmann
 Riding With Reindeer: A Bicycle Odyssey Through Finland Lapland, And Arctic Norway By Robert M. Goldstein
 Rifqa: Poems By Mohammed El - Kurd (Read)
 Right Text Wrong Number (Offsides, #1) By Natalie Decker
@@ -4726,6 +4750,7 @@ Robert B. Parker's The Devil Wins (Jesse Stone, #14) By Reed Farrel Coleman
 Robert B. Parker's The Hangman's Sonnet (Jesse Stone, #16) By Reed Farrel Coleman
 Robert E. Lee And Me: A Southerner's Reckoning With The Myth Of The Lost Cause By Ty Seidule
 Robert The Bruce: The Price Of The King's Peace By Nigel Tranter (Have)
+Robin Hood By Bob Blaisedell
 Robinson By Dame Muriel Spark
 Robinson Crusoe By Daniel Defoe (Have)
 Robopocalypse (Robopocalypse, #1) By Daniel H. Wilson (Read)
@@ -4740,6 +4765,7 @@ Rock, Paper, Scissors By Naja Marie Aidt
 Rock Springs By Richard Ford
 Rock With Wings (Leaphorn & Chee, #20) By Anne Hillerman
 Rogue Heroes: The History Of The SAS, Britain's Secret Special Forces Unit That Sabotaged The Nazis And Changed The Nature Of The War By Ben Macintyre
+Rogue Male By Geoffrey Household
 Roll Of Thunder, Hear Me Cry (Logans, #4) By Mildred DeLois Taylor (Have) (Read)
 Roman 1987 (NO) By Dag Solstad
 Romance Of The Three Kingdoms By Luo Guanzhong
@@ -4949,6 +4975,7 @@ Shantaram By Gregory David Roberts
 Shantytown By César Aira
 Shark Dialogues: A Novel By Kiana Davenport (Have)
 Shasekishū By Mujū & Tsunaya Watanabe
+She Comes First: The Thinking Man's Guide To Pleasuring A Woman (Kerner, #3) By Ian Kerner
 She Commands Me And I Obey (Imperial Radch, #0.6) By Ann Leckie
 She Has A Name By Kamilah Aisha Moon
 She Has No Place In Paradise By Nawal El Saadawi
@@ -5432,9 +5459,17 @@ The Adventures Of Amina Al - Sirafi By Shannon Chakraborty
 The Adventures Of A Photographer In La Plata By Adolfo Boiy Casares
 The Adventures Of Augie March By Saul Bellow
 The Adventures Of Baron Münchausen By Rudolf Erich Raspe
+The Adventures Of Bobby Raccoon By Thornton Waldo Burgess
+The Adventures Of Buster Bear By Thornton Waldo Burgess
+The Adventures Of Chatterer The Red Squirrel By Thornton Waldo Burgess
 The Adventures Of China Iron By Gabriela Cabezon Camara
+The Adventures Of Danny Meadow Mouse By Thornton Waldo Burgess
+The Adventures Of Grandfather Frog By Thornton Waldo Burgess
+The Adventures Of Happy Jack By Thornton Waldo Burgess
 The Adventures Of Huckleberry Finn By Mark Twain (Read) (Fav)
 The Adventures Of Oliver Twist By Charles Dickens
+The Adventures Of Peter Cottontail By Thorton Waldo Burgess
+The Adventures Of Reddy Fox By Thornton Waldo Burgess
 The Adventure's Of Tom Sawyer By Mark Twain (Read) 
 The Adventures Of Tulu The Monkey (1980) By Ifeoma Okoye
 The Address By Fiona Davis
@@ -6290,6 +6325,7 @@ The Great Abolitionist: Charles Sumner And The Fight For A More Perfect Union By
 The Great Alone: A Novel By Kristin Hannah
 The Great Black Jockeys: The Lives And Times Of The Men Who Dominated America's First National Sport By Edward Hotaling
 The Great Blue Yonder By Alex Shearer
+The Great Depression By Pierre Berton
 The Great Enigma By Tomas Tranströmer
 The Greatest Story Ever Told--So Far: Why Are We Here? By Lawrence Maxwell Krauss
 The Great Eurozone Disaster: From Crisis To Global New Deal By Keikki Patomaki (Have)
@@ -6360,6 +6396,7 @@ The Heroes, Or, Greek Fairy Tales For My Children By Charles Kingsley
 The Hidden (Animorphs, #39) By Katherine Applegate
 The Hidden Face Of Eve By Sawal El Saadawi
 The Hidden Life Of Dogs By Elizabeth Marshall Thomas
+The Hidden Life Of Trees: What They Feel, How They Communicate - Discoveries From Secret World (The Mysteries of Nature, #1) By Peter Wohlleben
 The Hidden Staircase (Nancy Drew Mystery Stories, #2) By Carolun Keene
 The Hiding Place By Corrie Ten Boom
 The High Mountains Of Portugal By Yann Martel
@@ -6404,6 +6441,7 @@ The Housemaid By Freida McFadden
 The Housemaid Is Watching By Freida McFadden
 The House Of Cloud By Fereshteh Molavi
 The House Of Doors: A Novel By Twan Eng Tan (Read) (Fav)
+The House Of Hunger By Dambudzo Marechera
 The House Of Mirth By Edith Wharton
 The House Of My Mother: A Daughter's Quest For Freedom By Shari Franke
 The House Of The Seven Gables By Nathaniel Hawthorne
@@ -6476,7 +6514,7 @@ The Invention Of Morel By Adolfo Bioy Casares (Read)
 The Invention Of Sound By Chuck Palahniuk
 The Investigation By Jung - Myung Lee
 The Invincible Iron Man: The Future By Matt Fraction & Salvador Larroca (Read)
-The Invisible Life Of Addie LaRue By Victoria Schwab
+The Invisible Life Of Addie LaRue By Victoria Elizabeth Schwab
 The Invisible Life Of Euridice Gusmao By Martha Batalha
 The Invisible Man By Herbert George Wells (Read)
 The Invisible Orientation: An Introduction To Asexuality By Julie Sondra Decker
@@ -6503,6 +6541,7 @@ The Jinn - Bot Of Shantiport By Samit Basu
 The Job OF The Wasp: A Novel By Colin Winnette
 The Joke By Milan Kundera
 The Joker Of Seville & O Babylon! By Derek Walcott
+The Journal Of Private Fraser, Canadian Expeditionary Force, 1914 - 18 By Donald Fraser
 The Journals Of Susanna Moodie By Margaret Atwood
 The Journey (Animorphs, #42) By Katherine Applegate
 The Journeyman Years: Culture, Society, Literature, And Art By Derek Walcott
@@ -6645,6 +6684,7 @@ The Lock - Up (St. John Stafford, #4) By John Baville
 The Lola Quartet By Emily St. John Mandel
 The Loneliness Of Sonia And Sunny: A Novel By Kiran Desai
 The Lonely Hearts Hotel: A Novel By Heather O'Neill
+The Lonesome Bodybuilder: Stories By Yukiko Motoya
 The Long Ago: A Novel By Michael McGarrity
 The Long Fall (The Memoirs Of Lady Trent, #6.5) By Marie Brennan
 The Long Goodbye (Philip Marlowe, #6) By Raymond Chandler
@@ -6716,6 +6756,7 @@ The Man Who Deciphered Linear B: The Story Of Michael Ventris By William Andrew 
 The Man Who Died Twice (Thursday Murder Club, #2) By Richard Osman
 The Man Who Forgot How To Poop By Genghis Swan
 The Man Who Killed The Deer By Frank Waters (Have)
+The Man Who Loved Children By Christina Stead
 The Man Who Planted Trees By Jean Giono (Have) (Read)
 The Man Who Saw Seconds By Alexander Boldizar
 The Man Who Spoke Snakish By Andrus Kivirähk (Read)
@@ -7096,6 +7137,7 @@ The Pyramid By William Golding
 The Quarter By Naguib Mahfouz
 The Queen Of Nothing (The Folk Of The Air, #3) By Holly Black
 The Quest Begins (Seekers #1) By Erin Hunter (Have)
+The Quest For Christa T. By Christa Wolf
 The Quest For Consciousness: A Neurobiological Approach By Christof Koch
 The Queue By Vladimir Sorokins
 The Quick & The Dead: A Novel By Jack Curtis (Have)
@@ -7129,6 +7171,7 @@ The Rebel Of Seventh Avenue By Annabelle Marx
 The Rebels Of Ireland (The Dublin Saga, #2) By Edward Rutherfurd
 The Recital (Orphan X, #8.5) By Gregg Andrew Hurwitz
 The Recognition of Sakuntala By Kalidasa
+The Recognitions By William Gaddis
 The Red And The Black By Stendhal
 The Red Badge Of Courage And Four Stories By Stepehen Crane (Have)
 The Red Collar By Colette Makray
@@ -7171,6 +7214,7 @@ The Return Of Tarzan (Tarzan, #2) By Edgar Rice Burroughs (Have)
 The Return Of The Caravels By António Lobo Antunes
 The Return Of The King (The Lord Of The Rings, #3) By John Ronald Reuel Tolkien (Have)
 The Return Of The Native By Thomas Hardy
+The Return Of The Soldier By Rebecca West
 The Reunion (Animorphs, #30) By Katherine Applegate
 The Revelation (Animorphs, #45) By Katherine Applegate
 The Revised Fundamentals Of Caregiving: A Novel By Jonathan Evison
@@ -7223,6 +7267,7 @@ The Russian Bride: A Thriller By Ed Kovacs
 The Sacrifice By Joyce Carol Oates
 The Sacrifice (Animorphs, #52) By Katherine Applegate
 The Safekeep: A Novel By Yael Van Der Wouden (Read)
+The Safety Net By Heinrich Böll
 The Saga Of Tanya The Evil 1: Deus Lo Vuit By Carlo Zen (Have)
 The Sailor From Gibraltar By Marguerite Duras
 The Saint Of Bright Doors By Vajra Chandrasekera (Read)
@@ -7379,6 +7424,7 @@ The Sorrows Of Young Werther And Novella By Johann Wolfgang Von Goethe (Read)
 The Sot - Weed Factor By John Barth
 The Soul Of A Bishop By Herbert George Wells
 The Soul Of An Octopus: A Surprising Into The Wonder Of Consciousness By Sy Montgomery
+The Soul Of A Tree: A Woodworker's Reflections By George Nakashima
 The Souls Of Black Folk By W. E. B. Du Bois
 The Sound And The Fury By William Faulkner
 The Sound Of Gravel: A Memoir By Ruth Wariner
@@ -7413,6 +7459,7 @@ The Starless Sea By Erin Mordenstern
 The Stars My Destination By Alfred Bester (Have)
 The Stillwater Girls By Minka Kent
 The Stoic (Theodore Of Desire, #3) By Theodore Dreiser
+The Stone Angel By Margaret Laurence
 The Stone - Country (1967) By Alex La Guma
 The Stone Raft By José Saramago
 The Stone Sky By Nora Keita Jemisin
@@ -7430,12 +7477,14 @@ The Story Of Edgar Sawtelle: A Novel By David Wroblewski
 The Story Of Gilgamesh By Yiyun Li
 The Story Of Hong Gildong By Unknown
 The Story Of King Arthur And His Knights By Howard Pyle (Read)
+The Story Of King Arthur By Tom Crawford
 The Story Of Little Babji By Helen Bannerman
 The Story Of Mats Israelson (Storycuts) By Julian Barnes
 The Story Of My Experiments With Truth By Mahatma Gandhi
 The Story Of San Michele By Axel Munthe
 The Story Of The Cannibal Woman By Maryse Condé
 The Story Of The Lost Child (The Neapolitan Novels, #4) By Elena Ferrante
+The Story Of The Nutcracker By Emst Theodor Amadeus Hoffmann
 The Story Of The Other Wise Man By Henry Van Dyke (Have)
 The Story Of Writing By William Andrew Coulthard Robinson
 The Storyteller By Dave Grohl
@@ -7496,6 +7545,7 @@ The Tale Of Genji By Murasaki Shikibu
 The Tale Of Peter Rabbit (Rabbit Ears) By Beatrux Potter
 The Tale Of The Heike By Anonymous
 The Tale Of The Unknown Island By José Saramago
+The Tartar Steppe By Dino Buzzati
 The Telltale Lilac Bush And Other West Virginia Ghost Tales By Ruth Ann Musick
 The Templars And The Assassins: The Militia Of Heaven By James Wasserman
 The Temple (Fast Fiction) By Gao Xingjian
@@ -7529,7 +7579,8 @@ The Third Reich In Power, 1933 - 1939 By Richard J. Evans
 The Third Victim (Quincy & Rainie, #2) By Lisa Gardner
 The Thorn In The Flesh By Robert Tillman Kendall
 The Threat (Animorphs, #21) By Katherine Applegate
-The Three - Arched Bridge BY Ismail Kadare
+The Three - Arched Bridge By Ismail Kadare
+The Three Billy Goats Gruff And Other Read - Aloud Stories By Carolyn Sherwin Bailey
 The Three - Body Problem (Remembrance Of Earth's Past, #1) By Liu Cixin (Read)
 The Three Lives Of Cate Kay By Kate Fagan
 The Three Way Tavern: Selected Poems By Ko Un (Read)
@@ -7557,6 +7608,7 @@ The Train By Dacia Maraini
 The Train To Crystal City: FDR's Secret Prisoner Exchange Program And America's Only Family Internment Camp During World War II By Jan Jarboe Russell
 The Traitor's Niche By Ismail Kadare
 The Transformation And Memoirs Of Carwin, The Biloquist / Wieland By Charles Brockden Brown
+The Transit Of Venus By Shirley Hazzard
 The Translator By Leila Aboulela
 The Transmigration Of Timothy Archer (VALIS Trilogy, #3) By Philip Kindred Dick
 The Traps Of Faith By Octavio Paz
@@ -7566,6 +7618,7 @@ The Travels Of Ibn Battuta By Ibn Battuta
 The Travels Of Jaimie McPheeters By Robert Lewis Taylor
 The Treasure Of Topo - El - Bampo By Scott O'Dell
 The Treatise Of Caresses By Doctor Leleu
+The Tree By John Fowles
 The Treeline: The Last Forest And The Future Of Life On Earth By Ben Rawlence
 The Trees: A Novel By Percival Everett (Read)
 The Trembling Of A Leaf: Little Stories Of The South Sea Islands By William Somerset Maugham
@@ -7674,6 +7727,7 @@ The War In The Air By Herbert George Wells
 The Warning (Animorphs, #16) By Katherine Applegate
 The War Of The End Of The World By Mario Vargas Llosa
 The War Of The Worlds By Herbert George Wells (Read)
+The Wars By Timothy Findley
 The War Within: A Secret White House History, 2006-2008 By Bob Woodward
 The Wasp Factory By Iain Banks
 The Wasteland, Prufrock And Other Poems By Thomas Stearns Eliot
@@ -7804,6 +7858,7 @@ The Worst Breakfast By China Miéville & Zak Smith
 The Worst Hard Time: The Untold Story Of Those Who Survived The Great American Dust Bowl By Timothy Egan
 The Wrath Of Dionysus: A Novel By Evdokia Nagrodskaia (Have)
 The Wrath Of Napolo By Steven Bernard Miles Chimombo
+The Wretched Of Canada: Letters To R. B. Bennett, 1930 - 1935 By Linda M. Grayson
 The Wretched Of The Earth By Frantz Fanon
 The Writer And The World: Essays By Sir Vidiadhar Surajprasad Naipaul
 The Writing Of The Gods: The Race To Decode The Rosetta Stone By Edward Dolnick
@@ -8032,6 +8087,7 @@ Travesia Del Horizonte (ES) By Javier Marías
 Travesti By Mircea Cărtărescu
 Treasure Island By Robert Louis Stevenson (Read)
 Treaty Justice: The Northwest Tribes, The Boldt Decision, And The Recognition Of Fishing Rights By Charles F. Wilkinson
+Tree: A Life Story By David Suzuki & Wayne Grady
 Tree By Francisco Sionil José
 Tree Of Life By Maryse Condé
 Tremor: Selected Poems By Adam Zagajewski
@@ -8112,6 +8168,7 @@ Un Amico Di Kafka (DE) By Isaac Bashevis Singer
 Una Novela China / A Chinese Novel By César Aira
 Unbroken: An Olympian's Journey From Airman To Castaway To Captive: Adapted For Young Adults By Laura Hillenbrand
 Uncanny Valley: A Memoir By Anna Wiener
+Unchopping A Tree By William Stanley Merwin
 Un Cirque Passe (FR) By Patrick Modiano
 Uncle Target By Gavin Lyall
 Uncle Tom's Cabin By Harriet Beecher Stowe
@@ -8213,6 +8270,7 @@ Vestiaire De L'Enfance (FR) By Patrick Modiano
 Viaje A La Alcarria (ES) By Camilo José Cela
 Viajero By Francisco Sionil José
 Vibora! By Francisco Sionil José
+Vicious By Victoria Elizabeth Schwab
 Vicious Circle (1983) By Alexander Kanengoni
 Victoire: My Mother's Mother By Maryse Condé
 Victorian London: The Tale Of A City 1840 - 1870 By Liza Picard
@@ -8307,6 +8365,7 @@ War And Turpentine By Stefan Hertmans
 War And War By László Krasznahorka
 War Bears By Margaret Atwood
 War Dances: Poems & Stories By Sherman Alexie (Read)
+Ward No. 6 And Other Stories By Anton Chekhov
 Warning To The Crocodiles By António Lobo Antunes
 War Of The Encyclopaedists By Christopher Robinson
 Warrior (Doppelganger, #1) By Marie Brennan
@@ -8611,6 +8670,7 @@ Wonderland By Joyce Carol Oates
 Wonderstruck: A Novel In Words And Pictures By Brian Selznick
 Wonder (The Book Of Marvella, #2) By Travis Thrasher
 Wonder Woman: Warbringer (DC Icons, #1) By Leigh Bardugo
+Woodsmen Of The West By Martin Allerdale Grainger
 Words Into Flesh By David Grossman
 Words Without Borders By Zaher Omareen
 Work: A Story Of Experience By Louisa May Alcott
@@ -8665,6 +8725,7 @@ You Can't Get Lost In Cape Town: Stories (1987) By Zoe Wicomb
 You Can't Go Home Again By Thomas Wolfe
 You Can't Scare Me! (Goosebumps, #15) By Robert Lawrence Stine
 You Can't Not Communicate: More Proven Communication Solutions That Power The Fortune 100 By David Grossman
+You Can't Win By Jack Black
 You'd Look Better As A Ghost: A Novel By Joanna Wallace
 You Dreamed Of Empires By Alvaro Enrigue
 You Made A Fool Of Death With Your Beauty By Akwaeke Emezi
